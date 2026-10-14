@@ -82,10 +82,13 @@ class OverlayService : Service() {
             y = 24
         }
 
-        // Pasek kontrolek: cofnięcie, skalowanie, minimalizacja, zamknięcie.
+        // Pasek kontrolek: cofnięcie, pełny ekran, minimalizacja, zamknięcie.
         val density = resources.displayMetrics.density
         var minimized = false
-        var scale = 1f
+        var fullscreen = false
+        // Geometria trybu okna — pełny ekran wraca dokładnie w to samo miejsce.
+        var savedX = 24
+        var savedY = 24
         val controls = LinearLayout(this).apply {
             orientation = LinearLayout.HORIZONTAL
             gravity = Gravity.END or Gravity.CENTER_VERTICAL
@@ -102,13 +105,11 @@ class OverlayService : Service() {
                 (18 * density).toInt(), (4 * density).toInt())
         }
         val btnBack = controlButton("◀", "Cofnij do panelu Hala")
-        val btnPlus = controlButton("＋", "Powiększ okno")
-        val btnMinus = controlButton("－", "Zmniejsz okno")
+        val btnFull = controlButton("⛶", "Pełny ekran albo okno")
         val btnMin = controlButton("—", "Minimalizuj okno Hala")
         val btnClose = controlButton("✕", "Zamknij okno Hala")
         controls.addView(btnBack)
-        controls.addView(btnPlus)
-        controls.addView(btnMinus)
+        controls.addView(btnFull)
         controls.addView(btnMin)
         controls.addView(btnClose)
 
@@ -120,15 +121,34 @@ class OverlayService : Service() {
                 ViewGroup.LayoutParams.MATCH_PARENT, 0, 1f))
         }
 
-        // Wymiary okna: skala (＋/－) i minimalizacja — jedna funkcja, zero rozjazdów.
+        // Wymiary okna: pełny ekran / okno / minimalizacja — jedna funkcja, zero rozjazdów.
+        // Tryb okna jest zawsze w całości na ekranie (clamp do wymiarów ekranu).
+        fun clampWin() {
+            val maxX = resources.displayMetrics.widthPixels - layoutParams.width
+            val maxY = resources.displayMetrics.heightPixels - layoutParams.height
+            savedX = savedX.coerceIn(0, maxOf(0, maxX))
+            savedY = savedY.coerceIn(0, maxOf(0, maxY))
+            layoutParams.x = savedX
+            layoutParams.y = savedY
+        }
         fun applySize() {
             webView?.visibility = if (minimized) View.GONE else View.VISIBLE
-            val w = if (minimized) (150 * density).toInt()
-                    else (340 * density * scale).toInt().coerceAtLeast((200 * density).toInt())
-            val h = if (minimized) (36 * density).toInt()
-                    else (480 * density * scale).toInt().coerceAtMost((1200 * density).toInt())
-            layoutParams.width = w
-            layoutParams.height = h
+            if (fullscreen) {
+                layoutParams.width = ViewGroup.LayoutParams.MATCH_PARENT
+                layoutParams.height = ViewGroup.LayoutParams.MATCH_PARENT
+                layoutParams.gravity = Gravity.TOP or Gravity.START
+                layoutParams.x = 0
+                layoutParams.y = 0
+                btnFull.text = "❐"
+            } else {
+                layoutParams.width = if (minimized) (150 * density).toInt()
+                                     else (340 * density).toInt()
+                layoutParams.height = if (minimized) (36 * density).toInt()
+                                      else (480 * density).toInt()
+                layoutParams.gravity = Gravity.TOP or Gravity.END
+                clampWin()
+                btnFull.text = "⛶"
+            }
             wm.updateViewLayout(container, layoutParams)
         }
         btnBack.setOnClickListener {
@@ -142,8 +162,12 @@ class OverlayService : Service() {
                            else "file:///android_asset/panel/panel.html")
             }
         }
-        btnPlus.setOnClickListener { scale = (scale * 1.2f).coerceAtMost(2.5f); applySize() }
-        btnMinus.setOnClickListener { scale = (scale / 1.2f).coerceAtLeast(0.6f); applySize() }
+        btnFull.setOnClickListener {
+            if (!fullscreen) { savedX = layoutParams.x; savedY = layoutParams.y }
+            fullscreen = !fullscreen
+            minimized = false
+            applySize()
+        }
         btnMin.setOnClickListener { minimized = !minimized; applySize() }
         btnClose.setOnClickListener { stopSelf() }
 
@@ -167,9 +191,11 @@ class OverlayService : Service() {
                     val dx = event.rawX - downX
                     val dy = event.rawY - downY
                     if (abs(dx) > 8 || abs(dy) > 8) dragging = true
-                    if (dragging) {
-                        layoutParams.x = startParamX - dx.toInt()
-                        layoutParams.y = startParamY + dy.toInt()
+                    // Na pełnym ekranie przeciąganie nic nie robi.
+                    if (dragging && !fullscreen) {
+                        savedX = startParamX - dx.toInt()
+                        savedY = startParamY + dy.toInt()
+                        clampWin()
                         wm.updateViewLayout(container, layoutParams)
                     }
                     dragging
