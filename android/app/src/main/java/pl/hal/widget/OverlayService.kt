@@ -14,6 +14,7 @@ import android.view.MotionEvent
 import android.view.View
 import android.view.ViewGroup
 import android.view.WindowManager
+import android.webkit.WebChromeClient
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.LinearLayout
@@ -33,6 +34,9 @@ class OverlayService : Service() {
     private var webView: WebView? = null
     private lateinit var layoutParams: WindowManager.LayoutParams
     private var screenReceiver: ScreenReceiver? = null
+    // Widok pełnoekranowego wideo (YouTube) + callback wyjścia z pełnego ekranu.
+    private var customView: View? = null
+    private var customCallback: WebChromeClient.CustomViewCallback? = null
 
     override fun onBind(intent: Intent?): IBinder? = null
 
@@ -54,6 +58,23 @@ class OverlayService : Service() {
             settings.allowFileAccessFromFileURLs = true
             settings.allowUniversalAccessFromFileURLs = true
             webViewClient = WebViewClient()
+            // Pełny ekran wideo (YouTube itd.): bez WebChromeClient przeglądarka
+            // nie dostaje onShowCustomView i przycisk pełnego ekranu nie działa.
+            webChromeClient = object : WebChromeClient() {
+                override fun onShowCustomView(view: View, callback: CustomViewCallback) {
+                    if (customView != null) { callback.onCustomViewHidden(); return }
+                    customView = view
+                    customCallback = callback
+                    windowContainer?.visibility = View.GONE
+                    wm.addView(view, WindowManager.LayoutParams(
+                        WindowManager.LayoutParams.MATCH_PARENT,
+                        WindowManager.LayoutParams.MATCH_PARENT,
+                        WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY,
+                        WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+                        PixelFormat.TRANSLUCENT))
+                }
+                override fun onHideCustomView() { exitFullscreen() }
+            }
             setBackgroundColor(0xFF070B14.toInt())
             // Domyślnie wbudowany panel z APK; URL z konfiguracji go nadpisuje.
             // Prefiks "data:" = wbudowany panel + dane z podanego URL (?src=),
@@ -153,6 +174,8 @@ class OverlayService : Service() {
         }
         btnBack.setOnClickListener {
             val wv = webView ?: return@setOnClickListener
+            // Wideo na pełnym ekranie → najpierw wychodzimy z pełnego ekranu.
+            if (customView != null) { exitFullscreen(); return@setOnClickListener }
             // Artykuł otwarty w WebView → cofamy; panel jest "rootem" historii,
             // więc to zawsze wraca do głównego okna. Gdy historii brak — ładujemy panel od nowa.
             if (wv.canGoBack()) wv.goBack()
@@ -226,6 +249,15 @@ class OverlayService : Service() {
         startForeground(1, notification)
     }
 
+    /** Wyjście z pełnoekranowego wideo (Chrome client albo przycisk wstecz). */
+    fun exitFullscreen() {
+        customView?.let { try { wm.removeView(it) } catch (_: Exception) {} }
+        customView = null
+        windowContainer?.visibility = View.VISIBLE
+        customCallback?.onCustomViewHidden()
+        customCallback = null
+    }
+
     /** Wołane z ScreenReceiver przy ACTION_SCREEN_OFF. */
     fun pauseWebView() {
         webView?.onPause()
@@ -240,6 +272,8 @@ class OverlayService : Service() {
     }
 
     override fun onDestroy() {
+        customView?.let { try { wm.removeView(it) } catch (_: Exception) {} }
+        customView = null
         screenReceiver?.let { unregisterReceiver(it) }
         screenReceiver = null
         webView?.destroy()

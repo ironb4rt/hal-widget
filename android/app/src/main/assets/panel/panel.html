@@ -170,22 +170,6 @@
   #news .time{color:var(--ink-faint);font-size:10px;flex:0 0 auto;
     font-variant-numeric:tabular-nums}
 
-  #chat-log{display:flex;flex-direction:column;gap:5px;max-height:180px;overflow-y:auto}
-  #chat-log .msg{max-width:86%;padding:6px 10px;border-radius:12px;font-size:12.5px;line-height:1.4}
-  #chat-log .msg.hal{align-self:flex-start;background:rgba(125,211,252,.14);
-    border:1px solid rgba(125,211,252,.25)}
-  #chat-log .msg.me{align-self:flex-end;background:rgba(255,255,255,.10);
-    border:1px solid rgba(255,255,255,.14)}
-  #chat-log .msg.none{align-self:center;background:none;border:0;color:var(--ink-faint);
-    font-size:11px;padding:2px}
-  #chat-row{display:flex;gap:6px;margin-top:8px}
-  #chat-in{flex:1;min-width:0;background:rgba(255,255,255,.06);
-    border:1px solid var(--line);border-radius:10px;padding:8px 11px;color:var(--ink);
-    font:inherit;font-size:13px;outline:none}
-  #chat-in:focus{border-color:rgba(125,211,252,.5)}
-  #chat-send{flex:0 0 auto;border:1px solid rgba(125,211,252,.35);border-radius:10px;
-    background:rgba(125,211,252,.14);color:var(--accent);padding:6px 13px;font-size:14px}
-
   .spacer{flex:1}
   footer{display:flex;justify-content:space-between;align-items:center;
     font-size:10px;color:var(--ink-faint);padding:0 2px}
@@ -293,15 +277,6 @@
     <div id="news"></div>
   </div>
 
-  <div class="card">
-    <h2>Czat z Halem <span class="asof" id="chat-asof"></span></h2>
-    <div id="chat-log"></div>
-    <div id="chat-row">
-      <input id="chat-in" type="text" placeholder="Napisz do Hala…" autocomplete="off">
-      <button id="chat-send" aria-label="Wyślij">➤</button>
-    </div>
-  </div>
-
   <div class="spacer"></div>
 
   <footer>
@@ -373,62 +348,6 @@ function renderCommodities(m){
 }
 
 function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
-
-/* ================= czat z Halem =================
-   Transport (etap 3 KONTRAKTU) jest odłączany od UI: wiadomości pisane
-   bez podłączenia czekają w outbox (localStorage) i lecą automatycznie,
-   gdy tylko pojawi się kanał (?chat=<URL> lub chat.send_url w danych).
-   Odpowiedzi Hala przychodzą sekcją "chat.messages" w panel_data.json. */
-var chatQueue=[];
-try{chatQueue=JSON.parse(localStorage.getItem("hal-chat-out")||"[]");}catch(e){chatQueue=[];}
-var chatSeen="";
-try{chatSeen=localStorage.getItem("hal-chat-seen")||"";}catch(e){}
-
-var CHAT_URL=new URLSearchParams(location.search).get("chat");
-
-function chatFlush(){
-  if(!CHAT_URL||!chatQueue.length)return;
-  const msg=chatQueue[0];
-  fetch(CHAT_URL,{method:"POST",headers:{"Content-Type":"application/json"},
-    body:JSON.stringify(msg)})
-    .then(function(r){if(!r.ok)throw new Error("HTTP "+r.status);
-      chatQueue.shift();
-      try{localStorage.setItem("hal-chat-out",JSON.stringify(chatQueue));}catch(e){}
-      if(chatQueue.length)chatFlush();
-    }).catch(function(){});
-}
-function renderChat(d){
-  const log=document.getElementById("chat-log");
-  const c=d.chat||{};
-  if(c.send_url&&!CHAT_URL)CHAT_URL=c.send_url;
-  const msgs=c.messages||[];
-  const last=msgs.length?msgs[msgs.length-1]:null;
-  if(last&&last.id&&last.id!==chatSeen){
-    if(last.from==="hal")autoMood("message");
-    chatSeen=last.id;
-    try{localStorage.setItem("hal-chat-seen",chatSeen);}catch(e){}
-  }
-  log.innerHTML=msgs.length
-    ? msgs.map(function(m){return '<div class="msg '+esc(m.from||"hal")+'">'+esc(m.text)+"</div>";}).join("")
-    : (chatQueue.length
-      ? '<div class="msg none">Twoje wiadomości czekają na podłączenie kanału — wyślą się same</div>'
-      : '<div class="msg none">czat pusty — napisz coś</div>');
-  if(c.note)document.getElementById("chat-asof").textContent=c.note;
-}
-function chatSend(){
-  const inp=document.getElementById("chat-in");
-  const t=(inp.value||"").trim();
-  if(!t)return;
-  chatQueue.push({text:t,ts:new Date().toISOString(),from:"me"});
-  try{localStorage.setItem("hal-chat-out",JSON.stringify(chatQueue));}catch(e){}
-  inp.value="";
-  renderChat({});
-  chatFlush();
-}
-document.getElementById("chat-send").addEventListener("click",chatSend);
-document.getElementById("chat-in").addEventListener("keydown",function(e){
-  if(e.key==="Enter")chatSend();
-});
 
 /* ================= wiadomości ================= */
 function newsTime(s){
@@ -573,7 +492,7 @@ function paint(){
   ["weather","crypto","fx"].forEach(function(k){
     if(liveOver[k])d[k]=liveOver[k];
   });
-  renderWeather(d.weather);renderCommodities(d.commodities);renderNews(d);renderChat(d);
+  renderWeather(d.weather);renderCommodities(d.commodities);renderNews(d);
   paintSky(d.weather);
   const stale=["weather","crypto","commodities","fx"].some(function(k){
     return d[k]&&d[k].stale;});
