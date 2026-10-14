@@ -1,0 +1,226 @@
+{
+  "generated": "2026-10-14T18:20:10+00:00",
+  "weather": {
+    "ok": true,
+    "city": "Bielsko-Biała",
+    "temp": 11.6,
+    "feels": 9.4,
+    "code": 3,
+    "wind": 10.8,
+    "humidity": 76,
+    "is_day": false,
+    "tmax": 13.1,
+    "tmin": 6.6,
+    "forecast": [
+      {
+        "date": "2026-10-14",
+        "max": 13.1,
+        "min": 6.6,
+        "code": 51
+      },
+      {
+        "date": "2026-10-15",
+        "max": 13.2,
+        "min": 8.8,
+        "code": 3
+      },
+      {
+        "date": "2026-10-16",
+        "max": 15.1,
+        "min": 7.9,
+        "code": 3
+      }
+    ],
+    "observed": "2026-10-14T20:15",
+    "stale": false
+  },
+  "crypto": {
+    "ok": true,
+    "coins": [
+      {
+        "sym": "BTC",
+        "usd": 81551,
+        "pln": 319796,
+        "chg24": -1.87
+      },
+      {
+        "sym": "ETH",
+        "usd": 2425.88,
+        "pln": 9512.94,
+        "chg24": -3.12
+      }
+    ],
+    "stale": false
+  },
+  "commodities": {
+    "ok": true,
+    "items": [
+      {
+        "sym": "SI=F",
+        "name": "Srebro",
+        "unit": "USD/oz",
+        "value": 55.705,
+        "chg": -5.84,
+        "as_of": "14.10 18:10"
+      },
+      {
+        "sym": "HG=F",
+        "name": "Miedź",
+        "unit": "USD/lb",
+        "value": 6.635,
+        "chg": -0.64,
+        "as_of": "14.10 18:10"
+      },
+      {
+        "sym": "ALI=F",
+        "name": "Aluminium",
+        "unit": "USD/lb",
+        "value": 1.3903,
+        "chg": -2.01,
+        "as_of": "14.10 18:01"
+      },
+      {
+        "sym": "HRC",
+        "name": "Stal HRC US",
+        "unit": "USD/lb",
+        "value": 0.5992,
+        "chg": 0.23,
+        "as_of": "13.10",
+        "note": "pomiar dzienny 08:00"
+      }
+    ],
+    "updated": "14.10 18:10",
+    "stale": false
+  },
+  "fx": {
+    "ok": true,
+    "date": "2026-10-14",
+    "usdpln": 3.8998,
+    "usdeur": 0.89326,
+    "stale": false
+  },
+  "news": {
+    "ok": true,
+    "market": [
+      {
+        "title": "Equinox gold output jumps 34% after Orla merger",
+        "url": "https://www.mining.com/equinox-gold-output-jumps-34-after-orla-merger/",
+        "date": "Wed, 14 Oct 2026 17:06:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table",
+        "url": "https://www.mining.com/copper-price-forecasts-lifted-for-2026-but-tariff-collapse-still-on-the-table/",
+        "date": "Wed, 14 Oct 2026 16:31:08 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Former Rio Tinto, Anglo American executive named ICMM’s first woman CEO",
+        "url": "https://www.mining.com/former-rio-tinto-anglo-american-executive-named-icmms-first-woman-ceo/",
+        "date": "Wed, 14 Oct 2026 15:02:54 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Gold miners’ earnings surge but valuations lag: Sprott",
+        "url": "https://www.mining.com/gold-miners-earnings-surge-but-valuations-lag-sprott/",
+        "date": "Wed, 14 Oct 2026 14:42:18 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Global copper surplus to more than triple by 2027: ICSG",
+        "url": "https://www.mining.com/global-copper-surplus-to-more-than-triple-by-2027-icsg/",
+        "date": "Wed, 14 Oct 2026 14:26:34 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Deep-sea mining faces surprise risk of rocks catching fire",
+        "url": "https://www.mining.com/deep-sea-mining-faces-surprise-risk-of-rocks-catching-fire/",
+        "date": "Wed, 14 Oct 2026 12:01:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "BHP averts strike at world’s biggest copper mine",
+        "url": "https://www.mining.com/bhp-averts-strike-at-worlds-biggest-copper-mine-2/",
+        "date": "Wed, 14 Oct 2026 10:56:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Rinehart-backed Arafura expands US rare earths deal by 70%",
+        "url": "https://www.mining.com/rinehart-backed-arafura-expands-us-rare-earths-deal-by-70/",
+        "date": "Wed, 14 Oct 2026 10:44:00 +0000",
+        "src": "Mining.com"
+      }
+    ],
+    "local": [
+      {
+        "title": "Fundacja Perspektywy ustanawia partnerstwo ze Stellantis na realizację projektu `Girls, itand#039;s time for tech`",
+        "url": "https://bielsko-wiadomosci.pl/2025/03/10/fundacja-perspektywy-ustanawia-partnerstwo-ze-stellantis-na-realizacje-projektu-girls-itand039s-time-for-tech/",
+        "date": "Mon, 10 Mar 2025 12:30:25 +0000",
+        "src": "BW"
+      },
+      {
+        "title": "IJHARS: kontrola w hipermarketach wykryła nieprawidłowości w co dziesiątej partii wieprzowiny",
+        "url": "https://bielsko-wiadomosci.pl/2025/03/05/ijhars-kontrola-w-hipermarketach-wykryla-nieprawidlowosci-w-co-dziesiatej-partii-wieprzowiny/",
+        "date": "Wed, 05 Mar 2025 12:30:05 +0000",
+        "src": "BW"
+      },
+      {
+        "title": "Na wiosnę krótsze podróże z PKP Intercity",
+        "url": "https://bielsko-wiadomosci.pl/2025/02/27/na-wiosne-krotsze-podroze-z-pkp-intercity/",
+        "date": "Thu, 27 Feb 2025 10:30:15 +0000",
+        "src": "BW"
+      },
+      {
+        "title": "MS: Podwyżki wynagrodzeń w sądach powszechnych (komunikat)",
+        "url": "https://bielsko-wiadomosci.pl/2025/02/18/ms-podwyzki-wynagrodzen-w-sadach-powszechnych-komunikat/",
+        "date": "Tue, 18 Feb 2025 09:30:40 +0000",
+        "src": "BW"
+      },
+      {
+        "title": "Liderzy w medialnym wsparciu zdrowia publicznego – czyli najlepsi dziennikarze medyczni",
+        "url": "https://bielsko-wiadomosci.pl/2025/01/27/liderzy-w-medialnym-wsparciu-zdrowia-publicznego-czyli-najlepsi-dziennikarze-medyczni/",
+        "date": "Mon, 27 Jan 2025 13:30:50 +0000",
+        "src": "BW"
+      },
+      {
+        "title": "Przedstawiciele samorządów: Rozszerzona Odpowiedzialność Producenta uchroni Polaków przed wysokimi kosztami systemu odpadowego",
+        "url": "https://bielsko-wiadomosci.pl/2025/01/22/przedstawiciele-samorzadow-rozszerzona-odpowiedzialnosc-producenta-uchroni-polakow-przed-wysokimi-kosztami-systemu-odpadowego/",
+        "date": "Wed, 22 Jan 2025 10:30:49 +0000",
+        "src": "BW"
+      }
+    ],
+    "roads": [
+      {
+        "title": "Gorący tematKolizja Chevroleta Corvetty, Porche i Fiata na DK-81 w Pawłowicach - film z momentem zderzenia",
+        "url": "/informacje/20996-kolizja-chevroleta-corvetty-porche-i-fiata-na-dk-81-w-pawlowicach-film-z-momentem-zderzenia",
+        "date": ""
+      },
+      {
+        "title": "Gorący temat[FOTO] Pijany kierowca, który potrącił 11-latka dostał dozór. Prokuratura ujawnia kulisy wypadku",
+        "url": "/informacje/20994-foto-pijany-kierowca-ktory-potracil-11-latka-dostal-dozor-prokuratura-ujawnia-kulisy-wypadku",
+        "date": ""
+      },
+      {
+        "title": "Trzy promile i dwa zakazy prowadzenia. Kolejny potencjalny zabójca na terenie miasta",
+        "url": "/informacje/20997-trzy-promile-i-dwa-zakazy-prowadzenia-kolejny-potencjalny-zabojca-na-terenie-miasta",
+        "date": ""
+      },
+      {
+        "title": "Uczniowie przechodzą przez ruchliwą ulicę. Padły konkretne propozycje zmian",
+        "url": "/informacje/20984-uczniowie-przechodza-przez-ruchliwa-ulice-padly-konkretne-propozycje-zmian",
+        "date": ""
+      },
+      {
+        "title": "Zderzenie na S-1 w Dankowicach. Młoda kobieta za kierownicą BMW. W tle m.in. narkotyki",
+        "url": "/informacje/20991-zderzenie-na-s-1-w-dankowicach-mloda-kobieta-za-kierownica-bmw-w-tle-m-in-narkotyki",
+        "date": ""
+      },
+      {
+        "title": "Gorący temat[FOTO] Nocny pożar w Szczyrku. Dach w ogniu, strop się zawalił, 11 zastępów straży w akcji",
+        "url": "/informacje/20990-foto-nocny-pozar-w-szczyrku-dach-w-ogniu-strop-sie-zawalil-11-zastepow-strazy-w-akcji",
+        "date": ""
+      }
+    ],
+    "stale": false
+  }
+}

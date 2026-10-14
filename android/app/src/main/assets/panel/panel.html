@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="dark light">
+<title>Hal — panel</title>
+<style>
+  :root{
+    --bg-0:#070b14; --ink:#eef2fb; --ink-dim:#9aa7c2; --ink-faint:#61708f;
+    --line:rgba(255,255,255,.10); --line-soft:rgba(255,255,255,.055);
+    --card:rgba(255,255,255,.045); --up:#4ade80; --down:#f87171; --accent:#7dd3fc;
+    --radius:16px; --pad:14px;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0;height:100%;background:var(--bg-0);color:var(--ink);
+    font:400 14px/1.45 -apple-system,"Segoe UI",Roboto,system-ui,sans-serif;
+    overflow-x:hidden;overflow-y:auto;overscroll-behavior:none}
+
+  #sky{position:fixed;inset:0;z-index:0;transition:background 1.2s ease;
+    background:linear-gradient(170deg,#0b1220 0%,#131c31 55%,#0a0f1a 100%)}
+  #sky .glow{position:absolute;border-radius:50%;filter:blur(46px);opacity:.55;
+    transition:opacity 1.2s ease,background 1.2s ease}
+  #sky .sun{width:260px;height:260px;top:-70px;right:-60px;
+    background:radial-gradient(circle,#ffd479,#ff9d3d 55%,transparent 72%)}
+  #sky .moon{width:200px;height:200px;top:-60px;right:-40px;
+    background:radial-gradient(circle,#dbe6ff,#8ea6d8 55%,transparent 72%);opacity:0}
+  #sky .rain{position:absolute;inset:0;opacity:0;transition:opacity 1.2s ease;
+    background-image:repeating-linear-gradient(102deg,rgba(255,255,255,.16) 0 1px,transparent 1px 7px)}
+  #sky .fog{position:absolute;inset:0;opacity:0;transition:opacity 1.2s ease;
+    background:linear-gradient(180deg,rgba(255,255,255,.16),rgba(255,255,255,.05))}
+  #grain{position:fixed;inset:0;z-index:1;pointer-events:none;
+    background:radial-gradient(120% 80% at 50% 0%,rgba(255,255,255,.05),transparent 60%),
+      linear-gradient(180deg,rgba(0,0,0,0) 40%,rgba(0,0,0,.42) 100%)}
+
+  #app{position:relative;z-index:2;height:100%;display:flex;flex-direction:column;
+    padding:var(--pad);gap:10px;transition:opacity .9s ease,filter .9s ease;
+    overflow-y:auto}
+  #app.dim{opacity:.38;filter:saturate(.55) blur(.4px)}
+
+  header{display:flex;align-items:center;gap:10px;padding:2px 2px 0}
+
+  /* ============ HAL FACE — hełm (referencja Barta, 14.10) ============ */
+  #hal{width:58px;height:58px;flex:0 0 58px;cursor:pointer;position:relative;z-index:5;
+    filter:drop-shadow(0 4px 10px rgba(0,0,0,.55));transition:filter .7s ease}
+  #hal svg{width:100%;height:100%;display:block;overflow:visible}
+  #hal .helmet{fill:url(#gHelmet);stroke:#4a1507;stroke-width:2.6}
+  #hal .shine{fill:rgba(255,255,255,.32)}
+  #hal .screen{fill:url(#gScreen);stroke:#4a1507;stroke-width:2.2}
+  #hal .ear{fill:#241611;stroke:#4a1507;stroke-width:2.4}
+  #hal .lens{fill:url(#gLens);stroke:#4a1507;stroke-width:1.4}
+  #hal .glint{fill:rgba(255,255,255,.85)}
+  #hal .fx{stroke:#8fe9ff;fill:none;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;
+    filter:drop-shadow(0 0 2.5px rgba(130,230,255,.85))}
+  #hal .fx.fill{fill:#8fe9ff;stroke:none}
+
+  /* kolory nastroju: poświata, kropki, zzz, tag */
+  #hal.happy{--mood:#4ade80}
+  #hal.thinking{--mood:#a78bfa}
+  #hal.angry{--mood:#f87171}
+  #hal.sleepy{--mood:#64748b}
+  #hal.message{--mood:#38bdf8}
+  #hal.idle{--mood:#7dd3fc}
+
+  #hal .dot{fill:var(--mood,#7dd3fc);opacity:0;transition:opacity .3s ease}
+  #hal .zzz{fill:var(--mood,#9aa7c2);font:italic 600 9px system-ui;opacity:0}
+
+  #hal .eye-g{transform-box:fill-box;transform-origin:center;transition:transform .45s ease}
+  #hal .eye-b{transform-box:fill-box;transform-origin:center;animation:blink 5.5s infinite}
+
+  /* elementy twarzy domyślnie niewidoczne */
+  #hal .e-open,#hal .e-arc,#hal .e-wedge,#hal .e-line,
+  #hal .m-smile,#hal .m-grin,#hal .m-angry,#hal .m-think,#hal .m-flat,#hal .m-o{
+    opacity:0;transition:opacity .3s ease}
+
+  #hal.idle{animation:breathe 4.5s ease-in-out infinite}
+  #hal.idle .e-open{opacity:1}
+  #hal.idle .m-smile{opacity:1}
+
+  #hal.happy{animation:breathe 3.2s ease-in-out infinite}
+  #hal.happy .e-arc{opacity:1}
+  #hal.happy .m-grin{opacity:1}
+
+  #hal.thinking .e-open{opacity:1}
+  #hal.thinking .m-think{opacity:1}
+  #hal.thinking .eye-g{transform:translate(1.5px,-4px)}
+  #hal.thinking .dot{animation:dotseq 1.6s infinite}
+  #hal.thinking .dot:nth-of-type(2){animation-delay:.25s}
+  #hal.thinking .dot:nth-of-type(3){animation-delay:.5s}
+
+  #hal.angry{animation:shake 3s ease-in-out infinite}
+  #hal.angry .e-wedge{opacity:1}
+  #hal.angry .m-angry{opacity:1}
+
+  #hal.sleepy{animation:breathe 6s ease-in-out infinite}
+  #hal.sleepy .e-line{opacity:1}
+  #hal.sleepy .m-flat{opacity:1}
+  #hal.sleepy .eye-b{animation:none}
+  #hal.sleepy .zzz{opacity:1;animation:zzz 3.5s ease-in-out infinite}
+  #hal.sleepy .zzz:nth-of-type(2){animation-delay:1.2s}
+
+  #hal.message .e-open{opacity:1}
+  #hal.message .m-o{opacity:1;transform-box:fill-box;transform-origin:center;
+    animation:talk .5s ease-in-out infinite alternate}
+  #hal.message{animation:nudge .5s ease-out 2}
+
+  @keyframes blink{0%,91%,100%{transform:scaleY(1)}94%{transform:scaleY(.12)}97%{transform:scaleY(1)}}
+  @keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.045)}}
+  @keyframes nudge{0%{transform:translateY(0)}40%{transform:translateY(-4px)}100%{transform:translateY(0)}}
+  @keyframes talk{from{transform:scaleY(.4)}to{transform:scaleY(1.15)}}
+  @keyframes dotseq{0%,100%{opacity:0}30%{opacity:.95}}
+  @keyframes zzz{0%{opacity:0;transform:translate(0,0)}30%{opacity:.9}100%{opacity:0;transform:translate(6px,-9px)}}
+  @keyframes shake{0%,86%,100%{transform:translateX(0)}88%{transform:translateX(-1.6px)}90%{transform:translateX(1.6px)}92%{transform:translateX(-1px)}94%{transform:translateX(0)}}
+
+  /* big-face overlay: tap the face */
+  #veil{position:fixed;inset:0;z-index:1;background:rgba(3,6,12,.82);opacity:0;
+    pointer-events:none;transition:opacity .35s ease}
+  body.face-big #veil{opacity:1;pointer-events:auto}
+  body.face-big #hal{position:fixed;z-index:6;top:50%;left:50%;width:52vmin;height:52vmin;
+    margin:-26vmin 0 0 -26vmin;
+    filter:drop-shadow(0 6px 30px rgba(0,0,0,.7)) brightness(1.15)}
+  #face-cap{position:fixed;z-index:7;left:0;right:0;top:calc(50% + 29vmin);text-align:center;
+    font-size:13px;color:var(--ink-dim);opacity:0;transition:opacity .35s ease;pointer-events:none}
+  body.face-big #face-cap{opacity:1}
+  /* przyciemnienie reszty UI przy dużej twarzy (twarz jest w kontekście #app) */
+  .card,footer,#mode-tag,.title{transition:opacity .35s ease}
+  body.face-big .card,body.face-big footer,body.face-big #mode-tag,
+  body.face-big .title{opacity:.18;pointer-events:none}
+
+  .title{min-width:0;flex:1}
+  .title .hi{font-size:16px;font-weight:600;letter-spacing:.2px}
+  .title .sub{font-size:11.5px;color:var(--ink-dim);white-space:nowrap;
+    overflow:hidden;text-overflow:ellipsis}
+  #mode-tag{font-size:10px;letter-spacing:.09em;text-transform:uppercase;
+    border:1px solid rgba(125,211,252,.3);padding:3px 7px;border-radius:999px;white-space:nowrap;
+    color:var(--accent);transition:color .7s ease,border-color .7s ease}
+
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+    backdrop-filter:blur(14px) saturate(1.2);-webkit-backdrop-filter:blur(14px) saturate(1.2);
+    padding:11px 13px}
+  .card h2{margin:0 0 9px;font-size:10px;font-weight:600;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--ink-faint);display:flex;
+    justify-content:space-between;align-items:baseline;gap:8px}
+  .card h2 .asof{letter-spacing:0;text-transform:none;font-weight:400;font-size:10px}
+
+  #weather{display:flex;align-items:center;gap:12px}
+  #weather .temp{font-size:38px;font-weight:200;line-height:1;letter-spacing:-1.5px}
+  #weather .meta{font-size:11.5px;color:var(--ink-dim)}
+  #weather .meta b{color:var(--ink);font-weight:500}
+  #weather .icon{font-size:30px;line-height:1}
+
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:7px 14px}
+  .row{display:flex;align-items:baseline;justify-content:space-between;gap:8px;
+    padding:4px 0;border-bottom:1px solid var(--line-soft)}
+  .row:last-child{border-bottom:0}
+  .row .k{color:var(--ink-dim);font-size:12px}
+  .row .v{font-variant-numeric:tabular-nums;font-weight:500;font-size:13px}
+  .row .d{font-size:10.5px;margin-left:5px}
+  .up{color:var(--up)} .down{color:var(--down)}
+
+  #news .nrow{display:flex;gap:8px;align-items:baseline;padding:5px 0;
+    border-bottom:1px solid var(--line-soft);text-decoration:none;color:inherit}
+  #news .nrow:last-child{border-bottom:0}
+  #news .src{font-size:9px;letter-spacing:.06em;text-transform:uppercase;flex:0 0 auto;
+    border:1px solid rgba(125,211,252,.3);border-radius:999px;padding:1px 6px;color:var(--accent)}
+  #news .nrow.local .src{color:var(--up);border-color:rgba(74,222,128,.35)}
+  #news .nrow.roads .src{color:#fbbf24;border-color:rgba(251,191,36,.35)}
+  #news .t{flex:1;min-width:0;font-size:12.5px;line-height:1.35;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  #news .time{color:var(--ink-faint);font-size:10px;flex:0 0 auto;
+    font-variant-numeric:tabular-nums}
+
+  #chat-log{display:flex;flex-direction:column;gap:5px;max-height:180px;overflow-y:auto}
+  #chat-log .msg{max-width:86%;padding:6px 10px;border-radius:12px;font-size:12.5px;line-height:1.4}
+  #chat-log .msg.hal{align-self:flex-start;background:rgba(125,211,252,.14);
+    border:1px solid rgba(125,211,252,.25)}
+  #chat-log .msg.me{align-self:flex-end;background:rgba(255,255,255,.10);
+    border:1px solid rgba(255,255,255,.14)}
+  #chat-log .msg.none{align-self:center;background:none;border:0;color:var(--ink-faint);
+    font-size:11px;padding:2px}
+  #chat-row{display:flex;gap:6px;margin-top:8px}
+  #chat-in{flex:1;min-width:0;background:rgba(255,255,255,.06);
+    border:1px solid var(--line);border-radius:10px;padding:8px 11px;color:var(--ink);
+    font:inherit;font-size:13px;outline:none}
+  #chat-in:focus{border-color:rgba(125,211,252,.5)}
+  #chat-send{flex:0 0 auto;border:1px solid rgba(125,211,252,.35);border-radius:10px;
+    background:rgba(125,211,252,.14);color:var(--accent);padding:6px 13px;font-size:14px}
+
+  .spacer{flex:1}
+  footer{display:flex;justify-content:space-between;align-items:center;
+    font-size:10px;color:var(--ink-faint);padding:0 2px}
+  #stale{color:#fbbf24;display:none} #stale.on{display:inline}
+
+  @media (max-width:330px){
+    .grid{grid-template-columns:1fr}
+    #weather .temp{font-size:32px}
+  }
+</style>
+</head>
+<body>
+
+<div id="sky">
+  <div class="glow sun"></div>
+  <div class="glow moon"></div>
+  <div class="rain"></div>
+  <div class="fog"></div>
+</div>
+<div id="grain"></div>
+<div id="veil"></div>
+<div id="face-cap"></div>
+
+<div id="app">
+  <header>
+    <div id="hal" class="idle" title="Hal">
+      <svg viewBox="0 0 100 100" aria-label="Hal">
+        <defs>
+          <linearGradient id="gHelmet" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#f08a5a"/>
+            <stop offset="45%" stop-color="#d95f2e"/>
+            <stop offset="100%" stop-color="#a03a17"/>
+          </linearGradient>
+          <linearGradient id="gScreen" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#343a42"/>
+            <stop offset="100%" stop-color="#0f1216"/>
+          </linearGradient>
+          <radialGradient id="gLens" cx="38%" cy="35%" r="80%">
+            <stop offset="0%" stop-color="#c6f0ff"/>
+            <stop offset="60%" stop-color="#59c4ec"/>
+            <stop offset="100%" stop-color="#1e6f96"/>
+          </radialGradient>
+          <clipPath id="scrClip"><rect x="16" y="28" width="58" height="48" rx="14"/></clipPath>
+        </defs>
+        <!-- hełm -->
+        <rect class="helmet" x="8" y="18" width="76" height="68" rx="27"/>
+        <ellipse class="shine" cx="30" cy="27" rx="15" ry="6.5"/>
+        <!-- boczna lampa -->
+        <circle class="ear" cx="85" cy="52" r="12.5"/>
+        <circle class="lens" cx="85" cy="52" r="7"/>
+        <circle class="glint" cx="82.5" cy="49" r="2"/>
+        <!-- ekran + twarz -->
+        <rect class="screen" x="16" y="28" width="58" height="48" rx="14"/>
+        <g clip-path="url(#scrClip)">
+          <g class="eye-g">
+            <ellipse class="fx fill e-open eye-b" cx="33" cy="48" rx="4.6" ry="6.6"/>
+          </g>
+          <g class="eye-g">
+            <ellipse class="fx fill e-open eye-b" cx="57" cy="48" rx="4.6" ry="6.6"/>
+          </g>
+          <path class="fx e-arc" d="M26 50 Q33 41 40 50"/>
+          <path class="fx e-arc" d="M50 50 Q57 41 64 50"/>
+          <path class="fx fill e-wedge" d="M24 42 L42 51 L26 54 Z"/>
+          <path class="fx fill e-wedge" d="M66 42 L48 51 L64 54 Z"/>
+          <path class="fx e-line" d="M26 48 L40 48"/>
+          <path class="fx e-line" d="M50 48 L64 48"/>
+          <path class="fx m-smile" d="M34 63 Q44 71 54 63"/>
+          <path class="fx fill m-grin" d="M28 58 Q44 77 60 58 Q44 66 28 58 Z"/>
+          <path class="fx m-angry" d="M28 67 L36 61 L44 67 L52 61 L60 66"/>
+          <path class="fx m-think" d="M37 65 L51 65"/>
+          <path class="fx m-flat" d="M36 65 L52 65"/>
+          <circle class="fx m-o" cx="44" cy="66" r="4.4"/>
+        </g>
+        <!-- kropki myślenia + zzz -->
+        <circle class="dot" cx="26" cy="12" r="2.6"/>
+        <circle class="dot" cx="36" cy="8" r="2.6"/>
+        <circle class="dot" cx="46" cy="12" r="2.6"/>
+        <text class="zzz" x="56" y="16">z</text>
+        <text class="zzz" x="64" y="9" style="font-size:12px">z</text>
+      </svg>
+    </div>
+    <div class="title">
+      <div class="hi" id="greet">Dzień dobry</div>
+      <div class="sub" id="sub">wczytuję dane…</div>
+    </div>
+    <div id="mode-tag">spoczynek</div>
+  </header>
+
+  <div class="card">
+    <h2>Pogoda <span class="asof" id="w-asof"></span></h2>
+    <div id="weather">
+      <div class="icon" id="w-icon">–</div>
+      <div class="temp" id="w-temp">–</div>
+      <div class="meta" id="w-meta">–</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Surowce <span class="asof" id="m-asof"></span></h2>
+    <div class="grid" id="metals"></div>
+  </div>
+
+  <div class="card">
+    <h2>Wiadomości <span class="asof" id="n-asof">rynek · Bielsko · drogi</span></h2>
+    <div id="news"></div>
+  </div>
+
+  <div class="card">
+    <h2>Czat z Halem <span class="asof" id="chat-asof"></span></h2>
+    <div id="chat-log"></div>
+    <div id="chat-row">
+      <input id="chat-in" type="text" placeholder="Napisz do Hala…" autocomplete="off">
+      <button id="chat-send" aria-label="Wyślij">➤</button>
+    </div>
+  </div>
+
+  <div class="spacer"></div>
+
+  <footer>
+    <span>Hal · <span id="f-gen">–</span></span>
+    <span id="stale">⚠ dane częściowo nieświeże</span>
+  </footer>
+</div>
+
+<script>
+/* Hal panel — etap 2: twarz.
+   Czyta panel_data.json z tego samego katalogu. Zero zależności zewnętrznych.
+   Stany twarzy: idle, happy, thinking, angry, sleepy, message.
+   Automatyka: błąd fetch lub świeżość danych -> angry; wszystko ok -> happy;
+   2 min bez dotyku -> sleepy; doładowanie -> thinking.
+   Dotknięcie twarzy = duży widok. ?mode=<stan> wymusza stan (testy). */
+
+const WMO={0:["Bezchmurnie","☀️"],1:["Głównie bezchmurnie","🌤️"],2:["Częściowe chmury","⛅"],
+3:["Zachmurzone","☁️"],45:["Mgła","🌫️"],48:["Mgła osadzająca","🌫️"],51:["Mżawka słaba","🌦️"],
+53:["Mżawka","🌦️"],55:["Mżawka gęsta","🌦️"],61:["Deszcz słaby","🌧️"],63:["Deszcz","🌧️"],
+65:["Deszcz silny","🌧️"],71:["Śnieg słaby","🌨️"],73:["Śnieg","🌨️"],75:["Śnieg silny","🌨️"],
+80:["Przelotny deszcz","🌦️"],81:["Przelotny deszcz","🌧️"],82:["Ulewa","⛈️"],95:["Burza","⛈️"],
+96:["Burza z gradem","⛈️"],99:["Burza z gradem","⛈️"]};
+const wmo=c=>WMO[c]||["–","•"];
+const fmt=(n,d=0)=>n==null?"–":Number(n).toLocaleString("pl-PL",
+  {minimumFractionDigits:d,maximumFractionDigits:d});
+
+function paintSky(w){
+  const sky=document.getElementById("sky"),sun=sky.querySelector(".sun"),
+    moon=sky.querySelector(".moon"),rain=sky.querySelector(".rain"),fog=sky.querySelector(".fog");
+  const code=w?w.code:0, day=!(w&&w.is_day===false);
+  let bg;
+  if(!day) bg="linear-gradient(170deg,#05080f 0%,#0a1220 55%,#05080f 100%)";
+  else if(code<=1) bg="linear-gradient(170deg,#0b1a33 0%,#143055 45%,#0a1425 100%)";
+  else if(code<=3) bg="linear-gradient(170deg,#0d1424 0%,#1a2438 55%,#0a0f1a 100%)";
+  else if(code<=55) bg="linear-gradient(170deg,#101724 0%,#232a38 55%,#0c111b 100%)";
+  else bg="linear-gradient(170deg,#0a0f1a 0%,#1b2230 55%,#080c14 100%)";
+  sky.style.background=bg;
+  sun.style.opacity=(day&&code<=2)?.6:0;
+  moon.style.opacity=day?0:.5;
+  rain.style.opacity=((code>=51&&code<71)||code>=80)?.35:0;
+  fog.style.opacity=(code===45||code===48)?.3:0;
+}
+
+function renderWeather(w){
+  if(!w||w.temp==null){document.getElementById("w-temp").textContent="–";return;}
+  const t=wmo(w.code);
+  document.getElementById("w-icon").textContent=t[1];
+  document.getElementById("w-temp").textContent=fmt(w.temp,1)+"°";
+  document.getElementById("w-meta").innerHTML=
+    t[0]+"<br><b>"+fmt(w.tmin,1)+"° / "+fmt(w.tmax,1)+"°</b> · wiatr "+fmt(w.wind)+" km/h"+
+    (w.humidity!=null?" · wilg. "+w.humidity+"%":"");
+  document.getElementById("w-asof").textContent=w.stale?"nieświeże":"";
+}
+
+function renderCommodities(m){
+  const box=document.getElementById("metals");
+  if(!m||!m.items||!m.items.length){
+    box.innerHTML='<div class="row"><span class="k">brak danych</span></div>';return;}
+  document.getElementById("m-asof").textContent=m.updated?("Yahoo "+m.updated):"";
+  box.innerHTML=m.items.map(function(x){
+    const cls=x.chg>0?"up":x.chg<0?"down":"";
+    const a=x.chg>0?"▲":x.chg<0?"▼":"•";
+    const d=x.chg==null?"":'<span class="d '+cls+'">'+a+" "+fmt(Math.abs(x.chg),2)+"%</span>";
+    return '<div class="row"><span class="k">'+x.name+
+      (x.as_of?'<span class="asof" style="margin-left:6px">'+x.as_of+"</span>":"")+
+      '</span><span class="v">'+fmt(x.value,x.value<10?4:2)+" "+x.unit+d+"</span></div>"+
+      (x.note?'<div class="row"><span class="k" style="font-size:10.5px">'+x.note+"</span><span></span></div>":"");
+  }).join("");
+}
+
+function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+
+/* ================= czat z Halem =================
+   Transport (etap 3 KONTRAKTU) jest odłączany od UI: wiadomości pisane
+   bez podłączenia czekają w outbox (localStorage) i lecą automatycznie,
+   gdy tylko pojawi się kanał (?chat=<URL> lub chat.send_url w danych).
+   Odpowiedzi Hala przychodzą sekcją "chat.messages" w panel_data.json. */
+var chatQueue=[];
+try{chatQueue=JSON.parse(localStorage.getItem("hal-chat-out")||"[]");}catch(e){chatQueue=[];}
+var chatSeen="";
+try{chatSeen=localStorage.getItem("hal-chat-seen")||"";}catch(e){}
+
+var CHAT_URL=new URLSearchParams(location.search).get("chat");
+
+function chatFlush(){
+  if(!CHAT_URL||!chatQueue.length)return;
+  const msg=chatQueue[0];
+  fetch(CHAT_URL,{method:"POST",headers:{"Content-Type":"application/json"},
+    body:JSON.stringify(msg)})
+    .then(function(r){if(!r.ok)throw new Error("HTTP "+r.status);
+      chatQueue.shift();
+      try{localStorage.setItem("hal-chat-out",JSON.stringify(chatQueue));}catch(e){}
+      if(chatQueue.length)chatFlush();
+    }).catch(function(){});
+}
+function renderChat(d){
+  const log=document.getElementById("chat-log");
+  const c=d.chat||{};
+  if(c.send_url&&!CHAT_URL)CHAT_URL=c.send_url;
+  const msgs=c.messages||[];
+  const last=msgs.length?msgs[msgs.length-1]:null;
+  if(last&&last.id&&last.id!==chatSeen){
+    if(last.from==="hal")autoMood("message");
+    chatSeen=last.id;
+    try{localStorage.setItem("hal-chat-seen",chatSeen);}catch(e){}
+  }
+  log.innerHTML=msgs.length
+    ? msgs.map(function(m){return '<div class="msg '+esc(m.from||"hal")+'">'+esc(m.text)+"</div>";}).join("")
+    : (chatQueue.length
+      ? '<div class="msg none">Twoje wiadomości czekają na podłączenie kanału — wyślą się same</div>'
+      : '<div class="msg none">czat pusty — napisz coś</div>');
+  if(c.note)document.getElementById("chat-asof").textContent=c.note;
+}
+function chatSend(){
+  const inp=document.getElementById("chat-in");
+  const t=(inp.value||"").trim();
+  if(!t)return;
+  chatQueue.push({text:t,ts:new Date().toISOString(),from:"me"});
+  try{localStorage.setItem("hal-chat-out",JSON.stringify(chatQueue));}catch(e){}
+  inp.value="";
+  renderChat({});
+  chatFlush();
+}
+document.getElementById("chat-send").addEventListener("click",chatSend);
+document.getElementById("chat-in").addEventListener("keydown",function(e){
+  if(e.key==="Enter")chatSend();
+});
+
+/* ================= wiadomości ================= */
+function newsTime(s){
+  if(!s)return "";
+  const d=new Date(s);
+  if(isNaN(d))return "";
+  return fmt(d.getDate())+"."+fmt(d.getMonth()+1)+" "+fmt(d.getHours())+":"+fmt(d.getMinutes());
+}
+function renderNews(d){
+  const box=document.getElementById("news");
+  const n=d.news||{};
+  const m=(n.market||[]).slice(0,3),l=(n.local||[]).slice(0,2),r=(n.roads||[]).slice(0,2);
+  const row=function(x,cls){
+    if(!x||!x.title)return "";
+    let url=x.url||"";
+    if(url.startsWith("/"))url="https://bielskiedrogi.pl"+url;
+    const t=esc(String(x.title).replace(/^Gorący temat\s*/i,""));
+    const time=newsTime(x.date);
+    const tag=cls==="roads"?"drogi":(x.src||cls).toLowerCase();
+    return '<a class="nrow '+cls+'"'+(url?' href="'+esc(url)+'" target="_blank" rel="noopener"':"")+">"+
+      '<span class="src">'+esc(tag)+"</span>"+
+      '<span class="t">'+t+"</span>"+
+      (time?'<span class="time">'+time+"</span>":"")+"</a>";
+  };
+  const rows=m.map(function(x){return row(x,"market");})
+    .concat(l.map(function(x){return row(x,"local");}))
+    .concat(r.map(function(x){return row(x,"roads");}))
+    .filter(Boolean);
+  if(!rows.length){
+    box.innerHTML='<div class="row"><span class="k">brak wiadomości</span></div>';return;}
+  box.innerHTML=rows.join("");
+  const tot=(n.market||[]).length+(n.local||[]).length+(n.roads||[]).length;
+  document.getElementById("n-asof").textContent=n.updated?n.updated:(tot?("pozycji: "+tot):"");
+}
+
+/* ================= twarz ================= */
+var MODES={
+  idle:"czuwanie", happy:"wszystko ok", thinking:"myślę",
+  angry:"coś nie gra", sleepy:"standby", message:"wiadomość"
+};
+var MOOD_COLORS={idle:"#7dd3fc",happy:"#4ade80",thinking:"#a78bfa",
+  angry:"#f87171",sleepy:"#64748b",message:"#38bdf8"};
+var forcedMode=new URLSearchParams(location.search).get("mode");
+var currentMood="idle";
+var preSleepMood=null;
+
+function setMode(m){
+  if(!MODES[m])m="idle";
+  currentMood=m;
+  if(preSleepMood===null&&m!=="sleepy")preSleepMood=m;
+  const el=document.getElementById("hal");
+  el.className=m;
+  const tag=document.getElementById("mode-tag");
+  tag.textContent=MODES[m];
+  const c=MOOD_COLORS[m];
+  tag.style.color=c;tag.style.borderColor=c;
+  document.getElementById("face-cap").textContent="Hal — "+MODES[m];
+}
+function autoMood(m){ if(!forcedMode&&!document.body.classList.contains("face-big"))setMode(m); }
+
+/* duży widok twarzy */
+function bindFaceTap(){
+  const el=document.getElementById("hal");
+  el.addEventListener("click",function(ev){
+    ev.stopPropagation();
+    const on=!document.body.classList.contains("face-big");
+    document.body.classList.toggle("face-big",on);
+    if(on){preSleepMood=currentMood;setMode(currentMood);}
+  });
+  document.getElementById("veil").addEventListener("click",function(){
+    document.body.classList.remove("face-big");
+  });
+}
+
+var idleTimer=null;
+function markActive(){
+  document.getElementById("app").classList.remove("dim");
+  if(preSleepMood&&currentMood==="sleepy")setMode(preSleepMood);
+  if(idleTimer)clearTimeout(idleTimer);
+  idleTimer=setTimeout(function(){
+    document.getElementById("app").classList.add("dim");
+    if(!forcedMode){preSleepMood=(currentMood==="sleepy")?preSleepMood:currentMood;
+      setMode("sleepy");}
+  },120000);
+}
+["touchstart","pointerdown","wheel","scroll","keydown"].forEach(function(e){
+  window.addEventListener(e,markActive,{passive:true});});
+
+document.addEventListener("visibilitychange",function(){
+  if(!document.hidden){markActive();load();}
+});
+
+function greet(){
+  const h=new Date().getHours();
+  document.getElementById("greet").textContent=
+    h<5?"Dobrej nocy":h<11?"Dzień dobry":h<18?"Cześć":"Dobry wieczór";
+}
+
+/* ======= dane: wbudowany JSON + klientowe odświeżanie co godzinę =======
+   Commodities (Yahoo/MetalCharts) NIE mają CORS — telefon bierze je z pliku
+   (aktualizowanego co godzinę po stronie Hala). Pogoda/krypto/kursy mają
+   ACAO:* i są dociągane z sieci prosto z telefonu co godzinę i po włączeniu
+   ekranu; plik jest dla nich fallbackiem offline. Opcjonalnie ?src=<URL>
+   (np. surowy panel_data.json z GitHuba) nadpisuje wbudowany plik. */
+var liveOver={};           /* {weather:..., crypto:..., fx:...} — dane klientowe */
+var liveFail={};           /* znaczniki nieudanych klientowych pobrań */
+var SRC=new URLSearchParams(location.search).get("src");
+
+function clientWeather(){
+  const url="https://api.open-meteo.com/v1/forecast?latitude=49.8224&longitude=19.0444"+
+    "&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,"+
+    "relative_humidity_2m,is_day&timezone=Europe/Warsaw";
+  return fetch(url,{cache:"no-store"}).then(function(r){return r.json();}).then(function(d){
+    const c=d.current;
+    return {ok:true,temp:c.temperature_2m,feels:c.apparent_temperature,code:c.weather_code,
+      wind:c.wind_speed_10m,humidity:c.relative_humidity_2m,is_day:!!c.is_day,stale:false};});
+}
+function clientCrypto(){
+  const url="https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum"+
+    "&vs_currencies=usd,pln&include_24hr_change=true";
+  return fetch(url,{cache:"no-store"}).then(function(r){return r.json();}).then(function(d){
+    const mk=function(cid,label){return {sym:label,usd:d[cid].usd,pln:d[cid].pln,
+      chg24:Math.round((d[cid].usd_24h_change||0)*100)/100};};
+    return {ok:true,coins:[mk("bitcoin","BTC"),mk("ethereum","ETH")],stale:false};});
+}
+function clientFx(){
+  const url="https://api.frankfurter.dev/v1/latest?base=USD&symbols=PLN,EUR";
+  return fetch(url,{cache:"no-store"}).then(function(r){return r.json();}).then(function(d){
+    return {ok:true,date:d.date,usdpln:d.rates.PLN,usdeur:d.rates.EUR,stale:false};});
+}
+function refreshLive(){
+  const jobs=[["weather",clientWeather()],["crypto",clientCrypto()],["fx",clientFx()]];
+  jobs.forEach(function(j){
+    j[1].then(function(v){liveOver[j[0]]=v;delete liveFail[j[0]];paint();})
+      .catch(function(){liveFail[j[0]]=true;});
+  });
+}
+
+function paint(){
+  /* baza z pliku + nadpisania klientowe */
+  const d=Object.assign({},paint.base||{});
+  ["weather","crypto","fx"].forEach(function(k){
+    if(liveOver[k])d[k]=liveOver[k];
+  });
+  renderWeather(d.weather);renderCommodities(d.commodities);renderNews(d);renderChat(d);
+  paintSky(d.weather);
+  const stale=["weather","crypto","commodities","fx"].some(function(k){
+    return d[k]&&d[k].stale;});
+  document.getElementById("stale").classList.toggle("on",stale);
+  const gen=d.generated?new Date(d.generated):null;
+  document.getElementById("f-gen").textContent=gen?gen.toLocaleString("pl-PL",
+    {day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"}):"–";
+  const cm=d.commodities||{};
+  document.getElementById("sub").textContent="Bielsko-Biała · surowce "+(cm.updated||"—");
+  autoMood(stale?"angry":"happy");
+}
+
+/* XHR zamiast fetch(): fetch() odmawia na file:// (WebView), XHR działa
+   przy allowFileAccessFromFileURLs — status 0 = sukces na file:// */
+function loadJson(url){
+  return new Promise(function(res,rej){
+    try{
+      const x=new XMLHttpRequest();
+      x.open("GET",url,true);x.setRequestHeader("Cache-Control","no-store");
+      x.onload=function(){
+        if(x.status===0||x.status===200){
+          try{res(JSON.parse(x.responseText));}catch(e){rej(e);}
+        }else rej(new Error("HTTP "+x.status));
+      };
+      x.onerror=function(){rej(new Error("xhr"));};
+      x.send();
+    }catch(e){rej(e);}
+  });
+}
+
+function load(){
+  autoMood("thinking");
+  const url=SRC?(""+SRC+"?ts="+Date.now()):("panel_data.json?ts="+Date.now());
+  return loadJson(url)
+    .then(function(d){
+      paint.base=d;
+      paint();
+    })
+    .catch(function(){
+      document.getElementById("sub").textContent="brak połączenia z panel_data.json";
+      autoMood("angry");
+    });
+}
+
+bindFaceTap();greet();markActive();load();
+
+if(forcedMode)setMode(forcedMode);
+
+refreshLive(); /* dane klientowe od razu po starcie */
+setInterval(function(){if(!document.hidden){load();refreshLive();}},600000);
+setInterval(function(){if(!document.hidden)refreshLive();},3600000); /* godzinny cykl */
+</script>
+</body>
+</html>
