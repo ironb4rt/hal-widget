@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-14T21:20:11+00:00",
+  "generated": "2026-10-14T22:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.1,
-    "feels": 8.9,
+    "temp": 10.7,
+    "feels": 8.4,
     "code": 3,
-    "wind": 10.1,
-    "humidity": 78,
+    "wind": 10.4,
+    "humidity": 79,
     "is_day": false,
     "tmax": 13.1,
-    "tmin": 6.6,
+    "tmin": 8.1,
     "forecast": [
-      {
-        "date": "2026-10-14",
-        "max": 13.1,
-        "min": 6.6,
-        "code": 51
-      },
       {
         "date": "2026-10-15",
         "max": 13.1,
-        "min": 8.5,
+        "min": 8.1,
         "code": 3
       },
       {
         "date": "2026-10-16",
         "max": 15.2,
-        "min": 8.1,
+        "min": 8.0,
         "code": 3
+      },
+      {
+        "date": "2026-10-17",
+        "max": 15.5,
+        "min": 2.8,
+        "code": 51
       }
     ],
-    "observed": "2026-10-14T23:15",
+    "observed": "2026-10-15T00:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81712,
-        "pln": 320301,
-        "chg24": -1.92
+        "usd": 81554,
+        "pln": 319592,
+        "chg24": -2.14
       },
       {
         "sym": "ETH",
-        "usd": 2415.62,
-        "pln": 9468.86,
-        "chg24": -3.71
+        "usd": 2408.09,
+        "pln": 9436.76,
+        "chg24": -3.91
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 55.8,
-        "chg": -5.68,
-        "as_of": "14.10 20:59"
+        "value": 55.69,
+        "chg": -5.87,
+        "as_of": "14.10 22:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.615,
-        "chg": -0.94,
-        "as_of": "14.10 20:59"
+        "value": 6.6215,
+        "chg": -0.85,
+        "as_of": "14.10 22:09"
       },
       {
         "sym": "ALI=F",
@@ -77,7 +77,7 @@
         "unit": "USD/lb",
         "value": 1.3938,
         "chg": -1.76,
-        "as_of": "14.10 20:00"
+        "as_of": "14.10 22:00"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "14.10 20:59",
+    "updated": "14.10 22:09",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Canadian Chrome Company launches First Nations advisory committee",
+        "url": "https://www.mining.com/canadian-chrome-company-launches-first-nations-advisory-committee/",
+        "date": "Wed, 14 Oct 2026 21:30:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Boron One boosts Serbia project economics in updated study",
         "url": "https://www.mining.com/boron-one-boosts-serbia-project-economics-in-updated-study/",
@@ -142,12 +148,6 @@
         "title": "Global copper surplus to more than triple by 2027: ICSG",
         "url": "https://www.mining.com/global-copper-surplus-to-more-than-triple-by-2027-icsg/",
         "date": "Wed, 14 Oct 2026 14:26:34 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Deep-sea mining faces surprise risk of rocks catching fire",
-        "url": "https://www.mining.com/deep-sea-mining-faces-surprise-risk-of-rocks-catching-fire/",
-        "date": "Wed, 14 Oct 2026 12:01:00 +0000",
         "src": "Mining.com"
       }
     ],
