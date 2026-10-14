@@ -77,9 +77,10 @@ class OverlayService : Service() {
             y = 24
         }
 
-        // Pasek kontrolek: minimalizacja i zamknięcie (14.10, po pierwszym buildzie).
+        // Pasek kontrolek: cofnięcie, skalowanie, minimalizacja, zamknięcie.
         val density = resources.displayMetrics.density
         var minimized = false
+        var scale = 1f
         val controls = LinearLayout(this).apply {
             orientation = LinearLayout.HORIZONTAL
             gravity = Gravity.END or Gravity.CENTER_VERTICAL
@@ -95,8 +96,14 @@ class OverlayService : Service() {
             setPadding((18 * density).toInt(), (4 * density).toInt(),
                 (18 * density).toInt(), (4 * density).toInt())
         }
+        val btnBack = controlButton("◀", "Cofnij do panelu Hala")
+        val btnPlus = controlButton("＋", "Powiększ okno")
+        val btnMinus = controlButton("－", "Zmniejsz okno")
         val btnMin = controlButton("—", "Minimalizuj okno Hala")
         val btnClose = controlButton("✕", "Zamknij okno Hala")
+        controls.addView(btnBack)
+        controls.addView(btnPlus)
+        controls.addView(btnMinus)
         controls.addView(btnMin)
         controls.addView(btnClose)
 
@@ -107,18 +114,32 @@ class OverlayService : Service() {
             addView(webView, LinearLayout.LayoutParams(
                 ViewGroup.LayoutParams.MATCH_PARENT, 0, 1f))
         }
-        btnMin.setOnClickListener {
-            minimized = !minimized
+
+        // Wymiary okna: skala (＋/－) i minimalizacja — jedna funkcja, zero rozjazdów.
+        fun applySize() {
             webView?.visibility = if (minimized) View.GONE else View.VISIBLE
-            if (minimized) {
-                layoutParams.width = (150 * density).toInt()
-                layoutParams.height = (36 * density).toInt()
-            } else {
-                layoutParams.width = (340 * density).toInt()
-                layoutParams.height = (480 * density).toInt()
-            }
+            val w = if (minimized) (150 * density).toInt()
+                    else (340 * density * scale).toInt().coerceAtLeast((200 * density).toInt())
+            val h = if (minimized) (36 * density).toInt()
+                    else (480 * density * scale).toInt().coerceAtMost((1200 * density).toInt())
+            layoutParams.width = w
+            layoutParams.height = h
             wm.updateViewLayout(container, layoutParams)
         }
+        btnBack.setOnClickListener {
+            val wv = webView ?: return@setOnClickListener
+            // Artykuł otwarty w WebView → cofamy; panel jest "rootem" historii,
+            // więc to zawsze wraca do głównego okna. Gdy historii brak — ładujemy panel od nowa.
+            if (wv.canGoBack()) wv.goBack()
+            else {
+                val configured = Prefs.url(this@OverlayService)
+                wv.loadUrl(if (configured.isNotEmpty()) configured
+                           else "file:///android_asset/panel/panel.html")
+            }
+        }
+        btnPlus.setOnClickListener { scale = (scale * 1.2f).coerceAtMost(2.5f); applySize() }
+        btnMinus.setOnClickListener { scale = (scale / 1.2f).coerceAtLeast(0.6f); applySize() }
+        btnMin.setOnClickListener { minimized = !minimized; applySize() }
         btnClose.setOnClickListener { stopSelf() }
 
         // Przeciąganie: TYLKO za pasek kontrolek — palenie po treści przewija
