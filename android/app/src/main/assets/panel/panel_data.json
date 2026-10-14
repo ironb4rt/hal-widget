@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-14T19:20:10+00:00",
+  "generated": "2026-10-14T20:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.4,
-    "feels": 9.1,
+    "temp": 11.2,
+    "feels": 8.9,
     "code": 3,
-    "wind": 11.2,
-    "humidity": 76,
+    "wind": 10.8,
+    "humidity": 77,
     "is_day": false,
     "tmax": 13.1,
     "tmin": 6.6,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-14T21:15",
+    "observed": "2026-10-14T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81723,
-        "pln": 320255,
-        "chg24": -1.68
+        "usd": 81856,
+        "pln": 320750,
+        "chg24": -1.6
       },
       {
         "sym": "ETH",
-        "usd": 2428.72,
-        "pln": 9517.64,
-        "chg24": -3.12
+        "usd": 2429.22,
+        "pln": 9518.88,
+        "chg24": -3.08
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 55.64,
-        "chg": -5.95,
-        "as_of": "14.10 19:10"
+        "value": 55.775,
+        "chg": -5.72,
+        "as_of": "14.10 20:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.615,
-        "chg": -0.94,
-        "as_of": "14.10 19:10"
+        "value": 6.61,
+        "chg": -1.02,
+        "as_of": "14.10 20:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3903,
-        "chg": -2.01,
-        "as_of": "14.10 18:01"
+        "value": 1.3938,
+        "chg": -1.76,
+        "as_of": "14.10 20:00"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "14.10 19:10",
+    "updated": "14.10 20:09",
     "stale": false
   },
   "fx": {
