@@ -606,7 +606,7 @@ function loadJson(url){
 
 function load(){
   autoMood("thinking");
-  const url=SRC?(""+SRC+"?ts="+Date.now()):("panel_data.json?ts="+Date.now());
+  const url=SRC?(SRC+(SRC.includes("?")?"&":"?")+"ts="+Date.now()):("panel_data.json?ts="+Date.now());
   return loadJson(url)
     .then(function(d){
       paint.base=d;

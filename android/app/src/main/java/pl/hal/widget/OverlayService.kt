@@ -18,6 +18,7 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.LinearLayout
 import android.widget.TextView
+import java.net.URLEncoder
 import kotlin.math.abs
 
 /**
@@ -55,11 +56,15 @@ class OverlayService : Service() {
             webViewClient = WebViewClient()
             setBackgroundColor(0xFF070B14.toInt())
             // Domyślnie wbudowany panel z APK; URL z konfiguracji go nadpisuje.
+            // Prefiks "data:" = wbudowany panel + dane z podanego URL (?src=),
+            // dzięki czemu surowce/wiadomości świeżą się bez rebuildu APK.
             val configured = Prefs.url(this@OverlayService)
-            if (configured.isNotEmpty()) {
-                loadUrl(configured)
-            } else {
-                loadUrl("file:///android_asset/panel/panel.html")
+            when {
+                configured.startsWith("data:") ->
+                    loadUrl("file:///android_asset/panel/panel.html?src=" +
+                        URLEncoder.encode(configured.removePrefix("data:"), "UTF-8"))
+                configured.isNotEmpty() -> loadUrl(configured)
+                else -> loadUrl("file:///android_asset/panel/panel.html")
             }
         }
 
