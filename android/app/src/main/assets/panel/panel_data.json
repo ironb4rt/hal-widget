@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-14T20:20:10+00:00",
+  "generated": "2026-10-14T21:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.2,
+    "temp": 11.1,
     "feels": 8.9,
     "code": 3,
-    "wind": 10.8,
-    "humidity": 77,
+    "wind": 10.1,
+    "humidity": 78,
     "is_day": false,
     "tmax": 13.1,
     "tmin": 6.6,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-15",
-        "max": 13.2,
-        "min": 8.7,
+        "max": 13.1,
+        "min": 8.5,
         "code": 3
       },
       {
         "date": "2026-10-16",
-        "max": 15.1,
-        "min": 7.8,
+        "max": 15.2,
+        "min": 8.1,
         "code": 3
       }
     ],
-    "observed": "2026-10-14T22:15",
+    "observed": "2026-10-14T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81856,
-        "pln": 320750,
-        "chg24": -1.6
+        "usd": 81712,
+        "pln": 320301,
+        "chg24": -1.92
       },
       {
         "sym": "ETH",
-        "usd": 2429.22,
-        "pln": 9518.88,
-        "chg24": -3.08
+        "usd": 2415.62,
+        "pln": 9468.86,
+        "chg24": -3.71
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 55.775,
-        "chg": -5.72,
-        "as_of": "14.10 20:09"
+        "value": 55.8,
+        "chg": -5.68,
+        "as_of": "14.10 20:59"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.61,
-        "chg": -1.02,
-        "as_of": "14.10 20:09"
+        "value": 6.615,
+        "chg": -0.94,
+        "as_of": "14.10 20:59"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "14.10 20:09",
+    "updated": "14.10 20:59",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Boron One boosts Serbia project economics in updated study",
+        "url": "https://www.mining.com/boron-one-boosts-serbia-project-economics-in-updated-study/",
+        "date": "Wed, 14 Oct 2026 21:10:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Hycroft hits bonanza gold grades at Nevada mine",
+        "url": "https://www.mining.com/hycroft-hits-bonanza-gold-grades-at-nevada-mine/",
+        "date": "Wed, 14 Oct 2026 20:25:19 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Equinox gold output jumps 34% after Orla merger",
         "url": "https://www.mining.com/equinox-gold-output-jumps-34-after-orla-merger/",
@@ -136,18 +148,6 @@
         "title": "Deep-sea mining faces surprise risk of rocks catching fire",
         "url": "https://www.mining.com/deep-sea-mining-faces-surprise-risk-of-rocks-catching-fire/",
         "date": "Wed, 14 Oct 2026 12:01:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "BHP averts strike at world’s biggest copper mine",
-        "url": "https://www.mining.com/bhp-averts-strike-at-worlds-biggest-copper-mine-2/",
-        "date": "Wed, 14 Oct 2026 10:56:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Rinehart-backed Arafura expands US rare earths deal by 70%",
-        "url": "https://www.mining.com/rinehart-backed-arafura-expands-us-rare-earths-deal-by-70/",
-        "date": "Wed, 14 Oct 2026 10:44:00 +0000",
         "src": "Mining.com"
       }
     ],
