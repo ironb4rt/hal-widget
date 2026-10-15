@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-15T17:20:01+00:00",
+  "generated": "2026-10-15T18:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.4,
-    "feels": 8.7,
+    "temp": 9.3,
+    "feels": 7.4,
     "code": 0,
-    "wind": 2.2,
-    "humidity": 66,
+    "wind": 3.6,
+    "humidity": 72,
     "is_day": false,
     "tmax": 12.6,
-    "tmin": 7.9,
+    "tmin": 8.1,
     "forecast": [
       {
         "date": "2026-10-15",
         "max": 12.6,
-        "min": 7.9,
+        "min": 8.1,
         "code": 3
       },
       {
         "date": "2026-10-16",
-        "max": 14.8,
+        "max": 15.1,
         "min": 6.8,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 15.8,
-        "min": 7.9,
+        "max": 16.8,
+        "min": 8.1,
         "code": 3
       }
     ],
-    "observed": "2026-10-15T19:15",
+    "observed": "2026-10-15T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82469,
-        "pln": 321176,
-        "chg24": 0.65
+        "usd": 82090,
+        "pln": 319516,
+        "chg24": 0.71
       },
       {
         "sym": "ETH",
-        "usd": 2448.81,
-        "pln": 9536.95,
-        "chg24": 0.15
+        "usd": 2436.59,
+        "pln": 9483.9,
+        "chg24": 0.51
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.085,
-        "chg": 2.76,
-        "as_of": "15.10 17:09"
+        "value": 57.24,
+        "chg": 3.04,
+        "as_of": "15.10 18:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.555,
+        "value": 6.5555,
         "chg": -0.85,
-        "as_of": "15.10 17:09"
+        "as_of": "15.10 18:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3966,
-        "chg": -0.23,
-        "as_of": "15.10 15:22"
+        "value": 1.3989,
+        "chg": -0.07,
+        "as_of": "15.10 18:04"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 17:09",
+    "updated": "15.10 18:09",
     "stale": false
   },
   "fx": {
@@ -103,9 +103,21 @@
     "ok": true,
     "market": [
       {
+        "title": "Tech giants come knocking for a piece of Anglo American as copper scarcity bites, Wanblad tells FT",
+        "url": "https://www.mining.com/tech-giants-come-knocking-for-a-piece-of-anglo-american-as-copper-scarcity-bites-wanblad-tells-ft/",
+        "date": "Thu, 15 Oct 2026 17:55:45 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Copper price falls for third day as US inflation shock, easing Chile strike risk spur selloff",
         "url": "https://www.mining.com/copper-price-falls-for-third-day-as-us-inflation-shock-easing-chile-strike-risk-spur-selloff/",
         "date": "Thu, 15 Oct 2026 16:12:33 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Op-Ed: New investment could reshape US mining",
+        "url": "https://www.mining.com/op-ed-new-investment-could-reshape-us-mining/",
+        "date": "Thu, 15 Oct 2026 16:06:00 +0000",
         "src": "Mining.com"
       },
       {
@@ -137,25 +149,13 @@
         "url": "https://www.mining.com/canadian-chrome-company-launches-first-nations-advisory-committee/",
         "date": "Wed, 14 Oct 2026 21:30:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Boron One boosts Serbia project economics in updated study",
-        "url": "https://www.mining.com/boron-one-boosts-serbia-project-economics-in-updated-study/",
-        "date": "Wed, 14 Oct 2026 21:10:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Hycroft hits bonanza gold grades at Nevada mine",
-        "url": "https://www.mining.com/hycroft-hits-bonanza-gold-grades-at-nevada-mine/",
-        "date": "Wed, 14 Oct 2026 20:25:19 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Policjanci z Rybnika odzyskali skradziony rower",
-        "url": "https://www.radio90.pl/policjanci-z-rybnika-odzyskali-skradziony-rower.html",
-        "date": "Thu, 15 Oct 2026 17:00:37 +0000",
+        "title": "Pijany kierowca uderzył w garaże w Rybniku. Samochód stanął w ogniu [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/pijany-kierowca-uderzyl-w-garaze-w-rybniku-samochod-stanal-w-ogniu-zdjecia.html",
+        "date": "Thu, 15 Oct 2026 18:15:03 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Policjanci z Żor wyłapali poszukiwanych",
-        "url": "https://www.radio90.pl/policjanci-z-zor-wylapali-poszukiwanych.html",
-        "date": "Thu, 15 Oct 2026 16:30:08 +0000",
+        "title": "Ognista Kuźnia, czyli wielkie ćwiczenia służb w Kuźni Raciborskiej",
+        "url": "https://www.radio90.pl/ognista-kuznia-czyli-wielkie-cwiczenia-sluzb-w-kuzni-raciborskiej.html",
+        "date": "Thu, 15 Oct 2026 17:45:51 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "JSW KOKS w fatalnej sytuacji? Związki piszą do ministra",
-        "url": "https://www.radio90.pl/jsw-koks-w-fatalnej-sytuacji-zwiazki-pisza-do-ministra.html",
-        "date": "Thu, 15 Oct 2026 15:55:52 +0000",
+        "title": "Policjanci z Rybnika odzyskali skradziony rower",
+        "url": "https://www.radio90.pl/policjanci-z-rybnika-odzyskali-skradziony-rower.html",
+        "date": "Thu, 15 Oct 2026 17:00:37 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Popołudnie z pomocą w Parku Zdrojowym. Międzynarodowy Dzień Walki z Ubóstwem [FOTO]",
-        "url": "https://www.radio90.pl/popoludnie-z-pomoca-w-parku-zdrojowym-miedzynarodowy-dzien-walki-z-ubostwem-foto.html",
-        "date": "Thu, 15 Oct 2026 15:15:13 +0000",
+        "title": "Policjanci z Żor wyłapali poszukiwanych",
+        "url": "https://www.radio90.pl/policjanci-z-zor-wylapali-poszukiwanych.html",
+        "date": "Thu, 15 Oct 2026 16:30:08 +0000",
         "src": "Radio90"
       },
       {
