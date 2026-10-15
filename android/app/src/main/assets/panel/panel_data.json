@@ -1,26 +1,26 @@
 {
-  "generated": "2026-10-15T19:20:02+00:00",
+  "generated": "2026-10-15T20:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.8,
-    "feels": 6.7,
+    "temp": 8.2,
+    "feels": 6.1,
     "code": 0,
-    "wind": 5.0,
-    "humidity": 74,
+    "wind": 5.4,
+    "humidity": 78,
     "is_day": false,
     "tmax": 12.6,
-    "tmin": 8.0,
+    "tmin": 8.1,
     "forecast": [
       {
         "date": "2026-10-15",
         "max": 12.6,
-        "min": 8.0,
+        "min": 8.1,
         "code": 3
       },
       {
         "date": "2026-10-16",
-        "max": 15.2,
+        "max": 15.1,
         "min": 6.8,
         "code": 2
       },
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-15T21:15",
+    "observed": "2026-10-15T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82427,
-        "pln": 321114,
-        "chg24": 0.79
+        "usd": 82255,
+        "pln": 320339,
+        "chg24": 0.47
       },
       {
         "sym": "ETH",
-        "usd": 2451.91,
-        "pln": 9551.96,
-        "chg24": 0.84
+        "usd": 2455.29,
+        "pln": 9562.1,
+        "chg24": 1.02
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.335,
-        "chg": 3.21,
-        "as_of": "15.10 19:09"
+        "value": 57.605,
+        "chg": 3.7,
+        "as_of": "15.10 20:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.548,
-        "chg": -0.96,
-        "as_of": "15.10 19:10"
+        "value": 6.57,
+        "chg": -0.63,
+        "as_of": "15.10 20:08"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3989,
-        "chg": -0.07,
-        "as_of": "15.10 18:04"
+        "value": 1.4052,
+        "chg": 0.38,
+        "as_of": "15.10 20:09"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 19:10",
+    "updated": "15.10 20:10",
     "stale": false
   },
   "fx": {
