@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-15T11:20:14+00:00",
+  "generated": "2026-10-15T12:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.0,
-    "feels": 9.8,
-    "code": 1,
-    "wind": 8.6,
-    "humidity": 67,
+    "temp": 12.5,
+    "feels": 10.0,
+    "code": 0,
+    "wind": 9.0,
+    "humidity": 62,
     "is_day": true,
-    "tmax": 13.1,
-    "tmin": 7.8,
+    "tmax": 12.8,
+    "tmin": 7.9,
     "forecast": [
       {
         "date": "2026-10-15",
-        "max": 13.1,
-        "min": 7.8,
+        "max": 12.8,
+        "min": 7.9,
         "code": 3
       },
       {
         "date": "2026-10-16",
         "max": 15.3,
-        "min": 7.4,
+        "min": 7.0,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 16.6,
-        "min": 7.3,
+        "max": 17.2,
+        "min": 7.8,
         "code": 3
       }
     ],
-    "observed": "2026-10-15T13:15",
+    "observed": "2026-10-15T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80976,
-        "pln": 315374,
-        "chg24": -2.88
+        "usd": 80912,
+        "pln": 315580,
+        "chg24": -3.27
       },
       {
         "sym": "ETH",
-        "usd": 2364.53,
-        "pln": 9208.98,
-        "chg24": -5.53
+        "usd": 2364.16,
+        "pln": 9220.84,
+        "chg24": -5.78
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.85,
-        "chg": 2.34,
-        "as_of": "15.10 11:09"
+        "value": 56.855,
+        "chg": 2.35,
+        "as_of": "15.10 12:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.556,
-        "chg": -0.84,
-        "as_of": "15.10 11:10"
+        "value": 6.578,
+        "chg": -0.51,
+        "as_of": "15.10 12:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3966,
-        "chg": -0.23,
-        "as_of": "15.10 11:08"
+        "value": 1.399,
+        "chg": -0.06,
+        "as_of": "15.10 11:12"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 11:10",
+    "updated": "15.10 12:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Jest wicemistrzem świata we fryzjerstwie! Tomasz Sobocik zdobył srebro w Paryżu",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/fryzjer-z-pawlowic-wicemistrzem-swiata-tomasz-sobocik-zdobyl-srebro-w-paryzu/101112/",
+        "date": "Thu, 15 Oct 2026 11:39:49 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Trzecia wygrana koszykarzy MKKS Rybnik. Dobra passa niech trwa jak najdłużej",
         "url": "https://www.radio90.pl/trzecia-wygrana-koszykarzy-mkks-rybnik-dobra-passa-niech-trwa-jak-najdluzej.html",
         "date": "Thu, 15 Oct 2026 11:20:13 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radio90.pl/swietujemy-170-lat-kolei-w-rybniku-specjalne-pociagi-spacery-atrakcje.html",
         "date": "Thu, 15 Oct 2026 08:57:23 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Setki książek pod jednym dachem. Jutro rusza festiwal książki BBook",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/setki-ksiazek-pod-jednym-dachem-jutro-rusza-festiwal-ksiazki-bbook/101077/",
-        "date": "Thu, 15 Oct 2026 09:45:07 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
