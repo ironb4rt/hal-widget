@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-15T09:20:13+00:00",
+  "generated": "2026-10-15T10:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.6,
-    "feels": 8.4,
+    "temp": 11.3,
+    "feels": 9.1,
     "code": 3,
-    "wind": 8.6,
-    "humidity": 75,
+    "wind": 9.0,
+    "humidity": 72,
     "is_day": true,
     "tmax": 13.1,
     "tmin": 7.8,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-15T11:15",
+    "observed": "2026-10-15T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81213,
-        "pln": 316291,
-        "chg24": -2.61
+        "usd": 81111,
+        "pln": 315974,
+        "chg24": -2.66
       },
       {
         "sym": "ETH",
-        "usd": 2370.02,
-        "pln": 9230.27,
-        "chg24": -5.35
+        "usd": 2367.65,
+        "pln": 9223.42,
+        "chg24": -5.26
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.825,
-        "chg": 2.3,
-        "as_of": "15.10 09:10"
+        "value": 56.84,
+        "chg": 2.32,
+        "as_of": "15.10 10:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5705,
-        "chg": -0.62,
-        "as_of": "15.10 09:10"
+        "value": 6.5665,
+        "chg": -0.68,
+        "as_of": "15.10 10:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 09:10",
+    "updated": "15.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Zrobiło się niebezpiecznie i nerwowo",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/zrobilo-sie-niebezpiecznie-i-nerwowo/101072/",
-        "date": "Thu, 15 Oct 2026 09:13:31 +0000",
+        "title": "NA GWIZDEK. Wojciech Szczurek. „Człowiek uczy się na błędach, a najlepiej na swoich”",
+        "url": "https://www.radiobielsko.pl/sport/na-gwizdek-wojciech-szczurek-czlowiek-uczy-sie-na-bledach-a-najlepiej-na-swoich/101033/",
+        "date": "Thu, 15 Oct 2026 09:54:40 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Trwa remont ulicy Cieszyńskiej w Jastrzębiu-Zdroju. Roboty mają potrwać kilka najbliższych tygodni",
+        "url": "https://www.radio90.pl/trwa-remont-ulicy-cieszynskiej-w-jastrzebiu-zdroju-roboty-maja-potrwac-kilka-najblizszych-tygodni.html",
+        "date": "Thu, 15 Oct 2026 09:50:58 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Setki książek pod jednym dachem. Jutro rusza festiwal książki BBook",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/setki-ksiazek-pod-jednym-dachem-jutro-rusza-festiwal-ksiazki-bbook/101077/",
+        "date": "Thu, 15 Oct 2026 09:45:07 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Zwrot w sprawie usług opiekuńczych w Bielsku-Białej. Miasto wycofuje się z planów",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/zwrot-w-sprawie-uslug-opiekunczych-w-bielsku-bialej-miasto-wycofuje-sie-z-planow/101074/",
-        "date": "Thu, 15 Oct 2026 09:10:21 +0000",
+        "title": "Potrójna dawka szczęścia w Szpitalu Wojewódzkim. Na świat przyszły trojaczki!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/potrojna-dawka-szczescia-w-szpitalu-wojewodzkim-na-swiat-przyszly-trojaczki/101090/",
+        "date": "Thu, 15 Oct 2026 09:33:04 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,27 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Apartamentowce na Górze Burgałowskiej? Architekt dementuje",
-        "url": "https://www.radiobielsko.pl/zywiec/apartamentowce-na-gorze-burgalowskiej-architekt-dementuje/101057/",
-        "date": "Thu, 15 Oct 2026 08:34:17 +0000",
+        "title": "Zrobiło się niebezpiecznie i nerwowo",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/zrobilo-sie-niebezpiecznie-i-nerwowo/101072/",
+        "date": "Thu, 15 Oct 2026 09:13:31 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Strażacy z Rybnika znów mieli pełne ręce roboty",
         "url": "https://www.radio90.pl/strazacy-z-rybnika-znow-mieli-pelne-rece-roboty.html",
         "date": "Thu, 15 Oct 2026 07:50:06 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Na grzyby pociągiem. Kolejarze podpowiadają, gdzie wybrać się na jesienne zbiory",
-        "url": "https://www.radiobielsko.pl/region/na-grzyby-pociagiem-kolejarze-podpowiadaja-gdzie-wybrac-sie-na-jesienne-zbiory/101054/",
-        "date": "Thu, 15 Oct 2026 08:30:03 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Najlepiej strzelają, najlepiej pracują na miejscu zdarzenia. Policjanci z Cieszyna zwycięzcami konkursu dla kryminalnych",
-        "url": "https://www.radio90.pl/najlepiej-strzelaja-najlepiej-pracuja-na-miejscu-zdarzenia-policjanci-z-cieszyna-zwyciezcami-konkursu-dla-kryminalnych.html",
-        "date": "Thu, 15 Oct 2026 07:05:53 +0000",
         "src": "Radio90"
       }
     ],
