@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-15T08:20:13+00:00",
+  "generated": "2026-10-15T09:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.1,
-    "feels": 7.7,
+    "temp": 10.6,
+    "feels": 8.4,
     "code": 3,
-    "wind": 10.4,
-    "humidity": 78,
+    "wind": 8.6,
+    "humidity": 75,
     "is_day": true,
-    "tmax": 13.2,
-    "tmin": 8.3,
+    "tmax": 13.1,
+    "tmin": 7.8,
     "forecast": [
       {
         "date": "2026-10-15",
-        "max": 13.2,
-        "min": 8.3,
+        "max": 13.1,
+        "min": 7.8,
         "code": 3
       },
       {
         "date": "2026-10-16",
-        "max": 15.4,
-        "min": 7.9,
-        "code": 3
+        "max": 15.3,
+        "min": 7.4,
+        "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 16.5,
-        "min": 8.3,
+        "max": 16.6,
+        "min": 7.3,
         "code": 3
       }
     ],
-    "observed": "2026-10-15T10:15",
+    "observed": "2026-10-15T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81151,
-        "pln": 316021,
-        "chg24": -3.11
+        "usd": 81213,
+        "pln": 316291,
+        "chg24": -2.61
       },
       {
         "sym": "ETH",
-        "usd": 2364.31,
-        "pln": 9207.18,
-        "chg24": -6.03
+        "usd": 2370.02,
+        "pln": 9230.27,
+        "chg24": -5.35
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.735,
-        "chg": 2.13,
-        "as_of": "15.10 08:10"
+        "value": 56.825,
+        "chg": 2.3,
+        "as_of": "15.10 09:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.539,
-        "chg": -1.1,
-        "as_of": "15.10 08:10"
+        "value": 6.5705,
+        "chg": -0.62,
+        "as_of": "15.10 09:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 08:10",
+    "updated": "15.10 09:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,45 @@
     ],
     "local": [
       {
+        "title": "Zrobiło się niebezpiecznie i nerwowo",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/zrobilo-sie-niebezpiecznie-i-nerwowo/101072/",
+        "date": "Thu, 15 Oct 2026 09:13:31 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Świętujemy 170 lat kolei w Rybniku. Specjalne pociągi, spacery, atrakcje",
+        "url": "https://www.radio90.pl/swietujemy-170-lat-kolei-w-rybniku-specjalne-pociagi-spacery-atrakcje.html",
+        "date": "Thu, 15 Oct 2026 08:57:23 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Zwrot w sprawie usług opiekuńczych w Bielsku-Białej. Miasto wycofuje się z planów",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/zwrot-w-sprawie-uslug-opiekunczych-w-bielsku-bialej-miasto-wycofuje-sie-z-planow/101074/",
+        "date": "Thu, 15 Oct 2026 09:10:21 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Śląska policja z raportem drogowym z minionej doby. I znów apel o zachowanie ostrożności",
+        "url": "https://www.radio90.pl/slaska-policja-z-raportem-drogowym-z-minionej-doby-i-znow-apel-o-zachowanie-ostroznosci.html",
+        "date": "Thu, 15 Oct 2026 08:30:31 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Apartamentowce na Górze Burgałowskiej? Architekt dementuje",
+        "url": "https://www.radiobielsko.pl/zywiec/apartamentowce-na-gorze-burgalowskiej-architekt-dementuje/101057/",
+        "date": "Thu, 15 Oct 2026 08:34:17 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Strażacy z Rybnika znów mieli pełne ręce roboty",
         "url": "https://www.radio90.pl/strazacy-z-rybnika-znow-mieli-pelne-rece-roboty.html",
         "date": "Thu, 15 Oct 2026 07:50:06 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Dzień Dziecka Utraconego w Bielsku-Białej. Uroczystości na cmentarzu na Leszczynach",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dzien-dziecka-utraconego-w-bielsku-bialej-uroczystosci-na-cmentarzu-na-leszczynach/101050/",
-        "date": "Thu, 15 Oct 2026 07:36:12 +0000",
+        "title": "Na grzyby pociągiem. Kolejarze podpowiadają, gdzie wybrać się na jesienne zbiory",
+        "url": "https://www.radiobielsko.pl/region/na-grzyby-pociagiem-kolejarze-podpowiadaja-gdzie-wybrac-sie-na-jesienne-zbiory/101054/",
+        "date": "Thu, 15 Oct 2026 08:30:03 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -169,36 +199,6 @@
         "url": "https://www.radio90.pl/najlepiej-strzelaja-najlepiej-pracuja-na-miejscu-zdarzenia-policjanci-z-cieszyna-zwyciezcami-konkursu-dla-kryminalnych.html",
         "date": "Thu, 15 Oct 2026 07:05:53 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "„Oddajcie ludziom pieniądze”. Transparenty przed kopalnią Silesia",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/oddajcie-ludziom-pieniadze-transparenty-przed-kopalnia-silesia/101042/",
-        "date": "Thu, 15 Oct 2026 07:24:39 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Uwaga kierowcy! Poważne utrudnienia w Jastrzębiu-Zdroju [WIDEO]",
-        "url": "https://www.radio90.pl/uwaga-kierowcy-powazne-utrudnienia-w-jastrzebiu-zdroju.html",
-        "date": "Thu, 15 Oct 2026 06:29:10 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Wyjątkowy Dzień Edukacji Narodowej dla „Bielskiego Muzyka”! Specjalne wyróżnienie dla dyrektor Barbary Cybulskiej-Konsek!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/wyjatkowy-dzien-edukacji-narodowej-dla-bielskiego-muzyka-specjalne-wyroznienie-dla-dyrektor-barbary-cybulskiej-konsek/101027/",
-        "date": "Thu, 15 Oct 2026 06:09:16 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Hałda w Rydułtowach: do końca października intensywniejsze prace przy likwidacji zapożarowania. Mogą je odczuć mieszkańcy",
-        "url": "https://www.radio90.pl/halda-w-rydultowach-do-konca-pazdziernika-intensywniejsze-prace-przy-likwidacji-zapozarowania-moga-je-odczuc-mieszkancy.html",
-        "date": "Thu, 15 Oct 2026 05:45:38 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Z zamku znikają dekoracje? Na horyzoncie widać już finisz PSK 26",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/z-zamku-znikaja-dekoracje-na-horyzoncie-widac-juz-koniec-psk/101020/",
-        "date": "Wed, 14 Oct 2026 21:12:11 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
