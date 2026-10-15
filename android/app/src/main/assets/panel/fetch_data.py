@@ -363,7 +363,25 @@ def fetch_news():
 
     if not (market or local or roads):
         raise ValueError("brak jakichkolwiek newsów")
+    # Panel pokazuje tylko 2 pierwsze wpisy lokalne, więc gdy oba radia są
+    # aktywne (a są — kilkanaście pozycji dziennie), oba widoczne miejsca brał
+    # jeden nadajnik. Rotacja źródeł (15.10): przeplot, żeby drugie radio też
+    # było reprezentowane. Wpisy bez daty zostają na końcu, jak dotąd.
+    local = _przeploc(local)
     return {"ok": True, "market": market[:8], "local": local[:8], "roads": roads[:6]}
+
+
+def _przeploc(items):
+    """Przeplot naprzemienny po źródle, zachowując porządek w obrębie źródła."""
+    kosze = {}
+    for it in items:
+        kosze.setdefault(it.get("src", ""), []).append(it)
+    out = []
+    while any(kosze.values()):
+        for k in list(kosze):
+            if kosze[k]:
+                out.append(kosze[k].pop(0))
+    return out
 
 
 def load_cache():
