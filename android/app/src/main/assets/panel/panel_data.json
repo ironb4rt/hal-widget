@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T06:26:10+00:00",
+  "generated": "2026-10-15T06:26:54+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
@@ -10,24 +10,24 @@
     "humidity": 80,
     "is_day": true,
     "tmax": 13.2,
-    "tmin": 8.3,
+    "tmin": 8.2,
     "forecast": [
       {
         "date": "2026-10-15",
         "max": 13.2,
-        "min": 8.3,
+        "min": 8.2,
         "code": 3
       },
       {
         "date": "2026-10-16",
         "max": 15.4,
-        "min": 7.9,
+        "min": 7.8,
         "code": 3
       },
       {
         "date": "2026-10-17",
         "max": 16.5,
-        "min": 8.3,
+        "min": 8.2,
         "code": 3
       }
     ],
@@ -165,21 +165,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Złodziej w Żorach. Próbował ukraść kilkanaście opakowań kawy. Będzie odpowiadał przed sądem",
-        "url": "https://www.radio90.pl/zlodziej-w-zorach-probowal-ukrasc-kilkanascie-opakowan-kawy-bedzie-odpowiadal-przed-sadem.html",
-        "date": "Thu, 15 Oct 2026 04:50:42 +0000",
-        "src": "Radio90"
-      },
-      {
         "title": "Z zamku znikają dekoracje? Na horyzoncie widać już koniec PSK",
         "url": "https://www.radiobielsko.pl/bielsko-biala/z-zamku-znikaja-dekoracje-na-horyzoncie-widac-juz-koniec-psk/101020/",
         "date": "Wed, 14 Oct 2026 21:12:11 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "„Bomba kolorystyczna”. Będzie nowy mural w Rybniku",
-        "url": "https://www.radio90.pl/bomba-kolorystyczna-bedzie-nowy-mural-w-rybniku.html",
-        "date": "Wed, 14 Oct 2026 17:40:23 +0000",
+        "title": "Złodziej w Żorach. Próbował ukraść kilkanaście opakowań kawy. Będzie odpowiadał przed sądem",
+        "url": "https://www.radio90.pl/zlodziej-w-zorach-probowal-ukrasc-kilkanascie-opakowan-kawy-bedzie-odpowiadal-przed-sadem.html",
+        "date": "Thu, 15 Oct 2026 04:50:42 +0000",
         "src": "Radio90"
       },
       {
@@ -189,15 +183,21 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Uwaga na oszustów. Znów zaatakowali, tym razem w Knurowie",
-        "url": "https://www.radio90.pl/uwaga-na-oszustow-znow-zaatakowali-tym-razem-w-knurowie.html",
-        "date": "Wed, 14 Oct 2026 17:00:20 +0000",
+        "title": "„Bomba kolorystyczna”. Będzie nowy mural w Rybniku",
+        "url": "https://www.radio90.pl/bomba-kolorystyczna-bedzie-nowy-mural-w-rybniku.html",
+        "date": "Wed, 14 Oct 2026 17:40:23 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Policjanci z Cieszyna zatrzymali dwóch pseudokibiców. Z powodu czapki zaatakowali przypadkowego mężczyznę",
-        "url": "https://www.radio90.pl/policjanci-z-cieszyna-zatrzymali-dwoch-pseudokibicow-z-powodu-czapki-zaatakowali-przypadkowego-mezczyzne.html",
-        "date": "Wed, 14 Oct 2026 16:20:55 +0000",
+        "title": "W tych zespołach przeważa młodzież. Oto najmłodsze drużyny IV ligi",
+        "url": "https://www.radiobielsko.pl/sport/w-tych-zespolach-przewaza-mlodziez-oto-najmlodsze-druzyny-iv-ligi/100180/",
+        "date": "Wed, 14 Oct 2026 15:42:00 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Uwaga na oszustów. Znów zaatakowali, tym razem w Knurowie",
+        "url": "https://www.radio90.pl/uwaga-na-oszustow-znow-zaatakowali-tym-razem-w-knurowie.html",
+        "date": "Wed, 14 Oct 2026 17:00:20 +0000",
         "src": "Radio90"
       }
     ],
