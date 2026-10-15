@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-15T06:26:54+00:00",
+  "generated": "2026-10-15T07:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.3,
-    "feels": 6.8,
+    "temp": 9.5,
+    "feels": 6.9,
     "code": 3,
-    "wind": 10.1,
+    "wind": 11.2,
     "humidity": 80,
     "is_day": true,
     "tmax": 13.2,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-15T08:15",
+    "observed": "2026-10-15T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80716,
-        "pln": 314556,
-        "chg24": -3.29
+        "usd": 80972,
+        "pln": 315599,
+        "chg24": -2.92
       },
       {
         "sym": "ETH",
-        "usd": 2354.42,
-        "pln": 9175.31,
-        "chg24": -6.0
+        "usd": 2363.69,
+        "pln": 9212.8,
+        "chg24": -5.58
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.19,
-        "chg": 1.15,
-        "as_of": "15.10 06:13"
+        "value": 56.445,
+        "chg": 1.61,
+        "as_of": "15.10 07:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5585,
-        "chg": -0.8,
-        "as_of": "15.10 06:14"
+        "value": 6.5675,
+        "chg": -0.67,
+        "as_of": "15.10 07:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 06:14",
+    "updated": "15.10 07:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,27 @@
     ],
     "local": [
       {
+        "title": "Najlepiej strzelają, najlepiej pracują na miejscu zdarzenia. Policjanci z Cieszyna zwycięzcami konkursu dla kryminalnych",
+        "url": "https://www.radio90.pl/najlepiej-strzelaja-najlepiej-pracuja-na-miejscu-zdarzenia-policjanci-z-cieszyna-zwyciezcami-konkursu-dla-kryminalnych.html",
+        "date": "Thu, 15 Oct 2026 07:05:53 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Wyjątkowy Dzień Edukacji Narodowej dla „Bielskiego Muzyka”! Specjalne wyróżnienie dla dyrektor Barbary Cybulskiej-Konsek!",
         "url": "https://www.radiobielsko.pl/bielsko-biala/wyjatkowy-dzien-edukacji-narodowej-dla-bielskiego-muzyka-specjalne-wyroznienie-dla-dyrektor-barbary-cybulskiej-konsek/101027/",
         "date": "Thu, 15 Oct 2026 06:09:16 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Uwaga kierowcy! Poważne utrudnienia w Jastrzębiu-Zdroju [WIDEO]",
+        "url": "https://www.radio90.pl/uwaga-kierowcy-powazne-utrudnienia-w-jastrzebiu-zdroju.html",
+        "date": "Thu, 15 Oct 2026 06:29:10 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Z zamku znikają dekoracje? Na horyzoncie widać już finisz PSK 26",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/z-zamku-znikaja-dekoracje-na-horyzoncie-widac-juz-koniec-psk/101020/",
+        "date": "Wed, 14 Oct 2026 21:12:11 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Z zamku znikają dekoracje? Na horyzoncie widać już koniec PSK",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/z-zamku-znikaja-dekoracje-na-horyzoncie-widac-juz-koniec-psk/101020/",
-        "date": "Wed, 14 Oct 2026 21:12:11 +0000",
+        "title": "Kolizja trzech samochodów na S52. Droga w kierunku Bielska-Białej była zablokowana",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/kolizja-trzech-samochodow-na-s52-droga-w-kierunku-bielska-bialej-byla-zablokowana/101012/",
+        "date": "Wed, 14 Oct 2026 17:05:37 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,28 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Kolizja trzech samochodów na S52. Droga w kierunku Bielska-Białej była zablokowana",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/kolizja-trzech-samochodow-na-s52-droga-w-kierunku-bielska-bialej-byla-zablokowana/101012/",
-        "date": "Wed, 14 Oct 2026 17:05:37 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "„Bomba kolorystyczna”. Będzie nowy mural w Rybniku",
-        "url": "https://www.radio90.pl/bomba-kolorystyczna-bedzie-nowy-mural-w-rybniku.html",
-        "date": "Wed, 14 Oct 2026 17:40:23 +0000",
-        "src": "Radio90"
-      },
-      {
         "title": "W tych zespołach przeważa młodzież. Oto najmłodsze drużyny IV ligi",
         "url": "https://www.radiobielsko.pl/sport/w-tych-zespolach-przewaza-mlodziez-oto-najmlodsze-druzyny-iv-ligi/100180/",
         "date": "Wed, 14 Oct 2026 15:42:00 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Uwaga na oszustów. Znów zaatakowali, tym razem w Knurowie",
-        "url": "https://www.radio90.pl/uwaga-na-oszustow-znow-zaatakowali-tym-razem-w-knurowie.html",
-        "date": "Wed, 14 Oct 2026 17:00:20 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
