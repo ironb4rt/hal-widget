@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T06:20:13+00:00",
+  "generated": "2026-10-15T06:26:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80802,
-        "pln": 314783,
-        "chg24": -3.19
+        "usd": 80716,
+        "pln": 314556,
+        "chg24": -3.29
       },
       {
         "sym": "ETH",
-        "usd": 2355.51,
-        "pln": 9176.46,
-        "chg24": -5.97
+        "usd": 2354.42,
+        "pln": 9175.31,
+        "chg24": -6.0
       }
     ],
     "stale": false
@@ -59,9 +59,9 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.13,
-        "chg": 1.04,
-        "as_of": "15.10 06:10"
+        "value": 56.19,
+        "chg": 1.15,
+        "as_of": "15.10 06:13"
       },
       {
         "sym": "HG=F",
@@ -69,7 +69,7 @@
         "unit": "USD/lb",
         "value": 6.5585,
         "chg": -0.8,
-        "as_of": "15.10 06:10"
+        "as_of": "15.10 06:14"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 06:10",
+    "updated": "15.10 06:14",
     "stale": false
   },
   "fx": {
@@ -153,40 +153,52 @@
     ],
     "local": [
       {
-        "title": "Fundacja Perspektywy ustanawia partnerstwo ze Stellantis na realizację projektu `Girls, itand#039;s time for tech`",
-        "url": "https://bielsko-wiadomosci.pl/2025/03/10/fundacja-perspektywy-ustanawia-partnerstwo-ze-stellantis-na-realizacje-projektu-girls-itand039s-time-for-tech/",
-        "date": "Mon, 10 Mar 2025 12:30:25 +0000",
-        "src": "BW"
+        "title": "Wyjątkowy Dzień Edukacji Narodowej dla „Bielskiego Muzyka”! Specjalne wyróżnienie dla dyrektor Barbary Cybulskiej-Konsek!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/wyjatkowy-dzien-edukacji-narodowej-dla-bielskiego-muzyka-specjalne-wyroznienie-dla-dyrektor-barbary-cybulskiej-konsek/101027/",
+        "date": "Thu, 15 Oct 2026 06:09:16 +0000",
+        "src": "RadioBielsko"
       },
       {
-        "title": "IJHARS: kontrola w hipermarketach wykryła nieprawidłowości w co dziesiątej partii wieprzowiny",
-        "url": "https://bielsko-wiadomosci.pl/2025/03/05/ijhars-kontrola-w-hipermarketach-wykryla-nieprawidlowosci-w-co-dziesiatej-partii-wieprzowiny/",
-        "date": "Wed, 05 Mar 2025 12:30:05 +0000",
-        "src": "BW"
+        "title": "Hałda w Rydułtowach: do końca października intensywniejsze prace przy likwidacji zapożarowania. Mogą je odczuć mieszkańcy",
+        "url": "https://www.radio90.pl/halda-w-rydultowach-do-konca-pazdziernika-intensywniejsze-prace-przy-likwidacji-zapozarowania-moga-je-odczuc-mieszkancy.html",
+        "date": "Thu, 15 Oct 2026 05:45:38 +0000",
+        "src": "Radio90"
       },
       {
-        "title": "Na wiosnę krótsze podróże z PKP Intercity",
-        "url": "https://bielsko-wiadomosci.pl/2025/02/27/na-wiosne-krotsze-podroze-z-pkp-intercity/",
-        "date": "Thu, 27 Feb 2025 10:30:15 +0000",
-        "src": "BW"
+        "title": "Złodziej w Żorach. Próbował ukraść kilkanaście opakowań kawy. Będzie odpowiadał przed sądem",
+        "url": "https://www.radio90.pl/zlodziej-w-zorach-probowal-ukrasc-kilkanascie-opakowan-kawy-bedzie-odpowiadal-przed-sadem.html",
+        "date": "Thu, 15 Oct 2026 04:50:42 +0000",
+        "src": "Radio90"
       },
       {
-        "title": "MS: Podwyżki wynagrodzeń w sądach powszechnych (komunikat)",
-        "url": "https://bielsko-wiadomosci.pl/2025/02/18/ms-podwyzki-wynagrodzen-w-sadach-powszechnych-komunikat/",
-        "date": "Tue, 18 Feb 2025 09:30:40 +0000",
-        "src": "BW"
+        "title": "Z zamku znikają dekoracje? Na horyzoncie widać już koniec PSK",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/z-zamku-znikaja-dekoracje-na-horyzoncie-widac-juz-koniec-psk/101020/",
+        "date": "Wed, 14 Oct 2026 21:12:11 +0000",
+        "src": "RadioBielsko"
       },
       {
-        "title": "Liderzy w medialnym wsparciu zdrowia publicznego – czyli najlepsi dziennikarze medyczni",
-        "url": "https://bielsko-wiadomosci.pl/2025/01/27/liderzy-w-medialnym-wsparciu-zdrowia-publicznego-czyli-najlepsi-dziennikarze-medyczni/",
-        "date": "Mon, 27 Jan 2025 13:30:50 +0000",
-        "src": "BW"
+        "title": "„Bomba kolorystyczna”. Będzie nowy mural w Rybniku",
+        "url": "https://www.radio90.pl/bomba-kolorystyczna-bedzie-nowy-mural-w-rybniku.html",
+        "date": "Wed, 14 Oct 2026 17:40:23 +0000",
+        "src": "Radio90"
       },
       {
-        "title": "Przedstawiciele samorządów: Rozszerzona Odpowiedzialność Producenta uchroni Polaków przed wysokimi kosztami systemu odpadowego",
-        "url": "https://bielsko-wiadomosci.pl/2025/01/22/przedstawiciele-samorzadow-rozszerzona-odpowiedzialnosc-producenta-uchroni-polakow-przed-wysokimi-kosztami-systemu-odpadowego/",
-        "date": "Wed, 22 Jan 2025 10:30:49 +0000",
-        "src": "BW"
+        "title": "Kolizja trzech samochodów na S52. Droga w kierunku Bielska-Białej była zablokowana",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/kolizja-trzech-samochodow-na-s52-droga-w-kierunku-bielska-bialej-byla-zablokowana/101012/",
+        "date": "Wed, 14 Oct 2026 17:05:37 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Uwaga na oszustów. Znów zaatakowali, tym razem w Knurowie",
+        "url": "https://www.radio90.pl/uwaga-na-oszustow-znow-zaatakowali-tym-razem-w-knurowie.html",
+        "date": "Wed, 14 Oct 2026 17:00:20 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Policjanci z Cieszyna zatrzymali dwóch pseudokibiców. Z powodu czapki zaatakowali przypadkowego mężczyznę",
+        "url": "https://www.radio90.pl/policjanci-z-cieszyna-zatrzymali-dwoch-pseudokibicow-z-powodu-czapki-zaatakowali-przypadkowego-mezczyzne.html",
+        "date": "Wed, 14 Oct 2026 16:20:55 +0000",
+        "src": "Radio90"
       }
     ],
     "roads": [
