@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-15T12:20:14+00:00",
+  "generated": "2026-10-15T13:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.5,
-    "feels": 10.0,
-    "code": 0,
-    "wind": 9.0,
-    "humidity": 62,
+    "temp": 12.8,
+    "feels": 10.2,
+    "code": 1,
+    "wind": 8.3,
+    "humidity": 57,
     "is_day": true,
     "tmax": 12.8,
     "tmin": 7.9,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-15T14:15",
+    "observed": "2026-10-15T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80912,
-        "pln": 315580,
-        "chg24": -3.27
+        "usd": 80408,
+        "pln": 313460,
+        "chg24": -2.39
       },
       {
         "sym": "ETH",
-        "usd": 2364.16,
-        "pln": 9220.84,
-        "chg24": -5.78
+        "usd": 2347.26,
+        "pln": 9150.5,
+        "chg24": -4.72
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.855,
-        "chg": 2.35,
-        "as_of": "15.10 12:10"
+        "value": 56.745,
+        "chg": 2.15,
+        "as_of": "15.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.578,
-        "chg": -0.51,
-        "as_of": "15.10 12:10"
+        "value": 6.5545,
+        "chg": -0.86,
+        "as_of": "15.10 13:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.399,
-        "chg": -0.06,
-        "as_of": "15.10 11:12"
+        "value": 1.3997,
+        "chg": -0.02,
+        "as_of": "15.10 12:48"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 12:10",
+    "updated": "15.10 13:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Richemont, Signet weigh joining De Beers consortium bid",
+        "url": "https://www.mining.com/richemont-signet-weigh-joining-de-beers-consortium-bid/",
+        "date": "Thu, 15 Oct 2026 12:43:11 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Tenaris produces new steel grade for Canadian energy operators",
         "url": "https://www.mining.com/tenaris-produces-new-steel-grade-for-canadian-energy-operators/",
@@ -143,15 +149,27 @@
         "url": "https://www.mining.com/former-rio-tinto-anglo-american-executive-named-icmms-first-woman-ceo/",
         "date": "Wed, 14 Oct 2026 15:02:54 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Gold miners’ earnings surge but valuations lag: Sprott",
-        "url": "https://www.mining.com/gold-miners-earnings-surge-but-valuations-lag-sprott/",
-        "date": "Wed, 14 Oct 2026 14:42:18 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Rowerem velostradą z Rybnika do miast metropolii?",
+        "url": "https://www.radio90.pl/rowerem-velostrada-z-rybnika-do-miast-metropolii.html",
+        "date": "Thu, 15 Oct 2026 13:05:21 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Siatkarskie emocje w Kozach. Za nami kolejna edycja turnieju drużyn mieszanych!",
+        "url": "https://www.radiobielsko.pl/sport/siatkarskie-emocje-w-kozach-za-nami-kolejna-edycja-turnieju-druzyn-mieszanych/101124/",
+        "date": "Thu, 15 Oct 2026 12:33:23 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Volley Rybnik przegrał pierwszy mecz w sezonie",
+        "url": "https://www.radio90.pl/volley-rybnik-przegral-pierwszy-mecz-w-sezonie.html",
+        "date": "Thu, 15 Oct 2026 12:30:40 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Jest wicemistrzem świata we fryzjerstwie! Tomasz Sobocik zdobył srebro w Paryżu",
         "url": "https://www.radiobielsko.pl/powiat-pszczynski/fryzjer-z-pawlowic-wicemistrzem-swiata-tomasz-sobocik-zdobyl-srebro-w-paryzu/101112/",
@@ -181,24 +199,6 @@
         "url": "https://www.radiobielsko.pl/cieszyn/nagrody-im-ks-leopolda-jana-szersznika-wreczone-troje-laureatow-wyroznionych/101104/",
         "date": "Thu, 15 Oct 2026 10:23:12 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Trwa remont ulicy Cieszyńskiej w Jastrzębiu-Zdroju. Roboty mają potrwać kilka najbliższych tygodni",
-        "url": "https://www.radio90.pl/trwa-remont-ulicy-cieszynskiej-w-jastrzebiu-zdroju-roboty-maja-potrwac-kilka-najblizszych-tygodni.html",
-        "date": "Thu, 15 Oct 2026 09:50:58 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "NA GWIZDEK. Wojciech Szczurek. „Człowiek uczy się na błędach, a najlepiej na swoich”",
-        "url": "https://www.radiobielsko.pl/sport/na-gwizdek-wojciech-szczurek-czlowiek-uczy-sie-na-bledach-a-najlepiej-na-swoich/101033/",
-        "date": "Thu, 15 Oct 2026 09:54:40 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Świętujemy 170 lat kolei w Rybniku. Specjalne pociągi, spacery, atrakcje",
-        "url": "https://www.radio90.pl/swietujemy-170-lat-kolei-w-rybniku-specjalne-pociagi-spacery-atrakcje.html",
-        "date": "Thu, 15 Oct 2026 08:57:23 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
