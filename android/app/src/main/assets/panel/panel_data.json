@@ -1,26 +1,20 @@
 {
-  "generated": "2026-10-15T21:20:02+00:00",
+  "generated": "2026-10-15T22:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.3,
-    "feels": 6.3,
+    "temp": 8.5,
+    "feels": 6.4,
     "code": 2,
-    "wind": 5.4,
-    "humidity": 79,
+    "wind": 6.1,
+    "humidity": 80,
     "is_day": false,
-    "tmax": 12.6,
-    "tmin": 8.3,
+    "tmax": 15.5,
+    "tmin": 6.8,
     "forecast": [
       {
-        "date": "2026-10-15",
-        "max": 12.6,
-        "min": 8.3,
-        "code": 3
-      },
-      {
         "date": "2026-10-16",
-        "max": 15.4,
+        "max": 15.5,
         "min": 6.8,
         "code": 3
       },
@@ -29,9 +23,15 @@
         "max": 16.2,
         "min": 7.9,
         "code": 3
+      },
+      {
+        "date": "2026-10-18",
+        "max": 13.7,
+        "min": 6.3,
+        "code": 3
       }
     ],
-    "observed": "2026-10-15T23:15",
+    "observed": "2026-10-16T00:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82094,
-        "pln": 319593,
-        "chg24": 0.46
+        "usd": 82342,
+        "pln": 320622,
+        "chg24": 1.01
       },
       {
         "sym": "ETH",
-        "usd": 2451.9,
-        "pln": 9545.29,
-        "chg24": 1.48
+        "usd": 2459.6,
+        "pln": 9577.14,
+        "chg24": 2.17
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.605,
-        "chg": 3.7,
-        "as_of": "15.10 20:59"
+        "value": 57.595,
+        "chg": 3.68,
+        "as_of": "15.10 22:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5625,
-        "chg": -0.74,
-        "as_of": "15.10 20:59"
+        "value": 6.5685,
+        "chg": -0.65,
+        "as_of": "15.10 22:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 20:59",
+    "updated": "15.10 22:09",
     "stale": false
   },
   "fx": {
