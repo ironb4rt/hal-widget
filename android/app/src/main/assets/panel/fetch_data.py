@@ -48,9 +48,15 @@ BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 # Wiadomości (sekcja "news"): rynkowe + lokalne Bielsko-Biała (ustawione 14.10)
 MARKET_FEEDS = [("Mining.com", "https://mining.com/feed/")]
 LOCAL_FEEDS = [
-    ("BB24", "https://bielsko-biala24.pl/feed"),
-    ("BW", "https://bielsko-wiadomosci.pl/feed"),
+    ("RadioBielsko", "https://radiobielsko.pl/feed"),
+    ("Radio90", "https://www.radio90.pl/feed"),
 ]
+# Portale podmienione 15.10: bielsko-wiadomosci.pl i bielsko-biala24.pl żyją, ale
+# ich RSS to archiwum materiałów sponsorowanych (marzec 2025 / wrzesień 2026),
+# więc sekcja "lokalne" pokazywała artykuły sprzed roku. Oba radia mają świeże RSS.
+# Dodatkowe źródło lokalne bez RSS: https://bielsko.biala.pl/aktualnosci (bloki
+# <a class="news">, data w treści bloku) — do dodania, gdy zajdzie potrzeba.
+MAX_NEWS_AGE_D = 14  # filtr świeżości: news starszy niż 2 tygodnie wypada
 ROADS_URL = "https://bielskiedrogi.pl/"  # parsowany HTML (brak RSS)
 
 # Bielsko-Biała
@@ -311,13 +317,28 @@ def _roads(limit=6):
     return out
 
 
+def _swieze(items, limit):
+    """Filtr świeżości (15.10): odrzuca wpisy starsze niż MAX_NEWS_AGE_D dni.
+
+    Powód: martwy albo archiwalny feed nie może udawać bieżących wiadomości.
+    Wpisy bez daty zostają (część feedów ich nie podaje), ale wtedy ich miejsce
+    w kolejności jest ostatnie, bo _parse_rss_date zwraca 0."""
+    import time as _time
+    prog = _time.time() - MAX_NEWS_AGE_D * 86400
+    ok = [it for it in items if _parse_rss_date(it.get("date", "")) >= prog]
+    odrzucone = len(items) - len(ok)
+    if odrzucone:
+        sys.stderr.write(f"[info] news: odrzucono {odrzucone} wpisów starszych niż {MAX_NEWS_AGE_D} dni\n")
+    return ok[:limit]
+
+
 def fetch_news():
     """Rynkowe (mining.com; kitco nie ma już RSS, Bloomberg jest paywalowany —
     te dwa dochodzą na etapie biuletynu przez przeszukanie sieci)."""
     market = []
     for name, url in MARKET_FEEDS:
         try:
-            for it in _feed(url, ua=BROWSER_UA, limit=8):
+            for it in _swieze(_feed(url, ua=BROWSER_UA, limit=8), 8):
                 it["src"] = name
                 market.append(it)
         except Exception as e:
@@ -327,7 +348,7 @@ def fetch_news():
     local = []
     for name, url in LOCAL_FEEDS:
         try:
-            for it in _feed(url, limit=6):
+            for it in _swieze(_feed(url, limit=6), 6):
                 it["src"] = name
                 local.append(it)
         except Exception as e:
