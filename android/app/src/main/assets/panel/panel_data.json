@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-15T07:20:13+00:00",
+  "generated": "2026-10-15T08:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.5,
-    "feels": 6.9,
+    "temp": 10.1,
+    "feels": 7.7,
     "code": 3,
-    "wind": 11.2,
-    "humidity": 80,
+    "wind": 10.4,
+    "humidity": 78,
     "is_day": true,
     "tmax": 13.2,
-    "tmin": 8.2,
+    "tmin": 8.3,
     "forecast": [
       {
         "date": "2026-10-15",
         "max": 13.2,
-        "min": 8.2,
+        "min": 8.3,
         "code": 3
       },
       {
         "date": "2026-10-16",
         "max": 15.4,
-        "min": 7.8,
+        "min": 7.9,
         "code": 3
       },
       {
         "date": "2026-10-17",
         "max": 16.5,
-        "min": 8.2,
+        "min": 8.3,
         "code": 3
       }
     ],
-    "observed": "2026-10-15T09:15",
+    "observed": "2026-10-15T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80972,
-        "pln": 315599,
-        "chg24": -2.92
+        "usd": 81151,
+        "pln": 316021,
+        "chg24": -3.11
       },
       {
         "sym": "ETH",
-        "usd": 2363.69,
-        "pln": 9212.8,
-        "chg24": -5.58
+        "usd": 2364.31,
+        "pln": 9207.18,
+        "chg24": -6.03
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.445,
-        "chg": 1.61,
-        "as_of": "15.10 07:10"
+        "value": 56.735,
+        "chg": 2.13,
+        "as_of": "15.10 08:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5675,
-        "chg": -0.67,
-        "as_of": "15.10 07:10"
+        "value": 6.539,
+        "chg": -1.1,
+        "as_of": "15.10 08:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3835,
-        "chg": -2.49,
-        "as_of": "15.10 02:47"
+        "value": 1.39,
+        "chg": -0.7,
+        "as_of": "15.10 07:37"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 07:10",
+    "updated": "15.10 08:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,27 @@
     ],
     "local": [
       {
+        "title": "Strażacy z Rybnika znów mieli pełne ręce roboty",
+        "url": "https://www.radio90.pl/strazacy-z-rybnika-znow-mieli-pelne-rece-roboty.html",
+        "date": "Thu, 15 Oct 2026 07:50:06 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dzień Dziecka Utraconego w Bielsku-Białej. Uroczystości na cmentarzu na Leszczynach",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/dzien-dziecka-utraconego-w-bielsku-bialej-uroczystosci-na-cmentarzu-na-leszczynach/101050/",
+        "date": "Thu, 15 Oct 2026 07:36:12 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Najlepiej strzelają, najlepiej pracują na miejscu zdarzenia. Policjanci z Cieszyna zwycięzcami konkursu dla kryminalnych",
         "url": "https://www.radio90.pl/najlepiej-strzelaja-najlepiej-pracuja-na-miejscu-zdarzenia-policjanci-z-cieszyna-zwyciezcami-konkursu-dla-kryminalnych.html",
         "date": "Thu, 15 Oct 2026 07:05:53 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Wyjątkowy Dzień Edukacji Narodowej dla „Bielskiego Muzyka”! Specjalne wyróżnienie dla dyrektor Barbary Cybulskiej-Konsek!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/wyjatkowy-dzien-edukacji-narodowej-dla-bielskiego-muzyka-specjalne-wyroznienie-dla-dyrektor-barbary-cybulskiej-konsek/101027/",
-        "date": "Thu, 15 Oct 2026 06:09:16 +0000",
+        "title": "„Oddajcie ludziom pieniądze”. Transparenty przed kopalnią Silesia",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/oddajcie-ludziom-pieniadze-transparenty-przed-kopalnia-silesia/101042/",
+        "date": "Thu, 15 Oct 2026 07:24:39 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Z zamku znikają dekoracje? Na horyzoncie widać już finisz PSK 26",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/z-zamku-znikaja-dekoracje-na-horyzoncie-widac-juz-koniec-psk/101020/",
-        "date": "Wed, 14 Oct 2026 21:12:11 +0000",
+        "title": "Wyjątkowy Dzień Edukacji Narodowej dla „Bielskiego Muzyka”! Specjalne wyróżnienie dla dyrektor Barbary Cybulskiej-Konsek!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/wyjatkowy-dzien-edukacji-narodowej-dla-bielskiego-muzyka-specjalne-wyroznienie-dla-dyrektor-barbary-cybulskiej-konsek/101027/",
+        "date": "Thu, 15 Oct 2026 06:09:16 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,21 +195,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Kolizja trzech samochodów na S52. Droga w kierunku Bielska-Białej była zablokowana",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/kolizja-trzech-samochodow-na-s52-droga-w-kierunku-bielska-bialej-byla-zablokowana/101012/",
-        "date": "Wed, 14 Oct 2026 17:05:37 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Złodziej w Żorach. Próbował ukraść kilkanaście opakowań kawy. Będzie odpowiadał przed sądem",
-        "url": "https://www.radio90.pl/zlodziej-w-zorach-probowal-ukrasc-kilkanascie-opakowan-kawy-bedzie-odpowiadal-przed-sadem.html",
-        "date": "Thu, 15 Oct 2026 04:50:42 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "W tych zespołach przeważa młodzież. Oto najmłodsze drużyny IV ligi",
-        "url": "https://www.radiobielsko.pl/sport/w-tych-zespolach-przewaza-mlodziez-oto-najmlodsze-druzyny-iv-ligi/100180/",
-        "date": "Wed, 14 Oct 2026 15:42:00 +0000",
+        "title": "Z zamku znikają dekoracje? Na horyzoncie widać już finisz PSK 26",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/z-zamku-znikaja-dekoracje-na-horyzoncie-widac-juz-koniec-psk/101020/",
+        "date": "Wed, 14 Oct 2026 21:12:11 +0000",
         "src": "RadioBielsko"
       }
     ],
