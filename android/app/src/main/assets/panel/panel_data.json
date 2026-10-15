@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-15T10:20:14+00:00",
+  "generated": "2026-10-15T11:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.3,
-    "feels": 9.1,
-    "code": 3,
-    "wind": 9.0,
-    "humidity": 72,
+    "temp": 12.0,
+    "feels": 9.8,
+    "code": 1,
+    "wind": 8.6,
+    "humidity": 67,
     "is_day": true,
     "tmax": 13.1,
     "tmin": 7.8,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-15T12:15",
+    "observed": "2026-10-15T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81111,
-        "pln": 315974,
-        "chg24": -2.66
+        "usd": 80976,
+        "pln": 315374,
+        "chg24": -2.88
       },
       {
         "sym": "ETH",
-        "usd": 2367.65,
-        "pln": 9223.42,
-        "chg24": -5.26
+        "usd": 2364.53,
+        "pln": 9208.98,
+        "chg24": -5.53
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.84,
-        "chg": 2.32,
-        "as_of": "15.10 10:10"
+        "value": 56.85,
+        "chg": 2.34,
+        "as_of": "15.10 11:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5665,
-        "chg": -0.68,
-        "as_of": "15.10 10:10"
+        "value": 6.556,
+        "chg": -0.84,
+        "as_of": "15.10 11:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.39,
-        "chg": -0.7,
-        "as_of": "15.10 07:37"
+        "value": 1.3966,
+        "chg": -0.23,
+        "as_of": "15.10 11:08"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 10:10",
+    "updated": "15.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,27 @@
     ],
     "local": [
       {
-        "title": "NA GWIZDEK. Wojciech Szczurek. „Człowiek uczy się na błędach, a najlepiej na swoich”",
-        "url": "https://www.radiobielsko.pl/sport/na-gwizdek-wojciech-szczurek-czlowiek-uczy-sie-na-bledach-a-najlepiej-na-swoich/101033/",
-        "date": "Thu, 15 Oct 2026 09:54:40 +0000",
+        "title": "Trzecia wygrana koszykarzy MKKS Rybnik. Dobra passa niech trwa jak najdłużej",
+        "url": "https://www.radio90.pl/trzecia-wygrana-koszykarzy-mkks-rybnik-dobra-passa-niech-trwa-jak-najdluzej.html",
+        "date": "Thu, 15 Oct 2026 11:20:13 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Trzymał się kurczowo ogrodzenia. Pomoc przyszła z dwóch stron",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/trzymal-sie-kurczowo-ogrodzenia-pomoc-przyszla-z-dwoch-stron/101097/",
+        "date": "Thu, 15 Oct 2026 10:48:30 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Utrudnienia w Gaszowicach w związku z biegiem WARTKO. Będą zamknięte drogi",
+        "url": "https://www.radio90.pl/utrudnienia-w-gaszowicach-w-zwiazku-z-biegiem-wartko-beda-zamkniete-drogi.html",
+        "date": "Thu, 15 Oct 2026 10:30:01 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Nagrody im. ks. Leopolda Jana Szersznika wręczone. Troje laureatów wyróżnionych",
+        "url": "https://www.radiobielsko.pl/cieszyn/nagrody-im-ks-leopolda-jana-szersznika-wreczone-troje-laureatow-wyroznionych/101104/",
+        "date": "Thu, 15 Oct 2026 10:23:12 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Setki książek pod jednym dachem. Jutro rusza festiwal książki BBook",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/setki-ksiazek-pod-jednym-dachem-jutro-rusza-festiwal-ksiazki-bbook/101077/",
-        "date": "Thu, 15 Oct 2026 09:45:07 +0000",
+        "title": "NA GWIZDEK. Wojciech Szczurek. „Człowiek uczy się na błędach, a najlepiej na swoich”",
+        "url": "https://www.radiobielsko.pl/sport/na-gwizdek-wojciech-szczurek-czlowiek-uczy-sie-na-bledach-a-najlepiej-na-swoich/101033/",
+        "date": "Thu, 15 Oct 2026 09:54:40 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,31 +195,18 @@
         "src": "Radio90"
       },
       {
-        "title": "Potrójna dawka szczęścia w Szpitalu Wojewódzkim. Na świat przyszły trojaczki!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/potrojna-dawka-szczescia-w-szpitalu-wojewodzkim-na-swiat-przyszly-trojaczki/101090/",
-        "date": "Thu, 15 Oct 2026 09:33:04 +0000",
+        "title": "Setki książek pod jednym dachem. Jutro rusza festiwal książki BBook",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/setki-ksiazek-pod-jednym-dachem-jutro-rusza-festiwal-ksiazki-bbook/101077/",
+        "date": "Thu, 15 Oct 2026 09:45:07 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Śląska policja z raportem drogowym z minionej doby. I znów apel o zachowanie ostrożności",
-        "url": "https://www.radio90.pl/slaska-policja-z-raportem-drogowym-z-minionej-doby-i-znow-apel-o-zachowanie-ostroznosci.html",
-        "date": "Thu, 15 Oct 2026 08:30:31 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Zrobiło się niebezpiecznie i nerwowo",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/zrobilo-sie-niebezpiecznie-i-nerwowo/101072/",
-        "date": "Thu, 15 Oct 2026 09:13:31 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Strażacy z Rybnika znów mieli pełne ręce roboty",
-        "url": "https://www.radio90.pl/strazacy-z-rybnika-znow-mieli-pelne-rece-roboty.html",
-        "date": "Thu, 15 Oct 2026 07:50:06 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "GEELY w Pszczynie. Światowa marka z lokalnym adresem",
+        "url": "/informacje/21000-geely-w-pszczynie-swiatowa-marka-z-lokalnym-adresem",
+        "date": ""
+      },
       {
         "title": "Gorący tematKolizja Chevroleta Corvetty, Porche i Fiata na DK-81 w Pawłowicach - film z momentem zderzenia",
         "url": "/informacje/20996-kolizja-chevroleta-corvetty-porche-i-fiata-na-dk-81-w-pawlowicach-film-z-momentem-zderzenia",
@@ -225,11 +230,6 @@
       {
         "title": "Zderzenie na S-1 w Dankowicach. Młoda kobieta za kierownicą BMW. W tle m.in. narkotyki",
         "url": "/informacje/20991-zderzenie-na-s-1-w-dankowicach-mloda-kobieta-za-kierownica-bmw-w-tle-m-in-narkotyki",
-        "date": ""
-      },
-      {
-        "title": "Gorący temat[FOTO] Nocny pożar w Szczyrku. Dach w ogniu, strop się zawalił, 11 zastępów straży w akcji",
-        "url": "/informacje/20990-foto-nocny-pozar-w-szczyrku-dach-w-ogniu-strop-sie-zawalil-11-zastepow-strazy-w-akcji",
         "date": ""
       }
     ],
