@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-15T13:20:15+00:00",
+  "generated": "2026-10-15T14:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 12.8,
-    "feels": 10.2,
-    "code": 1,
-    "wind": 8.3,
-    "humidity": 57,
+    "feels": 10.1,
+    "code": 0,
+    "wind": 9.0,
+    "humidity": 55,
     "is_day": true,
     "tmax": 12.8,
-    "tmin": 7.9,
+    "tmin": 8.2,
     "forecast": [
       {
         "date": "2026-10-15",
         "max": 12.8,
-        "min": 7.9,
+        "min": 8.2,
         "code": 3
       },
       {
         "date": "2026-10-16",
-        "max": 15.3,
+        "max": 15.2,
         "min": 7.0,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 17.2,
+        "max": 17.1,
         "min": 7.8,
         "code": 3
       }
     ],
-    "observed": "2026-10-15T15:15",
+    "observed": "2026-10-15T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80408,
-        "pln": 313460,
-        "chg24": -2.39
+        "usd": 81135,
+        "pln": 316352,
+        "chg24": -0.98
       },
       {
         "sym": "ETH",
-        "usd": 2347.26,
-        "pln": 9150.5,
-        "chg24": -4.72
+        "usd": 2371.06,
+        "pln": 9244.94,
+        "chg24": -2.51
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.745,
-        "chg": 2.15,
-        "as_of": "15.10 13:10"
+        "value": 56.775,
+        "chg": 2.21,
+        "as_of": "15.10 14:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5545,
-        "chg": -0.86,
-        "as_of": "15.10 13:10"
+        "value": 6.5465,
+        "chg": -0.98,
+        "as_of": "15.10 14:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3997,
-        "chg": -0.02,
-        "as_of": "15.10 12:48"
+        "value": 1.395,
+        "chg": -0.35,
+        "as_of": "15.10 13:52"
       },
       {
         "sym": "HRC",
@@ -89,23 +89,29 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 13:10",
+    "updated": "15.10 14:10",
     "stale": false
   },
   "fx": {
     "ok": true,
-    "date": "2026-10-14",
-    "usdpln": 3.8998,
-    "usdeur": 0.89326,
+    "date": "2026-10-15",
+    "usdpln": 3.899,
+    "usdeur": 0.89222,
     "stale": false
   },
   "news": {
     "ok": true,
     "market": [
       {
+        "title": "Antofagasta shares sink as 2027 copper outlook falls flat",
+        "url": "https://www.mining.com/antofagasta-shares-sink-as-2027-copper-outlook-falls-flat/",
+        "date": "Thu, 15 Oct 2026 12:03:00 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Richemont, Signet weigh joining De Beers consortium bid",
         "url": "https://www.mining.com/richemont-signet-weigh-joining-de-beers-consortium-bid/",
-        "date": "Thu, 15 Oct 2026 12:43:11 +0000",
+        "date": "Thu, 15 Oct 2026 10:53:00 +0000",
         "src": "Mining.com"
       },
       {
@@ -143,15 +149,27 @@
         "url": "https://www.mining.com/copper-price-forecasts-lifted-for-2026-but-tariff-collapse-still-on-the-table/",
         "date": "Wed, 14 Oct 2026 16:31:08 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Former Rio Tinto, Anglo American executive named ICMM’s first woman CEO",
-        "url": "https://www.mining.com/former-rio-tinto-anglo-american-executive-named-icmms-first-woman-ceo/",
-        "date": "Wed, 14 Oct 2026 15:02:54 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Dziwne znalezisko w powiecie oświęcimskim. To fragment czołgu?",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/dziwne-znalezisko-w-powiecie-oswiecimskim-to-fragment-czolgu/101135/",
+        "date": "Thu, 15 Oct 2026 14:10:47 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Zespół Szkół Wyższych w Rybniku reaktywacja? Pięć uczelni zainaugurowało wspólnie nowy rok akademicki [ZDJĘCIA][WIDEO]",
+        "url": "https://www.radio90.pl/zespol-szkol-wyzszych-w-rybniku-reaktywacja-piec-uczelni-zainaugurowalo-wspolnie-nowy-rok-akademicki.html",
+        "date": "Thu, 15 Oct 2026 13:45:38 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "W tych zespołach dominuje doświadczenie. Oto najstarsze drużyny IV ligi",
+        "url": "https://www.radiobielsko.pl/sport/w-tych-zespolach-dominuje-doswiadczenie-oto-najstarsze-druzyny-iv-ligi/101122/",
+        "date": "Thu, 15 Oct 2026 13:30:07 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Rowerem velostradą z Rybnika do miast metropolii?",
         "url": "https://www.radio90.pl/rowerem-velostrada-z-rybnika-do-miast-metropolii.html",
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/trzecia-wygrana-koszykarzy-mkks-rybnik-dobra-passa-niech-trwa-jak-najdluzej.html",
         "date": "Thu, 15 Oct 2026 11:20:13 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Trzymał się kurczowo ogrodzenia. Pomoc przyszła z dwóch stron",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/trzymal-sie-kurczowo-ogrodzenia-pomoc-przyszla-z-dwoch-stron/101097/",
-        "date": "Thu, 15 Oct 2026 10:48:30 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Utrudnienia w Gaszowicach w związku z biegiem WARTKO. Będą zamknięte drogi",
-        "url": "https://www.radio90.pl/utrudnienia-w-gaszowicach-w-zwiazku-z-biegiem-wartko-beda-zamkniete-drogi.html",
-        "date": "Thu, 15 Oct 2026 10:30:01 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Nagrody im. ks. Leopolda Jana Szersznika wręczone. Troje laureatów wyróżnionych",
-        "url": "https://www.radiobielsko.pl/cieszyn/nagrody-im-ks-leopolda-jana-szersznika-wreczone-troje-laureatow-wyroznionych/101104/",
-        "date": "Thu, 15 Oct 2026 10:23:12 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
