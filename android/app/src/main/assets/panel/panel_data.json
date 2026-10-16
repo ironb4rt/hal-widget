@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-15T23:20:03+00:00",
+  "generated": "2026-10-16T00:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.3,
-    "feels": 5.9,
-    "code": 2,
-    "wind": 7.6,
+    "temp": 8.1,
+    "feels": 5.5,
+    "code": 1,
+    "wind": 9.0,
     "humidity": 79,
     "is_day": false,
     "tmax": 15.4,
@@ -16,7 +16,7 @@
         "date": "2026-10-16",
         "max": 15.4,
         "min": 6.8,
-        "code": 3
+        "code": 2
       },
       {
         "date": "2026-10-17",
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-16T01:15",
+    "observed": "2026-10-16T02:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82113,
-        "pln": 319853,
-        "chg24": 0.72
+        "usd": 82266,
+        "pln": 320542,
+        "chg24": 0.82
       },
       {
         "sym": "ETH",
-        "usd": 2438.8,
-        "pln": 9499.78,
-        "chg24": 0.87
+        "usd": 2442.9,
+        "pln": 9518.61,
+        "chg24": 0.89
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.415,
-        "chg": 3.36,
-        "as_of": "15.10 23:10"
+        "value": 57.315,
+        "chg": 3.18,
+        "as_of": "16.10 00:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.56,
-        "chg": -0.78,
-        "as_of": "15.10 23:07"
+        "value": 6.5565,
+        "chg": -0.83,
+        "as_of": "16.10 00:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4051,
-        "chg": 0.37,
-        "as_of": "15.10 23:03"
+        "value": 1.4022,
+        "chg": 0.16,
+        "as_of": "15.10 23:21"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "15.10 23:10",
+    "updated": "16.10 00:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Minnova maps $53M restart for Manitoba gold mine",
+        "url": "https://www.mining.com/minnova-maps-53m-restart-for-manitoba-gold-mine/",
+        "date": "Thu, 15 Oct 2026 23:24:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Tech giants come knocking for a piece of Anglo American as copper scarcity bites, Wanblad tells FT",
         "url": "https://www.mining.com/tech-giants-come-knocking-for-a-piece-of-anglo-american-as-copper-scarcity-bites-wanblad-tells-ft/",
@@ -142,12 +148,6 @@
         "title": "Tenaris produces new steel grade for Canadian energy operators",
         "url": "https://www.mining.com/tenaris-produces-new-steel-grade-for-canadian-energy-operators/",
         "date": "Wed, 14 Oct 2026 22:50:28 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Canadian Chrome Company launches First Nations advisory committee",
-        "url": "https://www.mining.com/canadian-chrome-company-launches-first-nations-advisory-committee/",
-        "date": "Wed, 14 Oct 2026 21:30:00 +0000",
         "src": "Mining.com"
       }
     ],
