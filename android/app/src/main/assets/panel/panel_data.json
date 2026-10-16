@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-16T14:20:08+00:00",
+  "generated": "2026-10-16T15:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 15.1,
-    "feels": 12.3,
+    "temp": 14.4,
+    "feels": 11.6,
     "code": 0,
-    "wind": 9.0,
-    "humidity": 46,
+    "wind": 10.8,
+    "humidity": 53,
     "is_day": true,
-    "tmax": 15.3,
+    "tmax": 15.5,
     "tmin": 6.6,
     "forecast": [
       {
         "date": "2026-10-16",
-        "max": 15.3,
+        "max": 15.5,
         "min": 6.6,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 17.0,
-        "min": 8.1,
+        "max": 16.7,
+        "min": 8.4,
         "code": 3
       },
       {
         "date": "2026-10-18",
-        "max": 15.3,
-        "min": 7.4,
-        "code": 45
+        "max": 14.9,
+        "min": 8.2,
+        "code": 3
       }
     ],
-    "observed": "2026-10-16T16:15",
+    "observed": "2026-10-16T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82262,
-        "pln": 319261,
-        "chg24": 1.27
+        "usd": 81627,
+        "pln": 316848,
+        "chg24": -0.72
       },
       {
         "sym": "ETH",
-        "usd": 2470.64,
-        "pln": 9588.67,
-        "chg24": 4.06
+        "usd": 2443.7,
+        "pln": 9485.63,
+        "chg24": 0.85
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.765,
-        "chg": 1.63,
-        "as_of": "16.10 14:09"
+        "value": 57.78,
+        "chg": 1.66,
+        "as_of": "16.10 15:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6005,
-        "chg": 1.37,
-        "as_of": "16.10 14:09"
+        "value": 6.6135,
+        "chg": 1.57,
+        "as_of": "16.10 15:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4025,
-        "chg": -0.15,
-        "as_of": "16.10 13:55"
+        "value": 1.4057,
+        "chg": 0.08,
+        "as_of": "16.10 14:42"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 14:09",
+    "updated": "16.10 15:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,33 @@
     ],
     "local": [
       {
+        "title": "Zanim zapłoną znicze… Ostatni spacer w tym roku",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/zanim-zaplona-znicze-ostatni-spacer-w-tym-roku/101295/",
+        "date": "Fri, 16 Oct 2026 14:50:06 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Dzieje się w Rybniku: świętujemy dzień szefa, jeżdzimy pociągami retro i bawimy się na 30-leciu pracy artystycznej Ani Wyszkoni",
+        "url": "https://www.radio90.pl/dzieje-sie-w-rybniku-swietujemy-dzien-szefa-jezdzimy-pociagami-retro-i-bawimy-sie-na-30-leciu-pracy-artystycznej-ani-wyszkoni.html",
+        "date": "Fri, 16 Oct 2026 14:40:34 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Od beskidzkiego zbójnika po boys love. BBOOK czeka!",
         "url": "https://www.radiobielsko.pl/bielsko-biala/od-beskidzkiego-zbojnika-po-boys-love-bbook-czeka/101241/",
         "date": "Fri, 16 Oct 2026 14:00:52 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Remont ulicy Norwida w Jastrzębiu-Zdroju. Wylano nowy asfalt na prawie pół kilometrowym odcinku drogi",
+        "url": "https://www.radio90.pl/remont-ulicy-norwida-w-jastrzebiu-zdroju-wylano-nowy-asfalt-na-prawie-pol-kilometrowym-odcinku-drogi.html",
+        "date": "Fri, 16 Oct 2026 14:20:48 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Po 65 latach RKS STAL Czechowice-Dziedzice wraca do boksu olimpijskiego. „To pierwszy duży krok”",
+        "url": "https://www.radiobielsko.pl/sport/po-65-latach-rks-stal-czechowice-dziedzice-wraca-do-boksu-olimpijskiego-to-pierwszy-duzy-krok/101280/",
+        "date": "Fri, 16 Oct 2026 13:48:06 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,39 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Po 65 latach RKS „STAL” Czechowice-Dziedzice wraca do boksu olimpijskiego. „To pierwszy duży krok”",
-        "url": "https://www.radiobielsko.pl/sport/po-65-latach-rks-stal-czechowice-dziedzice-wraca-do-boksu-olimpijskiego-to-pierwszy-duzy-krok/101280/",
-        "date": "Fri, 16 Oct 2026 13:48:06 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Ćwiczą to, co może przydać się każdego dnia. Trwają Jastrzębskie Manewry Ratownicze [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/cwicza-to-co-moze-przydac-sie-kazdego-dnia-trwaja-jastrzebskie-manewry-ratownicze-zdjecia.html",
-        "date": "Fri, 16 Oct 2026 13:15:01 +0000",
-        "src": "Radio90"
-      },
-      {
         "title": "Był ikoną polskiej telewizji. Stanisław Janicki urodził się w tym budynku",
         "url": "https://www.radiobielsko.pl/powiat-bielski/byl-ikona-polskiej-telewizji-stanislaw-janicki-urodzil-sie-w-tym-budynku/101259/",
         "date": "Fri, 16 Oct 2026 13:47:41 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Turyści ewakuowani z kolei linowych w Beskidach! Na szczęście to tylko ćwiczenia ratowników górskich [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/turysci-ewakuowani-z-kolei-linowych-w-beskidach-na-szczescie-to-tylko-cwiczenia-ratownikow-gorskich-zdjecia.html",
-        "date": "Fri, 16 Oct 2026 12:35:01 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Sejmowa komisja obradowała w Bielsku-Białej",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/sejmowa-komisja-obradowala-w-bielsku-bialej/101265/",
-        "date": "Fri, 16 Oct 2026 13:00:04 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "W Kornowacu trwa II Festiwal Zdrowia Kobiet. Wydarzenie wbrew nazwie jest nie tylko dla pań [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/w-kornowacu-trwa-ii-festiwal-zdrowia-kobiet-wydarzenie-wbrew-nazwie-jest-nie-tylko-dla-pan-zdjecia.html",
-        "date": "Fri, 16 Oct 2026 11:50:02 +0000",
+        "title": "Ćwiczą to, co może przydać się każdego dnia. Trwają Jastrzębskie Manewry Ratownicze [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/cwicza-to-co-moze-przydac-sie-kazdego-dnia-trwaja-jastrzebskie-manewry-ratownicze-zdjecia.html",
+        "date": "Fri, 16 Oct 2026 13:15:01 +0000",
         "src": "Radio90"
       }
     ],
