@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-16T05:20:05+00:00",
+  "generated": "2026-10-16T06:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.8,
-    "feels": 4.0,
+    "temp": 7.5,
+    "feels": 4.7,
     "code": 0,
-    "wind": 8.6,
-    "humidity": 77,
+    "wind": 8.3,
+    "humidity": 72,
     "is_day": true,
-    "tmax": 15.4,
-    "tmin": 6.7,
+    "tmax": 15.6,
+    "tmin": 6.6,
     "forecast": [
       {
         "date": "2026-10-16",
-        "max": 15.4,
-        "min": 6.7,
+        "max": 15.6,
+        "min": 6.6,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 16.5,
-        "min": 8.0,
+        "max": 17.2,
+        "min": 8.3,
         "code": 3
       },
       {
         "date": "2026-10-18",
-        "max": 13.9,
+        "max": 14.2,
         "min": 6.9,
         "code": 3
       }
     ],
-    "observed": "2026-10-16T07:15",
+    "observed": "2026-10-16T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82161,
-        "pln": 319861,
-        "chg24": 1.23
+        "usd": 81972,
+        "pln": 319155,
+        "chg24": 1.41
       },
       {
         "sym": "ETH",
-        "usd": 2446.64,
-        "pln": 9525.03,
-        "chg24": 3.48
+        "usd": 2440.19,
+        "pln": 9500.86,
+        "chg24": 3.42
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.89,
-        "chg": 1.85,
-        "as_of": "16.10 05:09"
+        "value": 57.72,
+        "chg": 1.55,
+        "as_of": "16.10 06:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6305,
-        "chg": 1.83,
-        "as_of": "16.10 05:10"
+        "value": 6.624,
+        "chg": 1.73,
+        "as_of": "16.10 06:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 05:10",
+    "updated": "16.10 06:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Hokeiści JKH GKS Jastrzębie podejmują Energę z Torunia",
-        "url": "https://www.radio90.pl/hokeisci-jkh-gks-jastrzebie-podejmuja-energe-z-torunia.html",
-        "date": "Fri, 16 Oct 2026 04:45:02 +0000",
+        "title": "Przerwa w dostawie prądu w Gogołowej. Utrudnienia pod kilkoma adresami",
+        "url": "https://www.radio90.pl/przerwa-w-dostawie-pradu-w-gogolowej-utrudnienia-pod-kilkoma-adresami.html",
+        "date": "Fri, 16 Oct 2026 06:02:24 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Strzały, wybuchy i dym. Wojsko zapowiada ćwiczenia",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/strzaly-wybuchy-i-dym-wojsko-zapowiada-cwiczenia/101187/",
+        "date": "Fri, 16 Oct 2026 05:40:43 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Dawna kopalnia Anna w Pszowie się zmienia. Jest już żłobek, będzie parking",
+        "url": "https://www.radio90.pl/dawna-kopalnia-anna-w-pszowie-sie-zmienia-jest-juz-zlobek-bedzie-parking.html",
+        "date": "Fri, 16 Oct 2026 05:45:41 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Zaginął Arkadiusz Sosna. 48-latek przebywał w szpitalu psychiatrycznym w Rybniku. Opuścił go i ślad po nim zaginął",
-        "url": "https://www.radio90.pl/zaginal-arkadiusz-sosna-48-latek-przebywal-w-szpitalu-psychiatrycznym-w-rybniku-opuscil-go-i-slad-po-nim-zaginal.html",
-        "date": "Thu, 15 Oct 2026 20:52:35 +0000",
+        "title": "Hokeiści JKH GKS Jastrzębie podejmują Energę z Torunia",
+        "url": "https://www.radio90.pl/hokeisci-jkh-gks-jastrzebie-podejmuja-energe-z-torunia.html",
+        "date": "Fri, 16 Oct 2026 04:45:02 +0000",
         "src": "Radio90"
       },
       {
@@ -186,18 +198,6 @@
         "title": "Otwarcie symbolicznej bramy w Tajemniczym Ogrodzie",
         "url": "https://www.radiobielsko.pl/bielsko-biala/otwarcie-symbolicznej-bramy-w-tajemniczym-ogrodzie/101154/",
         "date": "Thu, 15 Oct 2026 16:30:28 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Ognista Kuźnia, czyli wielkie ćwiczenia służb w Kuźni Raciborskiej",
-        "url": "https://www.radio90.pl/ognista-kuznia-czyli-wielkie-cwiczenia-sluzb-w-kuzni-raciborskiej.html",
-        "date": "Thu, 15 Oct 2026 17:45:51 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Posłanka z Kutna interesuje się Zwardoniem",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/poslanka-z-kutna-interesuje-sie-zwardoniem/101141/",
-        "date": "Thu, 15 Oct 2026 14:56:39 +0000",
         "src": "RadioBielsko"
       }
     ],
