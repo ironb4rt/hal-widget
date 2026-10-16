@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-16T13:20:07+00:00",
+  "generated": "2026-10-16T14:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 15.3,
-    "feels": 13.2,
+    "temp": 15.1,
+    "feels": 12.3,
     "code": 0,
-    "wind": 3.6,
-    "humidity": 44,
+    "wind": 9.0,
+    "humidity": 46,
     "is_day": true,
-    "tmax": 15.4,
+    "tmax": 15.3,
     "tmin": 6.6,
     "forecast": [
       {
         "date": "2026-10-16",
-        "max": 15.4,
+        "max": 15.3,
         "min": 6.6,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 17.1,
-        "min": 8.0,
+        "max": 17.0,
+        "min": 8.1,
         "code": 3
       },
       {
         "date": "2026-10-18",
         "max": 15.3,
-        "min": 7.1,
+        "min": 7.4,
         "code": 45
       }
     ],
-    "observed": "2026-10-16T15:15",
+    "observed": "2026-10-16T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81913,
-        "pln": 318362,
-        "chg24": 1.9
+        "usd": 82262,
+        "pln": 319261,
+        "chg24": 1.27
       },
       {
         "sym": "ETH",
-        "usd": 2461.28,
-        "pln": 9566.01,
-        "chg24": 4.88
+        "usd": 2470.64,
+        "pln": 9588.67,
+        "chg24": 4.06
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.69,
-        "chg": 1.5,
-        "as_of": "16.10 13:10"
+        "value": 57.765,
+        "chg": 1.63,
+        "as_of": "16.10 14:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.629,
-        "chg": 1.8,
-        "as_of": "16.10 13:10"
+        "value": 6.6005,
+        "chg": 1.37,
+        "as_of": "16.10 14:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4058,
-        "chg": 0.09,
-        "as_of": "16.10 13:00"
+        "value": 1.4025,
+        "chg": -0.15,
+        "as_of": "16.10 13:55"
       },
       {
         "sym": "HRC",
@@ -89,19 +89,25 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 13:10",
+    "updated": "16.10 14:09",
     "stale": false
   },
   "fx": {
     "ok": true,
-    "date": "2026-10-15",
-    "usdpln": 3.899,
-    "usdeur": 0.89222,
+    "date": "2026-10-16",
+    "usdpln": 3.8834,
+    "usdeur": 0.88865,
     "stale": false
   },
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "US Project Vault readies $1B loan blitz for industry",
+        "url": "https://www.mining.com/us-project-vault-readies-1b-loan-blitz-for-industry/",
+        "date": "Fri, 16 Oct 2026 12:39:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Vale says soaring costs put 10% of iron ore in the red",
         "url": "https://www.mining.com/vale-says-soaring-costs-put-10-of-iron-ore-in-the-red/",
@@ -143,15 +149,27 @@
         "url": "https://www.mining.com/antofagasta-shares-sink-as-2027-copper-outlook-falls-flat/",
         "date": "Thu, 15 Oct 2026 12:03:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Richemont, Signet weigh joining De Beers consortium bid",
-        "url": "https://www.mining.com/richemont-signet-weigh-joining-de-beers-consortium-bid/",
-        "date": "Thu, 15 Oct 2026 10:53:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Od beskidzkiego zbójnika po boys love. BBOOK czeka!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/od-beskidzkiego-zbojnika-po-boys-love-bbook-czeka/101241/",
+        "date": "Fri, 16 Oct 2026 14:00:52 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Zawyją syreny alarmowe w hołdzie strażakom, którzy zginęli podczas akcji. Upamiętnią ich jednostki PSP i OSP",
+        "url": "https://www.radio90.pl/zawyja-syreny-alarmowe-w-holdzie-strazakom-ktorzy-zgineli-podczas-akcji-upamietnia-ich-jednostki-psp-i-osp.html",
+        "date": "Fri, 16 Oct 2026 13:45:50 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Po 65 latach RKS „STAL” Czechowice-Dziedzice wraca do boksu olimpijskiego. „To pierwszy duży krok”",
+        "url": "https://www.radiobielsko.pl/sport/po-65-latach-rks-stal-czechowice-dziedzice-wraca-do-boksu-olimpijskiego-to-pierwszy-duzy-krok/101280/",
+        "date": "Fri, 16 Oct 2026 13:48:06 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Ćwiczą to, co może przydać się każdego dnia. Trwają Jastrzębskie Manewry Ratownicze [ZDJĘCIA]",
         "url": "https://www.radio90.pl/cwicza-to-co-moze-przydac-sie-kazdego-dnia-trwaja-jastrzebskie-manewry-ratownicze-zdjecia.html",
@@ -159,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Sejmowa komisja obradowała w Bielsku-Białej",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/sejmowa-komisja-obradowala-w-bielsku-bialej/101265/",
-        "date": "Fri, 16 Oct 2026 13:00:04 +0000",
+        "title": "Był ikoną polskiej telewizji. Stanisław Janicki urodził się w tym budynku",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/byl-ikona-polskiej-telewizji-stanislaw-janicki-urodzil-sie-w-tym-budynku/101259/",
+        "date": "Fri, 16 Oct 2026 13:47:41 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Radio BIELSKO oficjalnym partnerem medialnym BBTS-u. Będziemy bliżej drużyny i jej kibiców",
-        "url": "https://www.radiobielsko.pl/sport/radio-bielsko-oficjalnym-partnerem-medialnym-bbts-u-bedziemy-blizej-druzyny-i-jej-kibicow/101263/",
-        "date": "Fri, 16 Oct 2026 12:58:10 +0000",
+        "title": "Sejmowa komisja obradowała w Bielsku-Białej",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/sejmowa-komisja-obradowala-w-bielsku-bialej/101265/",
+        "date": "Fri, 16 Oct 2026 13:00:04 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/w-kornowacu-trwa-ii-festiwal-zdrowia-kobiet-wydarzenie-wbrew-nazwie-jest-nie-tylko-dla-pan-zdjecia.html",
         "date": "Fri, 16 Oct 2026 11:50:02 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Sądowe zakazy nie zrobiły na nich większego wrażenia",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/sadowe-zakazy-nie-zrobily-na-nich-wiekszego-wrazenia/101247/",
-        "date": "Fri, 16 Oct 2026 12:40:16 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Dzisiaj dzień szefa. Pytamy, jaki powinien być szef?",
-        "url": "https://www.radio90.pl/dzisiaj-dzien-szefa-pytamy-jaki-powinien-byc-szef.html",
-        "date": "Fri, 16 Oct 2026 11:00:15 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Miasto chce sprzedać zabytkową kamienicę w centrum. Remont może kosztować kilka milionów",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/miasto-chce-sprzedac-zabytkowa-kamienice-w-centrum-remont-moze-kilka-milionow/101243/",
-        "date": "Fri, 16 Oct 2026 12:21:05 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
