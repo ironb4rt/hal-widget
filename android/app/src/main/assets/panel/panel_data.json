@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-16T17:20:09+00:00",
+  "generated": "2026-10-16T18:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.5,
-    "feels": 9.4,
+    "temp": 10.7,
+    "feels": 8.3,
     "code": 0,
-    "wind": 6.1,
-    "humidity": 65,
+    "wind": 7.6,
+    "humidity": 66,
     "is_day": false,
     "tmax": 15.5,
     "tmin": 6.6,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-17",
-        "max": 16.7,
-        "min": 8.4,
+        "max": 16.8,
+        "min": 8.1,
         "code": 3
       },
       {
         "date": "2026-10-18",
-        "max": 14.9,
-        "min": 8.2,
-        "code": 3
+        "max": 14.7,
+        "min": 9.4,
+        "code": 45
       }
     ],
-    "observed": "2026-10-16T19:15",
+    "observed": "2026-10-16T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80918,
-        "pln": 315070,
-        "chg24": -1.88
+        "usd": 81261,
+        "pln": 316222,
+        "chg24": -0.95
       },
       {
         "sym": "ETH",
-        "usd": 2402.09,
-        "pln": 9353.03,
-        "chg24": -1.91
+        "usd": 2414.21,
+        "pln": 9394.76,
+        "chg24": -0.87
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.315,
-        "chg": 0.84,
-        "as_of": "16.10 17:10"
+        "value": 57.22,
+        "chg": 0.67,
+        "as_of": "16.10 18:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.56,
-        "chg": 0.74,
-        "as_of": "16.10 17:10"
+        "value": 6.567,
+        "chg": 0.85,
+        "as_of": "16.10 18:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.408,
-        "chg": 0.24,
-        "as_of": "16.10 16:58"
+        "value": 1.4102,
+        "chg": 0.4,
+        "as_of": "16.10 17:44"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 17:10",
+    "updated": "16.10 18:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Przeżywała ze swoim partnerem piekło. Przez kilka lat się nad nią znęcał. Policjanci z Jastrzębia zatrzymali 28-latka",
-        "url": "https://www.radio90.pl/przezywala-ze-swoim-partnerem-pieklo-przez-kilka-lat-sie-nad-nia-znecal-policjanci-z-jastrzebia-zatrzymali-28-latka.html",
-        "date": "Fri, 16 Oct 2026 17:15:01 +0000",
+        "title": "Groził nożem pracownicy sklepu w Bielsku-Białej. 46-latek trafił do aresztu",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/grozil-nozem-pracownicy-sklepu-w-bielsku-bialej-46-latek-trafil-do-aresztu/101307/",
+        "date": "Fri, 16 Oct 2026 17:48:40 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Pijany jechał na randkę. Miał też przy sobie narkotyki",
+        "url": "https://www.radio90.pl/pijany-jechal-na-randke-mial-tez-przy-sobie-narkotyki.html",
+        "date": "Fri, 16 Oct 2026 17:45:42 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dom Kultury w Niedobczycach: ogłoszono konkurs na jego dyrektora. Jakie są wymagania?",
-        "url": "https://www.radio90.pl/dom-kultury-w-niedobczycach-ogloszono-konkurs-na-jego-dyrektora-jakie-sa-wymagania.html",
-        "date": "Fri, 16 Oct 2026 16:30:23 +0000",
+        "title": "Przeżywała ze swoim partnerem piekło. Przez kilka lat się nad nią znęcał. Policjanci z Jastrzębia zatrzymali 28-latka",
+        "url": "https://www.radio90.pl/przezywala-ze-swoim-partnerem-pieklo-przez-kilka-lat-sie-nad-nia-znecal-policjanci-z-jastrzebia-zatrzymali-28-latka.html",
+        "date": "Fri, 16 Oct 2026 17:15:01 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Policja w Wodzisławiu Śląskim: motocyklista dziękuje za pomoc po upadku na drodze. „Chciałem wyrazić swoje uznanie”",
-        "url": "https://www.radio90.pl/policja-w-wodzislawiu-slaskim-motocyklista-dziekuje-za-pomoc-po-upadku-na-drodze-chcialem-wyrazic-swoje-uznanie.html",
-        "date": "Fri, 16 Oct 2026 15:35:22 +0000",
+        "title": "Dom Kultury w Niedobczycach: ogłoszono konkurs na jego dyrektora. Jakie są wymagania?",
+        "url": "https://www.radio90.pl/dom-kultury-w-niedobczycach-ogloszono-konkurs-na-jego-dyrektora-jakie-sa-wymagania.html",
+        "date": "Fri, 16 Oct 2026 16:30:23 +0000",
         "src": "Radio90"
       },
       {
@@ -189,16 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dzieje się w Rybniku: świętujemy dzień szefa, jeżdzimy pociągami retro i bawimy się na 30-leciu pracy artystycznej Ani Wyszkoni",
-        "url": "https://www.radio90.pl/dzieje-sie-w-rybniku-swietujemy-dzien-szefa-jezdzimy-pociagami-retro-i-bawimy-sie-na-30-leciu-pracy-artystycznej-ani-wyszkoni.html",
-        "date": "Fri, 16 Oct 2026 14:40:34 +0000",
+        "title": "Policja w Wodzisławiu Śląskim: motocyklista dziękuje za pomoc po upadku na drodze. „Chciałem wyrazić swoje uznanie”",
+        "url": "https://www.radio90.pl/policja-w-wodzislawiu-slaskim-motocyklista-dziekuje-za-pomoc-po-upadku-na-drodze-chcialem-wyrazic-swoje-uznanie.html",
+        "date": "Fri, 16 Oct 2026 15:35:22 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Po 65 latach RKS STAL Czechowice-Dziedzice wraca do boksu olimpijskiego. „To pierwszy duży krok”",
-        "url": "https://www.radiobielsko.pl/sport/po-65-latach-rks-stal-czechowice-dziedzice-wraca-do-boksu-olimpijskiego-to-pierwszy-duzy-krok/101280/",
-        "date": "Fri, 16 Oct 2026 13:48:06 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
