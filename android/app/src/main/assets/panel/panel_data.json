@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-16T08:20:06+00:00",
+  "generated": "2026-10-16T09:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.6,
-    "feels": 8.3,
+    "temp": 12.1,
+    "feels": 9.9,
     "code": 0,
-    "wind": 5.4,
-    "humidity": 62,
+    "wind": 5.0,
+    "humidity": 56,
     "is_day": true,
-    "tmax": 15.6,
+    "tmax": 15.5,
     "tmin": 6.6,
     "forecast": [
       {
         "date": "2026-10-16",
-        "max": 15.6,
+        "max": 15.5,
         "min": 6.6,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 17.2,
-        "min": 8.3,
+        "max": 17.3,
+        "min": 8.2,
         "code": 3
       },
       {
         "date": "2026-10-18",
-        "max": 14.2,
-        "min": 6.9,
+        "max": 15.2,
+        "min": 7.5,
         "code": 3
       }
     ],
-    "observed": "2026-10-16T10:15",
+    "observed": "2026-10-16T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82197,
-        "pln": 319455,
-        "chg24": 1.33
+        "usd": 82126,
+        "pln": 318629,
+        "chg24": 1.14
       },
       {
         "sym": "ETH",
-        "usd": 2453.22,
-        "pln": 9534.36,
-        "chg24": 3.69
+        "usd": 2452.99,
+        "pln": 9516.99,
+        "chg24": 3.51
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.83,
-        "chg": 1.75,
-        "as_of": "16.10 08:09"
+        "value": 58.095,
+        "chg": 2.21,
+        "as_of": "16.10 09:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.613,
-        "chg": 1.56,
-        "as_of": "16.10 08:09"
+        "value": 6.6315,
+        "chg": 1.84,
+        "as_of": "16.10 09:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4085,
-        "chg": 0.28,
-        "as_of": "16.10 07:27"
+        "value": 1.4118,
+        "chg": 0.52,
+        "as_of": "16.10 08:53"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 08:09",
+    "updated": "16.10 09:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Jak zachować się gdy zawyją syreny? W Bielsku-Białej odbędzie się trening dla całych rodzin",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/jak-zachowac-sie-gdy-zawyja-syreny-w-bielsku-bialej-odbedzie-sie-trening-dla-calych-rodzin/101217/",
+        "date": "Fri, 16 Oct 2026 08:46:33 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Pietrowice Wielkie: mieszkańcy mówią „nie” planom starań o uzyskanie przez gminę praw miejskich. Twierdzą, że nikt ich nie informował",
+        "url": "https://www.radio90.pl/pietrowice-wielkie-mieszkancy-mowia-nie-planom-staran-o-uzyskanie-przez-gmine-praw-miejskich-twierdza-ze-nikt-ich-nie-informowal.html",
+        "date": "Fri, 16 Oct 2026 08:25:15 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Rozbił dwa samochody i uszkodził ogrodzenie lądowiska LPR",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/rozbil-dwa-samochody-i-uszkodzil-ogrodzenie-ladowiska-lpr/101211/",
+        "date": "Fri, 16 Oct 2026 08:32:00 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Schronisko dla Bezdomnych Zwierząt w Rybniku będzie zachęcać do adopcji psiaków. Jutro w Gotartowicach, Kłakuczino",
         "url": "https://www.radio90.pl/schronisko-dla-bezdomnych-zwierzat-w-rybniku-bedzie-zachecac-do-adopcji-psiakow-jutro-w-gotartowicach-klakuczino.html",
         "date": "Fri, 16 Oct 2026 07:30:42 +0000",
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/przerwa-w-dostawie-pradu-w-gogolowej-utrudnienia-pod-kilkoma-adresami.html",
         "date": "Fri, 16 Oct 2026 06:02:24 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Po Jeleśni czas na Łodygowice. Posłanka Pępek rozpoczyna kolejną kontrolę",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/po-jelesni-czas-na-lodygowice-poslanka-pepek-rozpoczyna-kolejna-kontrole/101198/",
-        "date": "Fri, 16 Oct 2026 07:09:12 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Dawna kopalnia Anna w Pszowie się zmienia. Jest już żłobek, będzie parking",
-        "url": "https://www.radio90.pl/dawna-kopalnia-anna-w-pszowie-sie-zmienia-jest-juz-zlobek-bedzie-parking.html",
-        "date": "Fri, 16 Oct 2026 05:45:41 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Jacek Kachel i Jacek Proszyk przybliżą postać ks. Stojałowskiego. „Tydzień ze Stojałowskim” w Bielsku-Białej.",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/jacek-kachel-i-jacek-proszyk-przybliza-postac-ks-stojalowskiego-tydzien-ze-stojalowskim-w-bielsku-bialej/100995/",
-        "date": "Fri, 16 Oct 2026 06:59:57 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
