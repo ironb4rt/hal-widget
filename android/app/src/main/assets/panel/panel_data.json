@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-16T09:20:06+00:00",
+  "generated": "2026-10-16T10:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.1,
-    "feels": 9.9,
+    "temp": 13.0,
+    "feels": 11.0,
     "code": 0,
-    "wind": 5.0,
-    "humidity": 56,
+    "wind": 4.0,
+    "humidity": 54,
     "is_day": true,
-    "tmax": 15.5,
+    "tmax": 15.6,
     "tmin": 6.6,
     "forecast": [
       {
         "date": "2026-10-16",
-        "max": 15.5,
+        "max": 15.6,
         "min": 6.6,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 17.3,
+        "max": 17.4,
         "min": 8.2,
         "code": 3
       },
       {
         "date": "2026-10-18",
         "max": 15.2,
-        "min": 7.5,
+        "min": 6.9,
         "code": 3
       }
     ],
-    "observed": "2026-10-16T11:15",
+    "observed": "2026-10-16T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82126,
-        "pln": 318629,
-        "chg24": 1.14
+        "usd": 81934,
+        "pln": 317650,
+        "chg24": 1.02
       },
       {
         "sym": "ETH",
-        "usd": 2452.99,
-        "pln": 9516.99,
-        "chg24": 3.51
+        "usd": 2448.97,
+        "pln": 9494.39,
+        "chg24": 3.49
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 58.095,
-        "chg": 2.21,
-        "as_of": "16.10 09:09"
+        "value": 57.89,
+        "chg": 1.85,
+        "as_of": "16.10 10:08"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6315,
-        "chg": 1.84,
-        "as_of": "16.10 09:10"
+        "value": 6.6365,
+        "chg": 1.92,
+        "as_of": "16.10 10:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4118,
-        "chg": 0.52,
-        "as_of": "16.10 08:53"
+        "value": 1.4129,
+        "chg": 0.6,
+        "as_of": "16.10 09:15"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 09:10",
+    "updated": "16.10 10:09",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,33 @@
     ],
     "local": [
       {
-        "title": "Jak zachować się gdy zawyją syreny? W Bielsku-Białej odbędzie się trening dla całych rodzin",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/jak-zachowac-sie-gdy-zawyja-syreny-w-bielsku-bialej-odbedzie-sie-trening-dla-calych-rodzin/101217/",
-        "date": "Fri, 16 Oct 2026 08:46:33 +0000",
+        "title": "Wygrała wojnę nerwów! Czy będzie polski półfinał?",
+        "url": "https://www.radiobielsko.pl/sport/wygrala-wojne-nerwow-czy-bedzie-polski-polfinal/101215/",
+        "date": "Fri, 16 Oct 2026 10:17:35 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Ratownicy z całej Polski zjechali się do Jastrzębia. Trwają dwudniowe Jastrzębskie Manewry Ratownicze",
+        "url": "https://www.radio90.pl/ratownicy-z-calej-polski-zjechali-sie-do-jastrzebia-trwaja-dwudniowe-jastrzebskie-manewry-ratownicze.html",
+        "date": "Fri, 16 Oct 2026 10:10:38 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Wbiegł na jezdnię wprost przed samochód. Nastolatek w szpitalu",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/wbiegl-na-jezdnie-wprost-przed-samochod-nastolatek-w-szpitalu/101228/",
+        "date": "Fri, 16 Oct 2026 10:11:26 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Wjechał na przejazd kolejowy pomimo czerwonego światła. Policjanci z Raciborza zatrzymali kierowcę ciężarówki",
+        "url": "https://www.radio90.pl/wjechal-na-przejazd-kolejowy-pomimo-czerwonego-swiatla-policjanci-z-raciborza-zatrzymali-kierowce-ciezarowki.html",
+        "date": "Fri, 16 Oct 2026 09:20:37 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Trenerów… trzech! Klub podjął decyzję",
+        "url": "https://www.radiobielsko.pl/sport/trenerow-trzech-klub-podjal-decyzje/101224/",
+        "date": "Fri, 16 Oct 2026 09:24:54 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,39 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Rozbił dwa samochody i uszkodził ogrodzenie lądowiska LPR",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/rozbil-dwa-samochody-i-uszkodzil-ogrodzenie-ladowiska-lpr/101211/",
-        "date": "Fri, 16 Oct 2026 08:32:00 +0000",
+        "title": "Jak zachować się gdy zawyją syreny? W Bielsku-Białej odbędzie się trening dla całych rodzin",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/jak-zachowac-sie-gdy-zawyja-syreny-w-bielsku-bialej-odbedzie-sie-trening-dla-calych-rodzin/101217/",
+        "date": "Fri, 16 Oct 2026 08:46:33 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Schronisko dla Bezdomnych Zwierząt w Rybniku będzie zachęcać do adopcji psiaków. Jutro w Gotartowicach, Kłakuczino",
         "url": "https://www.radio90.pl/schronisko-dla-bezdomnych-zwierzat-w-rybniku-bedzie-zachecac-do-adopcji-psiakow-jutro-w-gotartowicach-klakuczino.html",
         "date": "Fri, 16 Oct 2026 07:30:42 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "RADIOWE TYPY: 11. kolejka bielsko-tyskiej „okręgówki”",
-        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-11-kolejka-bielsko-tyskiej-okregowki/101194/",
-        "date": "Fri, 16 Oct 2026 07:13:09 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Przebudowa wiaduktu w Leszczynach. Od poniedziałku będzie obowiązywać nowa organizacja ruchu",
-        "url": "https://www.radio90.pl/przebudowa-wiaduktu-w-leszczynach-od-poniedzialku-bedzie-obowiazywac-nowa-organizacja-ruchu.html",
-        "date": "Fri, 16 Oct 2026 06:50:49 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Orzeczenia o niepełnosprawności zagrożone? Powiat czeka na pieniądze",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/orzeczenia-o-niepelnosprawnosci-zagrozone-powiat-czeka-na-pieniadze/101183/",
-        "date": "Fri, 16 Oct 2026 07:11:25 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Przerwa w dostawie prądu w Gogołowej. Utrudnienia pod kilkoma adresami",
-        "url": "https://www.radio90.pl/przerwa-w-dostawie-pradu-w-gogolowej-utrudnienia-pod-kilkoma-adresami.html",
-        "date": "Fri, 16 Oct 2026 06:02:24 +0000",
         "src": "Radio90"
       }
     ],
