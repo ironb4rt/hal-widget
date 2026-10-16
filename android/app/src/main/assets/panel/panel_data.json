@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-16T11:20:07+00:00",
+  "generated": "2026-10-16T12:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.1,
-    "feels": 12.1,
+    "temp": 15.1,
+    "feels": 12.9,
     "code": 0,
     "wind": 4.0,
-    "humidity": 50,
+    "humidity": 44,
     "is_day": true,
-    "tmax": 15.6,
+    "tmax": 15.4,
     "tmin": 6.6,
     "forecast": [
       {
         "date": "2026-10-16",
-        "max": 15.6,
+        "max": 15.4,
         "min": 6.6,
         "code": 2
       },
       {
         "date": "2026-10-17",
-        "max": 17.4,
-        "min": 8.2,
+        "max": 17.1,
+        "min": 8.0,
         "code": 3
       },
       {
         "date": "2026-10-18",
-        "max": 15.2,
+        "max": 15.3,
         "min": 6.9,
-        "code": 3
+        "code": 45
       }
     ],
-    "observed": "2026-10-16T13:15",
+    "observed": "2026-10-16T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82535,
-        "pln": 320305,
-        "chg24": 1.96
+        "usd": 82229,
+        "pln": 319342,
+        "chg24": 1.61
       },
       {
         "sym": "ETH",
-        "usd": 2480.53,
-        "pln": 9626.55,
-        "chg24": 5.01
+        "usd": 2466.21,
+        "pln": 9577.71,
+        "chg24": 4.32
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 58.005,
-        "chg": 2.05,
-        "as_of": "16.10 11:10"
+        "value": 57.96,
+        "chg": 1.98,
+        "as_of": "16.10 12:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6395,
-        "chg": 1.97,
-        "as_of": "16.10 11:09"
+        "value": 6.6365,
+        "chg": 1.92,
+        "as_of": "16.10 12:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4134,
-        "chg": 0.63,
-        "as_of": "16.10 10:30"
+        "value": 1.4066,
+        "chg": 0.15,
+        "as_of": "16.10 12:10"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 11:10",
+    "updated": "16.10 12:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "RADIOWE TYPY: 11. seria gier w „okręgówce” żywiecko-skoczowskiej",
-        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-11-seria-gier-w-okregowce-zywiecko-skoczowskiej/101210/",
-        "date": "Fri, 16 Oct 2026 11:08:59 +0000",
+        "title": "Szykują magazyn na sytuacje kryzysowe",
+        "url": "https://www.radiobielsko.pl/cieszyn/szykuja-magazyn-na-sytuacje-kryzysowe/101219/",
+        "date": "Fri, 16 Oct 2026 11:51:26 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "W Kornowacu trwa II Festiwal Zdrowia Kobiet. Wydarzenie wbrew nazwie jest nie tylko dla pań [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/w-kornowacu-trwa-ii-festiwal-zdrowia-kobiet-wydarzenie-wbrew-nazwie-jest-nie-tylko-dla-pan-zdjecia.html",
+        "date": "Fri, 16 Oct 2026 11:50:02 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dobry uczynek i niebezpieczny finał w przydrożnym rowie",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/dobry-uczynek-i-niebezpieczny-final-w-przydroznym-rowie/101236/",
+        "date": "Fri, 16 Oct 2026 11:35:48 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Maja Chwalińska wygrała wojnę nerwów. Jest szansa na polski półfinał!",
-        "url": "https://www.radiobielsko.pl/sport/wygrala-wojne-nerwow-czy-bedzie-polski-polfinal/101215/",
-        "date": "Fri, 16 Oct 2026 10:17:35 +0000",
+        "title": "RADIOWE TYPY: 11. seria gier w „okręgówce” żywiecko-skoczowskiej",
+        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-11-seria-gier-w-okregowce-zywiecko-skoczowskiej/101210/",
+        "date": "Fri, 16 Oct 2026 11:08:59 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Wbiegł na jezdnię wprost przed samochód. Nastolatek w szpitalu",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/wbiegl-na-jezdnie-wprost-przed-samochod-nastolatek-w-szpitalu/101228/",
-        "date": "Fri, 16 Oct 2026 10:11:26 +0000",
+        "title": "Maja Chwalińska wygrała wojnę nerwów. Jest szansa na polski półfinał!",
+        "url": "https://www.radiobielsko.pl/sport/wygrala-wojne-nerwow-czy-bedzie-polski-polfinal/101215/",
+        "date": "Fri, 16 Oct 2026 10:17:35 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -187,24 +199,17 @@
         "url": "https://www.radio90.pl/wjechal-na-przejazd-kolejowy-pomimo-czerwonego-swiatla-policjanci-z-raciborza-zatrzymali-kierowce-ciezarowki.html",
         "date": "Fri, 16 Oct 2026 09:20:37 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Trenerów… trzech! Klub podjął decyzję",
-        "url": "https://www.radiobielsko.pl/sport/trenerow-trzech-klub-podjal-decyzje/101224/",
-        "date": "Fri, 16 Oct 2026 09:24:54 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Pietrowice Wielkie: mieszkańcy mówią „nie” planom starań o uzyskanie przez gminę praw miejskich. Twierdzą, że nikt ich nie informował",
-        "url": "https://www.radio90.pl/pietrowice-wielkie-mieszkancy-mowia-nie-planom-staran-o-uzyskanie-przez-gmine-praw-miejskich-twierdza-ze-nikt-ich-nie-informowal.html",
-        "date": "Fri, 16 Oct 2026 08:25:15 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
       {
         "title": "GEELY w Pszczynie. Światowa marka z lokalnym adresem",
         "url": "/informacje/21000-geely-w-pszczynie-swiatowa-marka-z-lokalnym-adresem",
+        "date": ""
+      },
+      {
+        "title": "Utrudnienia na skrzyżowaniu Grażyńskiego i Mazańcowickiej",
+        "url": "/informacje/21005-utrudnienia-na-skrzyzowaniu-grazynskiego-i-mazancowickiej",
         "date": ""
       },
       {
@@ -225,11 +230,6 @@
       {
         "title": "Gorący temat[FOTO] Pijany kierowca, który potrącił 11-latka dostał dozór. Prokuratura ujawnia kulisy wypadku",
         "url": "/informacje/20994-foto-pijany-kierowca-ktory-potracil-11-latka-dostal-dozor-prokuratura-ujawnia-kulisy-wypadku",
-        "date": ""
-      },
-      {
-        "title": "Trzy promile i dwa zakazy prowadzenia. Kolejny potencjalny zabójca na terenie miasta",
-        "url": "/informacje/20997-trzy-promile-i-dwa-zakazy-prowadzenia-kolejny-potencjalny-zabojca-na-terenie-miasta",
         "date": ""
       }
     ],
