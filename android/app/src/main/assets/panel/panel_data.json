@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-16T15:20:08+00:00",
+  "generated": "2026-10-16T16:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.4,
-    "feels": 11.6,
+    "temp": 12.8,
+    "feels": 10.3,
     "code": 0,
-    "wind": 10.8,
-    "humidity": 53,
-    "is_day": true,
+    "wind": 9.7,
+    "humidity": 61,
+    "is_day": false,
     "tmax": 15.5,
     "tmin": 6.6,
     "forecast": [
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-18",
-        "max": 14.9,
-        "min": 8.2,
+        "max": 14.8,
+        "min": 8.3,
         "code": 3
       }
     ],
-    "observed": "2026-10-16T17:15",
+    "observed": "2026-10-16T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81627,
-        "pln": 316848,
-        "chg24": -0.72
+        "usd": 81457,
+        "pln": 316987,
+        "chg24": -0.98
       },
       {
         "sym": "ETH",
-        "usd": 2443.7,
-        "pln": 9485.63,
-        "chg24": 0.85
+        "usd": 2436.02,
+        "pln": 9479.74,
+        "chg24": 0.05
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.78,
-        "chg": 1.66,
-        "as_of": "16.10 15:10"
+        "value": 57.39,
+        "chg": 0.97,
+        "as_of": "16.10 16:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6135,
-        "chg": 1.57,
-        "as_of": "16.10 15:10"
+        "value": 6.584,
+        "chg": 1.11,
+        "as_of": "16.10 16:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4057,
-        "chg": 0.08,
-        "as_of": "16.10 14:42"
+        "value": 1.4032,
+        "chg": -0.1,
+        "as_of": "16.10 15:25"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 15:10",
+    "updated": "16.10 16:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Exiro-led group takes control of Vale’s Manitoba nickel complex",
+        "url": "https://www.mining.com/exiro-led-group-takes-control-of-vales-manitoba-nickel-complex/",
+        "date": "Fri, 16 Oct 2026 15:06:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "US Project Vault readies $1B loan blitz for industry",
         "url": "https://www.mining.com/us-project-vault-readies-1b-loan-blitz-for-industry/",
@@ -143,15 +149,15 @@
         "url": "https://www.mining.com/energy-transition-faces-critical-minerals-crunch-by-2035-report/",
         "date": "Thu, 15 Oct 2026 14:19:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Antofagasta shares sink as 2027 copper outlook falls flat",
-        "url": "https://www.mining.com/antofagasta-shares-sink-as-2027-copper-outlook-falls-flat/",
-        "date": "Thu, 15 Oct 2026 12:03:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Policja w Wodzisławiu Śląskim: motocyklista dziękuje za pomoc po upadku na drodze. „Chciałem wyrazić swoje uznanie”",
+        "url": "https://www.radio90.pl/policja-w-wodzislawiu-slaskim-motocyklista-dziekuje-za-pomoc-po-upadku-na-drodze-chcialem-wyrazic-swoje-uznanie.html",
+        "date": "Fri, 16 Oct 2026 15:35:22 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Zanim zapłoną znicze… Ostatni spacer w tym roku",
         "url": "https://www.radiobielsko.pl/bielsko-biala/zanim-zaplona-znicze-ostatni-spacer-w-tym-roku/101295/",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-bielski/byl-ikona-polskiej-telewizji-stanislaw-janicki-urodzil-sie-w-tym-budynku/101259/",
         "date": "Fri, 16 Oct 2026 13:47:41 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Ćwiczą to, co może przydać się każdego dnia. Trwają Jastrzębskie Manewry Ratownicze [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/cwicza-to-co-moze-przydac-sie-kazdego-dnia-trwaja-jastrzebskie-manewry-ratownicze-zdjecia.html",
-        "date": "Fri, 16 Oct 2026 13:15:01 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
