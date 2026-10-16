@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-16T10:20:07+00:00",
+  "generated": "2026-10-16T11:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.0,
-    "feels": 11.0,
+    "temp": 14.1,
+    "feels": 12.1,
     "code": 0,
     "wind": 4.0,
-    "humidity": 54,
+    "humidity": 50,
     "is_day": true,
     "tmax": 15.6,
     "tmin": 6.6,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-16T12:15",
+    "observed": "2026-10-16T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81934,
-        "pln": 317650,
-        "chg24": 1.02
+        "usd": 82535,
+        "pln": 320305,
+        "chg24": 1.96
       },
       {
         "sym": "ETH",
-        "usd": 2448.97,
-        "pln": 9494.39,
-        "chg24": 3.49
+        "usd": 2480.53,
+        "pln": 9626.55,
+        "chg24": 5.01
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.89,
-        "chg": 1.85,
-        "as_of": "16.10 10:08"
+        "value": 58.005,
+        "chg": 2.05,
+        "as_of": "16.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6365,
-        "chg": 1.92,
-        "as_of": "16.10 10:09"
+        "value": 6.6395,
+        "chg": 1.97,
+        "as_of": "16.10 11:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4129,
-        "chg": 0.6,
-        "as_of": "16.10 09:15"
+        "value": 1.4134,
+        "chg": 0.63,
+        "as_of": "16.10 10:30"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 10:09",
+    "updated": "16.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,7 +153,19 @@
     ],
     "local": [
       {
-        "title": "Wygrała wojnę nerwów! Czy będzie polski półfinał?",
+        "title": "RADIOWE TYPY: 11. seria gier w „okręgówce” żywiecko-skoczowskiej",
+        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-11-seria-gier-w-okregowce-zywiecko-skoczowskiej/101210/",
+        "date": "Fri, 16 Oct 2026 11:08:59 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Dzisiaj dzień szefa. Pytamy, jaki powinien być szef?",
+        "url": "https://www.radio90.pl/dzisiaj-dzien-szefa-pytamy-jaki-powinien-byc-szef.html",
+        "date": "Fri, 16 Oct 2026 11:00:15 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Maja Chwalińska wygrała wojnę nerwów. Jest szansa na polski półfinał!",
         "url": "https://www.radiobielsko.pl/sport/wygrala-wojne-nerwow-czy-bedzie-polski-polfinal/101215/",
         "date": "Fri, 16 Oct 2026 10:17:35 +0000",
         "src": "RadioBielsko"
@@ -187,24 +199,17 @@
         "url": "https://www.radio90.pl/pietrowice-wielkie-mieszkancy-mowia-nie-planom-staran-o-uzyskanie-przez-gmine-praw-miejskich-twierdza-ze-nikt-ich-nie-informowal.html",
         "date": "Fri, 16 Oct 2026 08:25:15 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Jak zachować się gdy zawyją syreny? W Bielsku-Białej odbędzie się trening dla całych rodzin",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/jak-zachowac-sie-gdy-zawyja-syreny-w-bielsku-bialej-odbedzie-sie-trening-dla-calych-rodzin/101217/",
-        "date": "Fri, 16 Oct 2026 08:46:33 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Schronisko dla Bezdomnych Zwierząt w Rybniku będzie zachęcać do adopcji psiaków. Jutro w Gotartowicach, Kłakuczino",
-        "url": "https://www.radio90.pl/schronisko-dla-bezdomnych-zwierzat-w-rybniku-bedzie-zachecac-do-adopcji-psiakow-jutro-w-gotartowicach-klakuczino.html",
-        "date": "Fri, 16 Oct 2026 07:30:42 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
       {
         "title": "GEELY w Pszczynie. Światowa marka z lokalnym adresem",
         "url": "/informacje/21000-geely-w-pszczynie-swiatowa-marka-z-lokalnym-adresem",
+        "date": ""
+      },
+      {
+        "title": "[FOTO] Groźnie wyglądające zdarzenie w Wilamowicach. Samochód leżał na boku, dwie osoby trafiły do szpitala",
+        "url": "/informacje/21004-foto-groznie-wygladajace-zdarzenie-w-wilamowicach-samochod-lezal-na-boku-dwie-osoby-trafily-do-szpitala",
         "date": ""
       },
       {
@@ -225,11 +230,6 @@
       {
         "title": "Trzy promile i dwa zakazy prowadzenia. Kolejny potencjalny zabójca na terenie miasta",
         "url": "/informacje/20997-trzy-promile-i-dwa-zakazy-prowadzenia-kolejny-potencjalny-zabojca-na-terenie-miasta",
-        "date": ""
-      },
-      {
-        "title": "Uczniowie przechodzą przez ruchliwą ulicę. Padły konkretne propozycje zmian",
-        "url": "/informacje/20984-uczniowie-przechodza-przez-ruchliwa-ulice-padly-konkretne-propozycje-zmian",
         "date": ""
       }
     ],
