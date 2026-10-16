@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-16T22:20:10+00:00",
+  "generated": "2026-10-16T23:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.7,
-    "feels": 6.4,
+    "temp": 9.5,
+    "feels": 6.0,
     "code": 0,
-    "wind": 11.2,
-    "humidity": 61,
+    "wind": 11.9,
+    "humidity": 60,
     "is_day": false,
-    "tmax": 16.9,
+    "tmax": 17.0,
     "tmin": 8.0,
     "forecast": [
       {
         "date": "2026-10-17",
-        "max": 16.9,
+        "max": 17.0,
         "min": 8.0,
         "code": 3
       },
       {
         "date": "2026-10-18",
-        "max": 14.9,
+        "max": 15.0,
         "min": 8.3,
         "code": 3
       },
       {
         "date": "2026-10-19",
         "max": 9.3,
-        "min": 4.8,
-        "code": 3
+        "min": 4.1,
+        "code": 45
       }
     ],
-    "observed": "2026-10-17T00:15",
+    "observed": "2026-10-17T01:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81697,
-        "pln": 317674,
-        "chg24": -0.76
+        "usd": 81684,
+        "pln": 317622,
+        "chg24": -0.51
       },
       {
         "sym": "ETH",
-        "usd": 2420.9,
-        "pln": 9413.55,
-        "chg24": -1.53
+        "usd": 2420.83,
+        "pln": 9413.28,
+        "chg24": -0.69
       }
     ],
     "stale": false
@@ -103,6 +103,18 @@
     "ok": true,
     "market": [
       {
+        "title": "Buffalo clears potash permit hurdle in Saskatchewan",
+        "url": "https://www.mining.com/buffalo-clears-potash-permit-hurdle-in-saskatchewan/",
+        "date": "Fri, 16 Oct 2026 22:48:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Greenland to introduce ban on seabed mining",
+        "url": "https://www.mining.com/greenland-to-introduce-ban-on-seabed-mining/",
+        "date": "Fri, 16 Oct 2026 22:19:25 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Canada’s new foreign investment rules: What critical minerals miners need to know",
         "url": "https://www.mining.com/canadas-new-foreign-investment-rules-what-critical-minerals-miners-need-to-know/",
         "date": "Fri, 16 Oct 2026 18:57:02 +0000",
@@ -136,18 +148,6 @@
         "title": "Tech giants come knocking for a piece of Anglo American as copper scarcity bites, Wanblad tells FT",
         "url": "https://www.mining.com/tech-giants-come-knocking-for-a-piece-of-anglo-american-as-copper-scarcity-bites-wanblad-tells-ft/",
         "date": "Thu, 15 Oct 2026 17:55:45 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Copper price falls for third day as US inflation shock, easing Chile strike risk spur selloff",
-        "url": "https://www.mining.com/copper-price-falls-for-third-day-as-us-inflation-shock-easing-chile-strike-risk-spur-selloff/",
-        "date": "Thu, 15 Oct 2026 16:12:33 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Op-Ed: New investment could reshape US mining",
-        "url": "https://www.mining.com/op-ed-new-investment-could-reshape-us-mining/",
-        "date": "Thu, 15 Oct 2026 16:06:00 +0000",
         "src": "Mining.com"
       }
     ],
