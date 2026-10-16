@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-16T12:20:07+00:00",
+  "generated": "2026-10-16T13:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 15.1,
-    "feels": 12.9,
+    "temp": 15.3,
+    "feels": 13.2,
     "code": 0,
-    "wind": 4.0,
+    "wind": 3.6,
     "humidity": 44,
     "is_day": true,
     "tmax": 15.4,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-18",
         "max": 15.3,
-        "min": 6.9,
+        "min": 7.1,
         "code": 45
       }
     ],
-    "observed": "2026-10-16T14:15",
+    "observed": "2026-10-16T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82229,
-        "pln": 319342,
-        "chg24": 1.61
+        "usd": 81913,
+        "pln": 318362,
+        "chg24": 1.9
       },
       {
         "sym": "ETH",
-        "usd": 2466.21,
-        "pln": 9577.71,
-        "chg24": 4.32
+        "usd": 2461.28,
+        "pln": 9566.01,
+        "chg24": 4.88
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.96,
-        "chg": 1.98,
-        "as_of": "16.10 12:09"
+        "value": 57.69,
+        "chg": 1.5,
+        "as_of": "16.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6365,
-        "chg": 1.92,
-        "as_of": "16.10 12:10"
+        "value": 6.629,
+        "chg": 1.8,
+        "as_of": "16.10 13:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4066,
-        "chg": 0.15,
-        "as_of": "16.10 12:10"
+        "value": 1.4058,
+        "chg": 0.09,
+        "as_of": "16.10 13:00"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 12:10",
+    "updated": "16.10 13:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Vale says soaring costs put 10% of iron ore in the red",
+        "url": "https://www.mining.com/vale-says-soaring-costs-put-10-of-iron-ore-in-the-red/",
+        "date": "Fri, 16 Oct 2026 11:08:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Minnova maps $53M restart for Manitoba gold mine",
         "url": "https://www.mining.com/minnova-maps-53m-restart-for-manitoba-gold-mine/",
@@ -143,19 +149,31 @@
         "url": "https://www.mining.com/richemont-signet-weigh-joining-de-beers-consortium-bid/",
         "date": "Thu, 15 Oct 2026 10:53:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Tenaris produces new steel grade for Canadian energy operators",
-        "url": "https://www.mining.com/tenaris-produces-new-steel-grade-for-canadian-energy-operators/",
-        "date": "Wed, 14 Oct 2026 22:50:28 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Szykują magazyn na sytuacje kryzysowe",
-        "url": "https://www.radiobielsko.pl/cieszyn/szykuja-magazyn-na-sytuacje-kryzysowe/101219/",
-        "date": "Fri, 16 Oct 2026 11:51:26 +0000",
+        "title": "Ćwiczą to, co może przydać się każdego dnia. Trwają Jastrzębskie Manewry Ratownicze [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/cwicza-to-co-moze-przydac-sie-kazdego-dnia-trwaja-jastrzebskie-manewry-ratownicze-zdjecia.html",
+        "date": "Fri, 16 Oct 2026 13:15:01 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Sejmowa komisja obradowała w Bielsku-Białej",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/sejmowa-komisja-obradowala-w-bielsku-bialej/101265/",
+        "date": "Fri, 16 Oct 2026 13:00:04 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Turyści ewakuowani z kolei linowych w Beskidach! Na szczęście to tylko ćwiczenia ratowników górskich [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/turysci-ewakuowani-z-kolei-linowych-w-beskidach-na-szczescie-to-tylko-cwiczenia-ratownikow-gorskich-zdjecia.html",
+        "date": "Fri, 16 Oct 2026 12:35:01 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Radio BIELSKO oficjalnym partnerem medialnym BBTS-u. Będziemy bliżej drużyny i jej kibiców",
+        "url": "https://www.radiobielsko.pl/sport/radio-bielsko-oficjalnym-partnerem-medialnym-bbts-u-bedziemy-blizej-druzyny-i-jej-kibicow/101263/",
+        "date": "Fri, 16 Oct 2026 12:58:10 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Dobry uczynek i niebezpieczny finał w przydrożnym rowie",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/dobry-uczynek-i-niebezpieczny-final-w-przydroznym-rowie/101236/",
-        "date": "Fri, 16 Oct 2026 11:35:48 +0000",
+        "title": "Sądowe zakazy nie zrobiły na nich większego wrażenia",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/sadowe-zakazy-nie-zrobily-na-nich-wiekszego-wrazenia/101247/",
+        "date": "Fri, 16 Oct 2026 12:40:16 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,28 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "RADIOWE TYPY: 11. seria gier w „okręgówce” żywiecko-skoczowskiej",
-        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-11-seria-gier-w-okregowce-zywiecko-skoczowskiej/101210/",
-        "date": "Fri, 16 Oct 2026 11:08:59 +0000",
+        "title": "Miasto chce sprzedać zabytkową kamienicę w centrum. Remont może kosztować kilka milionów",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/miasto-chce-sprzedac-zabytkowa-kamienice-w-centrum-remont-moze-kilka-milionow/101243/",
+        "date": "Fri, 16 Oct 2026 12:21:05 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Ratownicy z całej Polski zjechali się do Jastrzębia. Trwają dwudniowe Jastrzębskie Manewry Ratownicze",
-        "url": "https://www.radio90.pl/ratownicy-z-calej-polski-zjechali-sie-do-jastrzebia-trwaja-dwudniowe-jastrzebskie-manewry-ratownicze.html",
-        "date": "Fri, 16 Oct 2026 10:10:38 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Maja Chwalińska wygrała wojnę nerwów. Jest szansa na polski półfinał!",
-        "url": "https://www.radiobielsko.pl/sport/wygrala-wojne-nerwow-czy-bedzie-polski-polfinal/101215/",
-        "date": "Fri, 16 Oct 2026 10:17:35 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Wjechał na przejazd kolejowy pomimo czerwonego światła. Policjanci z Raciborza zatrzymali kierowcę ciężarówki",
-        "url": "https://www.radio90.pl/wjechal-na-przejazd-kolejowy-pomimo-czerwonego-swiatla-policjanci-z-raciborza-zatrzymali-kierowce-ciezarowki.html",
-        "date": "Fri, 16 Oct 2026 09:20:37 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
