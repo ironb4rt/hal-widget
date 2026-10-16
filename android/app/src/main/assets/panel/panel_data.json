@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-16T06:20:05+00:00",
+  "generated": "2026-10-16T07:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.5,
-    "feels": 4.7,
+    "temp": 9.2,
+    "feels": 6.5,
     "code": 0,
-    "wind": 8.3,
-    "humidity": 72,
+    "wind": 7.6,
+    "humidity": 66,
     "is_day": true,
     "tmax": 15.6,
     "tmin": 6.6,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-17",
-        "max": 17.2,
+        "max": 17.3,
         "min": 8.3,
         "code": 3
       },
       {
         "date": "2026-10-18",
         "max": 14.2,
-        "min": 6.9,
+        "min": 6.4,
         "code": 3
       }
     ],
-    "observed": "2026-10-16T08:15",
+    "observed": "2026-10-16T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81972,
-        "pln": 319155,
-        "chg24": 1.41
+        "usd": 82157,
+        "pln": 319369,
+        "chg24": 1.46
       },
       {
         "sym": "ETH",
-        "usd": 2440.19,
-        "pln": 9500.86,
-        "chg24": 3.42
+        "usd": 2453.71,
+        "pln": 9538.36,
+        "chg24": 3.75
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.72,
-        "chg": 1.55,
-        "as_of": "16.10 06:10"
+        "value": 57.995,
+        "chg": 2.04,
+        "as_of": "16.10 07:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.624,
-        "chg": 1.73,
-        "as_of": "16.10 06:09"
+        "value": 6.611,
+        "chg": 1.53,
+        "as_of": "16.10 07:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4103,
-        "chg": 0.41,
-        "as_of": "16.10 04:22"
+        "value": 1.4047,
+        "chg": 0.01,
+        "as_of": "16.10 07:03"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "16.10 06:10",
+    "updated": "16.10 07:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,33 @@
     ],
     "local": [
       {
+        "title": "RADIOWE TYPY: 11. kolejka bielsko-tyskiej „okręgówki”",
+        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-11-kolejka-bielsko-tyskiej-okregowki/101194/",
+        "date": "Fri, 16 Oct 2026 07:13:09 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Przebudowa wiaduktu w Leszczynach. Od poniedziałku będzie obowiązywać nowa organizacja ruchu",
+        "url": "https://www.radio90.pl/przebudowa-wiaduktu-w-leszczynach-od-poniedzialku-bedzie-obowiazywac-nowa-organizacja-ruchu.html",
+        "date": "Fri, 16 Oct 2026 06:50:49 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Orzeczenia o niepełnosprawności zagrożone? Powiat czeka na pieniądze",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/orzeczenia-o-niepelnosprawnosci-zagrozone-powiat-czeka-na-pieniadze/101183/",
+        "date": "Fri, 16 Oct 2026 07:11:25 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Przerwa w dostawie prądu w Gogołowej. Utrudnienia pod kilkoma adresami",
         "url": "https://www.radio90.pl/przerwa-w-dostawie-pradu-w-gogolowej-utrudnienia-pod-kilkoma-adresami.html",
         "date": "Fri, 16 Oct 2026 06:02:24 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Strzały, wybuchy i dym. Wojsko zapowiada ćwiczenia",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/strzaly-wybuchy-i-dym-wojsko-zapowiada-cwiczenia/101187/",
-        "date": "Fri, 16 Oct 2026 05:40:43 +0000",
+        "title": "Po Jeleśni czas na Łodygowice. Posłanka Pępek rozpoczyna kolejną kontrolę",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/po-jelesni-czas-na-lodygowice-poslanka-pepek-rozpoczyna-kolejna-kontrole/101198/",
+        "date": "Fri, 16 Oct 2026 07:09:12 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Odkrycie pod Babią Górą. Dokonali go archeolodzy z Bielska-Białej",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/odkrycie-pod-babia-gora-dokonali-go-archeolodzy-z-bielska-bialej/101179/",
-        "date": "Thu, 15 Oct 2026 21:13:29 +0000",
+        "title": "Jacek Kachel i Jacek Proszyk przybliżą postać ks. Stojałowskiego. „Tydzień ze Stojałowskim” w Bielsku-Białej.",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/jacek-kachel-i-jacek-proszyk-przybliza-postac-ks-stojalowskiego-tydzien-ze-stojalowskim-w-bielsku-bialej/100995/",
+        "date": "Fri, 16 Oct 2026 06:59:57 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/hokeisci-jkh-gks-jastrzebie-podejmuja-energe-z-torunia.html",
         "date": "Fri, 16 Oct 2026 04:45:02 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Rondo Solidarności zmienia się dla rowerzystów. Co z zieloną strzałką?",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/rondo-solidarnosci-zmienia-sie-dla-rowerzystow-co-z-zielona-strzalka/101175/",
-        "date": "Thu, 15 Oct 2026 18:58:24 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Pijany kierowca uderzył w garaże w Rybniku. Samochód stanął w ogniu [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/pijany-kierowca-uderzyl-w-garaze-w-rybniku-samochod-stanal-w-ogniu-zdjecia.html",
-        "date": "Thu, 15 Oct 2026 18:15:03 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Otwarcie symbolicznej bramy w Tajemniczym Ogrodzie",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/otwarcie-symbolicznej-bramy-w-tajemniczym-ogrodzie/101154/",
-        "date": "Thu, 15 Oct 2026 16:30:28 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
