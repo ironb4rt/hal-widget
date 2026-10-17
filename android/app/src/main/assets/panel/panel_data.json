@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T08:20:12+00:00",
+  "generated": "2026-10-17T09:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.0,
-    "feels": 8.6,
+    "temp": 13.6,
+    "feels": 10.5,
     "code": 0,
-    "wind": 8.6,
-    "humidity": 43,
+    "wind": 6.5,
+    "humidity": 39,
     "is_day": true,
     "tmax": 16.7,
     "tmin": 7.5,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-18",
-        "max": 14.9,
-        "min": 8.9,
+        "max": 14.4,
+        "min": 8.0,
         "code": 3
       },
       {
         "date": "2026-10-19",
-        "max": 8.8,
-        "min": 6.8,
-        "code": 51
+        "max": 9.1,
+        "min": 6.1,
+        "code": 3
       }
     ],
-    "observed": "2026-10-17T10:15",
+    "observed": "2026-10-17T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81642,
-        "pln": 317154,
-        "chg24": -0.58
+        "usd": 81625,
+        "pln": 317091,
+        "chg24": -0.6
       },
       {
         "sym": "ETH",
-        "usd": 2432.47,
-        "pln": 9449.45,
-        "chg24": -0.75
+        "usd": 2432.13,
+        "pln": 9448.12,
+        "chg24": -0.83
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Nocny wypadek w Pstrążnej. Osobówka zderzyła się z autobusem. Dwie młode osoby zostały poszkodowane",
-        "url": "https://www.radio90.pl/nocny-wypadek-w-pstraznej-osobowka-zderzyla-sie-z-autobusem-dwie-mlode-osoby-zostaly-poszkodowane.html",
-        "date": "Sat, 17 Oct 2026 07:42:47 +0000",
+        "title": "Po kilkunastu latach był już wysłużony, teraz jest jak nowy. Orlik w Jastrzębiu przeszedł modernizację [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/po-kilkunastu-latach-byl-juz-wysluzony-teraz-jest-jak-nowy-orlik-w-jastrzebiu-przeszedl-modernizacje-zdjecia.html",
+        "date": "Sat, 17 Oct 2026 08:30:48 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Jarmark staroci w Rydułtowach: dziś pierwsza odsłona tego wydarzenia. Będzie się odbywało cyklicznie [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/jarmark-staroci-w-rydultowach-dzis-pierwsza-odslona-tego-wydarzenia-bedzie-sie-odbywalo-cyklicznie-zdjecia.html",
-        "date": "Sat, 17 Oct 2026 07:05:23 +0000",
+        "title": "Nocny wypadek w Pstrążnej. Osobówka zderzyła się z autobusem. Dwie młode osoby zostały poszkodowane",
+        "url": "https://www.radio90.pl/nocny-wypadek-w-pstraznej-osobowka-zderzyla-sie-z-autobusem-dwie-mlode-osoby-zostaly-poszkodowane.html",
+        "date": "Sat, 17 Oct 2026 07:42:47 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "JKH GKS Jastrzębie wygrywa z Energą Toruń. Jastrzębianie wzięli rewanż za inauguracyjną przegraną",
-        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-wygrywa-z-energa-torun-jastrzebianie-wzieli-rewanz-za-inauguracyjna-przegrana.html",
-        "date": "Sat, 17 Oct 2026 06:30:38 +0000",
+        "title": "Jarmark staroci w Rydułtowach: dziś pierwsza odsłona tego wydarzenia. Będzie się odbywało cyklicznie [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/jarmark-staroci-w-rydultowach-dzis-pierwsza-odslona-tego-wydarzenia-bedzie-sie-odbywalo-cyklicznie-zdjecia.html",
+        "date": "Sat, 17 Oct 2026 07:05:23 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Kuchnia Radia 90: puszyste ciasto z gruszkami",
-        "url": "https://www.radio90.pl/kuchnia-radia-90-puszyste-ciasto-z-gruszkami.html",
-        "date": "Sat, 17 Oct 2026 06:05:12 +0000",
+        "title": "JKH GKS Jastrzębie wygrywa z Energą Toruń. Jastrzębianie wzięli rewanż za inauguracyjną przegraną",
+        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-wygrywa-z-energa-torun-jastrzebianie-wzieli-rewanz-za-inauguracyjna-przegrana.html",
+        "date": "Sat, 17 Oct 2026 06:30:38 +0000",
         "src": "Radio90"
       },
       {
