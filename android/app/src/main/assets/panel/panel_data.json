@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T17:20:14+00:00",
+  "generated": "2026-10-17T18:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.3,
-    "feels": 10.2,
+    "temp": 11.2,
+    "feels": 9.0,
     "code": 0,
-    "wind": 4.3,
-    "humidity": 56,
+    "wind": 5.0,
+    "humidity": 60,
     "is_day": false,
     "tmax": 16.8,
     "tmin": 7.5,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-17T19:15",
+    "observed": "2026-10-17T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81152,
-        "pln": 315254,
-        "chg24": 0.4
+        "usd": 81463,
+        "pln": 316459,
+        "chg24": 0.37
       },
       {
         "sym": "ETH",
-        "usd": 2400.78,
-        "pln": 9326.35,
-        "chg24": 0.25
+        "usd": 2415.71,
+        "pln": 9384.33,
+        "chg24": 0.24
       }
     ],
     "stale": false
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "Urząd Gminy Mszana pyta mieszkańców o choinki. Poszukuje drzewek, które staną w sołectwach w okresie Bożego Narodzenia",
+        "url": "https://www.radio90.pl/urzad-gminy-mszana-pyta-mieszkancow-o-choinki-poszukuje-drzewek-ktore-stana-w-solectwach-w-okresie-bozego-narodzenia.html",
+        "date": "Sat, 17 Oct 2026 17:50:16 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Od skromnej świetlicy do nowoczesnego domu kultury. Biała Północ świętuje!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/od-skromnej-swietlicy-do-nowoczesnego-domu-kultury-biala-polnoc-swietuje/101380/",
+        "date": "Sat, 17 Oct 2026 17:20:46 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Bartosz Bartkowiak mistrzem Europy w miniżużlu! To kolejny w tym roku indywidualny sukces zawodnika Rybek Rybnik",
         "url": "https://www.radio90.pl/bartosz-bartkowiak-mistrzem-europy-w-minizuzlu-to-kolejny-w-tym-roku-indywidualny-sukces-zawodnika-rybek-rybnik.html",
         "date": "Sat, 17 Oct 2026 16:43:41 +0000",
@@ -186,18 +198,6 @@
         "title": "Bezpłatnie sprawdzą światła pojazdu",
         "url": "https://www.radiobielsko.pl/powiat-pszczynski/bezplatnie-sprawdza-swiatla-pojazdu/101361/",
         "date": "Sat, 17 Oct 2026 11:37:34 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Śmiertelny wypadek w Rybniku. Na ulicy Karłowicza rozbił się motocykl. Zginęła 37-letnia kobieta",
-        "url": "https://www.radio90.pl/smiertelny-wypadek-w-rybniku-na-ulicy-karlowicza-rozbil-sie-motocykl-zginela-37-letnia-kobieta.html",
-        "date": "Sat, 17 Oct 2026 14:48:04 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Zderzenie samochodu i motocyklisty. Droga była zablokowana",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/z-ostatniej-chwili-zderzenie-samochodu-i-motocyklisty-trwa-reanimacja/101358/",
-        "date": "Sat, 17 Oct 2026 10:41:10 +0000",
         "src": "RadioBielsko"
       }
     ],
