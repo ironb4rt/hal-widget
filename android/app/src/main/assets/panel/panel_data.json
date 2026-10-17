@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-17T18:20:15+00:00",
+  "generated": "2026-10-17T19:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.2,
-    "feels": 9.0,
+    "temp": 10.4,
+    "feels": 7.8,
     "code": 0,
-    "wind": 5.0,
+    "wind": 6.5,
     "humidity": 60,
     "is_day": false,
     "tmax": 16.8,
@@ -16,22 +16,22 @@
         "date": "2026-10-17",
         "max": 16.8,
         "min": 7.5,
-        "code": 3
+        "code": 1
       },
       {
         "date": "2026-10-18",
-        "max": 14.7,
-        "min": 8.7,
+        "max": 14.5,
+        "min": 7.8,
         "code": 3
       },
       {
         "date": "2026-10-19",
-        "max": 8.8,
-        "min": 7.1,
+        "max": 8.5,
+        "min": 6.8,
         "code": 3
       }
     ],
-    "observed": "2026-10-17T20:15",
+    "observed": "2026-10-17T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81463,
-        "pln": 316459,
-        "chg24": 0.37
+        "usd": 81452,
+        "pln": 316419,
+        "chg24": 0.13
       },
       {
         "sym": "ETH",
-        "usd": 2415.71,
-        "pln": 9384.33,
-        "chg24": 0.24
+        "usd": 2413.83,
+        "pln": 9377.03,
+        "chg24": 0.09
       }
     ],
     "stale": false
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "ROW Rybnik przegrywa wyjazdowy mecz ze Spartą Katowice. To pierwsza porażka Rybniczan od ponad miesiąca",
+        "url": "https://www.radio90.pl/row-rybnik-przegrywa-wyjazdowy-mecz-ze-sparta-katowice-to-pierwsza-porazka-rybniczan-od-ponad-miesiaca.html",
+        "date": "Sat, 17 Oct 2026 19:10:45 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "To ich pierwsze zwycięstwo od sierpnia. O wyniku zadecydowała końcówka",
+        "url": "https://www.radiobielsko.pl/sport/to-ich-pierwsze-zwyciestwo-od-sierpnia-o-wyniku-zadecydowala-koncowka/101381/",
+        "date": "Sat, 17 Oct 2026 18:24:33 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Urząd Gminy Mszana pyta mieszkańców o choinki. Poszukuje drzewek, które staną w sołectwach w okresie Bożego Narodzenia",
         "url": "https://www.radio90.pl/urzad-gminy-mszana-pyta-mieszkancow-o-choinki-poszukuje-drzewek-ktore-stana-w-solectwach-w-okresie-bozego-narodzenia.html",
         "date": "Sat, 17 Oct 2026 17:50:16 +0000",
@@ -186,18 +198,6 @@
         "title": "To był historyczny mecz! Chwalińska lepsza od Świątek",
         "url": "https://www.radiobielsko.pl/sport/to-byl-historyczny-mecz-chwalinska-lepsza-od-swiatek/101368/",
         "date": "Sat, 17 Oct 2026 14:10:53 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Nowa organizacja ruchu w Żorach. Od przyszłego tygodnia inaczej pojedziemy na skrzyżowaniach z ulicami Karłowicza",
-        "url": "https://www.radio90.pl/nowa-organizacja-ruchu-w-zorach-od-przyszlego-tygodnia-inaczej-pojedziemy-na-skrzyzowaniach-z-ulicami-karlowicza.html",
-        "date": "Sat, 17 Oct 2026 15:10:05 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Bezpłatnie sprawdzą światła pojazdu",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/bezplatnie-sprawdza-swiatla-pojazdu/101361/",
-        "date": "Sat, 17 Oct 2026 11:37:34 +0000",
         "src": "RadioBielsko"
       }
     ],
