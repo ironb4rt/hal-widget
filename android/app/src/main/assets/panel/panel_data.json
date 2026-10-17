@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T07:20:13+00:00",
+  "generated": "2026-10-17T08:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.5,
-    "feels": 6.7,
+    "temp": 12.0,
+    "feels": 8.6,
     "code": 0,
-    "wind": 11.5,
-    "humidity": 47,
+    "wind": 8.6,
+    "humidity": 43,
     "is_day": true,
     "tmax": 16.7,
     "tmin": 7.5,
@@ -21,17 +21,17 @@
       {
         "date": "2026-10-18",
         "max": 14.9,
-        "min": 8.8,
+        "min": 8.9,
         "code": 3
       },
       {
         "date": "2026-10-19",
         "max": 8.8,
-        "min": 6.6,
+        "min": 6.8,
         "code": 51
       }
     ],
-    "observed": "2026-10-17T09:15",
+    "observed": "2026-10-17T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81488,
-        "pln": 316556,
-        "chg24": -0.85
+        "usd": 81642,
+        "pln": 317154,
+        "chg24": -0.58
       },
       {
         "sym": "ETH",
-        "usd": 2428.15,
-        "pln": 9432.67,
-        "chg24": -1.14
+        "usd": 2432.47,
+        "pln": 9449.45,
+        "chg24": -0.75
       }
     ],
     "stale": false
@@ -153,15 +153,27 @@
     ],
     "local": [
       {
+        "title": "Nocny wypadek w Pstrążnej. Osobówka zderzyła się z autobusem. Dwie młode osoby zostały poszkodowane",
+        "url": "https://www.radio90.pl/nocny-wypadek-w-pstraznej-osobowka-zderzyla-sie-z-autobusem-dwie-mlode-osoby-zostaly-poszkodowane.html",
+        "date": "Sat, 17 Oct 2026 07:42:47 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Wypadek w Wilamowicach. Dwie młode osoby trafiły do szpitali",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/wypadek-w-wilamowicach-dwie-mlode-osoby-trafily-do-szpitali/101349/",
+        "date": "Sat, 17 Oct 2026 07:40:15 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Jarmark staroci w Rydułtowach: dziś pierwsza odsłona tego wydarzenia. Będzie się odbywało cyklicznie [ZDJĘCIA]",
         "url": "https://www.radio90.pl/jarmark-staroci-w-rydultowach-dzis-pierwsza-odslona-tego-wydarzenia-bedzie-sie-odbywalo-cyklicznie-zdjecia.html",
         "date": "Sat, 17 Oct 2026 07:05:23 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Ośmiu kierowców zatrzymanych przez grupę SPEED. Rekordzista pędził 194 km/h",
-        "url": "https://www.radiobielsko.pl/powiat-wadowicki/osmiu-kierowcow-zatrzymanych-przez-grupe-speed-rekordzista-pedzil-194-km-h/101345/",
-        "date": "Sat, 17 Oct 2026 06:36:43 +0000",
+        "title": "Od domowych ozdób do narodowego dziedzictwa",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/od-domowych-ozdob-do-narodowego-dziedzictwa/101314/",
+        "date": "Sat, 17 Oct 2026 07:29:06 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Kacper Tomasiak ze złotym medalem! Znamy nowego mistrza Polski",
-        "url": "https://www.radiobielsko.pl/sport/kacper-tomasiak-ze-zlotym-medalem-znamy-nowego-mistrza-polski/101315/",
-        "date": "Fri, 16 Oct 2026 20:46:22 +0000",
+        "title": "Ośmiu kierowców zatrzymanych przez grupę SPEED. Rekordzista pędził 194 km/h",
+        "url": "https://www.radiobielsko.pl/powiat-wadowicki/osmiu-kierowcow-zatrzymanych-przez-grupe-speed-rekordzista-pedzil-194-km-h/101345/",
+        "date": "Sat, 17 Oct 2026 06:36:43 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,21 +195,9 @@
         "src": "Radio90"
       },
       {
-        "title": "114 krajów i ponad 2 tysiące zawodników. Mistrzostwa świata w karate oficjalnie otwarte w Bielsku-Białej!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/114-krajow-i-ponad-2-tysiace-zawodnikow-mistrzostwa-swiata-w-karate-oficjalnie-otwarte-w-bielsku-bialej/101316/",
-        "date": "Fri, 16 Oct 2026 20:45:11 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Pijany jechał na randkę. Miał też przy sobie narkotyki",
-        "url": "https://www.radio90.pl/pijany-jechal-na-randke-mial-tez-przy-sobie-narkotyki.html",
-        "date": "Fri, 16 Oct 2026 17:45:42 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Groził nożem pracownicy sklepu w Bielsku-Białej. 46-latek trafił do aresztu",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/grozil-nozem-pracownicy-sklepu-w-bielsku-bialej-46-latek-trafil-do-aresztu/101307/",
-        "date": "Fri, 16 Oct 2026 17:48:40 +0000",
+        "title": "Kacper Tomasiak ze złotym medalem! Znamy nowego mistrza Polski",
+        "url": "https://www.radiobielsko.pl/sport/kacper-tomasiak-ze-zlotym-medalem-znamy-nowego-mistrza-polski/101315/",
+        "date": "Fri, 16 Oct 2026 20:46:22 +0000",
         "src": "RadioBielsko"
       }
     ],
