@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T12:20:13+00:00",
+  "generated": "2026-10-17T13:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 16.6,
-    "feels": 13.6,
+    "temp": 16.2,
+    "feels": 13.0,
     "code": 0,
-    "wind": 5.0,
-    "humidity": 31,
+    "wind": 8.3,
+    "humidity": 36,
     "is_day": true,
     "tmax": 16.6,
     "tmin": 7.5,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-19",
         "max": 8.6,
-        "min": 6.1,
+        "min": 6.2,
         "code": 51
       }
     ],
-    "observed": "2026-10-17T14:15",
+    "observed": "2026-10-17T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81461,
-        "pln": 316453,
-        "chg24": -0.91
+        "usd": 81400,
+        "pln": 316216,
+        "chg24": -0.63
       },
       {
         "sym": "ETH",
-        "usd": 2429.26,
-        "pln": 9436.96,
-        "chg24": -1.55
+        "usd": 2420.27,
+        "pln": 9402.05,
+        "chg24": -1.67
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Nocna prohibicja w Cieszynie. Czy dzięki nowym zasadom jest bezpieczniej?",
-        "url": "https://www.radio90.pl/nocna-prohibicja-w-cieszynie-czy-dzieki-nowym-zasadom-jest-bezpieczniej.html",
-        "date": "Sat, 17 Oct 2026 12:20:45 +0000",
+        "title": "170-lecie kolei w Rybniku. Na dworcu kolejowym odbyło się kolejne z jubileuszowych wydarzeń [WIDEO, ZDJĘCIA]",
+        "url": "https://www.radio90.pl/170-lecie-kolei-w-rybniku-na-dworcu-kolejowym-odbylo-sie-kolejne-z-jubileuszowych-wydarzen-wideo-zdjecia.html",
+        "date": "Sat, 17 Oct 2026 13:19:42 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "W Baranowicach powstanie Folwark Kultury. Miejski Ośrodek Kultury w Żorach prowadzi konsultacje dotyczące tego miejsca",
-        "url": "https://www.radio90.pl/w-baranowicach-powstanie-folwark-kultury-miejski-osrodek-kultury-w-zorach-prowadzi-konsultacje-dotyczace-tego-miejsca.html",
-        "date": "Sat, 17 Oct 2026 11:05:09 +0000",
+        "title": "Nocna prohibicja w Cieszynie. Czy dzięki nowym zasadom jest bezpieczniej?",
+        "url": "https://www.radio90.pl/nocna-prohibicja-w-cieszynie-czy-dzieki-nowym-zasadom-jest-bezpieczniej.html",
+        "date": "Sat, 17 Oct 2026 12:20:45 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Konkurs „Policjant Służby Kryminalnej Roku 2026”: w tym roku znów najlepsi byli mundurowi ze Śląska",
-        "url": "https://www.radio90.pl/konkurs-policjant-sluzby-kryminalnej-roku-2026-w-tym-roku-znow-najlepsi-byli-mundurowi-ze-slaska.html",
-        "date": "Sat, 17 Oct 2026 09:50:31 +0000",
+        "title": "W Baranowicach powstanie Folwark Kultury. Miejski Ośrodek Kultury w Żorach prowadzi konsultacje dotyczące tego miejsca",
+        "url": "https://www.radio90.pl/w-baranowicach-powstanie-folwark-kultury-miejski-osrodek-kultury-w-zorach-prowadzi-konsultacje-dotyczace-tego-miejsca.html",
+        "date": "Sat, 17 Oct 2026 11:05:09 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Liga sportowo-pożarnicza MDP: ponad 300 młodych strażaków uczestniczy w zawodach w Żorach [WIDEO, ZDJĘCIA]",
-        "url": "https://www.radio90.pl/liga-sportowo-pozarnicza-mdp-ponad-300-mlodych-strazakow-uczestniczy-w-zawodach-w-zorach-wideo-zdjecia.html",
-        "date": "Sat, 17 Oct 2026 09:33:47 +0000",
+        "title": "Konkurs „Policjant Służby Kryminalnej Roku 2026”: w tym roku znów najlepsi byli mundurowi ze Śląska",
+        "url": "https://www.radio90.pl/konkurs-policjant-sluzby-kryminalnej-roku-2026-w-tym-roku-znow-najlepsi-byli-mundurowi-ze-slaska.html",
+        "date": "Sat, 17 Oct 2026 09:50:31 +0000",
         "src": "Radio90"
       },
       {
