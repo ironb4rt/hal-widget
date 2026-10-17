@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T09:20:13+00:00",
+  "generated": "2026-10-17T10:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.6,
-    "feels": 10.5,
+    "temp": 14.8,
+    "feels": 12.1,
     "code": 0,
-    "wind": 6.5,
-    "humidity": 39,
+    "wind": 4.0,
+    "humidity": 36,
     "is_day": true,
     "tmax": 16.7,
     "tmin": 7.5,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-17T11:15",
+    "observed": "2026-10-17T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81625,
-        "pln": 317091,
-        "chg24": -0.6
+        "usd": 81508,
+        "pln": 316637,
+        "chg24": -0.55
       },
       {
         "sym": "ETH",
-        "usd": 2432.13,
-        "pln": 9448.12,
-        "chg24": -0.83
+        "usd": 2431.76,
+        "pln": 9446.68,
+        "chg24": -0.76
       }
     ],
     "stale": false
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Po kilkunastu latach był już wysłużony, teraz jest jak nowy. Orlik w Jastrzębiu przeszedł modernizację [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/po-kilkunastu-latach-byl-juz-wysluzony-teraz-jest-jak-nowy-orlik-w-jastrzebiu-przeszedl-modernizacje-zdjecia.html",
-        "date": "Sat, 17 Oct 2026 08:30:48 +0000",
+        "title": "Drogę otwarto i zaraz trzeba było ją zamknąć. Wójt wyjaśnia, co się stało",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/droge-otwarto-i-zaraz-trzeba-bylo-ja-zamknac-wojt-wyjasnia-co-sie-stalo/101352/",
+        "date": "Sat, 17 Oct 2026 10:15:14 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Konkurs „Policjant Służby Kryminalnej Roku 2026”: w tym roku znów najlepsi byli mundurowi ze Śląska",
+        "url": "https://www.radio90.pl/konkurs-policjant-sluzby-kryminalnej-roku-2026-w-tym-roku-znow-najlepsi-byli-mundurowi-ze-slaska.html",
+        "date": "Sat, 17 Oct 2026 09:50:31 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Nocny wypadek w Pstrążnej. Osobówka zderzyła się z autobusem. Dwie młode osoby zostały poszkodowane",
-        "url": "https://www.radio90.pl/nocny-wypadek-w-pstraznej-osobowka-zderzyla-sie-z-autobusem-dwie-mlode-osoby-zostaly-poszkodowane.html",
-        "date": "Sat, 17 Oct 2026 07:42:47 +0000",
+        "title": "Liga sportowo-pożarnicza MDP: ponad 300 młodych strażaków uczestniczy w zawodach w Żorach [WIDEO, ZDJĘCIA]",
+        "url": "https://www.radio90.pl/liga-sportowo-pozarnicza-mdp-ponad-300-mlodych-strazakow-uczestniczy-w-zawodach-w-zorach-wideo-zdjecia.html",
+        "date": "Sat, 17 Oct 2026 09:33:47 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Jarmark staroci w Rydułtowach: dziś pierwsza odsłona tego wydarzenia. Będzie się odbywało cyklicznie [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/jarmark-staroci-w-rydultowach-dzis-pierwsza-odslona-tego-wydarzenia-bedzie-sie-odbywalo-cyklicznie-zdjecia.html",
-        "date": "Sat, 17 Oct 2026 07:05:23 +0000",
+        "title": "Po kilkunastu latach był już wysłużony, teraz jest jak nowy. Orlik w Jastrzębiu przeszedł modernizację [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/po-kilkunastu-latach-byl-juz-wysluzony-teraz-jest-jak-nowy-orlik-w-jastrzebiu-przeszedl-modernizacje-zdjecia.html",
+        "date": "Sat, 17 Oct 2026 08:30:48 +0000",
         "src": "Radio90"
       },
       {
@@ -189,16 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "JKH GKS Jastrzębie wygrywa z Energą Toruń. Jastrzębianie wzięli rewanż za inauguracyjną przegraną",
-        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-wygrywa-z-energa-torun-jastrzebianie-wzieli-rewanz-za-inauguracyjna-przegrana.html",
-        "date": "Sat, 17 Oct 2026 06:30:38 +0000",
+        "title": "Nocny wypadek w Pstrążnej. Osobówka zderzyła się z autobusem. Dwie młode osoby zostały poszkodowane",
+        "url": "https://www.radio90.pl/nocny-wypadek-w-pstraznej-osobowka-zderzyla-sie-z-autobusem-dwie-mlode-osoby-zostaly-poszkodowane.html",
+        "date": "Sat, 17 Oct 2026 07:42:47 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Kacper Tomasiak ze złotym medalem! Znamy nowego mistrza Polski",
-        "url": "https://www.radiobielsko.pl/sport/kacper-tomasiak-ze-zlotym-medalem-znamy-nowego-mistrza-polski/101315/",
-        "date": "Fri, 16 Oct 2026 20:46:22 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
