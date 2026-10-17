@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T03:20:11+00:00",
+  "generated": "2026-10-17T04:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.9,
-    "feels": 4.5,
-    "code": 0,
-    "wind": 10.8,
-    "humidity": 64,
+    "temp": 8.0,
+    "feels": 4.3,
+    "code": 1,
+    "wind": 11.5,
+    "humidity": 61,
     "is_day": false,
     "tmax": 16.9,
     "tmin": 7.9,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-17T05:15",
+    "observed": "2026-10-17T06:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81366,
-        "pln": 316389,
-        "chg24": -0.86
+        "usd": 81452,
+        "pln": 316720,
+        "chg24": -0.63
       },
       {
         "sym": "ETH",
-        "usd": 2419.54,
-        "pln": 9408.27,
-        "chg24": -0.89
+        "usd": 2423.72,
+        "pln": 9424.5,
+        "chg24": -0.62
       }
     ],
     "stale": false
@@ -67,16 +67,16 @@
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.562,
-        "chg": 0.78,
+        "value": 6.5735,
+        "chg": 0.95,
         "as_of": "16.10 20:59"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4026,
-        "chg": -0.14,
+        "value": 1.4032,
+        "chg": -0.1,
         "as_of": "16.10 20:49"
       },
       {
