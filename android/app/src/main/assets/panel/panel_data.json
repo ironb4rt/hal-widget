@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-17T10:20:13+00:00",
+  "generated": "2026-10-17T11:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.8,
-    "feels": 12.1,
+    "temp": 16.0,
+    "feels": 13.4,
     "code": 0,
-    "wind": 4.0,
-    "humidity": 36,
+    "wind": 3.2,
+    "humidity": 33,
     "is_day": true,
     "tmax": 16.7,
     "tmin": 7.5,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-17T12:15",
+    "observed": "2026-10-17T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81508,
-        "pln": 316637,
-        "chg24": -0.55
+        "usd": 81507,
+        "pln": 316631,
+        "chg24": -1.36
       },
       {
         "sym": "ETH",
-        "usd": 2431.76,
-        "pln": 9446.68,
-        "chg24": -0.76
+        "usd": 2433.81,
+        "pln": 9454.64,
+        "chg24": -2.0
       }
     ],
     "stale": false
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Drogę otwarto i zaraz trzeba było ją zamknąć. Wójt wyjaśnia, co się stało",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/droge-otwarto-i-zaraz-trzeba-bylo-ja-zamknac-wojt-wyjasnia-co-sie-stalo/101352/",
-        "date": "Sat, 17 Oct 2026 10:15:14 +0000",
+        "title": "W Baranowicach powstanie Folwark Kultury. Miejski Ośrodek Kultury w Żorach prowadzi konsultacje dotyczące tego miejsca",
+        "url": "https://www.radio90.pl/w-baranowicach-powstanie-folwark-kultury-miejski-osrodek-kultury-w-zorach-prowadzi-konsultacje-dotyczace-tego-miejsca.html",
+        "date": "Sat, 17 Oct 2026 11:05:09 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Z ostatniej chwili: Zderzenie samochodu i motocyklisty. Trwa reanimacja",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/z-ostatniej-chwili-zderzenie-samochodu-i-motocyklisty-trwa-reanimacja/101358/",
+        "date": "Sat, 17 Oct 2026 10:41:10 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +171,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Wypadek w Wilamowicach. Dwie młode osoby trafiły do szpitali",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/wypadek-w-wilamowicach-dwie-mlode-osoby-trafily-do-szpitali/101349/",
-        "date": "Sat, 17 Oct 2026 07:40:15 +0000",
+        "title": "Drogę otwarto i zaraz trzeba było ją zamknąć. Wójt wyjaśnia, co się stało",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/droge-otwarto-i-zaraz-trzeba-bylo-ja-zamknac-wojt-wyjasnia-co-sie-stalo/101352/",
+        "date": "Sat, 17 Oct 2026 10:15:14 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Od domowych ozdób do narodowego dziedzictwa",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/od-domowych-ozdob-do-narodowego-dziedzictwa/101314/",
-        "date": "Sat, 17 Oct 2026 07:29:06 +0000",
+        "title": "Wypadek w Wilamowicach. Dwie młode osoby trafiły do szpitali",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/wypadek-w-wilamowicach-dwie-mlode-osoby-trafily-do-szpitali/101349/",
+        "date": "Sat, 17 Oct 2026 07:40:15 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,16 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Ośmiu kierowców zatrzymanych przez grupę SPEED. Rekordzista pędził 194 km/h",
-        "url": "https://www.radiobielsko.pl/powiat-wadowicki/osmiu-kierowcow-zatrzymanych-przez-grupe-speed-rekordzista-pedzil-194-km-h/101345/",
-        "date": "Sat, 17 Oct 2026 06:36:43 +0000",
+        "title": "Od domowych ozdób do narodowego dziedzictwa",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/od-domowych-ozdob-do-narodowego-dziedzictwa/101314/",
+        "date": "Sat, 17 Oct 2026 07:29:06 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Nocny wypadek w Pstrążnej. Osobówka zderzyła się z autobusem. Dwie młode osoby zostały poszkodowane",
-        "url": "https://www.radio90.pl/nocny-wypadek-w-pstraznej-osobowka-zderzyla-sie-z-autobusem-dwie-mlode-osoby-zostaly-poszkodowane.html",
-        "date": "Sat, 17 Oct 2026 07:42:47 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
