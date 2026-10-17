@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-17T11:20:14+00:00",
+  "generated": "2026-10-17T12:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 16.0,
-    "feels": 13.4,
+    "temp": 16.6,
+    "feels": 13.6,
     "code": 0,
-    "wind": 3.2,
-    "humidity": 33,
+    "wind": 5.0,
+    "humidity": 31,
     "is_day": true,
-    "tmax": 16.7,
+    "tmax": 16.6,
     "tmin": 7.5,
     "forecast": [
       {
         "date": "2026-10-17",
-        "max": 16.7,
+        "max": 16.6,
         "min": 7.5,
-        "code": 2
+        "code": 1
       },
       {
         "date": "2026-10-18",
-        "max": 14.4,
-        "min": 8.0,
+        "max": 14.6,
+        "min": 8.2,
         "code": 3
       },
       {
         "date": "2026-10-19",
-        "max": 9.1,
+        "max": 8.6,
         "min": 6.1,
-        "code": 3
+        "code": 51
       }
     ],
-    "observed": "2026-10-17T13:15",
+    "observed": "2026-10-17T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81507,
-        "pln": 316631,
-        "chg24": -1.36
+        "usd": 81461,
+        "pln": 316453,
+        "chg24": -0.91
       },
       {
         "sym": "ETH",
-        "usd": 2433.81,
-        "pln": 9454.64,
-        "chg24": -2.0
+        "usd": 2429.26,
+        "pln": 9436.96,
+        "chg24": -1.55
       }
     ],
     "stale": false
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "Nocna prohibicja w Cieszynie. Czy dzięki nowym zasadom jest bezpieczniej?",
+        "url": "https://www.radio90.pl/nocna-prohibicja-w-cieszynie-czy-dzieki-nowym-zasadom-jest-bezpieczniej.html",
+        "date": "Sat, 17 Oct 2026 12:20:45 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Bezpłatnie sprawdzą światła pojazdu",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/bezplatnie-sprawdza-swiatla-pojazdu/101361/",
+        "date": "Sat, 17 Oct 2026 11:37:34 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "W Baranowicach powstanie Folwark Kultury. Miejski Ośrodek Kultury w Żorach prowadzi konsultacje dotyczące tego miejsca",
         "url": "https://www.radio90.pl/w-baranowicach-powstanie-folwark-kultury-miejski-osrodek-kultury-w-zorach-prowadzi-konsultacje-dotyczace-tego-miejsca.html",
         "date": "Sat, 17 Oct 2026 11:05:09 +0000",
@@ -186,18 +198,6 @@
         "title": "Wypadek w Wilamowicach. Dwie młode osoby trafiły do szpitali",
         "url": "https://www.radiobielsko.pl/powiat-bielski/wypadek-w-wilamowicach-dwie-mlode-osoby-trafily-do-szpitali/101349/",
         "date": "Sat, 17 Oct 2026 07:40:15 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Po kilkunastu latach był już wysłużony, teraz jest jak nowy. Orlik w Jastrzębiu przeszedł modernizację [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/po-kilkunastu-latach-byl-juz-wysluzony-teraz-jest-jak-nowy-orlik-w-jastrzebiu-przeszedl-modernizacje-zdjecia.html",
-        "date": "Sat, 17 Oct 2026 08:30:48 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Od domowych ozdób do narodowego dziedzictwa",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/od-domowych-ozdob-do-narodowego-dziedzictwa/101314/",
-        "date": "Sat, 17 Oct 2026 07:29:06 +0000",
         "src": "RadioBielsko"
       }
     ],
