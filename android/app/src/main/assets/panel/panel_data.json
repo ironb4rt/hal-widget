@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-17T19:20:15+00:00",
+  "generated": "2026-10-17T20:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.4,
-    "feels": 7.8,
+    "temp": 10.0,
+    "feels": 7.2,
     "code": 0,
-    "wind": 6.5,
-    "humidity": 60,
+    "wind": 7.2,
+    "humidity": 58,
     "is_day": false,
-    "tmax": 16.8,
+    "tmax": 16.7,
     "tmin": 7.5,
     "forecast": [
       {
         "date": "2026-10-17",
-        "max": 16.8,
+        "max": 16.7,
         "min": 7.5,
         "code": 1
       },
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-19",
         "max": 8.5,
-        "min": 6.8,
+        "min": 7.5,
         "code": 3
       }
     ],
-    "observed": "2026-10-17T21:15",
+    "observed": "2026-10-17T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81452,
-        "pln": 316419,
-        "chg24": 0.13
+        "usd": 81534,
+        "pln": 316735,
+        "chg24": -0.02
       },
       {
         "sym": "ETH",
-        "usd": 2413.83,
-        "pln": 9377.03,
-        "chg24": 0.09
+        "usd": 2416.86,
+        "pln": 9388.8,
+        "chg24": 0.32
       }
     ],
     "stale": false
@@ -183,7 +183,7 @@
         "src": "Radio90"
       },
       {
-        "title": "Bielsko-Biała: mamy medal na Mistrzostwach Świata w Karate!",
+        "title": "Bielsko-Biała: mamy medal na Mistrzostwach Świata w Karate! AKTUALIZACJA",
         "url": "https://www.radiobielsko.pl/bielsko-biala/bielsko-biala-mamy-medal-na-mistrzostwach-swiata-w-karate/101375/",
         "date": "Sat, 17 Oct 2026 16:19:24 +0000",
         "src": "RadioBielsko"
