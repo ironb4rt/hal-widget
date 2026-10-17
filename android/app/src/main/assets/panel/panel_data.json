@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-17T14:20:14+00:00",
+  "generated": "2026-10-17T15:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 15.7,
-    "feels": 12.9,
+    "temp": 14.7,
+    "feels": 11.8,
     "code": 0,
-    "wind": 7.6,
-    "humidity": 40,
+    "wind": 8.3,
+    "humidity": 45,
     "is_day": true,
-    "tmax": 16.6,
+    "tmax": 16.5,
     "tmin": 7.5,
     "forecast": [
       {
         "date": "2026-10-17",
-        "max": 16.6,
+        "max": 16.5,
         "min": 7.5,
         "code": 1
       },
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-19",
         "max": 8.6,
-        "min": 6.2,
+        "min": 6.6,
         "code": 51
       }
     ],
-    "observed": "2026-10-17T16:15",
+    "observed": "2026-10-17T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81388,
-        "pln": 316167,
-        "chg24": -1.11
+        "usd": 81490,
+        "pln": 316564,
+        "chg24": -0.12
       },
       {
         "sym": "ETH",
-        "usd": 2418.97,
-        "pln": 9396.99,
-        "chg24": -2.18
+        "usd": 2420.52,
+        "pln": 9403.01,
+        "chg24": -0.88
       }
     ],
     "stale": false
@@ -153,15 +153,21 @@
     ],
     "local": [
       {
+        "title": "Nowa organizacja ruchu w Żorach. Od przyszłego tygodnia inaczej pojedziemy na skrzyżowaniach z ulicami Karłowicza",
+        "url": "https://www.radio90.pl/nowa-organizacja-ruchu-w-zorach-od-przyszlego-tygodnia-inaczej-pojedziemy-na-skrzyzowaniach-z-ulicami-karlowicza.html",
+        "date": "Sat, 17 Oct 2026 15:10:05 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "To był historyczny mecz! Chwalińska lepsza od Świątek",
         "url": "https://www.radiobielsko.pl/sport/to-byl-historyczny-mecz-chwalinska-lepsza-od-swiatek/101368/",
         "date": "Sat, 17 Oct 2026 14:10:53 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "W przyszłym tygodniu rusza zbiórka odpadów w Zebrzydowicach",
-        "url": "https://www.radio90.pl/w-przyszlym-tygodniu-rusza-zbiorka-odpadow-w-zebrzydowicach.html",
-        "date": "Sat, 17 Oct 2026 13:45:31 +0000",
+        "title": "Śmiertelny wypadek w Rybniku. Na ulicy Karłowicza rozbił się motocykl. Zginęła 37-letnia kobieta",
+        "url": "https://www.radio90.pl/smiertelny-wypadek-w-rybniku-na-ulicy-karlowicza-rozbil-sie-motocykl-zginela-37-letnia-kobieta.html",
+        "date": "Sat, 17 Oct 2026 14:48:04 +0000",
         "src": "Radio90"
       },
       {
@@ -171,21 +177,21 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "170-lecie kolei w Rybniku. Na dworcu kolejowym odbyło się kolejne z jubileuszowych wydarzeń [WIDEO, ZDJĘCIA]",
-        "url": "https://www.radio90.pl/170-lecie-kolei-w-rybniku-na-dworcu-kolejowym-odbylo-sie-kolejne-z-jubileuszowych-wydarzen-wideo-zdjecia.html",
-        "date": "Sat, 17 Oct 2026 13:19:42 +0000",
+        "title": "W przyszłym tygodniu rusza zbiórka odpadów w Zebrzydowicach",
+        "url": "https://www.radio90.pl/w-przyszlym-tygodniu-rusza-zbiorka-odpadow-w-zebrzydowicach.html",
+        "date": "Sat, 17 Oct 2026 13:45:31 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Z ostatniej chwili: Zderzenie samochodu i motocyklisty. Trwa reanimacja",
+        "title": "Zderzenie samochodu i motocyklisty. Droga była zablokowana",
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/z-ostatniej-chwili-zderzenie-samochodu-i-motocyklisty-trwa-reanimacja/101358/",
         "date": "Sat, 17 Oct 2026 10:41:10 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Nocna prohibicja w Cieszynie. Czy dzięki nowym zasadom jest bezpieczniej?",
-        "url": "https://www.radio90.pl/nocna-prohibicja-w-cieszynie-czy-dzieki-nowym-zasadom-jest-bezpieczniej.html",
-        "date": "Sat, 17 Oct 2026 12:20:45 +0000",
+        "title": "170-lecie kolei w Rybniku. Na dworcu kolejowym odbyło się kolejne z jubileuszowych wydarzeń [WIDEO, ZDJĘCIA]",
+        "url": "https://www.radio90.pl/170-lecie-kolei-w-rybniku-na-dworcu-kolejowym-odbylo-sie-kolejne-z-jubileuszowych-wydarzen-wideo-zdjecia.html",
+        "date": "Sat, 17 Oct 2026 13:19:42 +0000",
         "src": "Radio90"
       },
       {
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-bielski/droge-otwarto-i-zaraz-trzeba-bylo-ja-zamknac-wojt-wyjasnia-co-sie-stalo/101352/",
         "date": "Sat, 17 Oct 2026 10:15:14 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "W Baranowicach powstanie Folwark Kultury. Miejski Ośrodek Kultury w Żorach prowadzi konsultacje dotyczące tego miejsca",
-        "url": "https://www.radio90.pl/w-baranowicach-powstanie-folwark-kultury-miejski-osrodek-kultury-w-zorach-prowadzi-konsultacje-dotyczace-tego-miejsca.html",
-        "date": "Sat, 17 Oct 2026 11:05:09 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
