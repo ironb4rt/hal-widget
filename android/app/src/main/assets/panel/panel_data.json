@@ -1,27 +1,27 @@
 {
-  "generated": "2026-10-17T05:20:12+00:00",
+  "generated": "2026-10-17T06:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.5,
-    "feels": 4.8,
-    "code": 1,
-    "wind": 11.9,
-    "humidity": 58,
+    "temp": 9.5,
+    "feels": 5.8,
+    "code": 0,
+    "wind": 11.2,
+    "humidity": 53,
     "is_day": true,
-    "tmax": 16.8,
+    "tmax": 16.9,
     "tmin": 7.9,
     "forecast": [
       {
         "date": "2026-10-17",
-        "max": 16.8,
+        "max": 16.9,
         "min": 7.9,
         "code": 3
       },
       {
         "date": "2026-10-18",
-        "max": 15.2,
-        "min": 9.2,
+        "max": 15.3,
+        "min": 9.0,
         "code": 3
       },
       {
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-17T07:15",
+    "observed": "2026-10-17T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81539,
-        "pln": 316756,
-        "chg24": -0.77
+        "usd": 81505,
+        "pln": 316626,
+        "chg24": -0.58
       },
       {
         "sym": "ETH",
-        "usd": 2426.15,
-        "pln": 9424.88,
-        "chg24": -0.83
+        "usd": 2429.31,
+        "pln": 9437.18,
+        "chg24": -0.47
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Kuchnia Radia 90: puszyste ciasto z gruszkami",
+        "url": "https://www.radio90.pl/kuchnia-radia-90-puszyste-ciasto-z-gruszkami.html",
+        "date": "Sat, 17 Oct 2026 06:05:12 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Kacper Tomasiak ze złotym medalem! Znamy nowego mistrza Polski",
         "url": "https://www.radiobielsko.pl/sport/kacper-tomasiak-ze-zlotym-medalem-znamy-nowego-mistrza-polski/101315/",
         "date": "Fri, 16 Oct 2026 20:46:22 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/jutro-gielda-staroci-ten-pomysl-rodzil-sie-przez-lata/101300/",
         "date": "Fri, 16 Oct 2026 16:40:45 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Policja w Wodzisławiu Śląskim: motocyklista dziękuje za pomoc po upadku na drodze. „Chciałem wyrazić swoje uznanie”",
-        "url": "https://www.radio90.pl/policja-w-wodzislawiu-slaskim-motocyklista-dziekuje-za-pomoc-po-upadku-na-drodze-chcialem-wyrazic-swoje-uznanie.html",
-        "date": "Fri, 16 Oct 2026 15:35:22 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
