@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-17T15:20:14+00:00",
+  "generated": "2026-10-17T16:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.7,
-    "feels": 11.8,
+    "temp": 13.8,
+    "feels": 11.4,
     "code": 0,
-    "wind": 8.3,
-    "humidity": 45,
-    "is_day": true,
-    "tmax": 16.5,
+    "wind": 6.5,
+    "humidity": 51,
+    "is_day": false,
+    "tmax": 16.7,
     "tmin": 7.5,
     "forecast": [
       {
         "date": "2026-10-17",
-        "max": 16.5,
+        "max": 16.7,
         "min": 7.5,
-        "code": 1
+        "code": 3
       },
       {
         "date": "2026-10-18",
-        "max": 14.6,
-        "min": 8.2,
+        "max": 14.7,
+        "min": 8.7,
         "code": 3
       },
       {
         "date": "2026-10-19",
-        "max": 8.6,
-        "min": 6.6,
-        "code": 51
+        "max": 8.8,
+        "min": 7.4,
+        "code": 3
       }
     ],
-    "observed": "2026-10-17T17:15",
+    "observed": "2026-10-17T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81490,
-        "pln": 316564,
-        "chg24": -0.12
+        "usd": 81265,
+        "pln": 315691,
+        "chg24": -0.27
       },
       {
         "sym": "ETH",
-        "usd": 2420.52,
-        "pln": 9403.01,
-        "chg24": -0.88
+        "usd": 2408.4,
+        "pln": 9355.93,
+        "chg24": -1.21
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Bielsko-Biała: mamy medal na Mistrzostwach Świata w Karate!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/bielsko-biala-mamy-medal-na-mistrzostwach-swiata-w-karate/101375/",
+        "date": "Sat, 17 Oct 2026 16:19:24 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Nowa organizacja ruchu w Żorach. Od przyszłego tygodnia inaczej pojedziemy na skrzyżowaniach z ulicami Karłowicza",
         "url": "https://www.radio90.pl/nowa-organizacja-ruchu-w-zorach-od-przyszlego-tygodnia-inaczej-pojedziemy-na-skrzyzowaniach-z-ulicami-karlowicza.html",
         "date": "Sat, 17 Oct 2026 15:10:05 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radio90.pl/170-lecie-kolei-w-rybniku-na-dworcu-kolejowym-odbylo-sie-kolejne-z-jubileuszowych-wydarzen-wideo-zdjecia.html",
         "date": "Sat, 17 Oct 2026 13:19:42 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Drogę otwarto i zaraz trzeba było ją zamknąć. Wójt wyjaśnia, co się stało",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/droge-otwarto-i-zaraz-trzeba-bylo-ja-zamknac-wojt-wyjasnia-co-sie-stalo/101352/",
-        "date": "Sat, 17 Oct 2026 10:15:14 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
