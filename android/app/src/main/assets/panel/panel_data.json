@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-18T06:20:02+00:00",
+  "generated": "2026-10-18T07:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.3,
-    "feels": 7.4,
+    "temp": 10.4,
+    "feels": 8.6,
     "code": 3,
     "wind": 1.4,
-    "humidity": 63,
+    "humidity": 59,
     "is_day": true,
     "tmax": 14.5,
     "tmin": 8.5,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-18T08:15",
+    "observed": "2026-10-18T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81654,
-        "pln": 317201,
-        "chg24": 0.18
+        "usd": 81622,
+        "pln": 317230,
+        "chg24": 0.17
       },
       {
         "sym": "ETH",
-        "usd": 2409.54,
-        "pln": 9360.36,
-        "chg24": -0.81
+        "usd": 2407.15,
+        "pln": 9355.58,
+        "chg24": -0.89
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "ROW Rybnik przegrywa wyjazdowy mecz ze Spartą Katowice. To pierwsza porażka Rybniczan od ponad miesiąca",
-        "url": "https://www.radio90.pl/row-rybnik-przegrywa-wyjazdowy-mecz-ze-sparta-katowice-to-pierwsza-porazka-rybniczan-od-ponad-miesiaca.html",
-        "date": "Sat, 17 Oct 2026 19:10:45 +0000",
+        "title": "Eko Patrol Radia 90 – odcinek 41/2026. Rybnik chce być gotowy na zmiany klimatyczne. Dlatego aktualizuje Miejski Plan Adaptacji",
+        "url": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-41-2026-rybnik-chce-byc-gotowy-na-zmiany-klimatyczne-dlatego-aktualizuje-miejski-plan-adaptacji.html",
+        "date": "Sun, 18 Oct 2026 06:40:31 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Urząd Gminy Mszana pyta mieszkańców o choinki. Poszukuje drzewek, które staną w sołectwach w okresie Bożego Narodzenia",
-        "url": "https://www.radio90.pl/urzad-gminy-mszana-pyta-mieszkancow-o-choinki-poszukuje-drzewek-ktore-stana-w-solectwach-w-okresie-bozego-narodzenia.html",
-        "date": "Sat, 17 Oct 2026 17:50:16 +0000",
+        "title": "Wypadki w Rybniku: dwa zdarzenia na ul. Zebrzydowickiej, trzy osoby ranne w kraksach osobówek i motocykla",
+        "url": "https://www.radio90.pl/wypadki-w-rybniku-dwa-zdarzenia-na-ul-zebrzydowickiej-trzy-osoby-ranne-w-kraksach-osobowek-i-motocykla.html",
+        "date": "Sun, 18 Oct 2026 06:15:33 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Bartosz Bartkowiak mistrzem Europy w miniżużlu! To kolejny w tym roku indywidualny sukces zawodnika Rybek Rybnik",
-        "url": "https://www.radio90.pl/bartosz-bartkowiak-mistrzem-europy-w-minizuzlu-to-kolejny-w-tym-roku-indywidualny-sukces-zawodnika-rybek-rybnik.html",
-        "date": "Sat, 17 Oct 2026 16:43:41 +0000",
+        "title": "ROW Rybnik przegrywa wyjazdowy mecz ze Spartą Katowice. To pierwsza porażka Rybniczan od ponad miesiąca",
+        "url": "https://www.radio90.pl/row-rybnik-przegrywa-wyjazdowy-mecz-ze-sparta-katowice-to-pierwsza-porazka-rybniczan-od-ponad-miesiaca.html",
+        "date": "Sat, 17 Oct 2026 19:10:45 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dni Zdrowia Psychicznego w Rybniku: był już wernisaż i spacer. A jakie wydarzenia jeszcze się odbędą?",
-        "url": "https://www.radio90.pl/dni-zdrowia-psychicznego-w-rybniku-byl-juz-wernisaz-i-spacer-a-jakie-wydarzenia-jeszcze-sie-odbeda.html",
-        "date": "Sat, 17 Oct 2026 16:30:03 +0000",
+        "title": "Urząd Gminy Mszana pyta mieszkańców o choinki. Poszukuje drzewek, które staną w sołectwach w okresie Bożego Narodzenia",
+        "url": "https://www.radio90.pl/urzad-gminy-mszana-pyta-mieszkancow-o-choinki-poszukuje-drzewek-ktore-stana-w-solectwach-w-okresie-bozego-narodzenia.html",
+        "date": "Sat, 17 Oct 2026 17:50:16 +0000",
         "src": "Radio90"
       },
       {
