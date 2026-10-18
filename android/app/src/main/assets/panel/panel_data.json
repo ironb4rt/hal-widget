@@ -1,27 +1,27 @@
 {
-  "generated": "2026-10-18T16:20:05+00:00",
+  "generated": "2026-10-18T17:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.6,
-    "feels": 9.1,
-    "code": 3,
-    "wind": 11.5,
-    "humidity": 49,
+    "temp": 10.9,
+    "feels": 7.8,
+    "code": 1,
+    "wind": 10.1,
+    "humidity": 58,
     "is_day": false,
     "tmax": 14.2,
-    "tmin": 7.8,
+    "tmin": 8.4,
     "forecast": [
       {
         "date": "2026-10-18",
         "max": 14.2,
-        "min": 7.8,
+        "min": 8.4,
         "code": 3
       },
       {
         "date": "2026-10-19",
         "max": 8.6,
-        "min": 6.5,
+        "min": 6.7,
         "code": 51
       },
       {
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-18T18:15",
+    "observed": "2026-10-18T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81027,
-        "pln": 314916,
-        "chg24": -0.27
+        "usd": 81121,
+        "pln": 315282,
+        "chg24": -0.06
       },
       {
         "sym": "ETH",
-        "usd": 2365.39,
-        "pln": 9193.29,
-        "chg24": -1.73
+        "usd": 2373.55,
+        "pln": 9224.99,
+        "chg24": -1.19
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Nowe drzewa w Pawłowicach. Zasadziły je władze gminy wraz z radnymi. Z okazji dnia drzewa",
+        "url": "https://www.radio90.pl/nowe-drzewa-w-pawlowicach-zasadzily-je-wladze-gminy-wraz-z-radnymi-z-okazji-dnia-drzewa.html",
+        "date": "Sun, 18 Oct 2026 16:45:03 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Dwóch policjantów zatrzymało złodzieja. Obaj byli po służbie",
         "url": "https://www.radiobielsko.pl/powiat-cieszynski/dwoch-policjantow-zatrzymalo-zlodzieja-obaj-byli-po-sluzbie/101457/",
         "date": "Sun, 18 Oct 2026 16:00:49 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/sport/pechowa-koncowka-podbeskidzia-najpierw-rozcieta-glowa-kapitana-pozniej-stracona-bramka/101448/",
         "date": "Sun, 18 Oct 2026 14:29:35 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Złodziej w Drogomyślu dokonał kradzieży w sklepie. 23-latka zatrzymali policjanci poza służbą",
-        "url": "https://www.radio90.pl/zlodziej-w-drogomyslu-dokonal-kradziezy-w-sklepie-23-latka-zatrzymali-policjanci-poza-sluzba.html",
-        "date": "Sun, 18 Oct 2026 13:20:46 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
