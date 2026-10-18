@@ -1,21 +1,21 @@
 {
-  "generated": "2026-10-18T12:20:04+00:00",
+  "generated": "2026-10-18T13:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.0,
-    "feels": 11.2,
+    "temp": 14.1,
+    "feels": 11.4,
     "code": 0,
-    "wind": 9.4,
-    "humidity": 52,
+    "wind": 9.0,
+    "humidity": 51,
     "is_day": true,
     "tmax": 14.1,
-    "tmin": 8.5,
+    "tmin": 8.0,
     "forecast": [
       {
         "date": "2026-10-18",
         "max": 14.1,
-        "min": 8.5,
+        "min": 8.0,
         "code": 3
       },
       {
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-18T14:15",
+    "observed": "2026-10-18T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81965,
-        "pln": 318562,
-        "chg24": 0.63
+        "usd": 81829,
+        "pln": 318036,
+        "chg24": 0.53
       },
       {
         "sym": "ETH",
-        "usd": 2414.94,
-        "pln": 9385.84,
-        "chg24": -0.53
+        "usd": 2411.76,
+        "pln": 9373.51,
+        "chg24": -0.37
       }
     ],
     "stale": false
@@ -223,13 +223,13 @@
         "date": ""
       },
       {
-        "title": "Gorący tematKolizja Chevroleta Corvetty, Porche i Fiata na DK-81 w Pawłowicach - film z momentem zderzenia",
-        "url": "/informacje/20996-kolizja-chevroleta-corvetty-porche-i-fiata-na-dk-81-w-pawlowicach-film-z-momentem-zderzenia",
+        "title": "Gorący temat[FOTO] Dramat na os. Beskidzkim. Nie żyje nastoletnia dziewczyna, która spadła z wysokości",
+        "url": "/informacje/20992-foto-dramat-na-os-beskidzkim-nie-zyje-nastoletnia-dziewczyna-ktora-spadla-z-wysokosci",
         "date": ""
       },
       {
-        "title": "Gorący temat[FOTO] Pijany kierowca, który potrącił 11-latka dostał dozór. Prokuratura ujawnia kulisy wypadku",
-        "url": "/informacje/20994-foto-pijany-kierowca-ktory-potracil-11-latka-dostal-dozor-prokuratura-ujawnia-kulisy-wypadku",
+        "title": "Gorący tematKolizja Chevroleta Corvetty, Porche i Fiata na DK-81 w Pawłowicach - film z momentem zderzenia",
+        "url": "/informacje/20996-kolizja-chevroleta-corvetty-porche-i-fiata-na-dk-81-w-pawlowicach-film-z-momentem-zderzenia",
         "date": ""
       }
     ],
