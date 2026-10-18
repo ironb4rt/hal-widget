@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-18T10:20:04+00:00",
+  "generated": "2026-10-18T11:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.1,
-    "feels": 10.4,
-    "code": 1,
+    "temp": 13.7,
+    "feels": 11.0,
+    "code": 0,
     "wind": 9.7,
-    "humidity": 56,
+    "humidity": 55,
     "is_day": true,
     "tmax": 14.3,
     "tmin": 8.5,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-18T12:15",
+    "observed": "2026-10-18T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82100,
-        "pln": 319088,
-        "chg24": 0.72
+        "usd": 82018,
+        "pln": 318771,
+        "chg24": 0.63
       },
       {
         "sym": "ETH",
-        "usd": 2421.11,
-        "pln": 9409.85,
-        "chg24": -0.44
+        "usd": 2416.94,
+        "pln": 9393.62,
+        "chg24": -0.69
       }
     ],
     "stale": false
@@ -153,7 +153,25 @@
     ],
     "local": [
       {
-        "title": "Biegowe zmagania dzieci i młodzieży. Odbyły się biegi Wartki Bajtel w Gaszowicach. Rywalizowały „gizdy” i „chachory” [ZDJĘCIA]",
+        "title": "To coś więcej niż park",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/to-cos-wiecej-niz-park/101437/",
+        "date": "Sun, 18 Oct 2026 11:20:00 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "W KWK Knurów powstała komora aktywnego gaszenia metanu. Są w niej warunki jak pod ziemią",
+        "url": "https://www.radio90.pl/w-kwk-knurow-powstala-komora-aktywnego-gaszenia-metanu-sa-w-niej-warunki-jak-pod-ziemia.html",
+        "date": "Sun, 18 Oct 2026 10:55:02 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Uwaga na S1! Ruch wahadłowy i remont aż do końca października",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/uwaga-na-s1-ruch-wahadlowy-i-remont-az-do-konca-pazdziernika/101434/",
+        "date": "Sun, 18 Oct 2026 10:28:54 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Biegowe zmagania dzieci i młodzieży. Odbyły się biegi Wartki Bajtel w Gaszowicach. Rywalizowały „gizdy” i „chachory” [WIDEO, ZDJĘCIA]",
         "url": "https://www.radio90.pl/biegowe-zmagania-dzieci-i-mlodziezy-odbyly-sie-biegi-wartki-bajtel-w-gaszowicach-zdjecia.html",
         "date": "Sun, 18 Oct 2026 10:02:29 +0000",
         "src": "Radio90"
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/zorski-budzet-obywatelski-w-przyszlym-roku-ma-powstac-nowa-remiza-dla-osp-zory-a-do-harcerzy-trafi-nowy-sprzet.html",
         "date": "Sun, 18 Oct 2026 08:05:25 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Bielsko-Biała: mamy medal na Mistrzostwach Świata w Karate! AKTUALIZACJA",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/bielsko-biala-mamy-medal-na-mistrzostwach-swiata-w-karate/101375/",
-        "date": "Sat, 17 Oct 2026 16:19:24 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Wypadek w Rydułtowach. Doszło do potrącenia przez pociąg. Poszkodowany trafił… na izbę wytrzeźwień",
-        "url": "https://www.radio90.pl/wypadek-w-rydultowach-doszlo-do-potracenia-przez-pociag-poszkodowany-trafil-na-izbe-wytrzezwien.html",
-        "date": "Sun, 18 Oct 2026 08:00:18 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "To był historyczny mecz! Chwalińska lepsza od Świątek",
-        "url": "https://www.radiobielsko.pl/sport/to-byl-historyczny-mecz-chwalinska-lepsza-od-swiatek/101368/",
-        "date": "Sat, 17 Oct 2026 14:10:53 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
