@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-18T09:20:04+00:00",
+  "generated": "2026-10-18T10:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.2,
-    "feels": 9.7,
-    "code": 3,
-    "wind": 7.6,
-    "humidity": 57,
+    "temp": 13.1,
+    "feels": 10.4,
+    "code": 1,
+    "wind": 9.7,
+    "humidity": 56,
     "is_day": true,
-    "tmax": 14.4,
+    "tmax": 14.3,
     "tmin": 8.5,
     "forecast": [
       {
         "date": "2026-10-18",
-        "max": 14.4,
+        "max": 14.3,
         "min": 8.5,
         "code": 3
       },
       {
         "date": "2026-10-19",
         "max": 8.8,
-        "min": 7.7,
-        "code": 51
+        "min": 6.8,
+        "code": 3
       },
       {
         "date": "2026-10-20",
-        "max": 13.0,
-        "min": 5.3,
-        "code": 3
+        "max": 12.3,
+        "min": 5.2,
+        "code": 51
       }
     ],
-    "observed": "2026-10-18T11:15",
+    "observed": "2026-10-18T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81892,
-        "pln": 318281,
-        "chg24": 0.33
+        "usd": 82100,
+        "pln": 319088,
+        "chg24": 0.72
       },
       {
         "sym": "ETH",
-        "usd": 2417.12,
-        "pln": 9394.32,
-        "chg24": -0.61
+        "usd": 2421.11,
+        "pln": 9409.85,
+        "chg24": -0.44
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Żorski Budżet Obywatelski: w przyszłym roku ma powstać nowa remiza dla OSP Żory, a do harcerzy trafi nowy sprzęt",
-        "url": "https://www.radio90.pl/zorski-budzet-obywatelski-w-przyszlym-roku-ma-powstac-nowa-remiza-dla-osp-zory-a-do-harcerzy-trafi-nowy-sprzet.html",
-        "date": "Sun, 18 Oct 2026 08:05:25 +0000",
+        "title": "Biegowe zmagania dzieci i młodzieży. Odbyły się biegi Wartki Bajtel w Gaszowicach. Rywalizowały „gizdy” i „chachory” [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/biegowe-zmagania-dzieci-i-mlodziezy-odbyly-sie-biegi-wartki-bajtel-w-gaszowicach-zdjecia.html",
+        "date": "Sun, 18 Oct 2026 10:02:29 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wypadek w Rydułtowach. Doszło do potrącenia przez pociąg. Poszkodowany trafił… na izbę wytrzeźwień",
-        "url": "https://www.radio90.pl/wypadek-w-rydultowach-doszlo-do-potracenia-przez-pociag-poszkodowany-trafil-na-izbe-wytrzezwien.html",
-        "date": "Sun, 18 Oct 2026 08:00:18 +0000",
+        "title": "Policjanci z Raciborza z apelem do kierowców i pieszych na czas jesieni. „Bezpieczeństwo zależy od nas wszystkich”",
+        "url": "https://www.radio90.pl/policjanci-z-raciborza-z-apelem-do-kierowcow-i-pieszych-na-czas-jesieni-bezpieczenstwo-zalezy-od-nas-wszystkich.html",
+        "date": "Sun, 18 Oct 2026 09:30:00 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Eko Patrol Radia 90 – odcinek 41/2026. Rybnik chce być gotowy na zmiany klimatyczne. Dlatego aktualizuje Miejski Plan Adaptacji",
-        "url": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-41-2026-rybnik-chce-byc-gotowy-na-zmiany-klimatyczne-dlatego-aktualizuje-miejski-plan-adaptacji.html",
-        "date": "Sun, 18 Oct 2026 06:40:31 +0000",
+        "title": "Żorski Budżet Obywatelski: w przyszłym roku ma powstać nowa remiza dla OSP Żory, a do harcerzy trafi nowy sprzęt",
+        "url": "https://www.radio90.pl/zorski-budzet-obywatelski-w-przyszlym-roku-ma-powstac-nowa-remiza-dla-osp-zory-a-do-harcerzy-trafi-nowy-sprzet.html",
+        "date": "Sun, 18 Oct 2026 08:05:25 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wypadki w Rybniku: dwa zdarzenia na ul. Zebrzydowickiej, trzy osoby ranne w kraksach osobówek i motocykla",
-        "url": "https://www.radio90.pl/wypadki-w-rybniku-dwa-zdarzenia-na-ul-zebrzydowickiej-trzy-osoby-ranne-w-kraksach-osobowek-i-motocykla.html",
-        "date": "Sun, 18 Oct 2026 06:15:33 +0000",
+        "title": "Wypadek w Rydułtowach. Doszło do potrącenia przez pociąg. Poszkodowany trafił… na izbę wytrzeźwień",
+        "url": "https://www.radio90.pl/wypadek-w-rydultowach-doszlo-do-potracenia-przez-pociag-poszkodowany-trafil-na-izbe-wytrzezwien.html",
+        "date": "Sun, 18 Oct 2026 08:00:18 +0000",
         "src": "Radio90"
       },
       {
