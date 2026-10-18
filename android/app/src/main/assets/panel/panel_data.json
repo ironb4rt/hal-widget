@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-18T17:20:06+00:00",
+  "generated": "2026-10-18T18:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.9,
+    "temp": 10.4,
     "feels": 7.8,
-    "code": 1,
-    "wind": 10.1,
-    "humidity": 58,
+    "code": 2,
+    "wind": 7.9,
+    "humidity": 65,
     "is_day": false,
     "tmax": 14.2,
-    "tmin": 8.4,
+    "tmin": 8.5,
     "forecast": [
       {
         "date": "2026-10-18",
         "max": 14.2,
-        "min": 8.4,
+        "min": 8.5,
         "code": 3
       },
       {
         "date": "2026-10-19",
-        "max": 8.6,
-        "min": 6.7,
+        "max": 8.3,
+        "min": 6.9,
         "code": 51
       },
       {
         "date": "2026-10-20",
-        "max": 14.9,
-        "min": 5.0,
-        "code": 3
+        "max": 12.7,
+        "min": 5.3,
+        "code": 53
       }
     ],
-    "observed": "2026-10-18T19:15",
+    "observed": "2026-10-18T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81121,
-        "pln": 315282,
-        "chg24": -0.06
+        "usd": 81057,
+        "pln": 315036,
+        "chg24": -0.48
       },
       {
         "sym": "ETH",
-        "usd": 2373.55,
-        "pln": 9224.99,
-        "chg24": -1.19
+        "usd": 2362.87,
+        "pln": 9183.5,
+        "chg24": -2.16
       }
     ],
     "stale": false
@@ -103,6 +103,12 @@
     "ok": true,
     "market": [
       {
+        "title": "Mining’s future hinges on global cooperation: report",
+        "url": "https://www.mining.com/minings-future-hinges-on-global-cooperation-report/",
+        "date": "Sun, 18 Oct 2026 17:31:14 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Buffalo clears potash permit hurdle in Saskatchewan",
         "url": "https://www.mining.com/buffalo-clears-potash-permit-hurdle-in-saskatchewan/",
         "date": "Fri, 16 Oct 2026 22:48:00 +0000",
@@ -143,19 +149,19 @@
         "url": "https://www.mining.com/minnova-maps-53m-restart-for-manitoba-gold-mine/",
         "date": "Thu, 15 Oct 2026 23:24:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Tech giants come knocking for a piece of Anglo American as copper scarcity bites, Wanblad tells FT",
-        "url": "https://www.mining.com/tech-giants-come-knocking-for-a-piece-of-anglo-american-as-copper-scarcity-bites-wanblad-tells-ft/",
-        "date": "Thu, 15 Oct 2026 17:55:45 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Nowe drzewa w Pawłowicach. Zasadziły je władze gminy wraz z radnymi. Z okazji dnia drzewa",
-        "url": "https://www.radio90.pl/nowe-drzewa-w-pawlowicach-zasadzily-je-wladze-gminy-wraz-z-radnymi-z-okazji-dnia-drzewa.html",
-        "date": "Sun, 18 Oct 2026 16:45:03 +0000",
+        "title": "Anita Jancia najlepszą aktorką Międzynarodowego Festiwalu Gombrowiczowskiego! Wyróżnienie aktorskie dla Grzegorza Sikory!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/anita-jancia-najlepsza-aktorka-miedzynarodowego-festiwalu-gombrowiczowskiego-wyroznienie-aktorskie-dla-grzegorza-sikory/101484/",
+        "date": "Sun, 18 Oct 2026 18:15:41 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Lider pokonany! JKH GKS Jastrzębie wygrywa wyjazdowy mecz z Polonią Bytom i awansuje w tabeli",
+        "url": "https://www.radio90.pl/lider-pokonany-jkh-gks-jastrzebie-wygrywa-wyjazdowy-mecz-z-polonia-bytom-i-awansuje-w-tabeli.html",
+        "date": "Sun, 18 Oct 2026 17:53:36 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wiele dań, wszystkie w czarnym kolorze. Festiwal kulinarny Czarna Szama odbył się w Łaźni Moszczenica w Jastrzębiu [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/wiele-dan-wszystkie-w-czarnym-kolorze-festiwal-kulinarny-czarna-szama-odbyl-sie-w-lazni-moszczenica-w-jastrzebiu-zdjecia.html",
-        "date": "Sun, 18 Oct 2026 15:48:44 +0000",
+        "title": "Nowe drzewa w Pawłowicach. Zasadziły je władze gminy wraz z radnymi. Z okazji dnia drzewa",
+        "url": "https://www.radio90.pl/nowe-drzewa-w-pawlowicach-zasadzily-je-wladze-gminy-wraz-z-radnymi-z-okazji-dnia-drzewa.html",
+        "date": "Sun, 18 Oct 2026 16:45:03 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Remonty w szpitalu w Rybniku. „Pracujemy, aby nasz szpital był miejscem dostępnym dla każdego pacjenta”",
-        "url": "https://www.radio90.pl/remonty-w-szpitalu-w-rybniku-pracujemy-aby-nasz-szpital-byl-miejscem-dostepnym-dla-kazdego-pacjenta.html",
-        "date": "Sun, 18 Oct 2026 14:50:30 +0000",
+        "title": "Wiele dań, wszystkie w czarnym kolorze. Festiwal kulinarny Czarna Szama odbył się w Łaźni Moszczenica w Jastrzębiu [WIDEO, ZDJĘCIA]",
+        "url": "https://www.radio90.pl/wiele-dan-wszystkie-w-czarnym-kolorze-festiwal-kulinarny-czarna-szama-odbyl-sie-w-lazni-moszczenica-w-jastrzebiu-wideo-zdjecia.html",
+        "date": "Sun, 18 Oct 2026 15:48:44 +0000",
         "src": "Radio90"
       },
       {
@@ -189,16 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Bieg WARTKO bez Gaszowice za nami. 200 śmiałków na trasie [WIDEO, ZDJĘCIA]",
-        "url": "https://www.radio90.pl/bieg-wartko-bez-gaszowice-za-nami-200-smialkow-na-trasie-zdjecia.html",
-        "date": "Sun, 18 Oct 2026 13:30:11 +0000",
+        "title": "Remonty w szpitalu w Rybniku. „Pracujemy, aby nasz szpital był miejscem dostępnym dla każdego pacjenta”",
+        "url": "https://www.radio90.pl/remonty-w-szpitalu-w-rybniku-pracujemy-aby-nasz-szpital-byl-miejscem-dostepnym-dla-kazdego-pacjenta.html",
+        "date": "Sun, 18 Oct 2026 14:50:30 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Pechowa końcówka Podbeskidzia. Najpierw rozcięta głowa kapitana, później stracona bramka",
-        "url": "https://www.radiobielsko.pl/sport/pechowa-koncowka-podbeskidzia-najpierw-rozcieta-glowa-kapitana-pozniej-stracona-bramka/101448/",
-        "date": "Sun, 18 Oct 2026 14:29:35 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
