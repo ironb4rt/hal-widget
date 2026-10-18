@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-18T15:20:05+00:00",
+  "generated": "2026-10-18T16:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.7,
-    "feels": 11.3,
-    "code": 0,
-    "wind": 7.6,
-    "humidity": 54,
-    "is_day": true,
-    "tmax": 14.1,
-    "tmin": 8.0,
+    "temp": 12.6,
+    "feels": 9.1,
+    "code": 3,
+    "wind": 11.5,
+    "humidity": 49,
+    "is_day": false,
+    "tmax": 14.2,
+    "tmin": 7.8,
     "forecast": [
       {
         "date": "2026-10-18",
-        "max": 14.1,
-        "min": 8.0,
+        "max": 14.2,
+        "min": 7.8,
         "code": 3
       },
       {
         "date": "2026-10-19",
-        "max": 8.3,
-        "min": 7.1,
-        "code": 3
+        "max": 8.6,
+        "min": 6.5,
+        "code": 51
       },
       {
         "date": "2026-10-20",
-        "max": 11.9,
-        "min": 5.3,
-        "code": 53
+        "max": 14.9,
+        "min": 5.0,
+        "code": 3
       }
     ],
-    "observed": "2026-10-18T17:15",
+    "observed": "2026-10-18T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81080,
-        "pln": 315125,
-        "chg24": -0.46
+        "usd": 81027,
+        "pln": 314916,
+        "chg24": -0.27
       },
       {
         "sym": "ETH",
-        "usd": 2376.22,
-        "pln": 9235.38,
-        "chg24": -1.71
+        "usd": 2365.39,
+        "pln": 9193.29,
+        "chg24": -1.73
       }
     ],
     "stale": false
@@ -153,15 +153,33 @@
     ],
     "local": [
       {
+        "title": "Dwóch policjantów zatrzymało złodzieja. Obaj byli po służbie",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dwoch-policjantow-zatrzymalo-zlodzieja-obaj-byli-po-sluzbie/101457/",
+        "date": "Sun, 18 Oct 2026 16:00:49 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Wiele dań, wszystkie w czarnym kolorze. Festiwal kulinarny Czarna Szama odbył się w Łaźni Moszczenica w Jastrzębiu [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/wiele-dan-wszystkie-w-czarnym-kolorze-festiwal-kulinarny-czarna-szama-odbyl-sie-w-lazni-moszczenica-w-jastrzebiu-zdjecia.html",
+        "date": "Sun, 18 Oct 2026 15:48:44 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dwa zderzenia w dwa dni. Skuter rozbity, kierowca w szpitalu",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/dwa-zderzenia-w-dwa-dni-skuter-rozbity-kierowca-w-szpitalu/101463/",
+        "date": "Sun, 18 Oct 2026 15:35:31 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Remonty w szpitalu w Rybniku. „Pracujemy, aby nasz szpital był miejscem dostępnym dla każdego pacjenta”",
         "url": "https://www.radio90.pl/remonty-w-szpitalu-w-rybniku-pracujemy-aby-nasz-szpital-byl-miejscem-dostepnym-dla-kazdego-pacjenta.html",
         "date": "Sun, 18 Oct 2026 14:50:30 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Pechowa końcówka Podbeskidzia. Najpierw rozcięta głowa kapitana, później stracona bramka",
-        "url": "https://www.radiobielsko.pl/sport/pechowa-koncowka-podbeskidzia-najpierw-rozcieta-glowa-kapitana-pozniej-stracona-bramka/101448/",
-        "date": "Sun, 18 Oct 2026 14:29:35 +0000",
+        "title": "Prawy obrońca bohaterem spotkania. Faworyt nie dał szans beniaminkowi",
+        "url": "https://www.radiobielsko.pl/sport/prawy-obronca-bohaterem-spotkania-faworyt-nie-dal-szans-beniaminkowi/101461/",
+        "date": "Sun, 18 Oct 2026 15:25:08 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "31-latek spadł z dachu marketu. Interweniował śmigłowiec LPR",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/31-latek-spadl-z-dachu-marketu-interweniowal-smiglowiec-lpr/101452/",
-        "date": "Sun, 18 Oct 2026 14:18:49 +0000",
+        "title": "Pechowa końcówka Podbeskidzia. Najpierw rozcięta głowa kapitana, później stracona bramka",
+        "url": "https://www.radiobielsko.pl/sport/pechowa-koncowka-podbeskidzia-najpierw-rozcieta-glowa-kapitana-pozniej-stracona-bramka/101448/",
+        "date": "Sun, 18 Oct 2026 14:29:35 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/zlodziej-w-drogomyslu-dokonal-kradziezy-w-sklepie-23-latka-zatrzymali-policjanci-poza-sluzba.html",
         "date": "Sun, 18 Oct 2026 13:20:46 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Paliły się śmietniki. Nikomu nic się nie stało",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/palily-sie-smietniki-nikomu-nic-sie-nie-stalo/101449/",
-        "date": "Sun, 18 Oct 2026 14:02:06 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Służby Komunalne Miasta w Wodzisławiu Śląskim będą mieć nową dyrektor. Od listopada będzie nią Joanna Staniczek",
-        "url": "https://www.radio90.pl/sluzby-komunalne-miasta-w-wodzislawiu-slaskim-beda-miec-nowa-dyrektor-od-listopada-bedzie-nia-joanna-staniczek.html",
-        "date": "Sun, 18 Oct 2026 12:05:56 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Maja Chwalińska napisała historię! Wielki triumf Polki w Wuhan",
-        "url": "https://www.radiobielsko.pl/sport/maja-chwalinska-napisala-historie-wielki-triumf-polki-w-wuhan/101444/",
-        "date": "Sun, 18 Oct 2026 13:25:13 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
