@@ -1,21 +1,21 @@
 {
-  "generated": "2026-10-18T14:20:04+00:00",
+  "generated": "2026-10-18T15:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.1,
-    "feels": 11.8,
+    "temp": 13.7,
+    "feels": 11.3,
     "code": 0,
-    "wind": 7.2,
+    "wind": 7.6,
     "humidity": 54,
     "is_day": true,
     "tmax": 14.1,
-    "tmin": 8.5,
+    "tmin": 8.0,
     "forecast": [
       {
         "date": "2026-10-18",
         "max": 14.1,
-        "min": 8.5,
+        "min": 8.0,
         "code": 3
       },
       {
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-18T16:15",
+    "observed": "2026-10-18T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81226,
-        "pln": 315691,
-        "chg24": -0.19
+        "usd": 81080,
+        "pln": 315125,
+        "chg24": -0.46
       },
       {
         "sym": "ETH",
-        "usd": 2385.71,
-        "pln": 9272.26,
-        "chg24": -1.43
+        "usd": 2376.22,
+        "pln": 9235.38,
+        "chg24": -1.71
       }
     ],
     "stale": false
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "31-latek spadł z dachu marketu. Interweniował śmigłowiec LPR",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/31-latek-spadl-z-dachu-marketu-interweniowal-smiglowiec-lpr/101452/",
-        "date": "Sun, 18 Oct 2026 14:18:49 +0000",
+        "title": "Remonty w szpitalu w Rybniku. „Pracujemy, aby nasz szpital był miejscem dostępnym dla każdego pacjenta”",
+        "url": "https://www.radio90.pl/remonty-w-szpitalu-w-rybniku-pracujemy-aby-nasz-szpital-byl-miejscem-dostepnym-dla-kazdego-pacjenta.html",
+        "date": "Sun, 18 Oct 2026 14:50:30 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Pechowa końcówka Podbeskidzia. Najpierw rozcięta głowa kapitana, później stracona bramka",
+        "url": "https://www.radiobielsko.pl/sport/pechowa-koncowka-podbeskidzia-najpierw-rozcieta-glowa-kapitana-pozniej-stracona-bramka/101448/",
+        "date": "Sun, 18 Oct 2026 14:29:35 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +171,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Paliły się śmietniki. Nikomu nic się nie stało",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/palily-sie-smietniki-nikomu-nic-sie-nie-stalo/101449/",
-        "date": "Sun, 18 Oct 2026 14:02:06 +0000",
+        "title": "31-latek spadł z dachu marketu. Interweniował śmigłowiec LPR",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/31-latek-spadl-z-dachu-marketu-interweniowal-smiglowiec-lpr/101452/",
+        "date": "Sun, 18 Oct 2026 14:18:49 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Maja Chwalińska napisała historię! Wielki triumf Polki w Wuhan",
-        "url": "https://www.radiobielsko.pl/sport/maja-chwalinska-napisala-historie-wielki-triumf-polki-w-wuhan/101444/",
-        "date": "Sun, 18 Oct 2026 13:25:13 +0000",
+        "title": "Paliły się śmietniki. Nikomu nic się nie stało",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/palily-sie-smietniki-nikomu-nic-sie-nie-stalo/101449/",
+        "date": "Sun, 18 Oct 2026 14:02:06 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,19 +195,18 @@
         "src": "Radio90"
       },
       {
-        "title": "BBTS przełamał się w Siedlcach. Pierwsze zwycięstwo bez straty seta",
-        "url": "https://www.radiobielsko.pl/sport/bbts-przelamal-sie-w-siedlcach-pierwsze-zwyciestwo-bez-straty-seta/101440/",
-        "date": "Sun, 18 Oct 2026 12:17:36 +0000",
+        "title": "Maja Chwalińska napisała historię! Wielki triumf Polki w Wuhan",
+        "url": "https://www.radiobielsko.pl/sport/maja-chwalinska-napisala-historie-wielki-triumf-polki-w-wuhan/101444/",
+        "date": "Sun, 18 Oct 2026 13:25:13 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "W KWK Knurów powstała komora aktywnego gaszenia metanu. Są w niej warunki jak pod ziemią",
-        "url": "https://www.radio90.pl/w-kwk-knurow-powstala-komora-aktywnego-gaszenia-metanu-sa-w-niej-warunki-jak-pod-ziemia.html",
-        "date": "Sun, 18 Oct 2026 10:55:02 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "Zdarzenie drogowe na ul. Krakowskiej w Bielsku-Białej. Ruch wahadłowy i dziecko w szpitalu",
+        "url": "/informacje/21006-zdarzenie-drogowe-na-ul-krakowskiej-w-bielsku-bialej-ruch-wahadlowy-i-dziecko-w-szpitalu",
+        "date": ""
+      },
       {
         "title": "GEELY w Pszczynie. Światowa marka z lokalnym adresem",
         "url": "/informacje/21000-geely-w-pszczynie-swiatowa-marka-z-lokalnym-adresem",
@@ -220,11 +225,6 @@
       {
         "title": "Rowerzyści zyskają bezpieczniejszy przejazd. Zmiany na Rondzie Solidarności i ul. Sarni Stok",
         "url": "/informacje/21003-rowerzysci-zyskaja-bezpieczniejszy-przejazd-zmiany-na-rondzie-solidarnosci-i-ul-sarni-stok",
-        "date": ""
-      },
-      {
-        "title": "Gorący temat[FOTO] Dramat na os. Beskidzkim. Nie żyje nastoletnia dziewczyna, która spadła z wysokości",
-        "url": "/informacje/20992-foto-dramat-na-os-beskidzkim-nie-zyje-nastoletnia-dziewczyna-ktora-spadla-z-wysokosci",
         "date": ""
       },
       {
