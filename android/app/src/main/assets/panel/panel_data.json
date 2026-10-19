@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-19T04:20:08+00:00",
+  "generated": "2026-10-19T05:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.8,
-    "feels": 5.4,
+    "temp": 7.4,
+    "feels": 5.2,
     "code": 3,
-    "wind": 6.5,
-    "humidity": 76,
-    "is_day": false,
+    "wind": 6.1,
+    "humidity": 82,
+    "is_day": true,
     "tmax": 8.8,
     "tmin": 7.0,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-19T06:15",
+    "observed": "2026-10-19T07:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82417,
-        "pln": 320869,
-        "chg24": 0.72
+        "usd": 82560,
+        "pln": 321283,
+        "chg24": 0.96
       },
       {
         "sym": "ETH",
-        "usd": 2418.95,
-        "pln": 9417.55,
-        "chg24": -0.06
+        "usd": 2422.92,
+        "pln": 9428.88,
+        "chg24": 0.34
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.89,
-        "chg": 1.57,
-        "as_of": "19.10 04:09"
+        "value": 57.88,
+        "chg": 1.55,
+        "as_of": "19.10 05:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6215,
-        "chg": 1.39,
-        "as_of": "19.10 04:09"
+        "value": 6.6175,
+        "chg": 1.32,
+        "as_of": "19.10 05:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 04:09",
+    "updated": "19.10 05:09",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Zmiana organizacji ruchu w Żorach. Uważajcie!",
+        "url": "https://www.radio90.pl/zmiana-organizacji-ruchu-w-zorach-uwazajcie.html",
+        "date": "Mon, 19 Oct 2026 04:45:40 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Mieli lidera na wyciągnięcie ręki. O wszystkim zdecydowała 79. minuta",
         "url": "https://www.radiobielsko.pl/sport/mieli-lidera-na-wyciagniecie-reki-o-wszystkim-zdecydowala-79-minuta/101500/",
         "date": "Sun, 18 Oct 2026 18:53:46 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/dwa-zderzenia-w-dwa-dni-skuter-rozbity-kierowca-w-szpitalu/101463/",
         "date": "Sun, 18 Oct 2026 15:35:31 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Remonty w szpitalu w Rybniku. „Pracujemy, aby nasz szpital był miejscem dostępnym dla każdego pacjenta”",
-        "url": "https://www.radio90.pl/remonty-w-szpitalu-w-rybniku-pracujemy-aby-nasz-szpital-byl-miejscem-dostepnym-dla-kazdego-pacjenta.html",
-        "date": "Sun, 18 Oct 2026 14:50:30 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
