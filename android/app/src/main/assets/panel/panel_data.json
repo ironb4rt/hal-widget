@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-19T09:20:09+00:00",
+  "generated": "2026-10-19T10:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.5,
-    "feels": 6.4,
+    "temp": 8.4,
+    "feels": 6.2,
     "code": 3,
-    "wind": 5.4,
-    "humidity": 76,
+    "wind": 6.8,
+    "humidity": 79,
     "is_day": true,
     "tmax": 8.5,
     "tmin": 7.0,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-21",
         "max": 21.5,
-        "min": 10.9,
+        "min": 11.0,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T11:15",
+    "observed": "2026-10-19T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82764,
-        "pln": 322585,
-        "chg24": 1.06
+        "usd": 82569,
+        "pln": 322068,
+        "chg24": 0.58
       },
       {
         "sym": "ETH",
-        "usd": 2436.05,
-        "pln": 9494.82,
-        "chg24": 0.78
+        "usd": 2430.69,
+        "pln": 9481.16,
+        "chg24": 0.41
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.655,
-        "chg": 1.16,
-        "as_of": "19.10 09:09"
+        "value": 57.705,
+        "chg": 1.25,
+        "as_of": "19.10 10:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.575,
-        "chg": 0.67,
-        "as_of": "19.10 09:10"
+        "value": 6.5905,
+        "chg": 0.91,
+        "as_of": "19.10 10:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3981,
-        "chg": -1.0,
-        "as_of": "19.10 07:26"
+        "value": 1.4036,
+        "chg": -0.6,
+        "as_of": "19.10 10:00"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 09:10",
+    "updated": "19.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Agresywny pacjent w szpitalu w Jastrzębiu-Zdroju",
+        "url": "https://www.radio90.pl/agresywny-pacjent-w-szpitalu-w-jastrzebiu-zdroju.html",
+        "date": "Mon, 19 Oct 2026 10:18:44 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Maluch, anioł i dziadki do orzechów. Szykują się świąteczne iluminacje",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/maluch-aniol-i-dziadki-do-orzechow-szykuja-sie-swiateczne-iluminacje/101538/",
+        "date": "Mon, 19 Oct 2026 09:30:05 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Pożar stodoły w Rybniku. Ponad 200 tysięcy złotych strat",
+        "url": "https://www.radio90.pl/pozar-stodoly-w-rybniku-ponad-200-tysiecy-zlotych-strat.html",
+        "date": "Mon, 19 Oct 2026 09:41:04 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Kobieta uderzyła w drzewo",
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/kobieta-uderzyla-w-drzewo/101548/",
         "date": "Mon, 19 Oct 2026 09:03:41 +0000",
@@ -181,32 +199,9 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/secesyjna-perla-wciaz-szuka-wlasciciela-to-jedyna-taka-willa-w-centrum-bielska-bialej/101536/",
         "date": "Mon, 19 Oct 2026 08:47:28 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Śmiertelny wypadek w Syryni: sprawca trafił do aresztu",
-        "url": "https://www.radio90.pl/smiertelny-wypadek-w-syryni-sprawca-trafil-do-aresztu.html",
-        "date": "Mon, 19 Oct 2026 07:50:39 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Seria trenerskich dymisji w „okręgówce”! Kolejny szkoleniowiec zrezygnował",
-        "url": "https://www.radiobielsko.pl/sport/seria-trenerskich-dymisji-w-okregowce-kolejny-szkoleniowiec-zrezygnowal/101534/",
-        "date": "Mon, 19 Oct 2026 08:40:27 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Trwa przebudowa dawnego szpitala „Juliusz” w Rybniku. Prace trwają w piwnicach i na dachu [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/trwa-przebudowa-dawnego-szpitala-juliusz-w-rybniku-prace-trwaja-w-piwnicach-i-na-dachu-tak-postepuja-zdjecia.html",
-        "date": "Mon, 19 Oct 2026 07:05:39 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
-      {
-        "title": "Ponad 2 promile alkoholu i 10-letnia wnuczka w aucie. 59-latek rozbił się na Krakowskiej",
-        "url": "/informacje/21006-ponad-2-promile-alkoholu-i-10-letnia-wnuczka-w-aucie-59-latek-rozbil-sie-na-krakowskiej",
-        "date": ""
-      },
       {
         "title": "GEELY w Pszczynie. Światowa marka z lokalnym adresem",
         "url": "/informacje/21000-geely-w-pszczynie-swiatowa-marka-z-lokalnym-adresem",
@@ -225,6 +220,11 @@
       {
         "title": "Rowerzyści zyskają bezpieczniejszy przejazd. Zmiany na Rondzie Solidarności i ul. Sarni Stok",
         "url": "/informacje/21003-rowerzysci-zyskaja-bezpieczniejszy-przejazd-zmiany-na-rondzie-solidarnosci-i-ul-sarni-stok",
+        "date": ""
+      },
+      {
+        "title": "Gorący temat[FOTO] Dramat na os. Beskidzkim. Nie żyje nastoletnia dziewczyna, która spadła z wysokości",
+        "url": "/informacje/20992-foto-dramat-na-os-beskidzkim-nie-zyje-nastoletnia-dziewczyna-ktora-spadla-z-wysokosci",
         "date": ""
       },
       {
