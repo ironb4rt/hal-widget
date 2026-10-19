@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-19T05:20:08+00:00",
+  "generated": "2026-10-19T06:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.4,
-    "feels": 5.2,
+    "temp": 7.8,
+    "feels": 5.6,
     "code": 3,
-    "wind": 6.1,
-    "humidity": 82,
+    "wind": 5.8,
+    "humidity": 80,
     "is_day": true,
-    "tmax": 8.8,
+    "tmax": 8.6,
     "tmin": 7.0,
     "forecast": [
       {
         "date": "2026-10-19",
-        "max": 8.8,
+        "max": 8.6,
         "min": 7.0,
         "code": 51
       },
       {
         "date": "2026-10-20",
-        "max": 14.1,
+        "max": 13.9,
         "min": 5.1,
         "code": 3
       },
       {
         "date": "2026-10-21",
-        "max": 21.3,
-        "min": 12.2,
+        "max": 21.5,
+        "min": 11.6,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T07:15",
+    "observed": "2026-10-19T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82560,
-        "pln": 321283,
-        "chg24": 0.96
+        "usd": 82707,
+        "pln": 322080,
+        "chg24": 1.32
       },
       {
         "sym": "ETH",
-        "usd": 2422.92,
-        "pln": 9428.88,
-        "chg24": 0.34
+        "usd": 2431.52,
+        "pln": 9468.85,
+        "chg24": 0.95
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.88,
-        "chg": 1.55,
-        "as_of": "19.10 05:09"
+        "value": 57.94,
+        "chg": 1.66,
+        "as_of": "19.10 06:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6175,
-        "chg": 1.32,
-        "as_of": "19.10 05:09"
+        "value": 6.614,
+        "chg": 1.27,
+        "as_of": "19.10 06:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4026,
-        "chg": -0.14,
-        "as_of": "19.10 00:05"
+        "value": 1.4025,
+        "chg": -0.68,
+        "as_of": "19.10 06:05"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 05:09",
+    "updated": "19.10 06:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Zmiana organizacji ruchu w Żorach. Uważajcie!",
-        "url": "https://www.radio90.pl/zmiana-organizacji-ruchu-w-zorach-uwazajcie.html",
-        "date": "Mon, 19 Oct 2026 04:45:40 +0000",
+        "title": "Pałac do remontu. Co z roszczeniami dawnych właścicieli?",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/palac-do-remontu-co-z-roszczeniami-dawnych-wlascicieli/101506/",
+        "date": "Mon, 19 Oct 2026 06:17:57 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Jastrzębie Barkom wygrywa pierwszy mecz. Siatkarze pokonali Ślepsk Malow Suwałki 3:2",
+        "url": "https://www.radio90.pl/jastrzebie-barkom-wygrywa-pierwszy-mecz-siatkarze-pokonali-slepsk-malow-suwalki-32.html",
+        "date": "Mon, 19 Oct 2026 06:01:43 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Lider pokonany! JKH GKS Jastrzębie wygrywa wyjazdowy mecz z Polonią Bytom i awansuje w tabeli",
-        "url": "https://www.radio90.pl/lider-pokonany-jkh-gks-jastrzebie-wygrywa-wyjazdowy-mecz-z-polonia-bytom-i-awansuje-w-tabeli.html",
-        "date": "Sun, 18 Oct 2026 17:53:36 +0000",
+        "title": "Muzeum w Raciborzu: Romuald Turakiewicz pozostanie na stanowisku dyrektora przez kolejnych pięć lat",
+        "url": "https://www.radio90.pl/muzeum-w-raciborzu-romuald-turakiewicz-pozostanie-na-stanowisku-dyrektora-przez-kolejnych-piec-lat.html",
+        "date": "Mon, 19 Oct 2026 05:40:02 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Nowe drzewa w Pawłowicach. Zasadziły je władze gminy wraz z radnymi. Z okazji dnia drzewa",
-        "url": "https://www.radio90.pl/nowe-drzewa-w-pawlowicach-zasadzily-je-wladze-gminy-wraz-z-radnymi-z-okazji-dnia-drzewa.html",
-        "date": "Sun, 18 Oct 2026 16:45:03 +0000",
+        "title": "Zmiana organizacji ruchu w Żorach. Uważajcie!",
+        "url": "https://www.radio90.pl/zmiana-organizacji-ruchu-w-zorach-uwazajcie.html",
+        "date": "Mon, 19 Oct 2026 04:45:40 +0000",
         "src": "Radio90"
       },
       {
@@ -189,16 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wiele dań, wszystkie w czarnym kolorze. Festiwal kulinarny Czarna Szama odbył się w Łaźni Moszczenica w Jastrzębiu [WIDEO, ZDJĘCIA]",
-        "url": "https://www.radio90.pl/wiele-dan-wszystkie-w-czarnym-kolorze-festiwal-kulinarny-czarna-szama-odbyl-sie-w-lazni-moszczenica-w-jastrzebiu-wideo-zdjecia.html",
-        "date": "Sun, 18 Oct 2026 15:48:44 +0000",
+        "title": "Lider pokonany! JKH GKS Jastrzębie wygrywa wyjazdowy mecz z Polonią Bytom i awansuje w tabeli",
+        "url": "https://www.radio90.pl/lider-pokonany-jkh-gks-jastrzebie-wygrywa-wyjazdowy-mecz-z-polonia-bytom-i-awansuje-w-tabeli.html",
+        "date": "Sun, 18 Oct 2026 17:53:36 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Dwa zderzenia w dwa dni. Skuter rozbity, kierowca w szpitalu",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/dwa-zderzenia-w-dwa-dni-skuter-rozbity-kierowca-w-szpitalu/101463/",
-        "date": "Sun, 18 Oct 2026 15:35:31 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
