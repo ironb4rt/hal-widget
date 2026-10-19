@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-19T11:20:10+00:00",
+  "generated": "2026-10-19T12:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 7.9,
-    "feels": 5.7,
+    "feels": 6.1,
     "code": 3,
-    "wind": 7.2,
-    "humidity": 85,
+    "wind": 6.5,
+    "humidity": 93,
     "is_day": true,
-    "tmax": 8.5,
+    "tmax": 8.6,
     "tmin": 7.0,
     "forecast": [
       {
         "date": "2026-10-19",
-        "max": 8.5,
+        "max": 8.6,
         "min": 7.0,
         "code": 51
       },
       {
         "date": "2026-10-20",
         "max": 14.0,
-        "min": 5.1,
+        "min": 5.2,
         "code": 3
       },
       {
         "date": "2026-10-21",
-        "max": 21.5,
-        "min": 10.9,
+        "max": 21.6,
+        "min": 10.2,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T13:15",
+    "observed": "2026-10-19T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82170,
-        "pln": 319916,
-        "chg24": 0.18
+        "usd": 82507,
+        "pln": 321334,
+        "chg24": 0.66
       },
       {
         "sym": "ETH",
-        "usd": 2414.85,
-        "pln": 9401.79,
-        "chg24": -0.11
+        "usd": 2422.74,
+        "pln": 9435.67,
+        "chg24": 0.32
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.815,
-        "chg": 1.44,
-        "as_of": "19.10 11:10"
+        "value": 57.805,
+        "chg": 1.42,
+        "as_of": "19.10 12:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5945,
-        "chg": 0.97,
-        "as_of": "19.10 11:10"
+        "value": 6.5715,
+        "chg": 0.62,
+        "as_of": "19.10 12:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4076,
-        "chg": -0.32,
-        "as_of": "19.10 11:04"
+        "value": 1.4093,
+        "chg": -0.2,
+        "as_of": "19.10 11:50"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 11:10",
+    "updated": "19.10 12:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Czas na rehabilitację po porażce w Opolu. BKS wraca do gry!",
-        "url": "https://www.radiobielsko.pl/sport/czas-na-rehabilitacje-po-porazce-w-opolu-bks-wraca-do-gry/101586/",
-        "date": "Mon, 19 Oct 2026 11:18:55 +0000",
+        "title": "Policjant z Rydułtów w czasie zakupów zatrzymał sklepowego złodzieja",
+        "url": "https://www.radio90.pl/policjant-z-rydultow-w-czasie-zakupow-zatrzymal-sklepowego-zlodzieja.html",
+        "date": "Mon, 19 Oct 2026 11:45:02 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Poważny wypadek 18-latka w Szczyrku. Rowerzystę zabrał śmigłowiec LPR",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/powazny-wypadek-18-latka-w-szczyrku-rowerzyste-zabral-smiglowiec-lpr/101591/",
+        "date": "Mon, 19 Oct 2026 11:35:20 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +171,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Bielska w Kozach znów w dwie strony. Co z resztą przebudowy?",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/bielska-w-kozach-znow-w-dwie-strony-co-z-reszta-przebudowy/101584/",
-        "date": "Mon, 19 Oct 2026 11:10:08 +0000",
+        "title": "Czas na rehabilitację po porażce w Opolu. BKS wraca do gry!",
+        "url": "https://www.radiobielsko.pl/sport/czas-na-rehabilitacje-po-porazce-w-opolu-bks-wraca-do-gry/101586/",
+        "date": "Mon, 19 Oct 2026 11:18:55 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Utrudnienia w Czeskim Cieszynie. Zamknięte drogi, chodnik i część parkingu",
-        "url": "https://www.radiobielsko.pl/cieszyn/utrudnienia-w-czeskim-cieszynie-zamkniete-drogi-chodnik-i-czesc-parkingu/101576/",
-        "date": "Mon, 19 Oct 2026 10:47:12 +0000",
+        "title": "Bielska w Kozach znów w dwie strony. Co z resztą przebudowy?",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/bielska-w-kozach-znow-w-dwie-strony-co-z-reszta-przebudowy/101584/",
+        "date": "Mon, 19 Oct 2026 11:10:08 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,16 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Pokonała Świątek, teraz planuje jej odebrać polski tron. „Maja chce być numerem 1”",
-        "url": "https://www.radiobielsko.pl/sport/pokonala-swiatek-teraz-planuje-jej-odebrac-polski-tron-maja-chce-byc-numerem-1/101572/",
-        "date": "Mon, 19 Oct 2026 10:46:11 +0000",
+        "title": "Utrudnienia w Czeskim Cieszynie. Zamknięte drogi, chodnik i część parkingu",
+        "url": "https://www.radiobielsko.pl/cieszyn/utrudnienia-w-czeskim-cieszynie-zamkniete-drogi-chodnik-i-czesc-parkingu/101576/",
+        "date": "Mon, 19 Oct 2026 10:47:12 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Śląska policja podaje statystyki za miniony weekend. W Rybniku zginęła kobieta",
-        "url": "https://www.radio90.pl/slaska-policja-podaje-statystyki-za-miniony-weekend-w-rybniku-zginela-kobieta.html",
-        "date": "Mon, 19 Oct 2026 09:00:36 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
