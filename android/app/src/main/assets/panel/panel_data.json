@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-19T06:20:08+00:00",
+  "generated": "2026-10-19T07:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.8,
-    "feels": 5.6,
+    "temp": 8.1,
+    "feels": 6.0,
     "code": 3,
-    "wind": 5.8,
-    "humidity": 80,
+    "wind": 5.0,
+    "humidity": 78,
     "is_day": true,
     "tmax": 8.6,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-19T08:15",
+    "observed": "2026-10-19T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82707,
-        "pln": 322080,
-        "chg24": 1.32
+        "usd": 82827,
+        "pln": 322703,
+        "chg24": 1.47
       },
       {
         "sym": "ETH",
-        "usd": 2431.52,
-        "pln": 9468.85,
-        "chg24": 0.95
+        "usd": 2433.17,
+        "pln": 9479.96,
+        "chg24": 1.06
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.94,
-        "chg": 1.66,
-        "as_of": "19.10 06:10"
+        "value": 57.845,
+        "chg": 1.49,
+        "as_of": "19.10 07:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.614,
-        "chg": 1.27,
-        "as_of": "19.10 06:10"
+        "value": 6.621,
+        "chg": 1.38,
+        "as_of": "19.10 07:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4025,
-        "chg": -0.68,
-        "as_of": "19.10 06:05"
+        "value": 1.4017,
+        "chg": -0.74,
+        "as_of": "19.10 07:00"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 06:10",
+    "updated": "19.10 07:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Pałac do remontu. Co z roszczeniami dawnych właścicieli?",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/palac-do-remontu-co-z-roszczeniami-dawnych-wlascicieli/101506/",
-        "date": "Mon, 19 Oct 2026 06:17:57 +0000",
+        "title": "Bielskie tenisistki miały zmierzyć się w Chinach. Do meczu jednak nie dojdzie!",
+        "url": "https://www.radiobielsko.pl/sport/bielskie-tenisistki-mialy-zmierzyc-sie-w-chinach-do-meczu-jednak-nie-dojdzie/101512/",
+        "date": "Mon, 19 Oct 2026 07:08:13 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Trwa przebudowa dawnego szpitala „Juliusz” w Rybniku. Prace trwają w piwnicach i na dachu [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/trwa-przebudowa-dawnego-szpitala-juliusz-w-rybniku-prace-trwaja-w-piwnicach-i-na-dachu-tak-postepuja-zdjecia.html",
+        "date": "Mon, 19 Oct 2026 07:05:39 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Co zrobić, gdy zawyją syreny i zabraknie kontaktu z bliskimi? Mieszkańcy uczyli się reagować na zagrożenia",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/co-zrobic-gdy-zawyja-syreny-i-zabraknie-kontaktu-z-bliskimi-mieszkancy-uczyli-sie-reagowac-na-zagrozenia/101511/",
+        "date": "Mon, 19 Oct 2026 06:38:16 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Mieli lidera na wyciągnięcie ręki. O wszystkim zdecydowała 79. minuta",
-        "url": "https://www.radiobielsko.pl/sport/mieli-lidera-na-wyciagniecie-reki-o-wszystkim-zdecydowala-79-minuta/101500/",
-        "date": "Sun, 18 Oct 2026 18:53:46 +0000",
+        "title": "Pałac do remontu. Co z roszczeniami dawnych właścicieli?",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/palac-do-remontu-co-z-roszczeniami-dawnych-wlascicieli/101506/",
+        "date": "Mon, 19 Oct 2026 06:17:57 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,27 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Anita Jancia najlepszą aktorką Międzynarodowego Festiwalu Gombrowiczowskiego! Wyróżnienie aktorskie dla Grzegorza Sikory!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/anita-jancia-najlepsza-aktorka-miedzynarodowego-festiwalu-gombrowiczowskiego-wyroznienie-aktorskie-dla-grzegorza-sikory/101484/",
-        "date": "Sun, 18 Oct 2026 18:15:41 +0000",
+        "title": "Mieli lidera na wyciągnięcie ręki. O wszystkim zdecydowała 79. minuta",
+        "url": "https://www.radiobielsko.pl/sport/mieli-lidera-na-wyciagniecie-reki-o-wszystkim-zdecydowala-79-minuta/101500/",
+        "date": "Sun, 18 Oct 2026 18:53:46 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Zmiana organizacji ruchu w Żorach. Uważajcie!",
         "url": "https://www.radio90.pl/zmiana-organizacji-ruchu-w-zorach-uwazajcie.html",
         "date": "Mon, 19 Oct 2026 04:45:40 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dwóch policjantów zatrzymało złodzieja. Obaj byli po służbie",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dwoch-policjantow-zatrzymalo-zlodzieja-obaj-byli-po-sluzbie/101457/",
-        "date": "Sun, 18 Oct 2026 16:00:49 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Lider pokonany! JKH GKS Jastrzębie wygrywa wyjazdowy mecz z Polonią Bytom i awansuje w tabeli",
-        "url": "https://www.radio90.pl/lider-pokonany-jkh-gks-jastrzebie-wygrywa-wyjazdowy-mecz-z-polonia-bytom-i-awansuje-w-tabeli.html",
-        "date": "Sun, 18 Oct 2026 17:53:36 +0000",
         "src": "Radio90"
       }
     ],
