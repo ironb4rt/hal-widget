@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-19T02:20:07+00:00",
+  "generated": "2026-10-19T03:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.8,
+    "temp": 7.7,
     "feels": 5.6,
     "code": 3,
-    "wind": 6.1,
+    "wind": 5.4,
     "humidity": 79,
     "is_day": false,
-    "tmax": 8.6,
+    "tmax": 8.7,
     "tmin": 7.0,
     "forecast": [
       {
         "date": "2026-10-19",
-        "max": 8.6,
+        "max": 8.7,
         "min": 7.0,
         "code": 51
       },
       {
         "date": "2026-10-20",
-        "max": 13.4,
-        "min": 5.2,
+        "max": 14.1,
+        "min": 5.1,
         "code": 3
       },
       {
         "date": "2026-10-21",
         "max": 21.3,
-        "min": 13.4,
+        "min": 12.2,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T04:15",
+    "observed": "2026-10-19T05:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82377,
-        "pln": 320640,
-        "chg24": 0.95
+        "usd": 82514,
+        "pln": 321363,
+        "chg24": 0.91
       },
       {
         "sym": "ETH",
-        "usd": 2420.21,
-        "pln": 9420.27,
-        "chg24": 0.58
+        "usd": 2422.57,
+        "pln": 9435.05,
+        "chg24": 0.22
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.855,
-        "chg": 1.51,
-        "as_of": "19.10 02:10"
+        "value": 57.745,
+        "chg": 1.32,
+        "as_of": "19.10 03:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6145,
-        "chg": 1.28,
-        "as_of": "19.10 02:09"
+        "value": 6.62,
+        "chg": 1.36,
+        "as_of": "19.10 03:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 02:10",
+    "updated": "19.10 03:10",
     "stale": false
   },
   "fx": {
