@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-19T10:20:09+00:00",
+  "generated": "2026-10-19T11:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.4,
-    "feels": 6.2,
+    "temp": 7.9,
+    "feels": 5.7,
     "code": 3,
-    "wind": 6.8,
-    "humidity": 79,
+    "wind": 7.2,
+    "humidity": 85,
     "is_day": true,
     "tmax": 8.5,
     "tmin": 7.0,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-21",
         "max": 21.5,
-        "min": 11.0,
+        "min": 10.9,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T12:15",
+    "observed": "2026-10-19T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82569,
-        "pln": 322068,
-        "chg24": 0.58
+        "usd": 82170,
+        "pln": 319916,
+        "chg24": 0.18
       },
       {
         "sym": "ETH",
-        "usd": 2430.69,
-        "pln": 9481.16,
-        "chg24": 0.41
+        "usd": 2414.85,
+        "pln": 9401.79,
+        "chg24": -0.11
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.705,
-        "chg": 1.25,
-        "as_of": "19.10 10:10"
+        "value": 57.815,
+        "chg": 1.44,
+        "as_of": "19.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5905,
-        "chg": 0.91,
-        "as_of": "19.10 10:10"
+        "value": 6.5945,
+        "chg": 0.97,
+        "as_of": "19.10 11:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4036,
-        "chg": -0.6,
-        "as_of": "19.10 10:00"
+        "value": 1.4076,
+        "chg": -0.32,
+        "as_of": "19.10 11:04"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 10:10",
+    "updated": "19.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,33 @@
     ],
     "local": [
       {
+        "title": "Czas na rehabilitację po porażce w Opolu. BKS wraca do gry!",
+        "url": "https://www.radiobielsko.pl/sport/czas-na-rehabilitacje-po-porazce-w-opolu-bks-wraca-do-gry/101586/",
+        "date": "Mon, 19 Oct 2026 11:18:55 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Strażackie roty z naszymi strażakami w składzie na Mistrzostwach Świata w Chinach",
+        "url": "https://www.radio90.pl/strazackie-roty-z-naszymi-w-skladzie-na-mistrzostwa-swiata-do-chin.html",
+        "date": "Mon, 19 Oct 2026 11:00:39 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Bielska w Kozach znów w dwie strony. Co z resztą przebudowy?",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/bielska-w-kozach-znow-w-dwie-strony-co-z-reszta-przebudowy/101584/",
+        "date": "Mon, 19 Oct 2026 11:10:08 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Agresywny pacjent w szpitalu w Jastrzębiu-Zdroju",
         "url": "https://www.radio90.pl/agresywny-pacjent-w-szpitalu-w-jastrzebiu-zdroju.html",
         "date": "Mon, 19 Oct 2026 10:18:44 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Maluch, anioł i dziadki do orzechów. Szykują się świąteczne iluminacje",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/maluch-aniol-i-dziadki-do-orzechow-szykuja-sie-swiateczne-iluminacje/101538/",
-        "date": "Mon, 19 Oct 2026 09:30:05 +0000",
+        "title": "Utrudnienia w Czeskim Cieszynie. Zamknięte drogi, chodnik i część parkingu",
+        "url": "https://www.radiobielsko.pl/cieszyn/utrudnienia-w-czeskim-cieszynie-zamkniete-drogi-chodnik-i-czesc-parkingu/101576/",
+        "date": "Mon, 19 Oct 2026 10:47:12 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Kobieta uderzyła w drzewo",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/kobieta-uderzyla-w-drzewo/101548/",
-        "date": "Mon, 19 Oct 2026 09:03:41 +0000",
+        "title": "Pokonała Świątek, teraz planuje jej odebrać polski tron. „Maja chce być numerem 1”",
+        "url": "https://www.radiobielsko.pl/sport/pokonala-swiatek-teraz-planuje-jej-odebrac-polski-tron-maja-chce-byc-numerem-1/101572/",
+        "date": "Mon, 19 Oct 2026 10:46:11 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/slaska-policja-podaje-statystyki-za-miniony-weekend-w-rybniku-zginela-kobieta.html",
         "date": "Mon, 19 Oct 2026 09:00:36 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "6000 zł mandatów dla rowerzystów!",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/6000-zl-mandatow-dla-rowerzystow/101541/",
-        "date": "Mon, 19 Oct 2026 08:53:44 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "„Stacja Kariera. Poznaj zawód. Poznaj ludzi. Odkryj swój kierunek” . Jutro spotkanie dla młodzieży w Wodzisławiu",
-        "url": "https://www.radio90.pl/stacja-kariera-poznaj-zawod-poznaj-ludzi-odkryj-swoj-kierunek-jutro-spotkanie-dla-mlodziezy-w-wodzislawiu.html",
-        "date": "Mon, 19 Oct 2026 08:35:07 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Secesyjna perła wciąż szuka właściciela. To jedyna taka willa w centrum Bielska-Białej",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/secesyjna-perla-wciaz-szuka-wlasciciela-to-jedyna-taka-willa-w-centrum-bielska-bialej/101536/",
-        "date": "Mon, 19 Oct 2026 08:47:28 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
