@@ -1,23 +1,17 @@
 {
-  "generated": "2026-10-19T21:20:13+00:00",
+  "generated": "2026-10-19T22:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 8.0,
-    "feels": 5.9,
+    "feels": 6.1,
     "code": 3,
-    "wind": 7.9,
-    "humidity": 88,
+    "wind": 7.2,
+    "humidity": 91,
     "is_day": false,
-    "tmax": 8.7,
-    "tmin": 7.0,
+    "tmax": 13.9,
+    "tmin": 6.1,
     "forecast": [
-      {
-        "date": "2026-10-19",
-        "max": 8.7,
-        "min": 7.0,
-        "code": 3
-      },
       {
         "date": "2026-10-20",
         "max": 13.9,
@@ -29,9 +23,15 @@
         "max": 21.0,
         "min": 11.3,
         "code": 3
+      },
+      {
+        "date": "2026-10-22",
+        "max": 15.3,
+        "min": 7.1,
+        "code": 80
       }
     ],
-    "observed": "2026-10-19T23:15",
+    "observed": "2026-10-20T00:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82007,
-        "pln": 319628,
-        "chg24": 1.27
+        "usd": 82134,
+        "pln": 320031,
+        "chg24": 0.71
       },
       {
         "sym": "ETH",
-        "usd": 2401.92,
-        "pln": 9361.7,
-        "chg24": 1.84
+        "usd": 2412.22,
+        "pln": 9399.08,
+        "chg24": 0.97
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.23,
-        "chg": 0.41,
-        "as_of": "19.10 20:59"
+        "value": 57.185,
+        "chg": 0.33,
+        "as_of": "19.10 22:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.584,
-        "chg": 0.81,
-        "as_of": "19.10 20:59"
+        "value": 6.5805,
+        "chg": 0.76,
+        "as_of": "19.10 22:06"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 20:59",
+    "updated": "19.10 22:09",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Study nearly doubles value, lifts resource for Aclara’s Penco rare earths project",
+        "url": "https://www.mining.com/study-nearly-doubles-value-lifts-resource-for-aclaras-penco-rare-earths-project/",
+        "date": "Mon, 19 Oct 2026 21:45:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Brazil survey plan could give big miners first pick of claims",
+        "url": "https://www.mining.com/brazil-survey-plan-could-give-big-miners-first-pick-of-claims/",
+        "date": "Mon, 19 Oct 2026 21:33:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Military Metals wins four-year Slovak licence lifeline",
         "url": "https://www.mining.com/military-metals-wins-four-year-slovak-licence-lifeline/",
@@ -136,18 +148,6 @@
         "title": "Americas Gold’s record silver output misses forecasts",
         "url": "https://www.mining.com/americas-golds-record-silver-output-misses-forecasts/",
         "date": "Mon, 19 Oct 2026 14:59:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Spain’s Andalucia courts miners with faster permits",
-        "url": "https://www.mining.com/spains-andalucia-courts-miners-with-faster-permits/",
-        "date": "Mon, 19 Oct 2026 14:04:28 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Copper-hungry US buyers circle Ivanhoe Electric mine",
-        "url": "https://www.mining.com/copper-hungry-us-buyers-circle-ivanhoe-electric-mine/",
-        "date": "Mon, 19 Oct 2026 12:03:00 +0000",
         "src": "Mining.com"
       }
     ],
