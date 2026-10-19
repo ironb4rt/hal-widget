@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-19T17:20:11+00:00",
+  "generated": "2026-10-19T18:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.1,
-    "feels": 6.1,
+    "temp": 8.3,
+    "feels": 6.4,
     "code": 3,
-    "wind": 8.3,
-    "humidity": 91,
+    "wind": 7.2,
+    "humidity": 89,
     "is_day": false,
     "tmax": 8.7,
     "tmin": 7.0,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-20",
-        "max": 14.3,
-        "min": 5.8,
+        "max": 14.4,
+        "min": 6.0,
         "code": 3
       },
       {
         "date": "2026-10-21",
-        "max": 21.4,
-        "min": 11.0,
+        "max": 21.8,
+        "min": 10.8,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T19:15",
+    "observed": "2026-10-19T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81929,
-        "pln": 319577,
-        "chg24": 1.0
+        "usd": 81947,
+        "pln": 319298,
+        "chg24": 1.08
       },
       {
         "sym": "ETH",
-        "usd": 2401.87,
-        "pln": 9368.92,
-        "chg24": 1.27
+        "usd": 2397.93,
+        "pln": 9343.27,
+        "chg24": 1.44
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.245,
-        "chg": 0.44,
-        "as_of": "19.10 17:10"
+        "value": 57.54,
+        "chg": 0.96,
+        "as_of": "19.10 18:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.571,
-        "chg": 0.61,
-        "as_of": "19.10 17:10"
+        "value": 6.598,
+        "chg": 1.03,
+        "as_of": "19.10 18:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4097,
-        "chg": -0.18,
-        "as_of": "19.10 15:49"
+        "value": 1.4158,
+        "chg": 0.26,
+        "as_of": "19.10 17:39"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 17:10",
+    "updated": "19.10 18:10",
     "stale": false
   },
   "fx": {
@@ -103,7 +103,19 @@
     "ok": true,
     "market": [
       {
-        "title": "Volvo to launch a mining division to meet global equipment demand",
+        "title": "Ground View Pakistan: Same hall, different world",
+        "url": "https://www.mining.com/ground-view-pakistan-same-hall-different-world/",
+        "date": "Mon, 19 Oct 2026 17:50:38 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Digital gold could triple by 2031, WGC estimates",
+        "url": "https://www.mining.com/digital-gold-could-triple-by-2031-wgc-estimates/",
+        "date": "Mon, 19 Oct 2026 17:45:50 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Volvo to launch mining division to meet global equipment demand",
         "url": "https://www.mining.com/volvo-to-launch-a-mining-division-to-meet-global-equipment-demand/",
         "date": "Mon, 19 Oct 2026 17:13:20 +0000",
         "src": "Mining.com"
@@ -112,6 +124,18 @@
         "title": "Sudan gold rush leaves toxic legacy as war drives mining",
         "url": "https://www.mining.com/sudan-gold-rush-leaves-toxic-legacy-as-war-drives-mining/",
         "date": "Mon, 19 Oct 2026 15:45:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Americas Gold’s record silver output misses forecasts",
+        "url": "https://www.mining.com/americas-golds-record-silver-output-misses-forecasts/",
+        "date": "Mon, 19 Oct 2026 14:59:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Spain’s Andalucia courts miners with faster permits",
+        "url": "https://www.mining.com/spains-andalucia-courts-miners-with-faster-permits/",
+        "date": "Mon, 19 Oct 2026 14:04:28 +0000",
         "src": "Mining.com"
       },
       {
@@ -125,33 +149,21 @@
         "url": "https://www.mining.com/volta-doubles-springer-rare-earths-eyes-2027-study/",
         "date": "Mon, 19 Oct 2026 10:49:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Mining’s future hinges on global cooperation: report",
-        "url": "https://www.mining.com/minings-future-hinges-on-global-cooperation-report/",
-        "date": "Sun, 18 Oct 2026 17:31:14 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Buffalo clears potash permit hurdle in Saskatchewan",
-        "url": "https://www.mining.com/buffalo-clears-potash-permit-hurdle-in-saskatchewan/",
-        "date": "Fri, 16 Oct 2026 22:48:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Greenland to introduce ban on seabed mining",
-        "url": "https://www.mining.com/greenland-to-introduce-ban-on-seabed-mining/",
-        "date": "Fri, 16 Oct 2026 22:19:25 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Canada’s new foreign investment rules: What critical minerals miners need to know",
-        "url": "https://www.mining.com/canadas-new-foreign-investment-rules-what-critical-minerals-miners-need-to-know/",
-        "date": "Fri, 16 Oct 2026 18:57:02 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Teatr Wodzisławskiej Ulicy świętuje jubileusz",
+        "url": "https://www.radio90.pl/teatr-wodzislawskiej-ulicy-swietuje-jubileusz.html",
+        "date": "Mon, 19 Oct 2026 17:40:16 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Koniec darmowego postoju dla motocyklistów. Nowe zasady w strefie płatnego parkowania w Oświęcimiu",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/koniec-darmowego-postoju-dla-motocyklistow-miasto-zmienia-zasady-w-strefie/101624/",
+        "date": "Mon, 19 Oct 2026 17:30:54 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Raport z siatkarskich parkietów. Jak grały nasze drużyny?",
         "url": "https://www.radio90.pl/raport-z-siatkarskich-parkietow-jak-graly-nasze-druzyny.html",
@@ -186,18 +198,6 @@
         "title": "Chóry z Polski i zagranicy spotkały się na „Gaude Cantem”. Znamy laureatów festiwalu",
         "url": "https://www.radiobielsko.pl/bielsko-biala/chory-z-polski-i-zagranicy-spotkaly-sie-na-gaude-cantem-znamy-laureatow-festiwalu/101609/",
         "date": "Mon, 19 Oct 2026 13:52:11 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "ROW Rybnik musiał uznać wyższość rywali. Teraz czas na pojedynek z Nysą",
-        "url": "https://www.radio90.pl/row-rybnik-musial-uznac-wyzszosc-rywali-teraz-czas-na-pojedynek-z-nysa.html",
-        "date": "Mon, 19 Oct 2026 14:48:57 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Trzy warianty zabezpieczenia potoku Starobielskiego. Wody Polskie analizują możliwości",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/trzy-warianty-zabezpieczenia-potoku-starobielskiego-wody-polskie-analizuja-mozliwosci/101605/",
-        "date": "Mon, 19 Oct 2026 13:35:58 +0000",
         "src": "RadioBielsko"
       }
     ],
