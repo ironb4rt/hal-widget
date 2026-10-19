@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-18T23:20:07+00:00",
+  "generated": "2026-10-19T00:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.4,
-    "feels": 5.1,
-    "code": 3,
-    "wind": 6.5,
+    "temp": 7.0,
+    "feels": 4.5,
+    "code": 2,
+    "wind": 8.3,
     "humidity": 83,
     "is_day": false,
-    "tmax": 8.3,
-    "tmin": 6.8,
+    "tmax": 8.6,
+    "tmin": 7.0,
     "forecast": [
       {
         "date": "2026-10-19",
-        "max": 8.3,
-        "min": 6.8,
+        "max": 8.6,
+        "min": 7.0,
         "code": 51
       },
       {
         "date": "2026-10-20",
-        "max": 13.3,
-        "min": 5.1,
+        "max": 13.4,
+        "min": 5.2,
         "code": 3
       },
       {
         "date": "2026-10-21",
         "max": 20.8,
-        "min": 13.3,
+        "min": 13.4,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T01:15",
+    "observed": "2026-10-19T02:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81664,
-        "pln": 318340,
-        "chg24": 0.48
+        "usd": 81994,
+        "pln": 319178,
+        "chg24": 0.73
       },
       {
         "sym": "ETH",
-        "usd": 2387.79,
-        "pln": 9307.96,
-        "chg24": -0.25
+        "usd": 2402.77,
+        "pln": 9353.23,
+        "chg24": 0.12
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.445,
-        "chg": 0.79,
-        "as_of": "18.10 23:09"
+        "value": 57.555,
+        "chg": 0.98,
+        "as_of": "19.10 00:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5695,
-        "chg": 0.59,
-        "as_of": "18.10 23:06"
+        "value": 6.591,
+        "chg": 0.92,
+        "as_of": "19.10 00:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4032,
-        "chg": -0.1,
-        "as_of": "16.10 20:49"
+        "value": 1.4026,
+        "chg": -0.67,
+        "as_of": "19.10 00:05"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "18.10 23:09",
+    "updated": "19.10 00:10",
     "stale": false
   },
   "fx": {
