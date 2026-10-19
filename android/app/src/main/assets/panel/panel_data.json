@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-19T20:20:12+00:00",
+  "generated": "2026-10-19T21:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.1,
-    "feels": 6.3,
+    "temp": 8.0,
+    "feels": 5.9,
     "code": 3,
-    "wind": 6.1,
-    "humidity": 89,
+    "wind": 7.9,
+    "humidity": 88,
     "is_day": false,
     "tmax": 8.7,
     "tmin": 7.0,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-20",
-        "max": 14.3,
-        "min": 6.0,
+        "max": 13.9,
+        "min": 6.1,
         "code": 3
       },
       {
         "date": "2026-10-21",
-        "max": 21.8,
-        "min": 10.8,
+        "max": 21.0,
+        "min": 11.3,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T22:15",
+    "observed": "2026-10-19T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81985,
-        "pln": 319640,
-        "chg24": 1.56
+        "usd": 82007,
+        "pln": 319628,
+        "chg24": 1.27
       },
       {
         "sym": "ETH",
-        "usd": 2400.4,
-        "pln": 9358.56,
-        "chg24": 2.55
+        "usd": 2401.92,
+        "pln": 9361.7,
+        "chg24": 1.84
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.205,
-        "chg": 0.37,
-        "as_of": "19.10 20:09"
+        "value": 57.23,
+        "chg": 0.41,
+        "as_of": "19.10 20:59"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5845,
-        "chg": 0.82,
-        "as_of": "19.10 20:10"
+        "value": 6.584,
+        "chg": 0.81,
+        "as_of": "19.10 20:59"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4131,
-        "chg": 0.06,
-        "as_of": "19.10 18:20"
+        "value": 1.4094,
+        "chg": -0.19,
+        "as_of": "19.10 20:56"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 20:10",
+    "updated": "19.10 20:59",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Military Metals wins four-year Slovak licence lifeline",
+        "url": "https://www.mining.com/military-metals-wins-four-year-slovak-licence-lifeline/",
+        "date": "Mon, 19 Oct 2026 21:07:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Ground View Pakistan: Same hall, different world",
         "url": "https://www.mining.com/ground-view-pakistan-same-hall-different-world/",
@@ -142,12 +148,6 @@
         "title": "Copper-hungry US buyers circle Ivanhoe Electric mine",
         "url": "https://www.mining.com/copper-hungry-us-buyers-circle-ivanhoe-electric-mine/",
         "date": "Mon, 19 Oct 2026 12:03:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Volta doubles Springer rare earths resource, eyes 2027 study",
-        "url": "https://www.mining.com/volta-doubles-springer-rare-earths-eyes-2027-study/",
-        "date": "Mon, 19 Oct 2026 10:49:00 +0000",
         "src": "Mining.com"
       }
     ],
