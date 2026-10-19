@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-19T07:20:09+00:00",
+  "generated": "2026-10-19T08:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.1,
-    "feels": 6.0,
+    "temp": 8.3,
+    "feels": 6.2,
     "code": 3,
     "wind": 5.0,
-    "humidity": 78,
+    "humidity": 76,
     "is_day": true,
     "tmax": 8.6,
     "tmin": 7.0,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-21",
-        "max": 21.5,
+        "max": 21.6,
         "min": 11.6,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T09:15",
+    "observed": "2026-10-19T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82827,
-        "pln": 322703,
-        "chg24": 1.47
+        "usd": 82800,
+        "pln": 323133,
+        "chg24": 1.46
       },
       {
         "sym": "ETH",
-        "usd": 2433.17,
-        "pln": 9479.96,
-        "chg24": 1.06
+        "usd": 2432.45,
+        "pln": 9492.83,
+        "chg24": 1.05
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.845,
-        "chg": 1.49,
-        "as_of": "19.10 07:10"
+        "value": 57.635,
+        "chg": 1.12,
+        "as_of": "19.10 08:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.621,
-        "chg": 1.38,
-        "as_of": "19.10 07:10"
+        "value": 6.5785,
+        "chg": 0.73,
+        "as_of": "19.10 08:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4017,
-        "chg": -0.74,
-        "as_of": "19.10 07:00"
+        "value": 1.3981,
+        "chg": -1.0,
+        "as_of": "19.10 07:26"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 07:10",
+    "updated": "19.10 08:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Bielskie tenisistki miały zmierzyć się w Chinach. Do meczu jednak nie dojdzie!",
-        "url": "https://www.radiobielsko.pl/sport/bielskie-tenisistki-mialy-zmierzyc-sie-w-chinach-do-meczu-jednak-nie-dojdzie/101512/",
-        "date": "Mon, 19 Oct 2026 07:08:13 +0000",
+        "title": "Beskidy mają powody do dumy! Podwójne mistrzostwo Polski",
+        "url": "https://www.radiobielsko.pl/sport/beskidy-maja-powody-do-dumy-podwojne-mistrzostwo-polski/101527/",
+        "date": "Mon, 19 Oct 2026 08:08:20 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Śmiertelny wypadek w Syryni: sprawca trafił do aresztu",
+        "url": "https://www.radio90.pl/smiertelny-wypadek-w-syryni-sprawca-trafil-do-aresztu.html",
+        "date": "Mon, 19 Oct 2026 07:50:39 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Piesza potrącona na pasach",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/piesza-potracona-na-pasach-3/101528/",
+        "date": "Mon, 19 Oct 2026 08:07:42 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Co zrobić, gdy zawyją syreny i zabraknie kontaktu z bliskimi? Mieszkańcy uczyli się reagować na zagrożenia",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/co-zrobic-gdy-zawyja-syreny-i-zabraknie-kontaktu-z-bliskimi-mieszkancy-uczyli-sie-reagowac-na-zagrozenia/101511/",
-        "date": "Mon, 19 Oct 2026 06:38:16 +0000",
+        "title": "Co z witrażem na pl. Chrobrego? Radna interweniuje, miasto odpowiada",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/co-z-witrazem-na-pl-chrobrego-radna-interweniuje-miasto-odpowiada/101523/",
+        "date": "Mon, 19 Oct 2026 07:27:02 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,27 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Pałac do remontu. Co z roszczeniami dawnych właścicieli?",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/palac-do-remontu-co-z-roszczeniami-dawnych-wlascicieli/101506/",
-        "date": "Mon, 19 Oct 2026 06:17:57 +0000",
+        "title": "Bielskie tenisistki miały zmierzyć się w Chinach. Do meczu jednak nie dojdzie!",
+        "url": "https://www.radiobielsko.pl/sport/bielskie-tenisistki-mialy-zmierzyc-sie-w-chinach-do-meczu-jednak-nie-dojdzie/101512/",
+        "date": "Mon, 19 Oct 2026 07:08:13 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Muzeum w Raciborzu: Romuald Turakiewicz pozostanie na stanowisku dyrektora przez kolejnych pięć lat",
         "url": "https://www.radio90.pl/muzeum-w-raciborzu-romuald-turakiewicz-pozostanie-na-stanowisku-dyrektora-przez-kolejnych-piec-lat.html",
         "date": "Mon, 19 Oct 2026 05:40:02 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Mieli lidera na wyciągnięcie ręki. O wszystkim zdecydowała 79. minuta",
-        "url": "https://www.radiobielsko.pl/sport/mieli-lidera-na-wyciagniecie-reki-o-wszystkim-zdecydowala-79-minuta/101500/",
-        "date": "Sun, 18 Oct 2026 18:53:46 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zmiana organizacji ruchu w Żorach. Uważajcie!",
-        "url": "https://www.radio90.pl/zmiana-organizacji-ruchu-w-zorach-uwazajcie.html",
-        "date": "Mon, 19 Oct 2026 04:45:40 +0000",
         "src": "Radio90"
       }
     ],
