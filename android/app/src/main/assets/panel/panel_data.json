@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-19T13:20:12+00:00",
+  "generated": "2026-10-19T14:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.9,
-    "feels": 6.3,
-    "code": 45,
-    "wind": 6.1,
-    "humidity": 96,
+    "temp": 8.0,
+    "feels": 6.1,
+    "code": 3,
+    "wind": 8.6,
+    "humidity": 95,
     "is_day": true,
     "tmax": 8.6,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-19T15:15",
+    "observed": "2026-10-19T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82505,
-        "pln": 321240,
-        "chg24": 0.82
+        "usd": 82091,
+        "pln": 320000,
+        "chg24": 1.05
       },
       {
         "sym": "ETH",
-        "usd": 2420.48,
-        "pln": 9424.37,
-        "chg24": 0.38
+        "usd": 2394.98,
+        "pln": 9335.9,
+        "chg24": 0.35
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.685,
-        "chg": 1.21,
-        "as_of": "19.10 13:10"
+        "value": 57.325,
+        "chg": 0.58,
+        "as_of": "19.10 14:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.562,
-        "chg": 0.47,
-        "as_of": "19.10 13:10"
+        "value": 6.53,
+        "chg": -0.02,
+        "as_of": "19.10 14:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4128,
-        "chg": 0.05,
-        "as_of": "19.10 13:08"
+        "value": 1.41,
+        "chg": -0.15,
+        "as_of": "19.10 14:07"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 13:10",
+    "updated": "19.10 14:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Copper-hungry US buyers circle Ivanhoe Electric mine",
+        "url": "https://www.mining.com/copper-hungry-us-buyers-circle-ivanhoe-electric-mine/",
+        "date": "Mon, 19 Oct 2026 12:03:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Volta doubles Springer rare earths, eyes 2027 study",
         "url": "https://www.mining.com/volta-doubles-springer-rare-earths-eyes-2027-study/",
@@ -143,15 +149,33 @@
         "url": "https://www.mining.com/us-project-vault-readies-1b-loan-blitz-for-industry/",
         "date": "Fri, 16 Oct 2026 12:39:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Vale says soaring costs put 10% of iron ore in the red",
-        "url": "https://www.mining.com/vale-says-soaring-costs-put-10-of-iron-ore-in-the-red/",
-        "date": "Fri, 16 Oct 2026 11:08:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Vin­ta­ge Tar­gi Mo­dy w Ryb­ni­ku już w najbliższy weekend [PATRONAT]",
+        "url": "https://www.radio90.pl/vintage-targi-mody-w-rybniku-juz-w-najblizszy-weekend-patronat.html",
+        "date": "Mon, 19 Oct 2026 14:10:45 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Chóry z Polski i zagranicy spotkały się na „Gaude Cantem”. Znamy laureatów festiwalu",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/chory-z-polski-i-zagranicy-spotkaly-sie-na-gaude-cantem-znamy-laureatow-festiwalu/101609/",
+        "date": "Mon, 19 Oct 2026 13:52:11 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Hokeiści JKH GKS Jastrzębie na fali. Dwa mecze, dwie wygrane",
+        "url": "https://www.radio90.pl/hokeisci-jkh-gks-jastrzebie-na-fali-dwa-mecze-dwie-wygrane.html",
+        "date": "Mon, 19 Oct 2026 13:50:14 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Trzy warianty zabezpieczenia potoku Starobielskiego. Wody Polskie analizują możliwości",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/trzy-warianty-zabezpieczenia-potoku-starobielskiego-wody-polskie-analizuja-mozliwosci/101605/",
+        "date": "Mon, 19 Oct 2026 13:35:58 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Koleje Śląskie świętują Europejski Dzień Seniora",
         "url": "https://www.radio90.pl/koleje-slaskie-swietuja-europejski-dzien-seniora.html",
@@ -174,30 +198,6 @@
         "title": "Czas na rehabilitację po porażce w Opolu. BKS wraca do gry!",
         "url": "https://www.radiobielsko.pl/sport/czas-na-rehabilitacje-po-porazce-w-opolu-bks-wraca-do-gry/101586/",
         "date": "Mon, 19 Oct 2026 11:18:55 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Policjant z Rydułtów w czasie zakupów zatrzymał sklepowego złodzieja",
-        "url": "https://www.radio90.pl/policjant-z-rydultow-w-czasie-zakupow-zatrzymal-sklepowego-zlodzieja.html",
-        "date": "Mon, 19 Oct 2026 11:45:02 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Bielska w Kozach znów w dwie strony. Co z resztą przebudowy?",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/bielska-w-kozach-znow-w-dwie-strony-co-z-reszta-przebudowy/101584/",
-        "date": "Mon, 19 Oct 2026 11:10:08 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Strażackie roty z naszymi strażakami w składzie na Mistrzostwach Świata w Chinach",
-        "url": "https://www.radio90.pl/strazackie-roty-z-naszymi-w-skladzie-na-mistrzostwa-swiata-do-chin.html",
-        "date": "Mon, 19 Oct 2026 11:00:39 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Utrudnienia w Czeskim Cieszynie. Zamknięte drogi, chodnik i część parkingu",
-        "url": "https://www.radiobielsko.pl/cieszyn/utrudnienia-w-czeskim-cieszynie-zamkniete-drogi-chodnik-i-czesc-parkingu/101576/",
-        "date": "Mon, 19 Oct 2026 10:47:12 +0000",
         "src": "RadioBielsko"
       }
     ],
