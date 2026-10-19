@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-19T03:20:08+00:00",
+  "generated": "2026-10-19T04:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.7,
-    "feels": 5.6,
+    "temp": 7.8,
+    "feels": 5.4,
     "code": 3,
-    "wind": 5.4,
-    "humidity": 79,
+    "wind": 6.5,
+    "humidity": 76,
     "is_day": false,
-    "tmax": 8.7,
+    "tmax": 8.8,
     "tmin": 7.0,
     "forecast": [
       {
         "date": "2026-10-19",
-        "max": 8.7,
+        "max": 8.8,
         "min": 7.0,
         "code": 51
       },
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-19T05:15",
+    "observed": "2026-10-19T06:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82514,
-        "pln": 321363,
-        "chg24": 0.91
+        "usd": 82417,
+        "pln": 320869,
+        "chg24": 0.72
       },
       {
         "sym": "ETH",
-        "usd": 2422.57,
-        "pln": 9435.05,
-        "chg24": 0.22
+        "usd": 2418.95,
+        "pln": 9417.55,
+        "chg24": -0.06
       }
     ],
     "stale": false
@@ -59,24 +59,24 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.745,
-        "chg": 1.32,
-        "as_of": "19.10 03:10"
+        "value": 57.89,
+        "chg": 1.57,
+        "as_of": "19.10 04:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.62,
-        "chg": 1.36,
-        "as_of": "19.10 03:09"
+        "value": 6.6215,
+        "chg": 1.39,
+        "as_of": "19.10 04:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
         "value": 1.4026,
-        "chg": -0.67,
+        "chg": -0.14,
         "as_of": "19.10 00:05"
       },
       {
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 03:10",
+    "updated": "19.10 04:09",
     "stale": false
   },
   "fx": {
