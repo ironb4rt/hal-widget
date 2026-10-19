@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-19T14:20:10+00:00",
+  "generated": "2026-10-19T15:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.0,
-    "feels": 6.1,
+    "temp": 8.6,
+    "feels": 6.4,
     "code": 3,
-    "wind": 8.6,
-    "humidity": 95,
+    "wind": 9.0,
+    "humidity": 86,
     "is_day": true,
-    "tmax": 8.6,
+    "tmax": 8.7,
     "tmin": 7.0,
     "forecast": [
       {
         "date": "2026-10-19",
-        "max": 8.6,
+        "max": 8.7,
         "min": 7.0,
-        "code": 51
+        "code": 3
       },
       {
         "date": "2026-10-20",
-        "max": 14.0,
-        "min": 5.2,
+        "max": 14.3,
+        "min": 5.8,
         "code": 3
       },
       {
         "date": "2026-10-21",
-        "max": 21.6,
-        "min": 10.2,
+        "max": 21.4,
+        "min": 11.0,
         "code": 3
       }
     ],
-    "observed": "2026-10-19T16:15",
+    "observed": "2026-10-19T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82091,
-        "pln": 320000,
-        "chg24": 1.05
+        "usd": 82222,
+        "pln": 320514,
+        "chg24": 1.37
       },
       {
         "sym": "ETH",
-        "usd": 2394.98,
-        "pln": 9335.9,
-        "chg24": 0.35
+        "usd": 2408.37,
+        "pln": 9388.2,
+        "chg24": 1.28
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.325,
-        "chg": 0.58,
-        "as_of": "19.10 14:10"
+        "value": 57.28,
+        "chg": 0.5,
+        "as_of": "19.10 15:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.53,
-        "chg": -0.02,
-        "as_of": "19.10 14:10"
+        "value": 6.547,
+        "chg": 0.24,
+        "as_of": "19.10 15:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.41,
-        "chg": -0.15,
-        "as_of": "19.10 14:07"
+        "value": 1.4057,
+        "chg": -0.46,
+        "as_of": "19.10 15:05"
       },
       {
         "sym": "HRC",
@@ -89,14 +89,14 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 14:10",
+    "updated": "19.10 15:10",
     "stale": false
   },
   "fx": {
     "ok": true,
-    "date": "2026-10-16",
-    "usdpln": 3.8834,
-    "usdeur": 0.88865,
+    "date": "2026-10-19",
+    "usdpln": 3.8943,
+    "usdeur": 0.89087,
     "stale": false
   },
   "news": {
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Vin­ta­ge Tar­gi Mo­dy w Ryb­ni­ku już w najbliższy weekend [PATRONAT]",
-        "url": "https://www.radio90.pl/vintage-targi-mody-w-rybniku-juz-w-najblizszy-weekend-patronat.html",
-        "date": "Mon, 19 Oct 2026 14:10:45 +0000",
+        "title": "Jastrzębie-Zdrój: wieczorem dzieci same bawiły się na podwórku, pijana matka spała",
+        "url": "https://www.radio90.pl/jastrzebie-zdroj-wieczorem-dzieci-same-bawily-sie-na-podworku-pijana-matka-spala.html",
+        "date": "Mon, 19 Oct 2026 14:58:57 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Hokeiści JKH GKS Jastrzębie na fali. Dwa mecze, dwie wygrane",
-        "url": "https://www.radio90.pl/hokeisci-jkh-gks-jastrzebie-na-fali-dwa-mecze-dwie-wygrane.html",
-        "date": "Mon, 19 Oct 2026 13:50:14 +0000",
+        "title": "ROW Rybnik musiał uznać wyższość rywali. Teraz czas na pojedynek z Nysą",
+        "url": "https://www.radio90.pl/row-rybnik-musial-uznac-wyzszosc-rywali-teraz-czas-na-pojedynek-z-nysa.html",
+        "date": "Mon, 19 Oct 2026 14:48:57 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Koleje Śląskie świętują Europejski Dzień Seniora",
-        "url": "https://www.radio90.pl/koleje-slaskie-swietuja-europejski-dzien-seniora.html",
-        "date": "Mon, 19 Oct 2026 13:15:40 +0000",
+        "title": "Vin­ta­ge Tar­gi Mo­dy w Ryb­ni­ku już w najbliższy weekend [PATRONAT]",
+        "url": "https://www.radio90.pl/vintage-targi-mody-w-rybniku-juz-w-najblizszy-weekend-patronat.html",
+        "date": "Mon, 19 Oct 2026 14:10:45 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dojazd do Kornowaca utrudniony. Jedziemy przez Pszów lub Pstrążną",
-        "url": "https://www.radio90.pl/dojazd-do-kornowaca-utrudniony-jedziemy-przez-pszow-lub-pstrazna.html",
-        "date": "Mon, 19 Oct 2026 12:30:19 +0000",
+        "title": "Hokeiści JKH GKS Jastrzębie na fali. Dwa mecze, dwie wygrane",
+        "url": "https://www.radio90.pl/hokeisci-jkh-gks-jastrzebie-na-fali-dwa-mecze-dwie-wygrane.html",
+        "date": "Mon, 19 Oct 2026 13:50:14 +0000",
         "src": "Radio90"
       },
       {
