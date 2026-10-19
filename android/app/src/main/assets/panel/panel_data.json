@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-19T18:20:11+00:00",
+  "generated": "2026-10-19T19:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 8.3,
-    "feels": 6.4,
+    "feels": 6.5,
     "code": 3,
-    "wind": 7.2,
-    "humidity": 89,
+    "wind": 5.8,
+    "humidity": 88,
     "is_day": false,
     "tmax": 8.7,
     "tmin": 7.0,
@@ -20,7 +20,7 @@
       },
       {
         "date": "2026-10-20",
-        "max": 14.4,
+        "max": 14.3,
         "min": 6.0,
         "code": 3
       },
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-19T20:15",
+    "observed": "2026-10-19T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81947,
-        "pln": 319298,
-        "chg24": 1.08
+        "usd": 81890,
+        "pln": 319271,
+        "chg24": 1.0
       },
       {
         "sym": "ETH",
-        "usd": 2397.93,
-        "pln": 9343.27,
-        "chg24": 1.44
+        "usd": 2397.98,
+        "pln": 9349.21,
+        "chg24": 1.36
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.54,
-        "chg": 0.96,
-        "as_of": "19.10 18:10"
+        "value": 57.325,
+        "chg": 0.58,
+        "as_of": "19.10 19:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.598,
-        "chg": 1.03,
-        "as_of": "19.10 18:10"
+        "value": 6.587,
+        "chg": 0.86,
+        "as_of": "19.10 19:11"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4158,
-        "chg": 0.26,
-        "as_of": "19.10 17:39"
+        "value": 1.4131,
+        "chg": 0.06,
+        "as_of": "19.10 18:20"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 18:10",
+    "updated": "19.10 19:11",
     "stale": false
   },
   "fx": {
@@ -145,13 +145,31 @@
         "src": "Mining.com"
       },
       {
-        "title": "Volta doubles Springer rare earths, eyes 2027 study",
+        "title": "Volta doubles Springer rare earths resource, eyes 2027 study",
         "url": "https://www.mining.com/volta-doubles-springer-rare-earths-eyes-2027-study/",
         "date": "Mon, 19 Oct 2026 10:49:00 +0000",
         "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Mieszkańcy mają dość samochodów parkujących przy UBB. Uczelnia odpowiada",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/mieszkancy-maja-dosc-samochodow-parkujacych-przy-ubb-uczelnia-odpowiada/101636/",
+        "date": "Mon, 19 Oct 2026 19:15:50 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Policjanci z Żor i funkcjonariusze Straży Ochrony Kolei zatrzymali dwóch mężczyzn z narkotykami",
+        "url": "https://www.radio90.pl/policjanci-z-zor-i-funkcjonariusze-strazy-ochrony-kolei-zatrzymali-dwoch-mezczyzn-z-narkotykami.html",
+        "date": "Mon, 19 Oct 2026 18:20:24 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Podwójny sukces Koniakowa. Dwie nauczycielki z prestiżowymi nagrodami kuratora oświaty",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/podwojny-sukces-koniakowa-dwie-nauczycielki-z-prestizowymi-nagrodami-kuratora-oswiaty/101629/",
+        "date": "Mon, 19 Oct 2026 18:34:45 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Teatr Wodzisławskiej Ulicy świętuje jubileusz",
         "url": "https://www.radio90.pl/teatr-wodzislawskiej-ulicy-swietuje-jubileusz.html",
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/mkks-rybnik-odniosl-zwyciestwo-w-ostatniej-sekundzie.html",
         "date": "Mon, 19 Oct 2026 16:00:28 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Kilka sekund przed zderzeniem. Policja chce zobaczyć nagrania z DK1",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/kilka-sekund-przed-zderzeniem-policja-chce-zobaczyc-nagrania-z-dk1/101612/",
-        "date": "Mon, 19 Oct 2026 15:25:09 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Jastrzębie-Zdrój: wieczorem dzieci same bawiły się na podwórku, pijana matka spała",
-        "url": "https://www.radio90.pl/jastrzebie-zdroj-wieczorem-dzieci-same-bawily-sie-na-podworku-pijana-matka-spala.html",
-        "date": "Mon, 19 Oct 2026 14:58:57 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Chóry z Polski i zagranicy spotkały się na „Gaude Cantem”. Znamy laureatów festiwalu",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/chory-z-polski-i-zagranicy-spotkaly-sie-na-gaude-cantem-znamy-laureatow-festiwalu/101609/",
-        "date": "Mon, 19 Oct 2026 13:52:11 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
