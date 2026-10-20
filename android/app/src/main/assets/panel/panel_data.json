@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-20T10:20:02+00:00",
+  "generated": "2026-10-20T11:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.0,
-    "feels": 11.2,
-    "code": 0,
-    "wind": 4.0,
-    "humidity": 59,
+    "temp": 13.6,
+    "feels": 11.5,
+    "code": 1,
+    "wind": 10.1,
+    "humidity": 67,
     "is_day": true,
     "tmax": 14.1,
     "tmin": 6.2,
@@ -31,7 +31,7 @@
         "code": 63
       }
     ],
-    "observed": "2026-10-20T12:15",
+    "observed": "2026-10-20T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81506,
-        "pln": 317694,
-        "chg24": -1.28
+        "usd": 81442,
+        "pln": 317726,
+        "chg24": -0.9
       },
       {
         "sym": "ETH",
-        "usd": 2385.51,
-        "pln": 9298.26,
-        "chg24": -1.85
+        "usd": 2382.41,
+        "pln": 9294.44,
+        "chg24": -1.37
       }
     ],
     "stale": false
@@ -59,9 +59,9 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.21,
-        "chg": 0.41,
-        "as_of": "20.10 10:09"
+        "value": 57.33,
+        "chg": 0.62,
+        "as_of": "20.10 11:09"
       },
       {
         "sym": "HG=F",
@@ -69,15 +69,15 @@
         "unit": "USD/lb",
         "value": 6.576,
         "chg": 0.58,
-        "as_of": "20.10 10:10"
+        "as_of": "20.10 11:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3933,
-        "chg": -2.44,
-        "as_of": "20.10 10:05"
+        "value": 1.393,
+        "chg": -2.46,
+        "as_of": "20.10 10:52"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 10:10",
+    "updated": "20.10 11:09",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,27 @@
     ],
     "local": [
       {
-        "title": "Dokładnie rok temu debiutował! Teraz wraca do miejsca, w którym wszystko się zaczęło",
-        "url": "https://www.radiobielsko.pl/sport/dokladnie-rok-temu-debiutowal-teraz-wraca-do-miejsca-w-ktorym-wszystko-sie-zaczelo/101688/",
-        "date": "Tue, 20 Oct 2026 10:09:43 +0000",
+        "title": "Zderzenie w Radoszowach. Kraksa osobówek na Raciborskiej, są utrudnienia, ruch jest wahadłowy [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/zderzenie-w-radoszowach-kraksa-osobowek-na-raciborskiej-sa-utrudnienia-ruch-jest-wahadlowy-zdjecia.html",
+        "date": "Tue, 20 Oct 2026 11:15:59 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "NA JEDEN KONTAKT: Paweł Michałek",
+        "url": "https://www.radiobielsko.pl/sport/na-jeden-kontakt-pawel-michalek/101661/",
+        "date": "Tue, 20 Oct 2026 11:02:31 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Wjechał na przejazd mimo opuszczonej rogatki i czerwonego światła. Polskie Linie Kolejowe publikują film z Szymocic [WIDEO]",
+        "url": "https://www.radio90.pl/wjechal-na-przejazd-mimo-opuszczonej-rogatki-i-czerwonego-swiatla-polskie-linie-kolejowe-publikuja-film-z-szymocic-wideo.html",
+        "date": "Tue, 20 Oct 2026 11:00:03 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Wychowanek Podbeskidzia znów o sobie przypomniał! Zagrał na zapleczu hiszpańskiej LaLigi",
+        "url": "https://www.radiobielsko.pl/sport/wychowanek-podbeskidzia-znow-o-sobie-przypomnial-zagral-na-zapleczu-hiszpanskiej-laligi/101693/",
+        "date": "Tue, 20 Oct 2026 10:56:00 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Zderzenie trzech samochodów na ul. Górskiej. Utrudnienia w ruchu",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/zderzenie-trzech-samochodow-na-ul-gorskiej-utrudnienia-w-ruchu/101689/",
-        "date": "Tue, 20 Oct 2026 09:10:59 +0000",
+        "title": "Pani Aniela skończyła 103 lata!",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/pani-aniela-skonczyla-103-lata/101698/",
+        "date": "Tue, 20 Oct 2026 10:39:02 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,28 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Nowe autobusy wodorowe i odnowione przystanki w Bielsku-Białej",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/nowe-autobusy-wodorowe-i-odnowione-przystanki-w-bielsku-bialej/101685/",
-        "date": "Tue, 20 Oct 2026 08:58:18 +0000",
+        "title": "Dwóch mężczyzn zatrzymanych za uszkodzenie samochodu i drzwi mieszkania",
+        "url": "https://www.radiobielsko.pl/powiat-wadowicki/dwoch-mezczyzn-zatrzymanych-za-uszkodzenie-samochodu-i-drzwi-mieszkania/101694/",
+        "date": "Tue, 20 Oct 2026 10:20:26 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Europejski Dzień Seniora: w OSP w Marklowicach odbędzie się dziś spotkanie z pszczelarzem",
-        "url": "https://www.radio90.pl/europejski-dzien-seniora.html",
-        "date": "Tue, 20 Oct 2026 09:20:21 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Ławki z ładowarką",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/lawki-z-ladowarka/101678/",
-        "date": "Tue, 20 Oct 2026 08:03:12 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Pożar w Jastrzębiu-Zdroju. Płonęła altana przy ul. Pszczyńskiej. Ogień spowodował duże straty",
-        "url": "https://www.radio90.pl/pozar-w-jastrzebiu-zdroju-plonela-altana-przy-ul-pszczynskiej-ogien-spowodowal-duze-straty.html",
-        "date": "Tue, 20 Oct 2026 08:30:16 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
