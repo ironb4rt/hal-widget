@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-20T17:20:05+00:00",
+  "generated": "2026-10-20T18:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.9,
-    "feels": 10.9,
+    "temp": 11.3,
+    "feels": 10.2,
     "code": 1,
-    "wind": 3.6,
-    "humidity": 78,
+    "wind": 4.0,
+    "humidity": 79,
     "is_day": false,
-    "tmax": 13.9,
+    "tmax": 14.0,
     "tmin": 6.2,
     "forecast": [
       {
         "date": "2026-10-20",
-        "max": 13.9,
+        "max": 14.0,
         "min": 6.2,
         "code": 3
       },
       {
         "date": "2026-10-21",
-        "max": 21.1,
-        "min": 11.7,
+        "max": 21.4,
+        "min": 11.3,
         "code": 3
       },
       {
         "date": "2026-10-22",
-        "max": 15.1,
-        "min": 8.2,
+        "max": 16.6,
+        "min": 7.1,
         "code": 63
       }
     ],
-    "observed": "2026-10-20T19:15",
+    "observed": "2026-10-20T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82682,
-        "pln": 321440,
-        "chg24": 0.94
+        "usd": 82578,
+        "pln": 320923,
+        "chg24": 0.76
       },
       {
         "sym": "ETH",
-        "usd": 2448.57,
-        "pln": 9519.25,
-        "chg24": 1.97
+        "usd": 2443.13,
+        "pln": 9494.77,
+        "chg24": 1.88
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.925,
-        "chg": 1.67,
-        "as_of": "20.10 17:10"
+        "value": 58.055,
+        "chg": 1.9,
+        "as_of": "20.10 18:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6065,
-        "chg": 1.05,
-        "as_of": "20.10 17:09"
+        "value": 6.6175,
+        "chg": 1.22,
+        "as_of": "20.10 18:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3965,
-        "chg": -2.22,
-        "as_of": "20.10 15:23"
+        "value": 1.4007,
+        "chg": -1.92,
+        "as_of": "20.10 18:03"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 17:10",
+    "updated": "20.10 18:09",
     "stale": false
   },
   "fx": {
@@ -112,6 +112,12 @@
         "title": "Lithium Africa weighs $60M offer for Springbok lithium project",
         "url": "https://www.mining.com/lithium-africa-weighs-60m-offer-for-springbok-lithium-project/",
         "date": "Tue, 20 Oct 2026 16:37:18 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Glencore clears key hurdle for Peru copper expansion",
+        "url": "https://www.mining.com/glencore-clears-key-hurdle-for-peru-copper-expansion/",
+        "date": "Tue, 20 Oct 2026 16:18:00 +0000",
         "src": "Mining.com"
       },
       {
@@ -143,31 +149,37 @@
         "url": "https://www.mining.com/brazil-survey-plan-could-give-big-miners-first-pick-of-claims/",
         "date": "Mon, 19 Oct 2026 21:33:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Military Metals wins four-year Slovak licence lifeline",
-        "url": "https://www.mining.com/military-metals-wins-four-year-slovak-licence-lifeline/",
-        "date": "Mon, 19 Oct 2026 21:07:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Wkrótce kolejna edycja konferencji „Rybnik dla Biznesu”. Będą szkolenia i uroczysta gala w domu kultury",
-        "url": "https://www.radio90.pl/wkrotce-kolejna-edycja-konferencji-rybnik-dla-biznesu-beda-szkolenia-i-uroczysta-gala-w-domu-kultury.html",
-        "date": "Tue, 20 Oct 2026 16:30:30 +0000",
+        "title": "Syn ukradł auto swojemu ojcu. 44-latka, który przywłaszczył sobie Skodę, zatrzymali policjanci z Żor",
+        "url": "https://www.radio90.pl/syn-ukradl-auto-swojemu-ojcu-44-latka-ktory-przywlaszczyl-sobie-skode-zatrzymali-policjanci-z-zor.html",
+        "date": "Tue, 20 Oct 2026 18:00:26 +0000",
         "src": "Radio90"
       },
       {
-        "title": "108 przestępstw i ponad 75 tysięcy złotych. Chińczyk zatrzymany w Żywcu",
+        "title": "Chcą się odkorkować. Wśród propozycji poszerzenie S1 i nowa droga w kierunku Korbielowa",
+        "url": "https://www.radiobielsko.pl/zywiec/chca-sie-odkorkowac-wsrod-propozycji-poszerzenie-s1-i-nowa-droga-w-kierunku-korbielowa/101726/",
+        "date": "Tue, 20 Oct 2026 17:54:23 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Zwrócili na niego uwagę, bo nerwowo się zachowywał. Policjanci z Żor zatrzymali 22-latka z narkotykami",
+        "url": "https://www.radio90.pl/zwrocili-na-niego-uwage-bo-nerwowo-sie-zachowywal-policjanci-z-zor-zatrzymali-22-latka-z-narkotykami.html",
+        "date": "Tue, 20 Oct 2026 17:25:52 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Chińska szajka wpadła w Żywcu. Dwóch oszustów zdążyło uciec",
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/108-przestepstw-i-ponad-75-tysiecy-zlotych-chinczyk-zatrzymany-w-zywcu/101721/",
         "date": "Tue, 20 Oct 2026 13:43:33 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Powstanie nowa remiza dla OSP Żory. To decyzja mieszkańców w ramach Żorskiego Budżetu Obywatelskiego",
-        "url": "https://www.radio90.pl/powstanie-nowa-remiza-dla-osp-zory-to-decyzja-mieszkancow-w-ramach-zorskiego-budzetu-obywatelskiego.html",
-        "date": "Tue, 20 Oct 2026 15:35:36 +0000",
+        "title": "Wkrótce kolejna edycja konferencji „Rybnik dla Biznesu”. Będą szkolenia i uroczysta gala w domu kultury",
+        "url": "https://www.radio90.pl/wkrotce-kolejna-edycja-konferencji-rybnik-dla-biznesu-beda-szkolenia-i-uroczysta-gala-w-domu-kultury.html",
+        "date": "Tue, 20 Oct 2026 16:30:30 +0000",
         "src": "Radio90"
       },
       {
@@ -177,27 +189,15 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Na szczęście pomoc przyszła na czas. Policjanci z Orzesza pomogli nastolatce w kryzysie emocjonalnym",
-        "url": "https://www.radio90.pl/na-szczescie-pomoc-przyszla-na-czas-policjanci-z-orzesza-pomogli-nastolatce-w-kryzysie-emocjonalnym.html",
-        "date": "Tue, 20 Oct 2026 14:40:34 +0000",
+        "title": "Powstanie nowa remiza dla OSP Żory. To decyzja mieszkańców w ramach Żorskiego Budżetu Obywatelskiego",
+        "url": "https://www.radio90.pl/powstanie-nowa-remiza-dla-osp-zory-to-decyzja-mieszkancow-w-ramach-zorskiego-budzetu-obywatelskiego.html",
+        "date": "Tue, 20 Oct 2026 15:35:36 +0000",
         "src": "Radio90"
       },
       {
         "title": "Podpisano umowę na południowy odcinek trasy rowerowej VeloBiała",
         "url": "https://www.radiobielsko.pl/bielsko-biala/podpisano-umowe-na-poludniowy-odcinek-trasy-rowerowej-velobiala/101704/",
         "date": "Tue, 20 Oct 2026 11:22:16 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "100-lecie Rydułtów. W dzień niepodległości jubileuszowy koncert w Centrum Kultury „Feniks”",
-        "url": "https://www.radio90.pl/100-lecie-rydultow-w-dzien-niepodleglosci-jubileuszowy-koncert-w-centrum-kultury-feniks.html",
-        "date": "Tue, 20 Oct 2026 13:50:25 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "NA JEDEN KONTAKT: Paweł Michałek",
-        "url": "https://www.radiobielsko.pl/sport/na-jeden-kontakt-pawel-michalek/101661/",
-        "date": "Tue, 20 Oct 2026 11:02:31 +0000",
         "src": "RadioBielsko"
       }
     ],
