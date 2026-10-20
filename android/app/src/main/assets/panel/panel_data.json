@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T23:20:13+00:00",
+  "generated": "2026-10-20T00:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
@@ -32,22 +32,22 @@
       }
     ],
     "observed": "2026-10-20T01:15",
-    "stale": false
+    "stale": true
   },
   "crypto": {
     "ok": true,
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81898,
-        "pln": 319145,
-        "chg24": 0.23
+        "usd": 81559,
+        "pln": 317655,
+        "chg24": -0.58
       },
       {
         "sym": "ETH",
-        "usd": 2403.11,
-        "pln": 9364.55,
-        "chg24": 0.62
+        "usd": 2393.2,
+        "pln": 9323.01,
+        "chg24": -0.56
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.045,
-        "chg": 0.09,
-        "as_of": "19.10 23:10"
+        "value": 57.12,
+        "chg": 0.22,
+        "as_of": "20.10 00:11"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.575,
+        "value": 6.5745,
         "chg": 0.67,
-        "as_of": "19.10 23:10"
+        "as_of": "20.10 00:11"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4083,
-        "chg": -0.27,
-        "as_of": "19.10 22:40"
+        "value": 1.4132,
+        "chg": 0.07,
+        "as_of": "20.10 00:05"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "19.10 23:10",
+    "updated": "20.10 00:11",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Westwin Elements, Traxys eye $3.9 billion, 22 year nickel offtake extension",
+        "url": "https://www.mining.com/westwin-elements-traxys-eye-3-9-billion-22-year-nickel-offtake-extension/",
+        "date": "Mon, 19 Oct 2026 23:38:46 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Study nearly doubles value, lifts resource for Aclara’s Penco rare earths project",
         "url": "https://www.mining.com/study-nearly-doubles-value-lifts-resource-for-aclaras-penco-rare-earths-project/",
@@ -142,12 +148,6 @@
         "title": "Sudan gold rush leaves toxic legacy as war drives mining",
         "url": "https://www.mining.com/sudan-gold-rush-leaves-toxic-legacy-as-war-drives-mining/",
         "date": "Mon, 19 Oct 2026 15:45:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Americas Gold’s record silver output misses forecasts",
-        "url": "https://www.mining.com/americas-golds-record-silver-output-misses-forecasts/",
-        "date": "Mon, 19 Oct 2026 14:59:00 +0000",
         "src": "Mining.com"
       }
     ],
