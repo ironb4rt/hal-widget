@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-20T03:20:14+00:00",
+  "generated": "2026-10-20T04:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.2,
-    "feels": 4.2,
+    "temp": 6.0,
+    "feels": 3.9,
     "code": 0,
-    "wind": 5.0,
-    "humidity": 89,
+    "wind": 5.8,
+    "humidity": 91,
     "is_day": false,
     "tmax": 13.8,
     "tmin": 6.0,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-20T05:15",
+    "observed": "2026-10-20T06:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81798,
-        "pln": 318436,
-        "chg24": -0.88
+        "usd": 82060,
+        "pln": 319274,
+        "chg24": -0.44
       },
       {
         "sym": "ETH",
-        "usd": 2402.28,
-        "pln": 9351.94,
-        "chg24": -0.86
+        "usd": 2411.34,
+        "pln": 9381.91,
+        "chg24": -0.34
       }
     ],
     "stale": false
@@ -59,24 +59,24 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.53,
-        "chg": 0.98,
-        "as_of": "20.10 03:10"
+        "value": 57.585,
+        "chg": 1.07,
+        "as_of": "20.10 04:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.572,
-        "chg": 0.52,
-        "as_of": "20.10 03:10"
+        "value": 6.575,
+        "chg": 0.57,
+        "as_of": "20.10 04:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
         "value": 1.4014,
-        "chg": -1.87,
+        "chg": -0.76,
         "as_of": "20.10 02:30"
       },
       {
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 03:10",
+    "updated": "20.10 04:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Mieszkańcy mają dość samochodów parkujących przy UBB. Uczelnia odpowiada",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/mieszkancy-maja-dosc-samochodow-parkujacych-przy-ubb-uczelnia-odpowiada/101636/",
-        "date": "Mon, 19 Oct 2026 19:15:50 +0000",
+        "title": "Duże zmiany w rozkładzie PKP Intercity. Więcej pociągów i nowe połączenia",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/duze-zmiany-w-rozkladzie-pkp-intercity-wiecej-pociagow-i-nowe-polaczenia/101643/",
+        "date": "Tue, 20 Oct 2026 04:00:27 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Podwójny sukces Koniakowa. Dwie nauczycielki z prestiżowymi nagrodami kuratora oświaty",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/podwojny-sukces-koniakowa-dwie-nauczycielki-z-prestizowymi-nagrodami-kuratora-oswiaty/101629/",
-        "date": "Mon, 19 Oct 2026 18:34:45 +0000",
+        "title": "Mieszkańcy mają dość samochodów parkujących przy UBB. Uczelnia odpowiada",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/mieszkancy-maja-dosc-samochodow-parkujacych-przy-ubb-uczelnia-odpowiada/101636/",
+        "date": "Mon, 19 Oct 2026 19:15:50 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Koniec darmowego postoju dla motocyklistów. Nowe zasady w strefie płatnego parkowania w Oświęcimiu",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/koniec-darmowego-postoju-dla-motocyklistow-miasto-zmienia-zasady-w-strefie/101624/",
-        "date": "Mon, 19 Oct 2026 17:30:54 +0000",
+        "title": "Podwójny sukces Koniakowa. Dwie nauczycielki z prestiżowymi nagrodami kuratora oświaty",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/podwojny-sukces-koniakowa-dwie-nauczycielki-z-prestizowymi-nagrodami-kuratora-oswiaty/101629/",
+        "date": "Mon, 19 Oct 2026 18:34:45 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Bezdomni terroryzują okolicę. Rada Osiedla i najemcy proszą o pomoc",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/bezdomni-terroryzuja-okolice-rada-osiedla-i-najemcy-prosza-o-pomoc/101615/",
-        "date": "Mon, 19 Oct 2026 16:31:12 +0000",
+        "title": "Koniec darmowego postoju dla motocyklistów. Nowe zasady w strefie płatnego parkowania w Oświęcimiu",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/koniec-darmowego-postoju-dla-motocyklistow-miasto-zmienia-zasady-w-strefie/101624/",
+        "date": "Mon, 19 Oct 2026 17:30:54 +0000",
         "src": "RadioBielsko"
       },
       {
