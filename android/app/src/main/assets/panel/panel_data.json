@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-20T04:20:15+00:00",
+  "generated": "2026-10-20T05:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.0,
+    "temp": 6.1,
     "feels": 3.9,
     "code": 0,
     "wind": 5.8,
-    "humidity": 91,
-    "is_day": false,
+    "humidity": 90,
+    "is_day": true,
     "tmax": 13.8,
     "tmin": 6.0,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-20T06:15",
+    "observed": "2026-10-20T07:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82060,
-        "pln": 319274,
-        "chg24": -0.44
+        "usd": 81929,
+        "pln": 318677,
+        "chg24": -0.77
       },
       {
         "sym": "ETH",
-        "usd": 2411.34,
-        "pln": 9381.91,
-        "chg24": -0.34
+        "usd": 2406.36,
+        "pln": 9359.88,
+        "chg24": -0.69
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.585,
-        "chg": 1.07,
-        "as_of": "20.10 04:10"
+        "value": 57.46,
+        "chg": 0.85,
+        "as_of": "20.10 05:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.575,
-        "chg": 0.57,
-        "as_of": "20.10 04:09"
+        "value": 6.5665,
+        "chg": 0.44,
+        "as_of": "20.10 05:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4014,
-        "chg": -0.76,
-        "as_of": "20.10 02:30"
+        "value": 1.407,
+        "chg": -1.48,
+        "as_of": "20.10 04:45"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 04:10",
+    "updated": "20.10 05:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "Parafianie z Grojca pytają biskupa: gdzie są pieniądze z mszy?",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/parafianie-z-grojca-pytaja-biskupa-gdzie-sa-pieniadze-z-mszy/101639/",
+        "date": "Tue, 20 Oct 2026 05:16:31 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Czas na doroczny Turniej Siatkówki Samorządowców Subregionu Zachodniego",
+        "url": "https://www.radio90.pl/czas-na-doroczny-turniej-siatkowki-samorzadowcow-subregionu-zachodniego.html",
+        "date": "Tue, 20 Oct 2026 04:45:09 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Duże zmiany w rozkładzie PKP Intercity. Więcej pociągów i nowe połączenia",
         "url": "https://www.radiobielsko.pl/bielsko-biala/duze-zmiany-w-rozkladzie-pkp-intercity-wiecej-pociagow-i-nowe-polaczenia/101643/",
         "date": "Tue, 20 Oct 2026 04:00:27 +0000",
@@ -186,18 +198,6 @@
         "title": "Raport z siatkarskich parkietów. Jak grały nasze drużyny?",
         "url": "https://www.radio90.pl/raport-z-siatkarskich-parkietow-jak-graly-nasze-druzyny.html",
         "date": "Mon, 19 Oct 2026 16:57:18 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Koniec darmowego postoju dla motocyklistów. Nowe zasady w strefie płatnego parkowania w Oświęcimiu",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/koniec-darmowego-postoju-dla-motocyklistow-miasto-zmienia-zasady-w-strefie/101624/",
-        "date": "Mon, 19 Oct 2026 17:30:54 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "MKKS Rybnik odniósł zwycięstwo w ostatniej sekundzie",
-        "url": "https://www.radio90.pl/mkks-rybnik-odniosl-zwyciestwo-w-ostatniej-sekundzie.html",
-        "date": "Mon, 19 Oct 2026 16:00:28 +0000",
         "src": "Radio90"
       }
     ],
