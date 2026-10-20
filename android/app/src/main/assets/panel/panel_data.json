@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-20T16:20:04+00:00",
+  "generated": "2026-10-20T17:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.3,
-    "feels": 10.6,
+    "temp": 11.9,
+    "feels": 10.9,
     "code": 1,
-    "wind": 8.6,
-    "humidity": 77,
+    "wind": 3.6,
+    "humidity": 78,
     "is_day": false,
     "tmax": 13.9,
     "tmin": 6.2,
@@ -31,7 +31,7 @@
         "code": 63
       }
     ],
-    "observed": "2026-10-20T18:15",
+    "observed": "2026-10-20T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82336,
-        "pln": 320250,
-        "chg24": 0.44
+        "usd": 82682,
+        "pln": 321440,
+        "chg24": 0.94
       },
       {
         "sym": "ETH",
-        "usd": 2432.39,
-        "pln": 9460.88,
-        "chg24": 1.29
+        "usd": 2448.57,
+        "pln": 9519.25,
+        "chg24": 1.97
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.955,
-        "chg": 1.72,
-        "as_of": "20.10 16:09"
+        "value": 57.925,
+        "chg": 1.67,
+        "as_of": "20.10 17:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6105,
-        "chg": 1.11,
-        "as_of": "20.10 16:10"
+        "value": 6.6065,
+        "chg": 1.05,
+        "as_of": "20.10 17:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 16:10",
+    "updated": "20.10 17:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Phoenix Tailings to build $375M rare earth plant in New York",
+        "url": "https://www.mining.com/phoenix-tailings-to-build-375m-rare-earth-plant-in-new-york/",
+        "date": "Tue, 20 Oct 2026 16:56:43 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Lithium Africa weighs $60M offer for Springbok lithium project",
+        "url": "https://www.mining.com/lithium-africa-weighs-60m-offer-for-springbok-lithium-project/",
+        "date": "Tue, 20 Oct 2026 16:37:18 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Copper surplus masks looming $332B mine shortfall",
         "url": "https://www.mining.com/copper-surplus-masks-looming-332b-mine-shortfall/",
@@ -137,25 +149,13 @@
         "url": "https://www.mining.com/military-metals-wins-four-year-slovak-licence-lifeline/",
         "date": "Mon, 19 Oct 2026 21:07:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Ground View Pakistan: Same hall, different world",
-        "url": "https://www.mining.com/ground-view-pakistan-same-hall-different-world/",
-        "date": "Mon, 19 Oct 2026 17:50:38 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Digital gold could triple by 2031, WGC estimates",
-        "url": "https://www.mining.com/digital-gold-could-triple-by-2031-wgc-estimates/",
-        "date": "Mon, 19 Oct 2026 17:45:50 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Powstanie nowa remiza dla OSP Żory. To decyzja mieszkańców w ramach Żorskiego Budżetu Obywatelskiego",
-        "url": "https://www.radio90.pl/powstanie-nowa-remiza-dla-osp-zory-to-decyzja-mieszkancow-w-ramach-zorskiego-budzetu-obywatelskiego.html",
-        "date": "Tue, 20 Oct 2026 15:35:36 +0000",
+        "title": "Wkrótce kolejna edycja konferencji „Rybnik dla Biznesu”. Będą szkolenia i uroczysta gala w domu kultury",
+        "url": "https://www.radio90.pl/wkrotce-kolejna-edycja-konferencji-rybnik-dla-biznesu-beda-szkolenia-i-uroczysta-gala-w-domu-kultury.html",
+        "date": "Tue, 20 Oct 2026 16:30:30 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Na szczęście pomoc przyszła na czas. Policjanci z Orzesza pomogli nastolatce w kryzysie emocjonalnym",
-        "url": "https://www.radio90.pl/na-szczescie-pomoc-przyszla-na-czas-policjanci-z-orzesza-pomogli-nastolatce-w-kryzysie-emocjonalnym.html",
-        "date": "Tue, 20 Oct 2026 14:40:34 +0000",
+        "title": "Powstanie nowa remiza dla OSP Żory. To decyzja mieszkańców w ramach Żorskiego Budżetu Obywatelskiego",
+        "url": "https://www.radio90.pl/powstanie-nowa-remiza-dla-osp-zory-to-decyzja-mieszkancow-w-ramach-zorskiego-budzetu-obywatelskiego.html",
+        "date": "Tue, 20 Oct 2026 15:35:36 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "100-lecie Rydułtów. W dzień niepodległości jubileuszowy koncert w Centrum Kultury „Feniks”",
-        "url": "https://www.radio90.pl/100-lecie-rydultow-w-dzien-niepodleglosci-jubileuszowy-koncert-w-centrum-kultury-feniks.html",
-        "date": "Tue, 20 Oct 2026 13:50:25 +0000",
+        "title": "Na szczęście pomoc przyszła na czas. Policjanci z Orzesza pomogli nastolatce w kryzysie emocjonalnym",
+        "url": "https://www.radio90.pl/na-szczescie-pomoc-przyszla-na-czas-policjanci-z-orzesza-pomogli-nastolatce-w-kryzysie-emocjonalnym.html",
+        "date": "Tue, 20 Oct 2026 14:40:34 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Szpital w Wodzisławiu nadal z interną. Oddział pracuje, udało się namówić ordynatora do pozostania",
-        "url": "https://www.radio90.pl/szpital-w-wodzislawiu-nadal-z-interna-oddzial-pracuje-udalo-sie-namowic-ordynatora-do-pozostania.html",
-        "date": "Tue, 20 Oct 2026 13:00:24 +0000",
+        "title": "100-lecie Rydułtów. W dzień niepodległości jubileuszowy koncert w Centrum Kultury „Feniks”",
+        "url": "https://www.radio90.pl/100-lecie-rydultow-w-dzien-niepodleglosci-jubileuszowy-koncert-w-centrum-kultury-feniks.html",
+        "date": "Tue, 20 Oct 2026 13:50:25 +0000",
         "src": "Radio90"
       },
       {
