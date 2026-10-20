@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-20T15:20:04+00:00",
+  "generated": "2026-10-20T16:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.8,
-    "feels": 10.7,
-    "code": 3,
-    "wind": 12.2,
-    "humidity": 75,
-    "is_day": true,
-    "tmax": 14.0,
+    "temp": 12.3,
+    "feels": 10.6,
+    "code": 1,
+    "wind": 8.6,
+    "humidity": 77,
+    "is_day": false,
+    "tmax": 13.9,
     "tmin": 6.2,
     "forecast": [
       {
         "date": "2026-10-20",
-        "max": 14.0,
+        "max": 13.9,
         "min": 6.2,
         "code": 3
       },
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-22",
         "max": 15.1,
-        "min": 8.0,
+        "min": 8.2,
         "code": 63
       }
     ],
-    "observed": "2026-10-20T17:15",
+    "observed": "2026-10-20T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82539,
-        "pln": 320952,
-        "chg24": 0.39
+        "usd": 82336,
+        "pln": 320250,
+        "chg24": 0.44
       },
       {
         "sym": "ETH",
-        "usd": 2440.47,
-        "pln": 9489.71,
-        "chg24": 1.34
+        "usd": 2432.39,
+        "pln": 9460.88,
+        "chg24": 1.29
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 58.22,
-        "chg": 2.19,
-        "as_of": "20.10 15:10"
+        "value": 57.955,
+        "chg": 1.72,
+        "as_of": "20.10 16:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6135,
-        "chg": 1.15,
-        "as_of": "20.10 15:10"
+        "value": 6.6105,
+        "chg": 1.11,
+        "as_of": "20.10 16:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4008,
-        "chg": -1.91,
-        "as_of": "20.10 15:08"
+        "value": 1.3965,
+        "chg": -2.22,
+        "as_of": "20.10 15:23"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 15:10",
+    "updated": "20.10 16:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Na szczęście pomoc przyszła na czas. Policjanci z Orzesza pomogli nastolatce w kryzysie emocjonalnym",
-        "url": "https://www.radio90.pl/na-szczescie-pomoc-przyszla-na-czas-policjanci-z-orzesza-pomogli-nastolatce-w-kryzysie-emocjonalnym.html",
-        "date": "Tue, 20 Oct 2026 14:40:34 +0000",
+        "title": "Powstanie nowa remiza dla OSP Żory. To decyzja mieszkańców w ramach Żorskiego Budżetu Obywatelskiego",
+        "url": "https://www.radio90.pl/powstanie-nowa-remiza-dla-osp-zory-to-decyzja-mieszkancow-w-ramach-zorskiego-budzetu-obywatelskiego.html",
+        "date": "Tue, 20 Oct 2026 15:35:36 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "100-lecie Rydułtów. W dzień niepodległości jubileuszowy koncert w Centrum Kultury „Feniks”",
-        "url": "https://www.radio90.pl/100-lecie-rydultow-w-dzien-niepodleglosci-jubileuszowy-koncert-w-centrum-kultury-feniks.html",
-        "date": "Tue, 20 Oct 2026 13:50:25 +0000",
+        "title": "Na szczęście pomoc przyszła na czas. Policjanci z Orzesza pomogli nastolatce w kryzysie emocjonalnym",
+        "url": "https://www.radio90.pl/na-szczescie-pomoc-przyszla-na-czas-policjanci-z-orzesza-pomogli-nastolatce-w-kryzysie-emocjonalnym.html",
+        "date": "Tue, 20 Oct 2026 14:40:34 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Szpital w Wodzisławiu nadal z interną. Oddział pracuje, udało się namówić ordynatora do pozostania",
-        "url": "https://www.radio90.pl/szpital-w-wodzislawiu-nadal-z-interna-oddzial-pracuje-udalo-sie-namowic-ordynatora-do-pozostania.html",
-        "date": "Tue, 20 Oct 2026 13:00:24 +0000",
+        "title": "100-lecie Rydułtów. W dzień niepodległości jubileuszowy koncert w Centrum Kultury „Feniks”",
+        "url": "https://www.radio90.pl/100-lecie-rydultow-w-dzien-niepodleglosci-jubileuszowy-koncert-w-centrum-kultury-feniks.html",
+        "date": "Tue, 20 Oct 2026 13:50:25 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wypadek w Pstrążnej. Osobówka wjechała w zaparkowany autobus. Kierowca jest w ciężkim stanie [ZDJĘCIA, WIDEO]",
-        "url": "https://www.radio90.pl/wypadek-w-pstraznej-osobowka-wjechala-w-zaparkowany-autobus-kierowca-jest-w-ciezkim-stanie-zdjecia-wideo.html",
-        "date": "Tue, 20 Oct 2026 12:20:42 +0000",
+        "title": "Szpital w Wodzisławiu nadal z interną. Oddział pracuje, udało się namówić ordynatora do pozostania",
+        "url": "https://www.radio90.pl/szpital-w-wodzislawiu-nadal-z-interna-oddzial-pracuje-udalo-sie-namowic-ordynatora-do-pozostania.html",
+        "date": "Tue, 20 Oct 2026 13:00:24 +0000",
         "src": "Radio90"
       },
       {
