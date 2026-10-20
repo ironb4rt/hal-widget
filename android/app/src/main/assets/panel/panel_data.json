@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-20T19:20:06+00:00",
+  "generated": "2026-10-20T20:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.8,
-    "feels": 9.4,
-    "code": 0,
-    "wind": 4.7,
-    "humidity": 80,
+    "temp": 10.5,
+    "feels": 9.2,
+    "code": 2,
+    "wind": 4.0,
+    "humidity": 79,
     "is_day": false,
-    "tmax": 14.0,
+    "tmax": 13.9,
     "tmin": 6.2,
     "forecast": [
       {
         "date": "2026-10-20",
-        "max": 14.0,
+        "max": 13.9,
         "min": 6.2,
         "code": 3
       },
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-22",
         "max": 16.6,
-        "min": 7.1,
+        "min": 7.7,
         "code": 63
       }
     ],
-    "observed": "2026-10-20T21:15",
+    "observed": "2026-10-20T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82458,
-        "pln": 320509,
-        "chg24": 0.7
+        "usd": 82534,
+        "pln": 320760,
+        "chg24": 0.69
       },
       {
         "sym": "ETH",
-        "usd": 2432.83,
-        "pln": 9456.28,
-        "chg24": 1.45
+        "usd": 2435.67,
+        "pln": 9466.02,
+        "chg24": 1.49
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.97,
-        "chg": 1.75,
-        "as_of": "20.10 19:10"
+        "value": 57.995,
+        "chg": 1.79,
+        "as_of": "20.10 20:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.613,
-        "chg": 1.15,
-        "as_of": "20.10 19:09"
+        "value": 6.615,
+        "chg": 1.18,
+        "as_of": "20.10 20:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 19:10",
+    "updated": "20.10 20:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Cornish Metals faces costly financing hurdle",
+        "url": "https://www.mining.com/cornish-metals-faces-costly-financing-hurdle/",
+        "date": "Tue, 20 Oct 2026 18:51:13 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Phoenix Tailings to build $375M rare earth plant in New York",
         "url": "https://www.mining.com/phoenix-tailings-to-build-375m-rare-earth-plant-in-new-york/",
@@ -142,12 +148,6 @@
         "title": "Study nearly doubles value, lifts resource for Aclara’s Penco rare earths project",
         "url": "https://www.mining.com/study-nearly-doubles-value-lifts-resource-for-aclaras-penco-rare-earths-project/",
         "date": "Mon, 19 Oct 2026 21:45:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Brazil survey plan could give big miners first pick of claims",
-        "url": "https://www.mining.com/brazil-survey-plan-could-give-big-miners-first-pick-of-claims/",
-        "date": "Mon, 19 Oct 2026 21:33:00 +0000",
         "src": "Mining.com"
       }
     ],
