@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-20T08:20:15+00:00",
+  "generated": "2026-10-20T09:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.6,
-    "feels": 8.0,
+    "temp": 11.8,
+    "feels": 9.9,
     "code": 0,
-    "wind": 2.5,
-    "humidity": 73,
+    "wind": 4.0,
+    "humidity": 62,
     "is_day": true,
     "tmax": 14.1,
     "tmin": 6.2,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-21",
-        "max": 21.2,
-        "min": 12.0,
+        "max": 20.5,
+        "min": 11.9,
         "code": 3
       },
       {
         "date": "2026-10-22",
-        "max": 15.8,
+        "max": 16.6,
         "min": 6.4,
-        "code": 61
+        "code": 63
       }
     ],
-    "observed": "2026-10-20T10:15",
+    "observed": "2026-10-20T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81381,
-        "pln": 316802,
-        "chg24": -1.72
+        "usd": 81429,
+        "pln": 317791,
+        "chg24": -1.68
       },
       {
         "sym": "ETH",
-        "usd": 2384.65,
-        "pln": 9283.0,
-        "chg24": -2.0
+        "usd": 2381.5,
+        "pln": 9294.23,
+        "chg24": -2.3
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.37,
-        "chg": 0.7,
-        "as_of": "20.10 08:03"
+        "value": 57.345,
+        "chg": 0.65,
+        "as_of": "20.10 09:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.571,
-        "chg": 0.5,
-        "as_of": "20.10 08:03"
+        "value": 6.581,
+        "chg": 0.66,
+        "as_of": "20.10 09:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4004,
-        "chg": -1.95,
-        "as_of": "20.10 08:00"
+        "value": 1.4007,
+        "chg": -1.92,
+        "as_of": "20.10 08:19"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 08:03",
+    "updated": "20.10 09:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Ławki z ładowarką",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/lawki-z-ladowarka/101678/",
-        "date": "Tue, 20 Oct 2026 08:03:12 +0000",
+        "title": "Zderzenie trzech samochodów na ul. Górskiej. Utrudnienia w ruchu",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/zderzenie-trzech-samochodow-na-ul-gorskiej-utrudnienia-w-ruchu/101689/",
+        "date": "Tue, 20 Oct 2026 09:10:59 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Pożar w Jastrzębiu-Zdroju. Płonęła altana przy ul. Pszczyńskiej. Ogień spowodował duże straty",
+        "url": "https://www.radio90.pl/pozar-w-jastrzebiu-zdroju-plonela-altana-przy-ul-pszczynskiej-ogien-spowodowal-duze-straty.html",
+        "date": "Tue, 20 Oct 2026 08:30:16 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Nowe autobusy wodorowe i odnowione przystanki w Bielsku-Białej",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/nowe-autobusy-wodorowe-i-odnowione-przystanki-w-bielsku-bialej/101685/",
+        "date": "Tue, 20 Oct 2026 08:58:18 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Na tym stadionie rozstrzygną się losy Pucharu Polski",
-        "url": "https://www.radiobielsko.pl/sport/na-tym-stadionie-rozstrzygna-sie-losy-pucharu-polski/101675/",
-        "date": "Tue, 20 Oct 2026 07:57:53 +0000",
+        "title": "Ławki z ładowarką",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/lawki-z-ladowarka/101678/",
+        "date": "Tue, 20 Oct 2026 08:03:12 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,27 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Rekord Bielsko-Biała wśród medalistów Pucharu Polski w blind footballu",
-        "url": "https://www.radiobielsko.pl/sport/sukces-rekordu-bielsko-biala-w-blind-footballu-bielszczanie-na-podium-pucharu-polski/101663/",
-        "date": "Tue, 20 Oct 2026 07:23:02 +0000",
+        "title": "Na tym stadionie rozstrzygną się losy Pucharu Polski",
+        "url": "https://www.radiobielsko.pl/sport/na-tym-stadionie-rozstrzygna-sie-losy-pucharu-polski/101675/",
+        "date": "Tue, 20 Oct 2026 07:57:53 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Wypadek w Piasku. Policja szuka świadków",
         "url": "https://www.radio90.pl/wypadek-w-piasku-policja-szuka-swiadkow.html",
         "date": "Tue, 20 Oct 2026 06:01:53 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Biblioteka, muzyka i kawiarenka pod jednym dachem. Tak zmieni się znany budynek w Pszczynie",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/biblioteka-muzyka-i-kawiarenka-pod-jednym-dachem-tak-zmieni-sie-znany-budynek-w-pszczynie/101657/",
-        "date": "Tue, 20 Oct 2026 06:55:14 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Uwaga na oszustów! Apelują już nawet pracownicy skarbówki",
-        "url": "https://www.radio90.pl/uwaga-na-oszustow-apeluja-juz-nawet-pracownicy-skarbowki.html",
-        "date": "Tue, 20 Oct 2026 05:45:59 +0000",
         "src": "Radio90"
       }
     ],
