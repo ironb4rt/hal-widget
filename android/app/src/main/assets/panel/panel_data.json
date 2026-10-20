@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-20T11:20:02+00:00",
+  "generated": "2026-10-20T12:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.6,
-    "feels": 11.5,
-    "code": 1,
-    "wind": 10.1,
-    "humidity": 67,
+    "temp": 14.2,
+    "feels": 11.9,
+    "code": 3,
+    "wind": 11.9,
+    "humidity": 66,
     "is_day": true,
-    "tmax": 14.1,
+    "tmax": 14.3,
     "tmin": 6.2,
     "forecast": [
       {
         "date": "2026-10-20",
-        "max": 14.1,
+        "max": 14.3,
         "min": 6.2,
         "code": 3
       },
       {
         "date": "2026-10-21",
-        "max": 20.5,
-        "min": 11.9,
+        "max": 20.6,
+        "min": 10.9,
         "code": 3
       },
       {
         "date": "2026-10-22",
-        "max": 16.6,
-        "min": 6.4,
+        "max": 16.3,
+        "min": 6.5,
         "code": 63
       }
     ],
-    "observed": "2026-10-20T13:15",
+    "observed": "2026-10-20T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81442,
-        "pln": 317726,
-        "chg24": -0.9
+        "usd": 81402,
+        "pln": 317553,
+        "chg24": -1.34
       },
       {
         "sym": "ETH",
-        "usd": 2382.41,
-        "pln": 9294.44,
-        "chg24": -1.37
+        "usd": 2386.83,
+        "pln": 9311.14,
+        "chg24": -1.45
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.33,
-        "chg": 0.62,
-        "as_of": "20.10 11:09"
+        "value": 57.03,
+        "chg": 0.1,
+        "as_of": "20.10 12:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.576,
-        "chg": 0.58,
-        "as_of": "20.10 11:09"
+        "value": 6.5665,
+        "chg": 0.44,
+        "as_of": "20.10 12:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.393,
-        "chg": -2.46,
-        "as_of": "20.10 10:52"
+        "value": 1.3977,
+        "chg": -2.13,
+        "as_of": "20.10 11:50"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 11:09",
+    "updated": "20.10 12:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "Ogólnopolski Tydzień Kariery: młodzież z Wodzisławia ma okazję zapoznać się z różnymi profesjami [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/ogolnopolski-tydzien-kariery-mlodziez-z-wodzislawia-ma-okazje-zapoznac-sie-z-roznymi-profesjami-zdjecia.html",
+        "date": "Tue, 20 Oct 2026 11:40:14 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Podpisano umowę na południowy odcinek trasy rowerowej VeloBiała",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/podpisano-umowe-na-poludniowy-odcinek-trasy-rowerowej-velobiala/101704/",
+        "date": "Tue, 20 Oct 2026 11:22:16 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Zderzenie w Radoszowach. Kraksa osobówek na Raciborskiej, są utrudnienia, ruch jest wahadłowy [ZDJĘCIA]",
         "url": "https://www.radio90.pl/zderzenie-w-radoszowach-kraksa-osobowek-na-raciborskiej-sa-utrudnienia-ruch-jest-wahadlowy-zdjecia.html",
         "date": "Tue, 20 Oct 2026 11:15:59 +0000",
@@ -187,21 +199,14 @@
         "url": "https://www.radiobielsko.pl/powiat-cieszynski/pani-aniela-skonczyla-103-lata/101698/",
         "date": "Tue, 20 Oct 2026 10:39:02 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "LPR w Chwałowicach. Co tam się stało? [WIDEO]",
-        "url": "https://www.radio90.pl/lpr-w-chwalowicach-co-tam-sie-stalo-wideo.html",
-        "date": "Tue, 20 Oct 2026 09:42:29 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dwóch mężczyzn zatrzymanych za uszkodzenie samochodu i drzwi mieszkania",
-        "url": "https://www.radiobielsko.pl/powiat-wadowicki/dwoch-mezczyzn-zatrzymanych-za-uszkodzenie-samochodu-i-drzwi-mieszkania/101694/",
-        "date": "Tue, 20 Oct 2026 10:20:26 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "[FOTO] Groźnie wyglądające zderzenie trzech samochodów w Straconce. Jedna osoba ranna",
+        "url": "/informacje/21013-foto-groznie-wygladajace-zderzenie-trzech-samochodow-w-straconce-jedna-osoba-ranna",
+        "date": ""
+      },
       {
         "title": "Zmiana pogody na Podbeskidziu. Najpierw ponad 20 stopni, potem deszcz i ochłodzenie",
         "url": "/informacje/21012-zmiana-pogody-na-podbeskidziu-najpierw-ponad-20-stopni-potem-deszcz-i-ochlodzenie",
@@ -210,11 +215,6 @@
       {
         "title": "Darmowa komunikacja miejska na Wszystkich Świętych. Uruchomią specjalne linie",
         "url": "/informacje/21010-darmowa-komunikacja-miejska-na-wszystkich-swietych-uruchomia-specjalne-linie",
-        "date": ""
-      },
-      {
-        "title": "Gorący tematPonad 2 promile alkoholu i 10-letnia wnuczka w aucie. 59-latek rozbił się na Krakowskiej",
-        "url": "/informacje/21006-ponad-2-promile-alkoholu-i-10-letnia-wnuczka-w-aucie-59-latek-rozbil-sie-na-krakowskiej",
         "date": ""
       },
       {
