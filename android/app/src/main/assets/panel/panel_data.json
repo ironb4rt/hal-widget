@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-20T20:20:05+00:00",
+  "generated": "2026-10-20T21:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.5,
-    "feels": 9.2,
+    "temp": 11.1,
+    "feels": 9.1,
     "code": 2,
-    "wind": 4.0,
-    "humidity": 79,
+    "wind": 6.5,
+    "humidity": 68,
     "is_day": false,
-    "tmax": 13.9,
+    "tmax": 14.0,
     "tmin": 6.2,
     "forecast": [
       {
         "date": "2026-10-20",
-        "max": 13.9,
+        "max": 14.0,
         "min": 6.2,
         "code": 3
       },
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-22",
         "max": 16.6,
-        "min": 7.7,
-        "code": 63
+        "min": 7.8,
+        "code": 65
       }
     ],
-    "observed": "2026-10-20T22:15",
+    "observed": "2026-10-20T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82534,
-        "pln": 320760,
-        "chg24": 0.69
+        "usd": 82905,
+        "pln": 322246,
+        "chg24": 1.1
       },
       {
         "sym": "ETH",
-        "usd": 2435.67,
-        "pln": 9466.02,
-        "chg24": 1.49
+        "usd": 2453.61,
+        "pln": 9536.98,
+        "chg24": 2.13
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.995,
-        "chg": 1.79,
-        "as_of": "20.10 20:09"
+        "value": 58.14,
+        "chg": 2.05,
+        "as_of": "20.10 20:59"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.615,
-        "chg": 1.18,
-        "as_of": "20.10 20:10"
+        "value": 6.616,
+        "chg": 1.19,
+        "as_of": "20.10 20:59"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 20:10",
+    "updated": "20.10 20:59",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Mining industry entering largest investment supercycle in history, Canada’s energy minister says",
+        "url": "https://www.mining.com/mining-industry-entering-largest-investment-supercycle-in-history-canadas-energy-minister-says/",
+        "date": "Tue, 20 Oct 2026 20:58:56 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Cornish Metals faces costly financing hurdle",
         "url": "https://www.mining.com/cornish-metals-faces-costly-financing-hurdle/",
@@ -143,15 +149,15 @@
         "url": "https://www.mining.com/westwin-elements-traxys-eye-3-9-billion-22-year-nickel-offtake-extension/",
         "date": "Mon, 19 Oct 2026 23:38:46 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Study nearly doubles value, lifts resource for Aclara’s Penco rare earths project",
-        "url": "https://www.mining.com/study-nearly-doubles-value-lifts-resource-for-aclaras-penco-rare-earths-project/",
-        "date": "Mon, 19 Oct 2026 21:45:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Jest diagnoza. Gwiazda wypadnie z gry na długie miesiące",
+        "url": "https://www.radiobielsko.pl/sport/jest-diagnoza-gwiazda-wypadnie-z-gry-na-dlugie-miesiace/101749/",
+        "date": "Tue, 20 Oct 2026 20:43:39 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Syn ukradł auto swojemu ojcu. 44-latka, który przywłaszczył sobie Skodę, zatrzymali policjanci z Żor",
         "url": "https://www.radio90.pl/syn-ukradl-auto-swojemu-ojcu-44-latka-ktory-przywlaszczyl-sobie-skode-zatrzymali-policjanci-z-zor.html",
@@ -159,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Chcą się odkorkować. Wśród propozycji poszerzenie S1 i nowa droga w kierunku Korbielowa",
-        "url": "https://www.radiobielsko.pl/zywiec/chca-sie-odkorkowac-wsrod-propozycji-poszerzenie-s1-i-nowa-droga-w-kierunku-korbielowa/101726/",
-        "date": "Tue, 20 Oct 2026 17:54:23 +0000",
+        "title": "Pałacyk lśni jak kiedyś. Renowacja za ponad 6 milionów",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/palacyk-lsni-jak-kiedys-renowacja-za-ponad-6-milionow/101736/",
+        "date": "Tue, 20 Oct 2026 20:29:12 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Chińska szajka wpadła w Żywcu. Dwóch oszustów zdążyło uciec",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/108-przestepstw-i-ponad-75-tysiecy-zlotych-chinczyk-zatrzymany-w-zywcu/101721/",
-        "date": "Tue, 20 Oct 2026 13:43:33 +0000",
+        "title": "Chcą się odkorkować. Wśród propozycji poszerzenie S1 i nowa droga w kierunku Korbielowa",
+        "url": "https://www.radiobielsko.pl/zywiec/chca-sie-odkorkowac-wsrod-propozycji-poszerzenie-s1-i-nowa-droga-w-kierunku-korbielowa/101726/",
+        "date": "Tue, 20 Oct 2026 17:54:23 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Mieszkańcy chcą nowego PSZOK-u, ale nie pod swoimi oknami",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/mieszkancy-chca-nowego-pszok-u-ale-nie-pod-swoimi-oknami/101708/",
-        "date": "Tue, 20 Oct 2026 13:10:25 +0000",
+        "title": "Chińska szajka wpadła w Żywcu. Dwóch oszustów zdążyło uciec",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/108-przestepstw-i-ponad-75-tysiecy-zlotych-chinczyk-zatrzymany-w-zywcu/101721/",
+        "date": "Tue, 20 Oct 2026 13:43:33 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -193,12 +199,6 @@
         "url": "https://www.radio90.pl/powstanie-nowa-remiza-dla-osp-zory-to-decyzja-mieszkancow-w-ramach-zorskiego-budzetu-obywatelskiego.html",
         "date": "Tue, 20 Oct 2026 15:35:36 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Podpisano umowę na południowy odcinek trasy rowerowej VeloBiała",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/podpisano-umowe-na-poludniowy-odcinek-trasy-rowerowej-velobiala/101704/",
-        "date": "Tue, 20 Oct 2026 11:22:16 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
