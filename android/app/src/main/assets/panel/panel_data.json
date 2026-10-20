@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-20T22:20:06+00:00",
+  "generated": "2026-10-20T23:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.5,
-    "feels": 8.8,
+    "temp": 12.3,
+    "feels": 8.0,
     "code": 3,
-    "wind": 10.8,
-    "humidity": 65,
+    "wind": 20.5,
+    "humidity": 59,
     "is_day": false,
     "tmax": 21.4,
     "tmin": 11.3,
@@ -31,7 +31,7 @@
         "code": 45
       }
     ],
-    "observed": "2026-10-21T00:15",
+    "observed": "2026-10-21T01:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 83048,
-        "pln": 323001,
-        "chg24": 1.06
+        "usd": 82888,
+        "pln": 322455,
+        "chg24": 1.19
       },
       {
         "sym": "ETH",
-        "usd": 2460.89,
-        "pln": 9571.16,
-        "chg24": 1.94
+        "usd": 2446.89,
+        "pln": 9519.02,
+        "chg24": 1.8
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 58.125,
-        "chg": 2.02,
-        "as_of": "20.10 22:09"
+        "value": 58.06,
+        "chg": 1.91,
+        "as_of": "20.10 23:08"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.618,
-        "chg": 1.22,
-        "as_of": "20.10 22:09"
+        "value": 6.6135,
+        "chg": 1.15,
+        "as_of": "20.10 23:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 22:09",
+    "updated": "20.10 23:09",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Mauritania’s first uranium mine comes into view despite funding, security issues",
+        "url": "https://www.mining.com/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/",
+        "date": "Tue, 20 Oct 2026 22:20:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Mining industry entering largest investment supercycle in history, Canada’s energy minister says",
         "url": "https://www.mining.com/mining-industry-entering-largest-investment-supercycle-in-history-canadas-energy-minister-says/",
@@ -142,12 +148,6 @@
         "title": "Anglo American weathers Chile’s storms while De Beers struggles",
         "url": "https://www.mining.com/anglo-american-weathers-chiles-storms-while-de-beers-struggles/",
         "date": "Tue, 20 Oct 2026 10:51:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Westwin Elements, Traxys eye $3.9 billion, 22 year nickel offtake extension",
-        "url": "https://www.mining.com/westwin-elements-traxys-eye-3-9-billion-22-year-nickel-offtake-extension/",
-        "date": "Mon, 19 Oct 2026 23:38:46 +0000",
         "src": "Mining.com"
       }
     ],
