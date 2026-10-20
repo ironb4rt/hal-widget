@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-20T09:20:16+00:00",
+  "generated": "2026-10-20T10:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.8,
-    "feels": 9.9,
+    "temp": 13.0,
+    "feels": 11.2,
     "code": 0,
     "wind": 4.0,
-    "humidity": 62,
+    "humidity": 59,
     "is_day": true,
     "tmax": 14.1,
     "tmin": 6.2,
@@ -31,7 +31,7 @@
         "code": 63
       }
     ],
-    "observed": "2026-10-20T11:15",
+    "observed": "2026-10-20T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81429,
-        "pln": 317791,
-        "chg24": -1.68
+        "usd": 81506,
+        "pln": 317694,
+        "chg24": -1.28
       },
       {
         "sym": "ETH",
-        "usd": 2381.5,
-        "pln": 9294.23,
-        "chg24": -2.3
+        "usd": 2385.51,
+        "pln": 9298.26,
+        "chg24": -1.85
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.345,
-        "chg": 0.65,
-        "as_of": "20.10 09:10"
+        "value": 57.21,
+        "chg": 0.41,
+        "as_of": "20.10 10:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.581,
-        "chg": 0.66,
-        "as_of": "20.10 09:10"
+        "value": 6.576,
+        "chg": 0.58,
+        "as_of": "20.10 10:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4007,
-        "chg": -1.92,
-        "as_of": "20.10 08:19"
+        "value": 1.3933,
+        "chg": -2.44,
+        "as_of": "20.10 10:05"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 09:10",
+    "updated": "20.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,27 @@
     ],
     "local": [
       {
+        "title": "Dokładnie rok temu debiutował! Teraz wraca do miejsca, w którym wszystko się zaczęło",
+        "url": "https://www.radiobielsko.pl/sport/dokladnie-rok-temu-debiutowal-teraz-wraca-do-miejsca-w-ktorym-wszystko-sie-zaczelo/101688/",
+        "date": "Tue, 20 Oct 2026 10:09:43 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Czego życzą sobie seniorzy? Zdrowia i łatwiejszego dostępu do lekarza [SONDA]",
+        "url": "https://www.radio90.pl/czego-zycza-sobie-seniorzy-zdrowia-i-latwiejszego-dostepu-do-lekarza-sonda.html",
+        "date": "Tue, 20 Oct 2026 10:05:26 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Zderzenie trzech samochodów na ul. Górskiej. Utrudnienia w ruchu",
         "url": "https://www.radiobielsko.pl/bielsko-biala/zderzenie-trzech-samochodow-na-ul-gorskiej-utrudnienia-w-ruchu/101689/",
         "date": "Tue, 20 Oct 2026 09:10:59 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Pożar w Jastrzębiu-Zdroju. Płonęła altana przy ul. Pszczyńskiej. Ogień spowodował duże straty",
-        "url": "https://www.radio90.pl/pozar-w-jastrzebiu-zdroju-plonela-altana-przy-ul-pszczynskiej-ogien-spowodowal-duze-straty.html",
-        "date": "Tue, 20 Oct 2026 08:30:16 +0000",
+        "title": "LPR w Chwałowicach. Co tam się stało? [WIDEO]",
+        "url": "https://www.radio90.pl/lpr-w-chwalowicach-co-tam-sie-stalo-wideo.html",
+        "date": "Tue, 20 Oct 2026 09:42:29 +0000",
         "src": "Radio90"
       },
       {
@@ -171,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Zamknięta droga w Bargłówce. Doszło do awarii przepustu. Zarząd Dróg Wojewódzkich wyznaczył objazd",
-        "url": "https://www.radio90.pl/zamknieta-droga-w-barglowce-doszlo-do-awarii-przepustu-zarzad-drog-wojewodzkich-wyznaczyl-objazd.html",
-        "date": "Tue, 20 Oct 2026 07:40:36 +0000",
+        "title": "Europejski Dzień Seniora: w OSP w Marklowicach odbędzie się dziś spotkanie z pszczelarzem",
+        "url": "https://www.radio90.pl/europejski-dzien-seniora.html",
+        "date": "Tue, 20 Oct 2026 09:20:21 +0000",
         "src": "Radio90"
       },
       {
@@ -183,21 +195,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Ruch wahadłowy w Połomi. Na ulicy Wolności rozbudowują drogę, powstaje chodnik",
-        "url": "https://www.radio90.pl/ruch-wahadlowy-w-polomi-na-ulicy-wolnosci-rozbudowuja-droge-powstaje-chodnik.html",
-        "date": "Tue, 20 Oct 2026 06:50:11 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Na tym stadionie rozstrzygną się losy Pucharu Polski",
-        "url": "https://www.radiobielsko.pl/sport/na-tym-stadionie-rozstrzygna-sie-losy-pucharu-polski/101675/",
-        "date": "Tue, 20 Oct 2026 07:57:53 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Wypadek w Piasku. Policja szuka świadków",
-        "url": "https://www.radio90.pl/wypadek-w-piasku-policja-szuka-swiadkow.html",
-        "date": "Tue, 20 Oct 2026 06:01:53 +0000",
+        "title": "Pożar w Jastrzębiu-Zdroju. Płonęła altana przy ul. Pszczyńskiej. Ogień spowodował duże straty",
+        "url": "https://www.radio90.pl/pozar-w-jastrzebiu-zdroju-plonela-altana-przy-ul-pszczynskiej-ogien-spowodowal-duze-straty.html",
+        "date": "Tue, 20 Oct 2026 08:30:16 +0000",
         "src": "Radio90"
       }
     ],
@@ -213,6 +213,11 @@
         "date": ""
       },
       {
+        "title": "Gorący tematPonad 2 promile alkoholu i 10-letnia wnuczka w aucie. 59-latek rozbił się na Krakowskiej",
+        "url": "/informacje/21006-ponad-2-promile-alkoholu-i-10-letnia-wnuczka-w-aucie-59-latek-rozbil-sie-na-krakowskiej",
+        "date": ""
+      },
+      {
         "title": "Utrudnienia na skrzyżowaniu Grażyńskiego i Mazańcowickiej",
         "url": "/informacje/21005-utrudnienia-na-skrzyzowaniu-grazynskiego-i-mazancowickiej",
         "date": ""
@@ -225,11 +230,6 @@
       {
         "title": "[FOTO] Groźnie wyglądające zdarzenie w Wilamowicach. Samochód leżał na boku, dwie osoby trafiły do szpitala",
         "url": "/informacje/21004-foto-groznie-wygladajace-zdarzenie-w-wilamowicach-samochod-lezal-na-boku-dwie-osoby-trafily-do-szpitala",
-        "date": ""
-      },
-      {
-        "title": "Rowerzyści zyskają bezpieczniejszy przejazd. Zmiany na Rondzie Solidarności i ul. Sarni Stok",
-        "url": "/informacje/21003-rowerzysci-zyskaja-bezpieczniejszy-przejazd-zmiany-na-rondzie-solidarnosci-i-ul-sarni-stok",
         "date": ""
       }
     ],
