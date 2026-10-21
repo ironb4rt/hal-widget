@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-21T17:20:12+00:00",
+  "generated": "2026-10-21T18:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 17.2,
-    "feels": 15.0,
+    "temp": 16.6,
+    "feels": 13.9,
     "code": 3,
-    "wind": 7.6,
+    "wind": 10.1,
     "humidity": 46,
     "is_day": false,
     "tmax": 21.3,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-22",
-        "max": 15.6,
-        "min": 8.3,
-        "code": 63
+        "max": 15.7,
+        "min": 8.5,
+        "code": 65
       },
       {
         "date": "2026-10-23",
-        "max": 14.6,
+        "max": 14.8,
         "min": 6.5,
         "code": 3
       }
     ],
-    "observed": "2026-10-21T19:15",
+    "observed": "2026-10-21T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 84396,
-        "pln": 327230,
-        "chg24": 2.06
+        "usd": 84668,
+        "pln": 328220,
+        "chg24": 2.54
       },
       {
         "sym": "ETH",
-        "usd": 2507.06,
-        "pln": 9720.66,
-        "chg24": 2.44
+        "usd": 2516.41,
+        "pln": 9755.01,
+        "chg24": 3.0
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.705,
-        "chg": -0.0,
-        "as_of": "21.10 17:10"
+        "value": 57.885,
+        "chg": 0.31,
+        "as_of": "21.10 18:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.581,
-        "chg": 0.22,
-        "as_of": "21.10 17:10"
+        "value": 6.5875,
+        "chg": 0.32,
+        "as_of": "21.10 18:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 17:10",
+    "updated": "21.10 18:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready",
+        "url": "https://www.mining.com/mining-forum-video-stoferle-spots-gold-bargains-but-keeps-cash-ready/",
+        "date": "Wed, 21 Oct 2026 17:48:47 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Brazil court halts Belo Sun’s $300M gold project",
+        "url": "https://www.mining.com/brazil-court-halts-belo-suns-300m-gold-project/",
+        "date": "Wed, 21 Oct 2026 17:47:14 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "US moves to unlock deep-sea minerals near American Samoa with massive auction",
         "url": "https://www.mining.com/us-moves-to-unlock-deep-sea-minerals-near-american-samoa-with-massive-auction/",
@@ -137,21 +149,21 @@
         "url": "https://www.mining.com/first-quantums-kansanshi-expansion-beats-design-capacity/",
         "date": "Wed, 21 Oct 2026 10:50:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Vulcan Elements teams up with North Carolina researchers to advance rare earth magnets tech",
-        "url": "https://www.mining.com/vulcan-elements-teams-up-with-north-carolina-researchers-to-advance-rare-earth-magnets-tech/",
-        "date": "Tue, 20 Oct 2026 23:45:22 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Mauritania’s first uranium mine comes into view despite funding, security issues",
-        "url": "https://www.mining.com/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/",
-        "date": "Tue, 20 Oct 2026 22:20:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Bezkonkurencyjny lider! Oto najmłodsze drużyny V Ligi",
+        "url": "https://www.radiobielsko.pl/sport/bezkonkurencyjny-lider-oto-najmlodsze-druzyny-v-ligi/101869/",
+        "date": "Wed, 21 Oct 2026 17:58:31 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Pomnik przyrody w Pstrążnej otrzyma imię. Jak będzie się nazywał? Zdecyduje internetowe głosowanie",
+        "url": "https://www.radio90.pl/pomnik-przyrody-w-pstraznej-otrzyma-imie-jak-bedzie-sie-nazywal-zdecyduje-internetowe-glosowanie.html",
+        "date": "Wed, 21 Oct 2026 17:40:31 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Pożar przy Słowackiego w Bielsku-Białej. Strażacy walczą z ogniem",
         "url": "https://www.radiobielsko.pl/bielsko-biala/pozar-przy-slowackiego-w-bielsku-bialej-strazacy-walcza-z-ogniem/101893/",
@@ -187,21 +199,14 @@
         "url": "https://www.radio90.pl/galeria-rzeczna-chwali-sie-najnowsza-wystawa-dobra-frekwencja.html",
         "date": "Wed, 21 Oct 2026 15:30:31 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Wyszedł z domu i przepadł bez śladu. Trwają poszukiwania 66-latka",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/wyszedl-z-domu-w-poludnie-i-przepadl-bez-sladu-trwaja-poszukiwania-66-latka/101876/",
-        "date": "Wed, 21 Oct 2026 16:13:01 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Odblaskowa szkoła jest w Kamieniu",
-        "url": "https://www.radio90.pl/odblaskowa-szkola-jest-w-kamieniu.html",
-        "date": "Wed, 21 Oct 2026 14:35:17 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "Gorący temat[FOTO] Straconka: drogowa demolka za sprawą dziecka z karabinem?",
+        "url": "/informacje/21013-foto-straconka-drogowa-demolka-za-sprawa-dziecka-z-karabinem",
+        "date": ""
+      },
       {
         "title": "Ponad 21 mln zł na trasę VeloBiała. Przebudują skrzyżowania i drogi w Bielsku-Białej",
         "url": "/informacje/21015-ponad-21-mln-zl-na-trase-velobiala-przebuduja-skrzyzowania-i-drogi-w-bielsku-bialej",
@@ -225,11 +230,6 @@
       {
         "title": "Utrudnienia na skrzyżowaniu Grażyńskiego i Mazańcowickiej",
         "url": "/informacje/21005-utrudnienia-na-skrzyzowaniu-grazynskiego-i-mazancowickiej",
-        "date": ""
-      },
-      {
-        "title": "GEELY w Pszczynie. Światowa marka z lokalnym adresem",
-        "url": "/informacje/21000-geely-w-pszczynie-swiatowa-marka-z-lokalnym-adresem",
         "date": ""
       }
     ],
