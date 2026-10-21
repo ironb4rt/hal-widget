@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-21T18:20:12+00:00",
+  "generated": "2026-10-21T19:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 16.6,
-    "feels": 13.9,
+    "temp": 16.3,
+    "feels": 12.7,
     "code": 3,
-    "wind": 10.1,
-    "humidity": 46,
+    "wind": 15.1,
+    "humidity": 45,
     "is_day": false,
     "tmax": 21.3,
     "tmin": 11.4,
@@ -21,7 +21,7 @@
       {
         "date": "2026-10-22",
         "max": 15.7,
-        "min": 8.5,
+        "min": 8.4,
         "code": 65
       },
       {
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-21T20:15",
+    "observed": "2026-10-21T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 84668,
-        "pln": 328220,
-        "chg24": 2.54
+        "usd": 84364,
+        "pln": 327623,
+        "chg24": 2.32
       },
       {
         "sym": "ETH",
-        "usd": 2516.41,
-        "pln": 9755.01,
-        "chg24": 3.0
+        "usd": 2494.75,
+        "pln": 9688.28,
+        "chg24": 2.58
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.885,
-        "chg": 0.31,
-        "as_of": "21.10 18:10"
+        "value": 57.325,
+        "chg": -0.66,
+        "as_of": "21.10 19:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5875,
-        "chg": 0.32,
-        "as_of": "21.10 18:09"
+        "value": 6.5515,
+        "chg": -0.23,
+        "as_of": "21.10 19:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 18:10",
+    "updated": "21.10 19:10",
     "stale": false
   },
   "fx": {
@@ -133,7 +133,13 @@
         "src": "Mining.com"
       },
       {
-        "title": "Fortescue fires top executive after sexual harassment probe",
+        "title": "Hudbay, Mitsubishi approve Copper World construction",
+        "url": "https://www.mining.com/hudbay-mitsubishi-approve-copper-world-construction/",
+        "date": "Wed, 21 Oct 2026 14:23:33 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Fortescue fires executive after sexual harassment probe",
         "url": "https://www.mining.com/fortescue-fires-top-executive-after-sexual-harassment-probe/",
         "date": "Wed, 21 Oct 2026 11:54:00 +0000",
         "src": "Mining.com"
@@ -143,15 +149,15 @@
         "url": "https://www.mining.com/chiles-rare-earth-ambitions-hit-refining-bottleneck/",
         "date": "Wed, 21 Oct 2026 11:23:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "First Quantum’s Kansanshi expansion beats design capacity",
-        "url": "https://www.mining.com/first-quantums-kansanshi-expansion-beats-design-capacity/",
-        "date": "Wed, 21 Oct 2026 10:50:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Dzień Bezpieczeństwa w Jastrzębiu. Odbędzie się w Wyższej Szkole Bezpieczeństwa. Będą strażacy, policjanci",
+        "url": "https://www.radio90.pl/dzien-bezpieczenstwa-w-jastrzebiu-odbedzie-sie-w-wyzszej-szkole-bezpieczenstwa-beda-strazacy-policjanci.html",
+        "date": "Wed, 21 Oct 2026 18:25:03 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Bezkonkurencyjny lider! Oto najmłodsze drużyny V Ligi",
         "url": "https://www.radiobielsko.pl/sport/bezkonkurencyjny-lider-oto-najmlodsze-druzyny-v-ligi/101869/",
@@ -193,18 +199,12 @@
         "url": "https://www.radiobielsko.pl/zywiec/101755/101755/",
         "date": "Wed, 21 Oct 2026 16:21:41 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Galeria Rzeczna chwali się najnowszą wystawą. „Dobra frekwencja”",
-        "url": "https://www.radio90.pl/galeria-rzeczna-chwali-sie-najnowsza-wystawa-dobra-frekwencja.html",
-        "date": "Wed, 21 Oct 2026 15:30:31 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
       {
-        "title": "Gorący temat[FOTO] Straconka: drogowa demolka za sprawą dziecka z karabinem?",
-        "url": "/informacje/21013-foto-straconka-drogowa-demolka-za-sprawa-dziecka-z-karabinem",
+        "title": "[FOTO] Pożar mieszkania przy Słowackiego. Trwa ewakuacja budynku",
+        "url": "/informacje/21019-foto-pozar-mieszkania-przy-slowackiego-trwa-ewakuacja-budynku",
         "date": ""
       },
       {
