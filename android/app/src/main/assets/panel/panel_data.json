@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-20T23:20:07+00:00",
+  "generated": "2026-10-21T00:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.3,
-    "feels": 8.0,
+    "temp": 12.6,
+    "feels": 8.8,
     "code": 3,
-    "wind": 20.5,
-    "humidity": 59,
+    "wind": 17.3,
+    "humidity": 57,
     "is_day": false,
-    "tmax": 21.4,
-    "tmin": 11.3,
+    "tmax": 21.0,
+    "tmin": 11.4,
     "forecast": [
       {
         "date": "2026-10-21",
-        "max": 21.4,
-        "min": 11.3,
+        "max": 21.0,
+        "min": 11.4,
         "code": 3
       },
       {
         "date": "2026-10-22",
-        "max": 16.6,
-        "min": 7.8,
-        "code": 65
+        "max": 16.8,
+        "min": 8.0,
+        "code": 63
       },
       {
         "date": "2026-10-23",
         "max": 13.3,
-        "min": 3.2,
-        "code": 45
+        "min": 5.3,
+        "code": 3
       }
     ],
-    "observed": "2026-10-21T01:15",
+    "observed": "2026-10-21T02:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82888,
-        "pln": 322455,
-        "chg24": 1.19
+        "usd": 83048,
+        "pln": 323008,
+        "chg24": 1.83
       },
       {
         "sym": "ETH",
-        "usd": 2446.89,
-        "pln": 9519.02,
-        "chg24": 1.8
+        "usd": 2451.29,
+        "pln": 9534.14,
+        "chg24": 2.42
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 58.06,
-        "chg": 1.91,
-        "as_of": "20.10 23:08"
+        "value": 58.0,
+        "chg": 1.8,
+        "as_of": "21.10 00:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6135,
-        "chg": 1.15,
-        "as_of": "20.10 23:09"
+        "value": 6.6175,
+        "chg": 1.22,
+        "as_of": "21.10 00:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4089,
-        "chg": -1.35,
-        "as_of": "20.10 18:12"
+        "value": 1.4074,
+        "chg": -1.45,
+        "as_of": "21.10 00:05"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "20.10 23:09",
+    "updated": "21.10 00:09",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Vulcan Elements teams up with North Carolina researchers to advance rare earth magnets tech",
+        "url": "https://www.mining.com/vulcan-elements-teams-up-with-north-carolina-researchers-to-advance-rare-earth-magnets-tech/",
+        "date": "Tue, 20 Oct 2026 23:45:22 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Mauritania’s first uranium mine comes into view despite funding, security issues",
         "url": "https://www.mining.com/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/",
@@ -142,12 +148,6 @@
         "title": "Copper surplus masks looming $332B mine shortfall",
         "url": "https://www.mining.com/copper-surplus-masks-looming-332b-mine-shortfall/",
         "date": "Tue, 20 Oct 2026 13:09:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Anglo American weathers Chile’s storms while De Beers struggles",
-        "url": "https://www.mining.com/anglo-american-weathers-chiles-storms-while-de-beers-struggles/",
-        "date": "Tue, 20 Oct 2026 10:51:00 +0000",
         "src": "Mining.com"
       }
     ],
