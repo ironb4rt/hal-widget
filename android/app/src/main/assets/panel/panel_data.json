@@ -1,27 +1,27 @@
 {
-  "generated": "2026-10-21T10:20:09+00:00",
+  "generated": "2026-10-21T11:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 19.2,
-    "feels": 15.6,
+    "temp": 20.6,
+    "feels": 16.4,
     "code": 3,
-    "wind": 18.4,
-    "humidity": 42,
+    "wind": 22.3,
+    "humidity": 39,
     "is_day": true,
-    "tmax": 21.1,
+    "tmax": 21.0,
     "tmin": 11.4,
     "forecast": [
       {
         "date": "2026-10-21",
-        "max": 21.1,
+        "max": 21.0,
         "min": 11.4,
         "code": 3
       },
       {
         "date": "2026-10-22",
         "max": 15.0,
-        "min": 8.4,
+        "min": 8.5,
         "code": 63
       },
       {
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-21T12:15",
+    "observed": "2026-10-21T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 83190,
-        "pln": 323808,
-        "chg24": 2.04
+        "usd": 83332,
+        "pln": 324017,
+        "chg24": 2.32
       },
       {
         "sym": "ETH",
-        "usd": 2445.17,
-        "pln": 9517.62,
-        "chg24": 2.46
+        "usd": 2461.22,
+        "pln": 9569.84,
+        "chg24": 3.31
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.365,
-        "chg": -0.59,
-        "as_of": "21.10 10:09"
+        "value": 57.7,
+        "chg": -0.01,
+        "as_of": "21.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.535,
-        "chg": -0.48,
-        "as_of": "21.10 10:10"
+        "value": 6.546,
+        "chg": -0.31,
+        "as_of": "21.10 11:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 10:10",
+    "updated": "21.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,27 @@
     ],
     "local": [
       {
-        "title": "Miało być lepiej, a znów jest nerwowo. „Wszyscy mamy do siebie żal”",
-        "url": "https://www.radiobielsko.pl/sport/mialo-byc-lepiej-a-znow-jest-nerwowo-wszyscy-mamy-do-siebie-zal/101822/",
-        "date": "Wed, 21 Oct 2026 09:53:57 +0000",
+        "title": "Pożar w Rudach. Wybuchł w tym samym miejscu, gdzie w 1992 roku doszło do wielkiego pożaru lasu!",
+        "url": "https://www.radio90.pl/pozar-w-rudach-wybuchl-w-tym-samym-miejscu-gdzie-w-1992-roku-doszlo-do-wielkiego-pozaru-lasu.html",
+        "date": "Wed, 21 Oct 2026 11:15:15 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Lekarka Szpitala Śląskiego w gronie międzynarodowych ekspertów",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/lekarka-szpitala-slaskiego-w-gronie-miedzynarodowych-ekspertow/101830/",
+        "date": "Wed, 21 Oct 2026 10:51:15 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "15 lat – inny świat. Koleje Śląskie świętują jubileusz i chwalą się: przewieźliśmy 253 mln pasażerów",
+        "url": "https://www.radio90.pl/15-lat-inny-swiat-koleje-slaskie-swietuja-jubileusz-i-chwala-sie-przewiezlismy-253-mln-pasazerow.html",
+        "date": "Wed, 21 Oct 2026 10:30:11 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Przebudowa Piastowskiej coraz bliżej końca. Pierwsze takie rondo w Bielsku-Białej",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/przebudowa-piastowskiej-coraz-blizej-konca-pierwsze-takie-rondo-w-bielsku-bialej/101838/",
+        "date": "Wed, 21 Oct 2026 10:25:25 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Strażacy czekali na to od lat. Rusza budowa nowej remizy OSP",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/strazacy-czekali-na-to-od-lat-rusza-budowa-nowej-remizy-osp/101820/",
-        "date": "Wed, 21 Oct 2026 09:24:21 +0000",
+        "title": "Miało być lepiej, a znów jest nerwowo. „Wszyscy mamy do siebie żal”",
+        "url": "https://www.radiobielsko.pl/sport/mialo-byc-lepiej-a-znow-jest-nerwowo-wszyscy-mamy-do-siebie-zal/101822/",
+        "date": "Wed, 21 Oct 2026 09:53:57 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,28 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Bumech odpowiada na zarzuty górników Silesii",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/bumech-odpowiada-na-zarzuty-gornikow-silesii/101766/",
-        "date": "Wed, 21 Oct 2026 08:03:53 +0000",
+        "title": "Strażacy czekali na to od lat. Rusza budowa nowej remizy OSP",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/strazacy-czekali-na-to-od-lat-rusza-budowa-nowej-remizy-osp/101820/",
+        "date": "Wed, 21 Oct 2026 09:24:21 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Utrudnienia w Chybiu. Kierowcy weźcie to pod uwagę",
-        "url": "https://www.radio90.pl/utrudnienia-w-chybiu-kierowcy-wezcie-to-pod-uwage.html",
-        "date": "Wed, 21 Oct 2026 08:30:32 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Fatalna diagnoza! Gwiazda wypadnie z gry na długie miesiące",
-        "url": "https://www.radiobielsko.pl/sport/jest-diagnoza-gwiazda-wypadnie-z-gry-na-dlugie-miesiace/101749/",
-        "date": "Wed, 21 Oct 2026 07:53:39 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Jest apel sołtys Bargłówki: patrzcie na znaki, bo miejscowość jest zablokowana przez tiry",
-        "url": "https://www.radio90.pl/jest-apel-soltys-barglowki-patrzcie-na-znaki-bo-miejscowosc-jest-zablokowana-przez-tiry.html",
-        "date": "Wed, 21 Oct 2026 07:50:08 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
