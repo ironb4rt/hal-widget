@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-21T11:20:10+00:00",
+  "generated": "2026-10-21T12:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 20.6,
-    "feels": 16.4,
+    "temp": 21.0,
+    "feels": 17.6,
     "code": 3,
-    "wind": 22.3,
-    "humidity": 39,
+    "wind": 15.8,
+    "humidity": 37,
     "is_day": true,
     "tmax": 21.0,
     "tmin": 11.4,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-22",
-        "max": 15.0,
-        "min": 8.5,
+        "max": 15.8,
+        "min": 7.9,
         "code": 63
       },
       {
         "date": "2026-10-23",
-        "max": 14.5,
-        "min": 6.8,
+        "max": 14.7,
+        "min": 6.5,
         "code": 3
       }
     ],
-    "observed": "2026-10-21T13:15",
+    "observed": "2026-10-21T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 83332,
-        "pln": 324017,
-        "chg24": 2.32
+        "usd": 83446,
+        "pln": 324079,
+        "chg24": 2.46
       },
       {
         "sym": "ETH",
-        "usd": 2461.22,
-        "pln": 9569.84,
-        "chg24": 3.31
+        "usd": 2465.4,
+        "pln": 9574.91,
+        "chg24": 3.24
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.7,
-        "chg": -0.01,
-        "as_of": "21.10 11:10"
+        "value": 57.74,
+        "chg": 0.06,
+        "as_of": "21.10 12:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.546,
-        "chg": -0.31,
-        "as_of": "21.10 11:09"
+        "value": 6.5435,
+        "chg": -0.35,
+        "as_of": "21.10 12:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.41,
-        "chg": -0.02,
-        "as_of": "21.10 08:31"
+        "value": 1.4052,
+        "chg": -0.35,
+        "as_of": "21.10 12:10"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 11:10",
+    "updated": "21.10 12:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "Muzeum w Raciborzu: dlaczego zdemontowano krzyż znajdujący się na jego wieży? [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/muzeum-w-raciborzu-dlaczego-zdemontowano-krzyz-znajdujacy-sie-na-jego-wiezy-zdjecia.html",
+        "date": "Wed, 21 Oct 2026 12:05:54 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Szedł BLIK za BLIK-iem i 60 tys. wyparowało z konta",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/szedl-blik-za-blik-iem-i-60-tys-wyparowalo-z-konta/101835/",
+        "date": "Wed, 21 Oct 2026 11:30:09 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Pożar w Rudach. Wybuchł w tym samym miejscu, gdzie w 1992 roku doszło do wielkiego pożaru lasu!",
         "url": "https://www.radio90.pl/pozar-w-rudach-wybuchl-w-tym-samym-miejscu-gdzie-w-1992-roku-doszlo-do-wielkiego-pozaru-lasu.html",
         "date": "Wed, 21 Oct 2026 11:15:15 +0000",
@@ -171,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Przebudowa Piastowskiej coraz bliżej końca. Pierwsze takie rondo w Bielsku-Białej",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/przebudowa-piastowskiej-coraz-blizej-konca-pierwsze-takie-rondo-w-bielsku-bialej/101838/",
-        "date": "Wed, 21 Oct 2026 10:25:25 +0000",
+        "title": "Miało być lepiej, a znów jest nerwowo. „Wszyscy mamy do siebie żal”",
+        "url": "https://www.radiobielsko.pl/sport/mialo-byc-lepiej-a-znow-jest-nerwowo-wszyscy-mamy-do-siebie-zal/101822/",
+        "date": "Wed, 21 Oct 2026 10:43:57 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,21 +195,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Miało być lepiej, a znów jest nerwowo. „Wszyscy mamy do siebie żal”",
-        "url": "https://www.radiobielsko.pl/sport/mialo-byc-lepiej-a-znow-jest-nerwowo-wszyscy-mamy-do-siebie-zal/101822/",
-        "date": "Wed, 21 Oct 2026 09:53:57 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Śląska policja podaje kolejne statystyki z dróg. Na szczęście nikt nie zginął",
-        "url": "https://www.radio90.pl/slaska-policja-podaje-kolejne-statystyki-z-drog-na-szczescie-nikt-nie-zginal.html",
-        "date": "Wed, 21 Oct 2026 09:00:58 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Strażacy czekali na to od lat. Rusza budowa nowej remizy OSP",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/strazacy-czekali-na-to-od-lat-rusza-budowa-nowej-remizy-osp/101820/",
-        "date": "Wed, 21 Oct 2026 09:24:21 +0000",
+        "title": "Przebudowa Piastowskiej coraz bliżej końca. Pierwsze takie rondo w Bielsku-Białej",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/przebudowa-piastowskiej-coraz-blizej-konca-pierwsze-takie-rondo-w-bielsku-bialej/101838/",
+        "date": "Wed, 21 Oct 2026 10:25:25 +0000",
         "src": "RadioBielsko"
       }
     ],
