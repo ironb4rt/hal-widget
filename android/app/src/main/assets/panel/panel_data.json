@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-21T07:20:08+00:00",
+  "generated": "2026-10-21T08:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.8,
-    "feels": 9.2,
-    "code": 3,
+    "temp": 15.6,
+    "feels": 10.0,
+    "code": 2,
     "wind": 29.5,
-    "humidity": 51,
+    "humidity": 49,
     "is_day": true,
     "tmax": 21.4,
     "tmin": 11.4,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-21T09:15",
+    "observed": "2026-10-21T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82716,
-        "pln": 321929,
-        "chg24": 1.32
+        "usd": 83028,
+        "pln": 322802,
+        "chg24": 2.03
       },
       {
         "sym": "ETH",
-        "usd": 2441.19,
-        "pln": 9501.05,
-        "chg24": 1.97
+        "usd": 2451.56,
+        "pln": 9531.29,
+        "chg24": 2.82
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.355,
-        "chg": -0.61,
-        "as_of": "21.10 07:10"
+        "value": 57.425,
+        "chg": -0.49,
+        "as_of": "21.10 08:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.596,
-        "chg": 0.45,
-        "as_of": "21.10 07:10"
+        "value": 6.554,
+        "chg": -0.19,
+        "as_of": "21.10 08:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 07:10",
+    "updated": "21.10 08:10",
     "stale": false
   },
   "fx": {
@@ -153,21 +153,33 @@
     ],
     "local": [
       {
-        "title": "„Były depresja i operacje”. Menedżer Mai Chwalińskiej ujawnia gorzkie kulisy",
-        "url": "https://www.radiobielsko.pl/sport/byly-depresja-i-operacje-menedzer-mai-chwalinskiej-ujawnia-gorzkie-kulisy/101763/",
-        "date": "Wed, 21 Oct 2026 07:08:01 +0000",
+        "title": "Bumech odpowiada na zarzuty górników Silesii",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/bumech-odpowiada-na-zarzuty-gornikow-silesii/101766/",
+        "date": "Wed, 21 Oct 2026 08:03:53 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Jest apel sołtys Bargłówki: patrzcie na znaki, bo miejscowość jest zablokowana przez tiry",
+        "url": "https://www.radio90.pl/jest-apel-soltys-barglowki-patrzcie-na-znaki-bo-miejscowosc-jest-zablokowana-przez-tiry.html",
+        "date": "Wed, 21 Oct 2026 07:50:08 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "To tam debiutował! Tomasiak wraca do miejsca, gdzie wszystko się zaczęło",
+        "url": "https://www.radiobielsko.pl/sport/dokladnie-rok-temu-debiutowal-teraz-wraca-do-miejsca-w-ktorym-wszystko-sie-zaczelo/101688/",
+        "date": "Wed, 21 Oct 2026 07:09:43 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Jeden niszczył, drugi sprzątał. Monitoring przed Urzędem Miasta w Wodzisławiu zarejestrował takie sceny…[WIDEO]",
         "url": "https://www.radio90.pl/jeden-niszczyl-drugi-sprzatal-monitoring-przed-urzedem-miasta-w-wodzislawiu-zarejestrowal-takie-sceny-wideo.html",
-        "date": "Wed, 21 Oct 2026 07:00:21 +0000",
+        "date": "Wed, 21 Oct 2026 07:20:21 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Firma Roku Podbeskidzia 2026. Poznaliśmy laureatów konkursu",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/firma-roku-podbeskidzia-2026-poznalismy-laureatow-konkursu/101761/",
-        "date": "Wed, 21 Oct 2026 07:06:14 +0000",
+        "title": "„Były depresja i operacje”. Menedżer Mai Chwalińskiej ujawnia gorzkie kulisy",
+        "url": "https://www.radiobielsko.pl/sport/byly-depresja-i-operacje-menedzer-mai-chwalinskiej-ujawnia-gorzkie-kulisy/101763/",
+        "date": "Wed, 21 Oct 2026 07:08:01 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Katarzyna Kawa sprawiła niespodziankę w Chinach! Pokonała faworytkę i zagra o ćwierćfinał",
-        "url": "https://www.radiobielsko.pl/sport/katarzyna-kawa-sprawila-niespodzianke-w-chinach-pokonala-faworytke-i-zagra-o-cwiercfinal/101757/",
-        "date": "Wed, 21 Oct 2026 06:57:32 +0000",
+        "title": "Firma Roku Podbeskidzia 2026. Poznaliśmy laureatów konkursu",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/firma-roku-podbeskidzia-2026-poznalismy-laureatow-konkursu/101761/",
+        "date": "Wed, 21 Oct 2026 07:06:14 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -187,21 +199,14 @@
         "url": "https://www.radio90.pl/policja-z-jastrzebia-chcial-sprzedac-opony-a-zaciagnal-kredyt-na-2400-zlotych.html",
         "date": "Wed, 21 Oct 2026 06:07:39 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Ogień na poddaszu, w środku butla z gazem. Akcja kilku zastępów",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/ogien-na-poddaszu-w-srodku-butla-z-gazem-akcja-kilku-zastepow/101758/",
-        "date": "Wed, 21 Oct 2026 06:45:24 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Brak wody w Żorach. Utrudnienia na trzech ulicach",
-        "url": "https://www.radio90.pl/brak-wody-w-zorach-utrudnienia-na-trzech-ulicach.html",
-        "date": "Wed, 21 Oct 2026 05:11:57 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "Ponad 21 mln zł na trasę VeloBiała. Przebudują skrzyżowania i drogi w Bielsku-Białej",
+        "url": "/informacje/21015-ponad-21-mln-zl-na-trase-velobiala-przebuduja-skrzyzowania-i-drogi-w-bielsku-bialej",
+        "date": ""
+      },
       {
         "title": "[FOTO] Groźnie wyglądające zderzenie trzech samochodów w Straconce. Jedna osoba ranna",
         "url": "/informacje/21013-foto-groznie-wygladajace-zderzenie-trzech-samochodow-w-straconce-jedna-osoba-ranna",
@@ -225,11 +230,6 @@
       {
         "title": "GEELY w Pszczynie. Światowa marka z lokalnym adresem",
         "url": "/informacje/21000-geely-w-pszczynie-swiatowa-marka-z-lokalnym-adresem",
-        "date": ""
-      },
-      {
-        "title": "[FOTO] Groźnie wyglądające zdarzenie w Wilamowicach. Samochód leżał na boku, dwie osoby trafiły do szpitala",
-        "url": "/informacje/21004-foto-groznie-wygladajace-zdarzenie-w-wilamowicach-samochod-lezal-na-boku-dwie-osoby-trafily-do-szpitala",
         "date": ""
       }
     ],
