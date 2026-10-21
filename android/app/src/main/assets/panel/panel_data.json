@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-21T19:20:12+00:00",
+  "generated": "2026-10-21T20:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 16.3,
-    "feels": 12.7,
+    "temp": 16.2,
+    "feels": 12.6,
     "code": 3,
-    "wind": 15.1,
-    "humidity": 45,
+    "wind": 14.8,
+    "humidity": 44,
     "is_day": false,
     "tmax": 21.3,
     "tmin": 11.4,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-21T21:15",
+    "observed": "2026-10-21T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 84364,
-        "pln": 327623,
-        "chg24": 2.32
+        "usd": 84482,
+        "pln": 327580,
+        "chg24": 2.38
       },
       {
         "sym": "ETH",
-        "usd": 2494.75,
-        "pln": 9688.28,
-        "chg24": 2.58
+        "usd": 2491.32,
+        "pln": 9660.13,
+        "chg24": 2.34
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.325,
-        "chg": -0.66,
-        "as_of": "21.10 19:10"
+        "value": 58.04,
+        "chg": 0.58,
+        "as_of": "21.10 20:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5515,
-        "chg": -0.23,
-        "as_of": "21.10 19:10"
+        "value": 6.579,
+        "chg": 0.19,
+        "as_of": "21.10 20:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 19:10",
+    "updated": "21.10 20:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Październik zaskoczył temperaturą. Bielsko-Biała znów najcieplejsza w Polsce!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/pazdziernik-zaskoczyl-temperatura-bielsko-biala-znow-najcieplejsza-w-polsce/101909/",
+        "date": "Wed, 21 Oct 2026 19:25:42 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Dzień Bezpieczeństwa w Jastrzębiu. Odbędzie się w Wyższej Szkole Bezpieczeństwa. Będą strażacy, policjanci",
         "url": "https://www.radio90.pl/dzien-bezpieczenstwa-w-jastrzebiu-odbedzie-sie-w-wyzszej-szkole-bezpieczenstwa-beda-strazacy-policjanci.html",
         "date": "Wed, 21 Oct 2026 18:25:03 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radio90.pl/nowy-mural-w-raciborzu-to-czekoladowa-historia-miasta.html",
         "date": "Wed, 21 Oct 2026 16:25:21 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Jarmark wyjdzie poza Rynek? Miasto szykuje zmiany",
-        "url": "https://www.radiobielsko.pl/zywiec/101755/101755/",
-        "date": "Wed, 21 Oct 2026 16:21:41 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
