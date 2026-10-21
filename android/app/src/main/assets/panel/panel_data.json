@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-21T16:20:11+00:00",
+  "generated": "2026-10-21T17:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 18.5,
-    "feels": 16.2,
+    "temp": 17.2,
+    "feels": 15.0,
     "code": 3,
-    "wind": 9.0,
-    "humidity": 44,
+    "wind": 7.6,
+    "humidity": 46,
     "is_day": false,
     "tmax": 21.3,
     "tmin": 11.4,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-21T18:15",
+    "observed": "2026-10-21T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 84586,
-        "pln": 328488,
-        "chg24": 2.76
+        "usd": 84396,
+        "pln": 327230,
+        "chg24": 2.06
       },
       {
         "sym": "ETH",
-        "usd": 2508.69,
-        "pln": 9742.38,
-        "chg24": 3.18
+        "usd": 2507.06,
+        "pln": 9720.66,
+        "chg24": 2.44
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.6,
-        "chg": -0.18,
-        "as_of": "21.10 16:10"
+        "value": 57.705,
+        "chg": -0.0,
+        "as_of": "21.10 17:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5725,
-        "chg": 0.09,
-        "as_of": "21.10 16:10"
+        "value": 6.581,
+        "chg": 0.22,
+        "as_of": "21.10 17:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 16:10",
+    "updated": "21.10 17:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,24 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "US moves to unlock deep-sea minerals near American Samoa with massive auction",
+        "url": "https://www.mining.com/us-moves-to-unlock-deep-sea-minerals-near-american-samoa-with-massive-auction/",
+        "date": "Wed, 21 Oct 2026 16:39:23 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Spain hunts hidden metals with $223M plan",
+        "url": "https://www.mining.com/spain-hunts-hidden-metals-with-223m-plan/",
+        "date": "Wed, 21 Oct 2026 16:33:15 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Endurance Gold expands zones at Reliance as PEA work ongoing",
+        "url": "https://www.mining.com/endurance-gold-expands-zones-at-reliance-as-pea-work-ongoing/",
+        "date": "Wed, 21 Oct 2026 15:24:29 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Fortescue fires top executive after sexual harassment probe",
         "url": "https://www.mining.com/fortescue-fires-top-executive-after-sexual-harassment-probe/",
@@ -131,31 +149,37 @@
         "url": "https://www.mining.com/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/",
         "date": "Tue, 20 Oct 2026 22:20:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Mining industry entering largest investment supercycle in history, Canada’s energy minister says",
-        "url": "https://www.mining.com/mining-industry-entering-largest-investment-supercycle-in-history-canadas-energy-minister-says/",
-        "date": "Tue, 20 Oct 2026 20:58:56 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Cornish Metals faces costly financing hurdle",
-        "url": "https://www.mining.com/cornish-metals-faces-costly-financing-hurdle/",
-        "date": "Tue, 20 Oct 2026 18:51:13 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Phoenix Tailings to build $375M rare earth plant in New York",
-        "url": "https://www.mining.com/phoenix-tailings-to-build-375m-rare-earth-plant-in-new-york/",
-        "date": "Tue, 20 Oct 2026 16:56:43 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Wyszedł z domu i przepadł bez śladu. Trwają poszukiwania 66-latka",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/wyszedl-z-domu-w-poludnie-i-przepadl-bez-sladu-trwaja-poszukiwania-66-latka/101876/",
-        "date": "Wed, 21 Oct 2026 16:13:01 +0000",
+        "title": "Pożar przy Słowackiego w Bielsku-Białej. Strażacy walczą z ogniem",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/pozar-przy-slowackiego-w-bielsku-bialej-strazacy-walcza-z-ogniem/101893/",
+        "date": "Wed, 21 Oct 2026 17:17:40 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Jutro rusza remont drogi w Krowiarkach. Wójt Pietrowic Wielkich mówi o pilnych pracach, które trzeba tam wykonać",
+        "url": "https://www.radio90.pl/jutro-rusza-remont-drogi-w-krowiarkach-wojt-pietrowic-wielkich-mowi-o-pilnych-pracach-ktore-trzeba-tam-wykonac.html",
+        "date": "Wed, 21 Oct 2026 17:00:50 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dziewiąty Klub Seniora otwarty w Bielsku-Białej. Powstał przy ulicy Solskiego",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/dziewiaty-klub-seniora-otwarty-w-bielsku-bialej-powstal-przy-ulicy-solskiego/101889/",
+        "date": "Wed, 21 Oct 2026 17:10:26 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Nowy mural w Raciborzu. To czekoladowa historia miasta",
+        "url": "https://www.radio90.pl/nowy-mural-w-raciborzu-to-czekoladowa-historia-miasta.html",
+        "date": "Wed, 21 Oct 2026 16:25:21 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Jarmark wyjdzie poza Rynek? Miasto szykuje zmiany",
+        "url": "https://www.radiobielsko.pl/zywiec/101755/101755/",
+        "date": "Wed, 21 Oct 2026 16:21:41 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,39 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Szpitale na skraju finansowej zapaści? Starosta bielski ostrzega, ministerstwo zapowiada reformę",
-        "url": "https://www.radiobielsko.pl/region/szpitale-na-skraju-finansowej-zapasci-starosta-bielski-ostrzega-ministerstwo-zapowiada-reforme/101865/",
-        "date": "Wed, 21 Oct 2026 16:08:20 +0000",
+        "title": "Wyszedł z domu i przepadł bez śladu. Trwają poszukiwania 66-latka",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/wyszedl-z-domu-w-poludnie-i-przepadl-bez-sladu-trwaja-poszukiwania-66-latka/101876/",
+        "date": "Wed, 21 Oct 2026 16:13:01 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Odblaskowa szkoła jest w Kamieniu",
         "url": "https://www.radio90.pl/odblaskowa-szkola-jest-w-kamieniu.html",
         "date": "Wed, 21 Oct 2026 14:35:17 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Czerwone światło przy torach. Policja i dron sprawdzili, kto je zlekceważy",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dron-nad-torami-policjanci-sprawdzali-kierowcow-na-przejazdach-kolejowych-co-wykazala-akcja/101861/",
-        "date": "Wed, 21 Oct 2026 14:34:10 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zielona pracownia w ZSP w Rydułtowach [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/zielona-pracownia-w-zsp-w-rydultowach-zdjecia.html",
-        "date": "Wed, 21 Oct 2026 13:50:48 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Zamiast osiedla szkoła i przedszkole? Mieszkańcy nadal są przeciwni",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/zamiast-osiedla-szkola-i-przedszkole-mieszkancy-nadal-sa-przeciwni/101855/",
-        "date": "Wed, 21 Oct 2026 13:32:08 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Nie udało się odnieść piątej z rzędu wygranej. JKH GKS Jastrzębie przegrywa na wyjeździe z Cracovią",
-        "url": "https://www.radio90.pl/nie-udalo-sie-odniesc-piatej-z-rzedu-wygranej-jkh-gks-jastrzebie-przegrywa-na-wyjezdzie-z-cracovia.html",
-        "date": "Wed, 21 Oct 2026 13:15:04 +0000",
         "src": "Radio90"
       }
     ],
