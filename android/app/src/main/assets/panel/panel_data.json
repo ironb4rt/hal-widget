@@ -1,23 +1,17 @@
 {
-  "generated": "2026-10-21T21:20:13+00:00",
+  "generated": "2026-10-21T22:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 15.8,
-    "feels": 13.3,
+    "temp": 15.7,
+    "feels": 13.8,
     "code": 3,
-    "wind": 7.9,
-    "humidity": 46,
+    "wind": 4.0,
+    "humidity": 48,
     "is_day": false,
-    "tmax": 21.3,
-    "tmin": 11.4,
+    "tmax": 15.7,
+    "tmin": 8.1,
     "forecast": [
-      {
-        "date": "2026-10-21",
-        "max": 21.3,
-        "min": 11.4,
-        "code": 3
-      },
       {
         "date": "2026-10-22",
         "max": 15.7,
@@ -29,9 +23,15 @@
         "max": 14.7,
         "min": 6.4,
         "code": 3
+      },
+      {
+        "date": "2026-10-24",
+        "max": 11.1,
+        "min": 4.8,
+        "code": 51
       }
     ],
-    "observed": "2026-10-21T23:15",
+    "observed": "2026-10-22T00:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 84638,
-        "pln": 328307,
-        "chg24": 2.14
+        "usd": 84563,
+        "pln": 328025,
+        "chg24": 1.86
       },
       {
         "sym": "ETH",
-        "usd": 2492.62,
-        "pln": 9668.75,
-        "chg24": 1.64
+        "usd": 2486.96,
+        "pln": 9647.12,
+        "chg24": 1.08
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 58.115,
-        "chg": 0.71,
-        "as_of": "21.10 20:59"
+        "value": 57.975,
+        "chg": 0.47,
+        "as_of": "21.10 22:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5765,
-        "chg": 0.15,
-        "as_of": "21.10 20:59"
+        "value": 6.569,
+        "chg": 0.04,
+        "as_of": "21.10 22:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 20:59",
+    "updated": "21.10 22:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "US Department of Energy grants $42M for gas pipeline from Pennsylvania to New York",
+        "url": "https://www.mining.com/us-department-of-energy-grants-42m-for-gas-pipeline-from-pennsylvania-to-new-york/",
+        "date": "Wed, 21 Oct 2026 21:27:29 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready",
         "url": "https://www.mining.com/mining-forum-video-stoferle-spots-gold-bargains-but-keeps-cash-ready/",
@@ -142,12 +148,6 @@
         "title": "Fortescue fires executive after sexual harassment probe",
         "url": "https://www.mining.com/fortescue-fires-top-executive-after-sexual-harassment-probe/",
         "date": "Wed, 21 Oct 2026 11:54:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Chile’s rare earth ambitions hit refining bottleneck",
-        "url": "https://www.mining.com/chiles-rare-earth-ambitions-hit-refining-bottleneck/",
-        "date": "Wed, 21 Oct 2026 11:23:00 +0000",
         "src": "Mining.com"
       }
     ],
