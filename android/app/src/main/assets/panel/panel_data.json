@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-21T09:20:09+00:00",
+  "generated": "2026-10-21T10:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 17.2,
-    "feels": 13.3,
+    "temp": 19.2,
+    "feels": 15.6,
     "code": 3,
-    "wind": 19.4,
-    "humidity": 46,
+    "wind": 18.4,
+    "humidity": 42,
     "is_day": true,
-    "tmax": 21.4,
+    "tmax": 21.1,
     "tmin": 11.4,
     "forecast": [
       {
         "date": "2026-10-21",
-        "max": 21.4,
+        "max": 21.1,
         "min": 11.4,
         "code": 3
       },
       {
         "date": "2026-10-22",
-        "max": 15.1,
-        "min": 8.2,
+        "max": 15.0,
+        "min": 8.4,
         "code": 63
       },
       {
         "date": "2026-10-23",
-        "max": 14.2,
-        "min": 6.7,
+        "max": 14.5,
+        "min": 6.8,
         "code": 3
       }
     ],
-    "observed": "2026-10-21T11:15",
+    "observed": "2026-10-21T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 83460,
-        "pln": 324628,
-        "chg24": 2.43
+        "usd": 83190,
+        "pln": 323808,
+        "chg24": 2.04
       },
       {
         "sym": "ETH",
-        "usd": 2460.66,
-        "pln": 9571.0,
-        "chg24": 3.23
+        "usd": 2445.17,
+        "pln": 9517.62,
+        "chg24": 2.46
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.36,
-        "chg": -0.6,
-        "as_of": "21.10 09:09"
+        "value": 57.365,
+        "chg": -0.59,
+        "as_of": "21.10 10:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.543,
-        "chg": -0.36,
-        "as_of": "21.10 09:10"
+        "value": 6.535,
+        "chg": -0.48,
+        "as_of": "21.10 10:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 09:10",
+    "updated": "21.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Miało być lepiej, a znów jest nerwowo. „Wszyscy mamy do siebie żal”",
+        "url": "https://www.radiobielsko.pl/sport/mialo-byc-lepiej-a-znow-jest-nerwowo-wszyscy-mamy-do-siebie-zal/101822/",
+        "date": "Wed, 21 Oct 2026 09:53:57 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Mieszkańcy podzieleni, czy Pietrowice Wielkie będą miastem?",
+        "url": "https://www.radio90.pl/mieszkancy-podzieleni-czy-pietrowice-wielkie-beda-miastem.html",
+        "date": "Wed, 21 Oct 2026 09:31:13 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Strażacy czekali na to od lat. Rusza budowa nowej remizy OSP",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/strazacy-czekali-na-to-od-lat-rusza-budowa-nowej-remizy-osp/101820/",
+        "date": "Wed, 21 Oct 2026 09:24:21 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Śląska policja podaje kolejne statystyki z dróg. Na szczęście nikt nie zginął",
         "url": "https://www.radio90.pl/slaska-policja-podaje-kolejne-statystyki-z-drog-na-szczescie-nikt-nie-zginal.html",
         "date": "Wed, 21 Oct 2026 09:00:58 +0000",
@@ -171,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "To tam debiutował! Tomasiak wraca do miejsca, gdzie wszystko się zaczęło",
-        "url": "https://www.radiobielsko.pl/sport/dokladnie-rok-temu-debiutowal-teraz-wraca-do-miejsca-w-ktorym-wszystko-sie-zaczelo/101688/",
-        "date": "Wed, 21 Oct 2026 07:09:43 +0000",
+        "title": "Fatalna diagnoza! Gwiazda wypadnie z gry na długie miesiące",
+        "url": "https://www.radiobielsko.pl/sport/jest-diagnoza-gwiazda-wypadnie-z-gry-na-dlugie-miesiace/101749/",
+        "date": "Wed, 21 Oct 2026 07:53:39 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/jest-apel-soltys-barglowki-patrzcie-na-znaki-bo-miejscowosc-jest-zablokowana-przez-tiry.html",
         "date": "Wed, 21 Oct 2026 07:50:08 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "„Były depresja i operacje”. Menedżer Mai Chwalińskiej ujawnia gorzkie kulisy",
-        "url": "https://www.radiobielsko.pl/sport/byly-depresja-i-operacje-menedzer-mai-chwalinskiej-ujawnia-gorzkie-kulisy/101763/",
-        "date": "Wed, 21 Oct 2026 07:08:01 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Jeden niszczył, drugi sprzątał. Monitoring przed Urzędem Miasta w Wodzisławiu zarejestrował takie sceny…[WIDEO]",
-        "url": "https://www.radio90.pl/jeden-niszczyl-drugi-sprzatal-monitoring-przed-urzedem-miasta-w-wodzislawiu-zarejestrowal-takie-sceny-wideo.html",
-        "date": "Wed, 21 Oct 2026 07:20:21 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Firma Roku Podbeskidzia 2026. Poznaliśmy laureatów konkursu",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/firma-roku-podbeskidzia-2026-poznalismy-laureatow-konkursu/101761/",
-        "date": "Wed, 21 Oct 2026 07:06:14 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
