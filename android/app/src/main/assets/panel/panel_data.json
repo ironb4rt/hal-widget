@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-21T00:20:06+00:00",
+  "generated": "2026-10-21T01:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 12.6,
-    "feels": 8.8,
+    "feels": 10.3,
     "code": 3,
-    "wind": 17.3,
+    "wind": 6.1,
     "humidity": 57,
     "is_day": false,
     "tmax": 21.0,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-23",
-        "max": 13.3,
-        "min": 5.3,
+        "max": 13.5,
+        "min": 5.2,
         "code": 3
       }
     ],
-    "observed": "2026-10-21T02:15",
+    "observed": "2026-10-21T03:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 83048,
-        "pln": 323008,
-        "chg24": 1.83
+        "usd": 82741,
+        "pln": 321758,
+        "chg24": 1.74
       },
       {
         "sym": "ETH",
-        "usd": 2451.29,
-        "pln": 9534.14,
-        "chg24": 2.42
+        "usd": 2443.32,
+        "pln": 9501.42,
+        "chg24": 2.48
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 58.0,
-        "chg": 1.8,
-        "as_of": "21.10 00:09"
+        "value": 57.635,
+        "chg": 1.16,
+        "as_of": "21.10 01:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6175,
-        "chg": 1.22,
-        "as_of": "21.10 00:09"
+        "value": 6.6075,
+        "chg": 1.06,
+        "as_of": "21.10 01:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4074,
-        "chg": -1.45,
-        "as_of": "21.10 00:05"
+        "value": 1.4078,
+        "chg": -1.42,
+        "as_of": "21.10 01:01"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 00:09",
+    "updated": "21.10 01:10",
     "stale": false
   },
   "fx": {
