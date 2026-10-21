@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-21T06:20:08+00:00",
+  "generated": "2026-10-21T07:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.4,
-    "feels": 9.5,
+    "temp": 14.8,
+    "feels": 9.2,
     "code": 3,
-    "wind": 16.9,
-    "humidity": 54,
+    "wind": 29.5,
+    "humidity": 51,
     "is_day": true,
     "tmax": 21.4,
     "tmin": 11.4,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-23",
         "max": 14.2,
-        "min": 5.9,
+        "min": 6.7,
         "code": 3
       }
     ],
-    "observed": "2026-10-21T08:15",
+    "observed": "2026-10-21T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82593,
-        "pln": 321479,
-        "chg24": 1.14
+        "usd": 82716,
+        "pln": 321929,
+        "chg24": 1.32
       },
       {
         "sym": "ETH",
-        "usd": 2436.14,
-        "pln": 9482.27,
-        "chg24": 1.83
+        "usd": 2441.19,
+        "pln": 9501.05,
+        "chg24": 1.97
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.39,
-        "chg": -0.55,
-        "as_of": "21.10 06:10"
+        "value": 57.355,
+        "chg": -0.61,
+        "as_of": "21.10 07:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5935,
-        "chg": 0.41,
-        "as_of": "21.10 06:10"
+        "value": 6.596,
+        "chg": 0.45,
+        "as_of": "21.10 07:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 06:10",
+    "updated": "21.10 07:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,45 @@
     ],
     "local": [
       {
+        "title": "„Były depresja i operacje”. Menedżer Mai Chwalińskiej ujawnia gorzkie kulisy",
+        "url": "https://www.radiobielsko.pl/sport/byly-depresja-i-operacje-menedzer-mai-chwalinskiej-ujawnia-gorzkie-kulisy/101763/",
+        "date": "Wed, 21 Oct 2026 07:08:01 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Jeden niszczył, drugi sprzątał. Monitoring przed Urzędem Miasta w Wodzisławiu zarejestrował takie sceny…[WIDEO]",
+        "url": "https://www.radio90.pl/jeden-niszczyl-drugi-sprzatal-monitoring-przed-urzedem-miasta-w-wodzislawiu-zarejestrowal-takie-sceny-wideo.html",
+        "date": "Wed, 21 Oct 2026 07:00:21 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Firma Roku Podbeskidzia 2026. Poznaliśmy laureatów konkursu",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/firma-roku-podbeskidzia-2026-poznalismy-laureatow-konkursu/101761/",
+        "date": "Wed, 21 Oct 2026 07:06:14 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Ruszyła budowa centrum przesiadkowego w Leszczynach. Powstaje w sąsiedztwie stacji kolejowej [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/ruszyla-budowa-centrum-przesiadkowego-w-leszczynach-powstaje-w-sasiedztwie-stacji-kolejowej-zdjecia.html",
+        "date": "Wed, 21 Oct 2026 06:30:01 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Katarzyna Kawa sprawiła niespodziankę w Chinach! Pokonała faworytkę i zagra o ćwierćfinał",
+        "url": "https://www.radiobielsko.pl/sport/katarzyna-kawa-sprawila-niespodzianke-w-chinach-pokonala-faworytke-i-zagra-o-cwiercfinal/101757/",
+        "date": "Wed, 21 Oct 2026 06:57:32 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Policja z Jastrzębia: chciał sprzedać opony, a zaciągnął kredyt na 2400 złotych",
         "url": "https://www.radio90.pl/policja-z-jastrzebia-chcial-sprzedac-opony-a-zaciagnal-kredyt-na-2400-zlotych.html",
         "date": "Wed, 21 Oct 2026 06:07:39 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Autobusem na groby. We Wszystkich Świętych bezpłatnie i dodatkowe linie cmentarne",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/autobusem-na-groby-we-wszystkich-swietych-bezplatnie-i-dodatkowe-linie-cmentarne/101742/",
-        "date": "Wed, 21 Oct 2026 05:00:52 +0000",
+        "title": "Ogień na poddaszu, w środku butla z gazem. Akcja kilku zastępów",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/ogien-na-poddaszu-w-srodku-butla-z-gazem-akcja-kilku-zastepow/101758/",
+        "date": "Wed, 21 Oct 2026 06:45:24 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -169,36 +199,6 @@
         "url": "https://www.radio90.pl/brak-wody-w-zorach-utrudnienia-na-trzech-ulicach.html",
         "date": "Wed, 21 Oct 2026 05:11:57 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Jest diagnoza. Gwiazda wypadnie z gry na długie miesiące",
-        "url": "https://www.radiobielsko.pl/sport/jest-diagnoza-gwiazda-wypadnie-z-gry-na-dlugie-miesiace/101749/",
-        "date": "Tue, 20 Oct 2026 20:43:39 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Klubu Pacjenta w Wodzisławiu Śląskim. To okazja do badań i rozmów ze specjalistami",
-        "url": "https://www.radio90.pl/klubu-pacjenta-w-wodzislawiu-slaskim-to-okazja-do-badan-i-rozmow-ze-specjalistami.html",
-        "date": "Wed, 21 Oct 2026 04:45:16 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Pałacyk lśni jak kiedyś. Renowacja za ponad 6 milionów",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/palacyk-lsni-jak-kiedys-renowacja-za-ponad-6-milionow/101736/",
-        "date": "Tue, 20 Oct 2026 20:29:12 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Syn ukradł auto swojemu ojcu. 44-latka, który przywłaszczył sobie Skodę, zatrzymali policjanci z Żor",
-        "url": "https://www.radio90.pl/syn-ukradl-auto-swojemu-ojcu-44-latka-ktory-przywlaszczyl-sobie-skode-zatrzymali-policjanci-z-zor.html",
-        "date": "Tue, 20 Oct 2026 18:00:26 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Chcą się odkorkować. Wśród propozycji poszerzenie S1 i nowa droga w kierunku Korbielowa",
-        "url": "https://www.radiobielsko.pl/zywiec/chca-sie-odkorkowac-wsrod-propozycji-poszerzenie-s1-i-nowa-droga-w-kierunku-korbielowa/101726/",
-        "date": "Tue, 20 Oct 2026 17:54:23 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
