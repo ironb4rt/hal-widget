@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-21T04:20:07+00:00",
+  "generated": "2026-10-21T05:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.5,
-    "feels": 9.0,
-    "code": 1,
-    "wind": 7.9,
-    "humidity": 62,
-    "is_day": false,
+    "temp": 12.4,
+    "feels": 9.3,
+    "code": 3,
+    "wind": 11.9,
+    "humidity": 57,
+    "is_day": true,
     "tmax": 21.4,
     "tmin": 11.4,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-21T06:15",
+    "observed": "2026-10-21T07:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82728,
-        "pln": 321697,
-        "chg24": 0.78
+        "usd": 82825,
+        "pln": 322135,
+        "chg24": 1.1
       },
       {
         "sym": "ETH",
-        "usd": 2442.7,
-        "pln": 9498.76,
-        "chg24": 1.25
+        "usd": 2446.6,
+        "pln": 9515.62,
+        "chg24": 1.68
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.51,
-        "chg": -0.34,
-        "as_of": "21.10 04:09"
+        "value": 57.53,
+        "chg": -0.3,
+        "as_of": "21.10 05:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5985,
-        "chg": 0.49,
-        "as_of": "21.10 04:09"
+        "value": 6.601,
+        "chg": 0.53,
+        "as_of": "21.10 05:08"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4078,
-        "chg": -1.42,
-        "as_of": "21.10 01:01"
+        "value": 1.4041,
+        "chg": -0.43,
+        "as_of": "21.10 04:52"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 04:09",
+    "updated": "21.10 05:09",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Brak wody w Żorach. Utrudnienia na trzech ulicach",
+        "url": "https://www.radio90.pl/brak-wody-w-zorach-utrudnienia-na-trzech-ulicach.html",
+        "date": "Wed, 21 Oct 2026 05:11:57 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Autobusem na groby. We Wszystkich Świętych bezpłatnie i dodatkowe linie cmentarne",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/autobusem-na-groby-we-wszystkich-swietych-bezplatnie-i-dodatkowe-linie-cmentarne/101742/",
+        "date": "Wed, 21 Oct 2026 05:00:52 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Klubu Pacjenta w Wodzisławiu Śląskim. To okazja do badań i rozmów ze specjalistami",
+        "url": "https://www.radio90.pl/klubu-pacjenta-w-wodzislawiu-slaskim-to-okazja-do-badan-i-rozmow-ze-specjalistami.html",
+        "date": "Wed, 21 Oct 2026 04:45:16 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Jest diagnoza. Gwiazda wypadnie z gry na długie miesiące",
         "url": "https://www.radiobielsko.pl/sport/jest-diagnoza-gwiazda-wypadnie-z-gry-na-dlugie-miesiace/101749/",
         "date": "Tue, 20 Oct 2026 20:43:39 +0000",
@@ -181,24 +199,6 @@
         "url": "https://www.radiobielsko.pl/zywiec/chca-sie-odkorkowac-wsrod-propozycji-poszerzenie-s1-i-nowa-droga-w-kierunku-korbielowa/101726/",
         "date": "Tue, 20 Oct 2026 17:54:23 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Wkrótce kolejna edycja konferencji „Rybnik dla Biznesu”. Będą szkolenia i uroczysta gala w domu kultury",
-        "url": "https://www.radio90.pl/wkrotce-kolejna-edycja-konferencji-rybnik-dla-biznesu-beda-szkolenia-i-uroczysta-gala-w-domu-kultury.html",
-        "date": "Tue, 20 Oct 2026 16:30:30 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Chińska szajka wpadła w Żywcu. Dwóch oszustów zdążyło uciec",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/108-przestepstw-i-ponad-75-tysiecy-zlotych-chinczyk-zatrzymany-w-zywcu/101721/",
-        "date": "Tue, 20 Oct 2026 13:43:33 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Powstanie nowa remiza dla OSP Żory. To decyzja mieszkańców w ramach Żorskiego Budżetu Obywatelskiego",
-        "url": "https://www.radio90.pl/powstanie-nowa-remiza-dla-osp-zory-to-decyzja-mieszkancow-w-ramach-zorskiego-budzetu-obywatelskiego.html",
-        "date": "Tue, 20 Oct 2026 15:35:36 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
