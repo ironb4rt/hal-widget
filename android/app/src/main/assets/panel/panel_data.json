@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-21T15:20:12+00:00",
+  "generated": "2026-10-21T16:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 19.9,
-    "feels": 17.3,
+    "temp": 18.5,
+    "feels": 16.2,
     "code": 3,
-    "wind": 11.5,
-    "humidity": 41,
-    "is_day": true,
+    "wind": 9.0,
+    "humidity": 44,
+    "is_day": false,
     "tmax": 21.3,
     "tmin": 11.4,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-21T17:15",
+    "observed": "2026-10-21T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 84561,
-        "pln": 328393,
-        "chg24": 2.51
+        "usd": 84586,
+        "pln": 328488,
+        "chg24": 2.76
       },
       {
         "sym": "ETH",
-        "usd": 2502.75,
-        "pln": 9719.45,
-        "chg24": 2.63
+        "usd": 2508.69,
+        "pln": 9742.38,
+        "chg24": 3.18
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.595,
-        "chg": -0.19,
-        "as_of": "21.10 15:09"
+        "value": 57.6,
+        "chg": -0.18,
+        "as_of": "21.10 16:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.57,
-        "chg": 0.05,
-        "as_of": "21.10 15:10"
+        "value": 6.5725,
+        "chg": 0.09,
+        "as_of": "21.10 16:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4082,
-        "chg": -0.14,
-        "as_of": "21.10 14:59"
+        "value": 1.4133,
+        "chg": 0.22,
+        "as_of": "21.10 15:49"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 15:10",
+    "updated": "21.10 16:10",
     "stale": false
   },
   "fx": {
@@ -153,13 +153,31 @@
     ],
     "local": [
       {
+        "title": "Wyszedł z domu i przepadł bez śladu. Trwają poszukiwania 66-latka",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/wyszedl-z-domu-w-poludnie-i-przepadl-bez-sladu-trwaja-poszukiwania-66-latka/101876/",
+        "date": "Wed, 21 Oct 2026 16:13:01 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Galeria Rzeczna chwali się najnowszą wystawą. „Dobra frekwencja”",
+        "url": "https://www.radio90.pl/galeria-rzeczna-chwali-sie-najnowsza-wystawa-dobra-frekwencja.html",
+        "date": "Wed, 21 Oct 2026 15:30:31 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Szpitale na skraju finansowej zapaści? Starosta bielski ostrzega, ministerstwo zapowiada reformę",
+        "url": "https://www.radiobielsko.pl/region/szpitale-na-skraju-finansowej-zapasci-starosta-bielski-ostrzega-ministerstwo-zapowiada-reforme/101865/",
+        "date": "Wed, 21 Oct 2026 16:08:20 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Odblaskowa szkoła jest w Kamieniu",
         "url": "https://www.radio90.pl/odblaskowa-szkola-jest-w-kamieniu.html",
         "date": "Wed, 21 Oct 2026 14:35:17 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Dron nad torami. Policjanci sprawdzali kierowców na przejazdach kolejowych – co wykazała akcja?",
+        "title": "Czerwone światło przy torach. Policja i dron sprawdzili, kto je zlekceważy",
         "url": "https://www.radiobielsko.pl/bielsko-biala/dron-nad-torami-policjanci-sprawdzali-kierowcow-na-przejazdach-kolejowych-co-wykazala-akcja/101861/",
         "date": "Wed, 21 Oct 2026 14:34:10 +0000",
         "src": "RadioBielsko"
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/nie-udalo-sie-odniesc-piatej-z-rzedu-wygranej-jkh-gks-jastrzebie-przegrywa-na-wyjezdzie-z-cracovia.html",
         "date": "Wed, 21 Oct 2026 13:15:04 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Szedł BLIK za BLIK-iem i 60 tys. wyparowało z konta",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/szedl-blik-za-blik-iem-i-60-tys-wyparowalo-z-konta/101835/",
-        "date": "Wed, 21 Oct 2026 11:30:09 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Rybnik: będą ekrany dźwiękochłonne przy stadionie miniżużlowym",
-        "url": "https://www.radio90.pl/rybnik-beda-ekrany-dzwiekochlonne-przy-stadionie-minizuzlowym.html",
-        "date": "Wed, 21 Oct 2026 12:50:27 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Lekarka Szpitala Śląskiego w gronie międzynarodowych ekspertów",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/lekarka-szpitala-slaskiego-w-gronie-miedzynarodowych-ekspertow/101830/",
-        "date": "Wed, 21 Oct 2026 10:51:15 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
