@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-21T20:20:12+00:00",
+  "generated": "2026-10-21T21:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 16.2,
-    "feels": 12.6,
+    "temp": 15.8,
+    "feels": 13.3,
     "code": 3,
-    "wind": 14.8,
-    "humidity": 44,
+    "wind": 7.9,
+    "humidity": 46,
     "is_day": false,
     "tmax": 21.3,
     "tmin": 11.4,
@@ -21,17 +21,17 @@
       {
         "date": "2026-10-22",
         "max": 15.7,
-        "min": 8.4,
-        "code": 65
+        "min": 8.1,
+        "code": 63
       },
       {
         "date": "2026-10-23",
-        "max": 14.8,
-        "min": 6.5,
+        "max": 14.7,
+        "min": 6.4,
         "code": 3
       }
     ],
-    "observed": "2026-10-21T22:15",
+    "observed": "2026-10-21T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 84482,
-        "pln": 327580,
-        "chg24": 2.38
+        "usd": 84638,
+        "pln": 328307,
+        "chg24": 2.14
       },
       {
         "sym": "ETH",
-        "usd": 2491.32,
-        "pln": 9660.13,
-        "chg24": 2.34
+        "usd": 2492.62,
+        "pln": 9668.75,
+        "chg24": 1.64
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 58.04,
-        "chg": 0.58,
-        "as_of": "21.10 20:10"
+        "value": 58.115,
+        "chg": 0.71,
+        "as_of": "21.10 20:59"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.579,
-        "chg": 0.19,
-        "as_of": "21.10 20:09"
+        "value": 6.5765,
+        "chg": 0.15,
+        "as_of": "21.10 20:59"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 20:10",
+    "updated": "21.10 20:59",
     "stale": false
   },
   "fx": {
@@ -203,8 +203,8 @@
     ],
     "roads": [
       {
-        "title": "[FOTO] Pożar mieszkania przy Słowackiego. Trwa ewakuacja budynku",
-        "url": "/informacje/21019-foto-pozar-mieszkania-przy-slowackiego-trwa-ewakuacja-budynku",
+        "title": "Gorący temat[FOTO] Straconka: drogowa demolka za sprawą dziecka z karabinem?",
+        "url": "/informacje/21013-foto-straconka-drogowa-demolka-za-sprawa-dziecka-z-karabinem",
         "date": ""
       },
       {
