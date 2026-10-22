@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-22T16:20:09+00:00",
+  "generated": "2026-10-22T17:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.6,
-    "feels": 5.6,
+    "temp": 8.4,
+    "feels": 5.4,
     "code": 3,
-    "wind": 14.4,
+    "wind": 14.0,
     "humidity": 87,
     "is_day": false,
     "tmax": 15.8,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-22T18:15",
+    "observed": "2026-10-22T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81576,
-        "pln": 318338,
-        "chg24": -3.58
+        "usd": 81129,
+        "pln": 316242,
+        "chg24": -3.91
       },
       {
         "sym": "ETH",
-        "usd": 2395.8,
-        "pln": 9349.25,
-        "chg24": -4.52
+        "usd": 2375.14,
+        "pln": 9258.27,
+        "chg24": -5.32
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 55.135,
-        "chg": -3.98,
-        "as_of": "22.10 16:10"
+        "value": 54.845,
+        "chg": -4.49,
+        "as_of": "22.10 17:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.401,
-        "chg": -2.17,
-        "as_of": "22.10 16:10"
+        "value": 6.403,
+        "chg": -2.14,
+        "as_of": "22.10 17:10"
       },
       {
         "sym": "ALI=F",
@@ -77,7 +77,7 @@
         "unit": "USD/lb",
         "value": 1.4007,
         "chg": -2.82,
-        "as_of": "22.10 15:19"
+        "as_of": "22.10 16:24"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 16:10",
+    "updated": "22.10 17:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,24 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Mining M&A wave set to lift juniors, investor predicts",
+        "url": "https://www.mining.com/mining-ma-wave-set-to-lift-juniors-investor-predicts/",
+        "date": "Thu, 22 Oct 2026 16:30:33 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Southern Copper weighs $680M Cuajone mine expansion",
+        "url": "https://www.mining.com/southern-copper-weighs-680m-cuajone-mine-expansion/",
+        "date": "Thu, 22 Oct 2026 15:49:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Liberty Gold stretches Black Pine’s reach in Idaho",
+        "url": "https://www.mining.com/liberty-gold-stretches-black-pines-reach-in-idaho/",
+        "date": "Thu, 22 Oct 2026 14:54:51 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "US targets critical materials boost with $389M funding plan",
         "url": "https://www.mining.com/us-targets-critical-materials-boost-with-389m-funding-plan/",
@@ -131,27 +149,21 @@
         "url": "https://www.mining.com/us-department-of-energy-grants-42m-for-gas-pipeline-from-pennsylvania-to-new-york/",
         "date": "Wed, 21 Oct 2026 21:27:29 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready",
-        "url": "https://www.mining.com/mining-forum-video-stoferle-spots-gold-bargains-but-keeps-cash-ready/",
-        "date": "Wed, 21 Oct 2026 17:48:47 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Brazil court halts Belo Sun’s $300M gold project",
-        "url": "https://www.mining.com/brazil-court-halts-belo-suns-300m-gold-project/",
-        "date": "Wed, 21 Oct 2026 17:47:14 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "US moves to unlock deep-sea minerals near American Samoa with massive auction",
-        "url": "https://www.mining.com/us-moves-to-unlock-deep-sea-minerals-near-american-samoa-with-massive-auction/",
-        "date": "Wed, 21 Oct 2026 16:39:23 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Nie żyje Jerzy Pilch",
+        "url": "https://www.radiobielsko.pl/cieszyn/nie-zyje-jerzy-pilch/102062/",
+        "date": "Thu, 22 Oct 2026 17:10:39 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "107 km/h w terenie zbudowanym. 42-letni kierowca Skody stracił prawo jazdy",
+        "url": "https://www.radio90.pl/107-km-h-w-terenie-zbudowanym-42-letni-kierowca-skody-stracil-prawo-jazdy.html",
+        "date": "Thu, 22 Oct 2026 17:02:12 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Alarm w szkole. Ministerstwo dementuje niepokojące doniesienia",
         "url": "https://www.radiobielsko.pl/region/alarm-w-szkole-ministerstwo-dementuje-niepokojace-doniesienia/102058/",
@@ -159,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Uwaga, ważna informacja. Nie będzie wody w Żorach",
-        "url": "https://www.radio90.pl/uwaga-wazna-informacja-nie-bedzie-wody-w-zorach.html",
-        "date": "Thu, 22 Oct 2026 16:00:06 +0000",
+        "title": "Wybudują nowe mieszkania w Rybniku. Jest umowa z biurem projektowym, które przygotuje dokumentację projektową",
+        "url": "https://www.radio90.pl/wybuduja-nowe-mieszkania-w-rybniku-jest-umowa-z-biurem-projektowym-ktore-przygotuje-dokumentacje-projektowa.html",
+        "date": "Thu, 22 Oct 2026 16:30:01 +0000",
         "src": "Radio90"
       },
       {
@@ -171,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Oszuści w Żywcu. Podszywają się pod Spółdzielnię Mieszkaniową Gronie, próbują zbierać pieniądze",
-        "url": "https://www.radio90.pl/oszusci-w-zywcu-podszywaja-sie-pod-spoldzielnie-mieszkaniowa-gronie-probuja-zbierac-pieniadze.html",
-        "date": "Thu, 22 Oct 2026 15:15:29 +0000",
+        "title": "Uwaga, ważna informacja. Nie będzie wody w Żorach",
+        "url": "https://www.radio90.pl/uwaga-wazna-informacja-nie-bedzie-wody-w-zorach.html",
+        "date": "Thu, 22 Oct 2026 16:00:06 +0000",
         "src": "Radio90"
       },
       {
@@ -183,21 +195,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Magdalena Grzebałkowska spotka się z czytelnikami w Wodzisławiu",
-        "url": "https://www.radio90.pl/magdalena-grzebalkowska-spotka-sie-z-czytelnikami-w-wodzislawiu.html",
-        "date": "Thu, 22 Oct 2026 14:40:00 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Sześć dni bez pociągów między Bielskiem-Białą a Zwardoniem. Pasażerów czekają poważne utrudnienia",
-        "url": "https://www.radiobielsko.pl/zywiec/szesc-dni-bez-pociagow-miedzy-bielskiem-biala-a-zwardoniem-pasazerow-czekaja-powazne-utrudnienia/102017/",
-        "date": "Thu, 22 Oct 2026 13:00:44 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Monika Mosiek poszukiwana listem gończym. Policja prosi o pomoc",
-        "url": "https://www.radio90.pl/monika-mosiek-poszukiwana-listem-gonczym-policja-prosi-o-pomoc.html",
-        "date": "Thu, 22 Oct 2026 14:22:04 +0000",
+        "title": "Oszuści w Żywcu. Podszywają się pod Spółdzielnię Mieszkaniową Gronie, próbują zbierać pieniądze",
+        "url": "https://www.radio90.pl/oszusci-w-zywcu-podszywaja-sie-pod-spoldzielnie-mieszkaniowa-gronie-probuja-zbierac-pieniadze.html",
+        "date": "Thu, 22 Oct 2026 15:15:29 +0000",
         "src": "Radio90"
       }
     ],
