@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-22T19:20:10+00:00",
+  "generated": "2026-10-22T20:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.2,
-    "feels": 5.7,
-    "code": 2,
-    "wind": 9.4,
-    "humidity": 84,
+    "temp": 8.3,
+    "feels": 5.5,
+    "code": 0,
+    "wind": 10.8,
+    "humidity": 80,
     "is_day": false,
     "tmax": 15.8,
     "tmin": 8.2,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-22T21:15",
+    "observed": "2026-10-22T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81280,
-        "pln": 317042,
-        "chg24": -3.62
+        "usd": 81287,
+        "pln": 317308,
+        "chg24": -3.78
       },
       {
         "sym": "ETH",
-        "usd": 2380.61,
-        "pln": 9285.78,
-        "chg24": -4.63
+        "usd": 2381.08,
+        "pln": 9294.69,
+        "chg24": -4.38
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.62,
-        "chg": -4.88,
-        "as_of": "22.10 19:10"
+        "value": 54.64,
+        "chg": -4.84,
+        "as_of": "22.10 20:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.3875,
-        "chg": -2.38,
-        "as_of": "22.10 19:10"
+        "value": 6.4005,
+        "chg": -2.18,
+        "as_of": "22.10 20:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 19:10",
+    "updated": "22.10 20:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,21 @@
     ],
     "local": [
       {
+        "title": "Dwie demonstracje na placu Chrobrego. Strajk Kobiet zagłuszony przez przeciwników aborcji",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-demonstracje-na-placu-chrobrego-strajk-kobiet-zagluszony-przez-przeciwnikow-aborcji/102075/",
+        "date": "Thu, 22 Oct 2026 19:57:58 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Rzuchów: zderzenie hulajnogi elektrycznej z rowerem",
         "url": "https://www.radio90.pl/rzuchow-zderzenie-hulajnogi-elektrycznej-z-rowerem.html",
         "date": "Thu, 22 Oct 2026 19:06:04 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Dwie kolejki staną jednocześnie. Na Dębowiec i Szyndzielnię tylko piechotą!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-kolejki-stana-jednoczesnie-na-debowiec-i-szyndzielnie-tylko-piechota/102067/",
-        "date": "Thu, 22 Oct 2026 18:00:52 +0000",
+        "title": "Dwukadencyjność zostaje. Kto w naszym regionie nie będzie mógł ponownie kandydować?",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/dwukadencyjnosc-zostaje-kto-w-naszym-regionie-nie-bedzie-mogl-ponownie-kandydowac/102070/",
+        "date": "Thu, 22 Oct 2026 19:39:14 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Nie żyje Jerzy Pilch",
-        "url": "https://www.radiobielsko.pl/cieszyn/nie-zyje-jerzy-pilch/102062/",
-        "date": "Thu, 22 Oct 2026 17:10:39 +0000",
+        "title": "„Mamusie, które sobie nie radzą”. Burza po słowach radnej o dzieciach z orzeczeniami",
+        "url": "https://www.radiobielsko.pl/powiat-wadowicki/mamusie-ktore-sobie-nie-radza-burza-po-slowach-radnej-o-dzieciach-z-orzeczeniami/102071/",
+        "date": "Thu, 22 Oct 2026 19:22:07 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Alarm w szkole. Ministerstwo dementuje niepokojące doniesienia",
-        "url": "https://www.radiobielsko.pl/region/alarm-w-szkole-ministerstwo-dementuje-niepokojace-doniesienia/102058/",
-        "date": "Thu, 22 Oct 2026 16:14:13 +0000",
+        "title": "Dwie kolejki staną jednocześnie. Na Dębowiec i Szyndzielnię tylko piechotą!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-kolejki-stana-jednoczesnie-na-debowiec-i-szyndzielnie-tylko-piechota/102067/",
+        "date": "Thu, 22 Oct 2026 18:00:52 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -193,18 +199,12 @@
         "url": "https://www.radio90.pl/107-km-h-w-terenie-zbudowanym-42-letni-kierowca-skody-stracil-prawo-jazdy.html",
         "date": "Thu, 22 Oct 2026 17:02:12 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Beniaminek na czele, a za nim duży ścisk. Oto najstarsze drużyny V Ligi",
-        "url": "https://www.radiobielsko.pl/sport/beniaminek-na-czele-a-za-nim-duzy-scisk-oto-najstarsze-jedenastki-v-ligi/102039/",
-        "date": "Thu, 22 Oct 2026 15:13:44 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
       {
-        "title": "Utrudnienia na skrzyżowaniu ul. Legionów z DK-1. Doszło do wywrotki przyczepy samochodu ciężarowego",
-        "url": "/informacje/21024-utrudnienia-na-skrzyzowaniu-ul-legionow-z-dk-1-doszlo-do-wywrotki-przyczepy-samochodu-ciezarowego",
+        "title": "[FOTO] Za szybko w zakręcie. Przyczepa przewróciła się na pobocze przy ul. Legionów",
+        "url": "/informacje/21024-foto-za-szybko-w-zakrecie-przyczepa-przewrocila-sie-na-pobocze-przy-ul-legionow",
         "date": ""
       },
       {
