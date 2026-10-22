@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-22T12:20:08+00:00",
+  "generated": "2026-10-22T13:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.9,
-    "feels": 7.3,
-    "code": 61,
-    "wind": 14.4,
-    "humidity": 89,
+    "temp": 9.8,
+    "feels": 5.9,
+    "code": 55,
+    "wind": 23.0,
+    "humidity": 88,
     "is_day": true,
     "tmax": 15.8,
     "tmin": 8.2,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-24",
         "max": 11.2,
-        "min": 7.1,
+        "min": 7.8,
         "code": 51
       }
     ],
-    "observed": "2026-10-22T14:15",
+    "observed": "2026-10-22T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81807,
-        "pln": 318908,
-        "chg24": -1.99
+        "usd": 81673,
+        "pln": 318552,
+        "chg24": -2.42
       },
       {
         "sym": "ETH",
-        "usd": 2402.94,
-        "pln": 9367.38,
-        "chg24": -2.59
+        "usd": 2396.87,
+        "pln": 9348.64,
+        "chg24": -3.39
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.02,
-        "chg": -2.44,
-        "as_of": "22.10 12:10"
+        "value": 55.865,
+        "chg": -2.71,
+        "as_of": "22.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.42,
-        "chg": -1.88,
-        "as_of": "22.10 12:10"
+        "value": 6.4285,
+        "chg": -1.75,
+        "as_of": "22.10 13:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4007,
-        "chg": -2.82,
-        "as_of": "22.10 08:16"
+        "value": 1.4065,
+        "chg": -2.42,
+        "as_of": "22.10 13:09"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 12:10",
+    "updated": "22.10 13:10",
     "stale": false
   },
   "fx": {
@@ -103,55 +103,73 @@
     "ok": true,
     "market": [
       {
-        "title": "Fortuna targets deeper Lindero pit after gold hits",
-        "url": "https://mining.com/fortuna-targets-deeper-lindero-pit-after-gold-hits/",
-        "date": "Wed, 21 Oct 2026 23:22:00 +0000",
+        "title": "AI boom could overwhelm metals supply: WoodMac",
+        "url": "https://www.mining.com/ai-boom-could-overwhelm-metals-supply-woodmac/",
+        "date": "Thu, 22 Oct 2026 11:25:00 +0000",
         "src": "Mining.com"
       },
       {
         "title": "Lithium’s $100B question: Who will build 134 new mines?",
-        "url": "https://mining.com/lithiums-100b-question-who-will-build-134-new-mines/",
-        "date": "Wed, 21 Oct 2026 23:01:00 +0000",
+        "url": "https://www.mining.com/lithiums-100b-question-who-will-build-134-new-mines/",
+        "date": "Thu, 22 Oct 2026 09:01:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Fortuna targets deeper Lindero pit after gold hits",
+        "url": "https://www.mining.com/fortuna-targets-deeper-lindero-pit-after-gold-hits/",
+        "date": "Wed, 21 Oct 2026 23:22:00 +0000",
         "src": "Mining.com"
       },
       {
         "title": "US Department of Energy grants $42M for gas pipeline from Pennsylvania to New York",
-        "url": "https://mining.com/us-department-of-energy-grants-42m-for-gas-pipeline-from-pennsylvania-to-new-york/",
+        "url": "https://www.mining.com/us-department-of-energy-grants-42m-for-gas-pipeline-from-pennsylvania-to-new-york/",
         "date": "Wed, 21 Oct 2026 21:27:29 +0000",
         "src": "Mining.com"
       },
       {
         "title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready",
-        "url": "https://mining.com/mining-forum-video-stoferle-spots-gold-bargains-but-keeps-cash-ready/",
+        "url": "https://www.mining.com/mining-forum-video-stoferle-spots-gold-bargains-but-keeps-cash-ready/",
         "date": "Wed, 21 Oct 2026 17:48:47 +0000",
         "src": "Mining.com"
       },
       {
         "title": "Brazil court halts Belo Sun’s $300M gold project",
-        "url": "https://mining.com/brazil-court-halts-belo-suns-300m-gold-project/",
+        "url": "https://www.mining.com/brazil-court-halts-belo-suns-300m-gold-project/",
         "date": "Wed, 21 Oct 2026 17:47:14 +0000",
         "src": "Mining.com"
       },
       {
         "title": "US moves to unlock deep-sea minerals near American Samoa with massive auction",
-        "url": "https://mining.com/us-moves-to-unlock-deep-sea-minerals-near-american-samoa-with-massive-auction/",
+        "url": "https://www.mining.com/us-moves-to-unlock-deep-sea-minerals-near-american-samoa-with-massive-auction/",
         "date": "Wed, 21 Oct 2026 16:39:23 +0000",
         "src": "Mining.com"
       },
       {
         "title": "Spain hunts hidden metals with $223M plan",
-        "url": "https://mining.com/spain-hunts-hidden-metals-with-223m-plan/",
+        "url": "https://www.mining.com/spain-hunts-hidden-metals-with-223m-plan/",
         "date": "Wed, 21 Oct 2026 16:33:15 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Endurance Gold expands zones at Reliance as PEA work ongoing",
-        "url": "https://mining.com/endurance-gold-expands-zones-at-reliance-as-pea-work-ongoing/",
-        "date": "Wed, 21 Oct 2026 15:24:29 +0000",
         "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Ważne dla kierowców: utrudnienia w Czeskim Cieszynie",
+        "url": "https://www.radio90.pl/wazne-dla-kierowcow-utrudnienia-w-czeskim-cieszynie.html",
+        "date": "Thu, 22 Oct 2026 13:15:21 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Sześć dni bez pociągów między Bielskiem-Białą a Zwardoniem. Pasażerów czekają poważne utrudnienia",
+        "url": "https://www.radiobielsko.pl/zywiec/szesc-dni-bez-pociagow-miedzy-bielskiem-biala-a-zwardoniem-pasazerow-czekaja-powazne-utrudnienia/102017/",
+        "date": "Thu, 22 Oct 2026 13:00:44 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Ma być bezpieczniej dla pieszych i rowerzystów. Ulica Dąbrowskiego w Jastrzębiu do przebudowy",
+        "url": "https://www.radio90.pl/ma-byc-bezpieczniej-dla-pieszych-i-rowerzystow-ulica-dabrowskiego-w-jastrzebiu-do-przebudowy.html",
+        "date": "Thu, 22 Oct 2026 12:45:53 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Dwie Sephie w jednym mieście. Kultowy lokal wraca po latach",
         "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-sephie-w-jednym-miescie-kultowy-lokal-wraca-po-latach/102018/",
@@ -181,24 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-oswiecimski/tragiczny-koniec-poszukiwan-badania-dna-daly-odpowiedz/102006/",
         "date": "Thu, 22 Oct 2026 11:32:19 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "„W poszukiwaniu tożsamości”. Projekt w Domu Kultury w Niedobczycach",
-        "url": "https://www.radio90.pl/w-poszukiwaniu-tozsamosci-projekt-w-domu-kultury-w-niedobczycach.html",
-        "date": "Thu, 22 Oct 2026 11:01:24 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Najlepsi uczniowie z Czechowic-Dziedzic",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/najlepsi-uczniowie-z-czechowic-dziedzic/102002/",
-        "date": "Thu, 22 Oct 2026 11:06:09 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Radio 90 nadaje z Żywca, a w naszym portalu przeczytacie najświeższe informacje z regionu",
-        "url": "https://www.radio90.pl/radio-90-nadaje-z-zywca-a-w-naszym-portalu-przeczytacie-najswiezsze-informacje-z-regionu.html",
-        "date": "Thu, 22 Oct 2026 10:30:06 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
