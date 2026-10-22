@@ -1,21 +1,21 @@
 {
-  "generated": "2026-10-22T09:20:07+00:00",
+  "generated": "2026-10-22T10:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.0,
-    "feels": 7.1,
+    "temp": 9.9,
+    "feels": 7.0,
     "code": 61,
     "wind": 16.9,
-    "humidity": 89,
+    "humidity": 90,
     "is_day": true,
     "tmax": 15.8,
-    "tmin": 8.0,
+    "tmin": 8.6,
     "forecast": [
       {
         "date": "2026-10-22",
         "max": 15.8,
-        "min": 8.0,
+        "min": 8.6,
         "code": 63
       },
       {
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-24",
-        "max": 11.2,
-        "min": 6.2,
+        "max": 11.1,
+        "min": 7.1,
         "code": 3
       }
     ],
-    "observed": "2026-10-22T11:15",
+    "observed": "2026-10-22T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81836,
-        "pln": 318207,
-        "chg24": -1.98
+        "usd": 81980,
+        "pln": 319196,
+        "chg24": -1.45
       },
       {
         "sym": "ETH",
-        "usd": 2404.31,
-        "pln": 9348.85,
-        "chg24": -2.37
+        "usd": 2406.92,
+        "pln": 9371.52,
+        "chg24": -1.57
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 55.92,
-        "chg": -2.62,
-        "as_of": "22.10 09:10"
+        "value": 56.01,
+        "chg": -2.46,
+        "as_of": "22.10 10:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4235,
-        "chg": -1.83,
-        "as_of": "22.10 09:10"
+        "value": 6.4345,
+        "chg": -1.66,
+        "as_of": "22.10 10:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 09:10",
+    "updated": "22.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Akcja „Jak dobrze Cię widzieć” dziś w Wodzisławiu",
-        "url": "https://www.radio90.pl/akcja-jak-dobrze-cie-widziec-dzis-w-wodzislawiu.html",
-        "date": "Thu, 22 Oct 2026 09:15:20 +0000",
+        "title": "Jesienna edycja Urban Swap. W Raciborzu już można znosić ubrania",
+        "url": "https://www.radio90.pl/jesienna-edycja-urban-swap-w-raciborzu-juz-mozna-znosic-ubrania.html",
+        "date": "Thu, 22 Oct 2026 10:09:07 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Najnowsze badania wskazują, że Bach z Händlem spotkali się w Zamku Sułkowskich!? Rozmowa z reżyserem Mariuszem Malcem.",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/spotkanie-bacha-z-handlem-mialo-miejsce-w-zamku-sulkowskich-rozmowa-z-rezyserem-mariuszem-malcem/101919/",
+        "date": "Thu, 22 Oct 2026 09:40:42 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Pietrowice Wielkie będą miastem? Mieszkańcy mają się wypowiedzieć w referendum",
+        "url": "https://www.radio90.pl/pietrowice-wielkie-beda-miastem-mieszkancy-maja-sie-wypowiedziec-w-referendum.html",
+        "date": "Thu, 22 Oct 2026 09:45:03 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Nieszczęśliwe wypadki w Raciborzu",
-        "url": "https://www.radio90.pl/nieszczesliwe-wypadki-w-raciborzu.html",
-        "date": "Thu, 22 Oct 2026 08:15:05 +0000",
+        "title": "Akcja „Jak dobrze Cię widzieć” dziś w Wodzisławiu",
+        "url": "https://www.radio90.pl/akcja-jak-dobrze-cie-widziec-dzis-w-wodzislawiu.html",
+        "date": "Thu, 22 Oct 2026 09:15:20 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Śląska Policja z apelem o rozwagę na drodze",
-        "url": "https://www.radio90.pl/slaska-policja-z-apelem-o-rozwage-na-drodze.html",
-        "date": "Thu, 22 Oct 2026 07:30:50 +0000",
+        "title": "Nieszczęśliwe wypadki w Raciborzu",
+        "url": "https://www.radio90.pl/nieszczesliwe-wypadki-w-raciborzu.html",
+        "date": "Thu, 22 Oct 2026 08:15:05 +0000",
         "src": "Radio90"
       },
       {
@@ -187,24 +199,17 @@
         "url": "https://www.radiobielsko.pl/zywiec/blisko-200-osob-moze-stracic-prace-zwolnienia-hutchinsonie/101960/",
         "date": "Thu, 22 Oct 2026 08:21:30 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Wojewódzki Szpital Chorób Płuc w Wodzisławiu ponownie korzysta ze swojego własnego źródła wody pitnej [WIDEO]",
-        "url": "https://www.radio90.pl/wojewodzki-szpital-chorob-pluc-w-wodzislawiu-ponownie-korzysta-ze-swojego-wlasnego-zrodla-wody-pitnej-wideo.html",
-        "date": "Thu, 22 Oct 2026 06:40:33 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Szczyrk bez nocnej i świątecznej opieki zdrowotnej!",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/szczyrk-bez-nocnej-i-swiatecznej-opieki-zdrowotnej/101963/",
-        "date": "Thu, 22 Oct 2026 08:18:58 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
       {
         "title": "Pediatryk w Bielsku-Białej wyremontował parking. Ile kosztuje postój?",
         "url": "/informacje/21022-pediatryk-w-bielsku-bialej-wyremontowal-parking-ile-kosztuje-postoj",
+        "date": ""
+      },
+      {
+        "title": "Gorący temat[FOTO] Dwa pożary w jednym budynku przy Słowackiego. Strażacy interweniowali także w nocy",
+        "url": "/informacje/21019-foto-dwa-pozary-w-jednym-budynku-przy-slowackiego-strazacy-interweniowali-takze-w-nocy",
         "date": ""
       },
       {
@@ -225,11 +230,6 @@
       {
         "title": "Ponad 21 mln zł na trasę VeloBiała. Przebudują skrzyżowania i drogi w Bielsku-Białej",
         "url": "/informacje/21015-ponad-21-mln-zl-na-trase-velobiala-przebuduja-skrzyzowania-i-drogi-w-bielsku-bialej",
-        "date": ""
-      },
-      {
-        "title": "Zmiana pogody na Podbeskidziu. Najpierw ponad 20 stopni, potem deszcz i ochłodzenie",
-        "url": "/informacje/21012-zmiana-pogody-na-podbeskidziu-najpierw-ponad-20-stopni-potem-deszcz-i-ochlodzenie",
         "date": ""
       }
     ],
