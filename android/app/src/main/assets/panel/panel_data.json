@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-22T05:20:06+00:00",
+  "generated": "2026-10-22T06:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.3,
-    "feels": 11.5,
-    "code": 63,
-    "wind": 7.9,
-    "humidity": 92,
-    "is_day": false,
+    "temp": 11.5,
+    "feels": 8.5,
+    "code": 61,
+    "wind": 21.2,
+    "humidity": 91,
+    "is_day": true,
     "tmax": 15.8,
-    "tmin": 8.1,
+    "tmin": 8.0,
     "forecast": [
       {
         "date": "2026-10-22",
         "max": 15.8,
-        "min": 8.1,
+        "min": 8.0,
         "code": 63
       },
       {
         "date": "2026-10-23",
         "max": 15.0,
-        "min": 6.7,
+        "min": 6.8,
         "code": 3
       },
       {
         "date": "2026-10-24",
-        "max": 12.3,
+        "max": 12.2,
         "min": 5.7,
         "code": 3
       }
     ],
-    "observed": "2026-10-22T07:15",
+    "observed": "2026-10-22T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82739,
-        "pln": 320760,
-        "chg24": -0.09
+        "usd": 82714,
+        "pln": 320748,
+        "chg24": 0.14
       },
       {
         "sym": "ETH",
-        "usd": 2439.29,
-        "pln": 9456.56,
-        "chg24": -0.29
+        "usd": 2436.75,
+        "pln": 9449.22,
+        "chg24": 0.02
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.41,
-        "chg": -1.76,
-        "as_of": "22.10 05:09"
+        "value": 56.44,
+        "chg": -1.71,
+        "as_of": "22.10 06:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4885,
-        "chg": -0.83,
-        "as_of": "22.10 05:10"
+        "value": 6.4815,
+        "chg": -0.94,
+        "as_of": "22.10 06:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 05:10",
+    "updated": "22.10 06:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "17-latek ze złamanym obojczykiem. Kierowca nie ustąpił mu pierwszeństwa",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/17-latek-ze-zlamanym-obojczykiem-kierowca-nie-ustapil-mu-pierwszenstwa/101933/",
+        "date": "Thu, 22 Oct 2026 06:11:08 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Koniec utrudnień w Bargłówce. Droga wojewódzka jest przejezdna",
+        "url": "https://www.radio90.pl/koniec-utrudnien-w-barglowce-droga-wojewodzka-jest-przejezdna.html",
+        "date": "Thu, 22 Oct 2026 05:37:07 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Miało być lepiej, a znów jest nerwowo. „Wszyscy mamy do siebie żal”",
+        "url": "https://www.radiobielsko.pl/sport/mialo-byc-lepiej-a-znow-jest-nerwowo-wszyscy-mamy-do-siebie-zal/101822/",
+        "date": "Thu, 22 Oct 2026 05:43:57 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Nowy przystanek autobusowy w Żorach. Pasażerowie będą mogli z niego skorzystać od najbliższej soboty",
         "url": "https://www.radio90.pl/nowy-przystanek-autobusowy-w-zorach-pasazerowie-beda-mogli-z-niego-skorzystac-od-najblizszej-soboty.html",
         "date": "Thu, 22 Oct 2026 04:50:05 +0000",
@@ -181,27 +199,14 @@
         "url": "https://www.radio90.pl/pomnik-przyrody-w-pstraznej-otrzyma-imie-jak-bedzie-sie-nazywal-zdecyduje-internetowe-glosowanie.html",
         "date": "Wed, 21 Oct 2026 17:40:31 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Pożar przy Słowackiego w Bielsku-Białej. Strażacy walczą z ogniem",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/pozar-przy-slowackiego-w-bielsku-bialej-strazacy-walcza-z-ogniem/101893/",
-        "date": "Wed, 21 Oct 2026 17:17:40 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Jutro rusza remont drogi w Krowiarkach. Wójt Pietrowic Wielkich mówi o pilnych pracach, które trzeba tam wykonać",
-        "url": "https://www.radio90.pl/jutro-rusza-remont-drogi-w-krowiarkach-wojt-pietrowic-wielkich-mowi-o-pilnych-pracach-ktore-trzeba-tam-wykonac.html",
-        "date": "Wed, 21 Oct 2026 17:00:50 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dziewiąty Klub Seniora otwarty w Bielsku-Białej. Powstał przy ulicy Solskiego",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dziewiaty-klub-seniora-otwarty-w-bielsku-bialej-powstal-przy-ulicy-solskiego/101889/",
-        "date": "Wed, 21 Oct 2026 17:10:26 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "Ambulans Bielskiego Pogotowia Ratunkowego trafił na Uniwersytet Bielsko-Bialski",
+        "url": "/informacje/21020-ambulans-bielskiego-pogotowia-ratunkowego-trafil-na-uniwersytet-bielsko-bialski",
+        "date": ""
+      },
       {
         "title": "Gorący temat[FOTO] Straconka: drogowa demolka za sprawą dziecka z karabinem?",
         "url": "/informacje/21013-foto-straconka-drogowa-demolka-za-sprawa-dziecka-z-karabinem",
@@ -225,11 +230,6 @@
       {
         "title": "Gorący tematPonad 2 promile alkoholu i 10-letnia wnuczka w aucie. 59-latek rozbił się na Krakowskiej",
         "url": "/informacje/21006-ponad-2-promile-alkoholu-i-10-letnia-wnuczka-w-aucie-59-latek-rozbil-sie-na-krakowskiej",
-        "date": ""
-      },
-      {
-        "title": "Utrudnienia na skrzyżowaniu Grażyńskiego i Mazańcowickiej",
-        "url": "/informacje/21005-utrudnienia-na-skrzyzowaniu-grazynskiego-i-mazancowickiej",
         "date": ""
       }
     ],
