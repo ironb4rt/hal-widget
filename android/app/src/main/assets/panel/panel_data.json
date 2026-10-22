@@ -1,23 +1,17 @@
 {
-  "generated": "2026-10-22T21:20:10+00:00",
+  "generated": "2026-10-22T22:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.3,
-    "feels": 5.2,
+    "temp": 8.0,
+    "feels": 5.1,
     "code": 0,
-    "wind": 12.2,
-    "humidity": 78,
+    "wind": 10.8,
+    "humidity": 77,
     "is_day": false,
-    "tmax": 15.8,
-    "tmin": 8.1,
+    "tmax": 14.7,
+    "tmin": 6.8,
     "forecast": [
-      {
-        "date": "2026-10-22",
-        "max": 15.8,
-        "min": 8.1,
-        "code": 63
-      },
       {
         "date": "2026-10-23",
         "max": 14.7,
@@ -29,9 +23,15 @@
         "max": 11.3,
         "min": 8.2,
         "code": 61
+      },
+      {
+        "date": "2026-10-25",
+        "max": 12.0,
+        "min": 3.5,
+        "code": 51
       }
     ],
-    "observed": "2026-10-22T23:15",
+    "observed": "2026-10-23T00:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81424,
-        "pln": 317730,
-        "chg24": -3.78
+        "usd": 81323,
+        "pln": 317239,
+        "chg24": -3.82
       },
       {
         "sym": "ETH",
-        "usd": 2394.66,
-        "pln": 9344.31,
-        "chg24": -3.92
+        "usd": 2386.94,
+        "pln": 9311.36,
+        "chg24": -4.02
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.63,
-        "chg": -4.86,
-        "as_of": "22.10 20:59"
+        "value": 54.69,
+        "chg": -4.76,
+        "as_of": "22.10 22:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.3985,
-        "chg": -2.21,
-        "as_of": "22.10 20:59"
+        "value": 6.403,
+        "chg": -2.14,
+        "as_of": "22.10 22:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 20:59",
+    "updated": "22.10 22:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Vivox AI, beSirius partner on mining supply chain compliance",
+        "url": "https://www.mining.com/vivox-ai-besirius-partner-on-mining-supply-chain-compliance/",
+        "date": "Thu, 22 Oct 2026 21:49:19 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain",
         "url": "https://www.mining.com/us-permitting-environmental-review-overhaul-could-speed-mine-approvals-but-hurdles-remain/",
@@ -142,12 +148,6 @@
         "title": "AI boom could overwhelm metals supply: WoodMac",
         "url": "https://www.mining.com/ai-boom-could-overwhelm-metals-supply-woodmac/",
         "date": "Thu, 22 Oct 2026 11:25:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Lithium’s $100B question: Who will build 134 new mines?",
-        "url": "https://www.mining.com/lithiums-100b-question-who-will-build-134-new-mines/",
-        "date": "Thu, 22 Oct 2026 09:01:00 +0000",
         "src": "Mining.com"
       }
     ],
