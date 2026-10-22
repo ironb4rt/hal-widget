@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-22T14:20:09+00:00",
+  "generated": "2026-10-22T15:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.5,
-    "feels": 5.8,
+    "temp": 8.8,
+    "feels": 5.7,
     "code": 51,
-    "wind": 20.5,
-    "humidity": 86,
+    "wind": 16.2,
+    "humidity": 88,
     "is_day": true,
     "tmax": 15.8,
-    "tmin": 8.2,
+    "tmin": 8.1,
     "forecast": [
       {
         "date": "2026-10-22",
         "max": 15.8,
-        "min": 8.2,
+        "min": 8.1,
         "code": 63
       },
       {
         "date": "2026-10-23",
-        "max": 14.9,
-        "min": 7.0,
+        "max": 14.8,
+        "min": 6.7,
         "code": 3
       },
       {
         "date": "2026-10-24",
-        "max": 11.2,
-        "min": 8.0,
+        "max": 11.9,
+        "min": 9.1,
         "code": 51
       }
     ],
-    "observed": "2026-10-22T16:15",
+    "observed": "2026-10-22T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81618,
-        "pln": 318946,
-        "chg24": -2.6
+        "usd": 81562,
+        "pln": 318569,
+        "chg24": -3.29
       },
       {
         "sym": "ETH",
-        "usd": 2404.88,
-        "pln": 9397.79,
-        "chg24": -2.59
+        "usd": 2396.74,
+        "pln": 9361.3,
+        "chg24": -3.99
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 55.315,
-        "chg": -3.67,
-        "as_of": "22.10 14:10"
+        "value": 55.245,
+        "chg": -3.79,
+        "as_of": "22.10 15:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4265,
-        "chg": -1.78,
-        "as_of": "22.10 14:10"
+        "value": 6.41,
+        "chg": -2.03,
+        "as_of": "22.10 15:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4035,
-        "chg": -2.63,
-        "as_of": "22.10 14:08"
+        "value": 1.4022,
+        "chg": -2.72,
+        "as_of": "22.10 14:50"
       },
       {
         "sym": "HRC",
@@ -89,19 +89,25 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 14:10",
+    "updated": "22.10 15:10",
     "stale": false
   },
   "fx": {
     "ok": true,
-    "date": "2026-10-21",
-    "usdpln": 3.8842,
-    "usdeur": 0.89015,
+    "date": "2026-10-22",
+    "usdpln": 3.8996,
+    "usdeur": 0.89246,
     "stale": false
   },
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "US targets critical materials boost with $389M funding plan",
+        "url": "https://www.mining.com/us-targets-critical-materials-boost-with-389m-funding-plan/",
+        "date": "Thu, 22 Oct 2026 13:03:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "AI boom could overwhelm metals supply: WoodMac",
         "url": "https://www.mining.com/ai-boom-could-overwhelm-metals-supply-woodmac/",
@@ -143,19 +149,25 @@
         "url": "https://www.mining.com/us-moves-to-unlock-deep-sea-minerals-near-american-samoa-with-massive-auction/",
         "date": "Wed, 21 Oct 2026 16:39:23 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Spain hunts hidden metals with $223M plan",
-        "url": "https://www.mining.com/spain-hunts-hidden-metals-with-223m-plan/",
-        "date": "Wed, 21 Oct 2026 16:33:15 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Płacili wykorzystując cudze dane bankowe. Prokuratura Rejonowa w Żywcu prowadzi postępowanie w tej sprawie. Zatrzymano Chińczyka",
-        "url": "https://www.radio90.pl/placili-wykorzystujac-cudze-dane-bankowe-prokuratura-rejonowa-w-zywcu-prowadzi-postepowanie-w-tej-sprawie-zatrzymano-chinczyka.html",
-        "date": "Thu, 22 Oct 2026 13:50:06 +0000",
+        "title": "Oszuści w Żywcu. Podszywają się pod Spółdzielnię Mieszkaniową Gronie, próbują zbierać pieniądze",
+        "url": "https://www.radio90.pl/oszusci-w-zywcu-podszywaja-sie-pod-spoldzielnie-mieszkaniowa-gronie-probuja-zbierac-pieniadze.html",
+        "date": "Thu, 22 Oct 2026 15:15:29 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Beniaminek na czele, a za nim duży ścisk. Oto najstarsze jedenastki V Ligi",
+        "url": "https://www.radiobielsko.pl/sport/beniaminek-na-czele-a-za-nim-duzy-scisk-oto-najstarsze-jedenastki-v-ligi/102039/",
+        "date": "Thu, 22 Oct 2026 15:13:44 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Magdalena Grzebałkowska spotka się z czytelnikami w Wodzisławiu",
+        "url": "https://www.radio90.pl/magdalena-grzebalkowska-spotka-sie-z-czytelnikami-w-wodzislawiu.html",
+        "date": "Thu, 22 Oct 2026 14:40:00 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Ważne dla kierowców: utrudnienia w Czeskim Cieszynie",
-        "url": "https://www.radio90.pl/wazne-dla-kierowcow-utrudnienia-w-czeskim-cieszynie.html",
-        "date": "Thu, 22 Oct 2026 13:15:21 +0000",
+        "title": "Monika Mosiek poszukiwana listem gończym. Policja prosi o pomoc",
+        "url": "https://www.radio90.pl/monika-mosiek-poszukiwana-listem-gonczym-policja-prosi-o-pomoc.html",
+        "date": "Thu, 22 Oct 2026 14:22:04 +0000",
         "src": "Radio90"
       },
       {
@@ -177,27 +189,15 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Ma być bezpieczniej dla pieszych i rowerzystów. Ulica Dąbrowskiego w Jastrzębiu do przebudowy",
-        "url": "https://www.radio90.pl/ma-byc-bezpieczniej-dla-pieszych-i-rowerzystow-ulica-dabrowskiego-w-jastrzebiu-do-przebudowy.html",
-        "date": "Thu, 22 Oct 2026 12:45:53 +0000",
+        "title": "Płacili wykorzystując cudze dane bankowe. Prokuratura Rejonowa w Żywcu prowadzi postępowanie w tej sprawie. Zatrzymano Chińczyka",
+        "url": "https://www.radio90.pl/placili-wykorzystujac-cudze-dane-bankowe-prokuratura-rejonowa-w-zywcu-prowadzi-postepowanie-w-tej-sprawie-zatrzymano-chinczyka.html",
+        "date": "Thu, 22 Oct 2026 13:50:06 +0000",
         "src": "Radio90"
       },
       {
         "title": "Bielski tenis przeżywa piękne chwile! Kolejny wielki sukces",
         "url": "https://www.radiobielsko.pl/sport/bielski-tenis-przezywa-piekne-chwile-kolejny-wielki-sukces/102016/",
         "date": "Thu, 22 Oct 2026 12:45:22 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Audyt prawny i podatkowy w firmie: jak być o krok przed urzędem? Doradca podatkowy wyjaśnia",
-        "url": "https://www.radio90.pl/audyt-prawny-i-podatkowy-w-firmie-jak-byc-o-krok-przed-urzedem-doradca-podatkowy-wyjasnia.html",
-        "date": "Thu, 22 Oct 2026 12:00:37 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dwie Sephie w jednym mieście. Kultowy lokal wraca po latach",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-sephie-w-jednym-miescie-kultowy-lokal-wraca-po-latach/102018/",
-        "date": "Thu, 22 Oct 2026 12:18:10 +0000",
         "src": "RadioBielsko"
       }
     ],
