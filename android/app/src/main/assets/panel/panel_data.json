@@ -1,21 +1,21 @@
 {
-  "generated": "2026-10-22T03:20:06+00:00",
+  "generated": "2026-10-22T04:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.6,
-    "feels": 11.5,
-    "code": 51,
-    "wind": 6.8,
-    "humidity": 81,
+    "temp": 12.1,
+    "feels": 11.6,
+    "code": 63,
+    "wind": 4.7,
+    "humidity": 90,
     "is_day": false,
     "tmax": 15.8,
-    "tmin": 8.4,
+    "tmin": 8.1,
     "forecast": [
       {
         "date": "2026-10-22",
         "max": 15.8,
-        "min": 8.4,
+        "min": 8.1,
         "code": 63
       },
       {
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-24",
         "max": 12.3,
-        "min": 6.4,
+        "min": 5.7,
         "code": 3
       }
     ],
-    "observed": "2026-10-22T05:15",
+    "observed": "2026-10-22T06:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82764,
-        "pln": 320482,
-        "chg24": 0.11
+        "usd": 82853,
+        "pln": 321095,
+        "chg24": 0.14
       },
       {
         "sym": "ETH",
-        "usd": 2438.28,
-        "pln": 9441.61,
-        "chg24": -0.24
+        "usd": 2442.7,
+        "pln": 9466.67,
+        "chg24": -0.05
       }
     ],
     "stale": false
@@ -59,24 +59,24 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.74,
-        "chg": -1.19,
-        "as_of": "22.10 03:10"
+        "value": 56.49,
+        "chg": -1.62,
+        "as_of": "22.10 04:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.522,
-        "chg": -0.32,
-        "as_of": "22.10 03:10"
+        "value": 6.485,
+        "chg": -0.89,
+        "as_of": "22.10 04:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
         "value": 1.4083,
-        "chg": -2.3,
+        "chg": -0.14,
         "as_of": "22.10 02:20"
       },
       {
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 03:10",
+    "updated": "22.10 04:09",
     "stale": false
   },
   "fx": {
