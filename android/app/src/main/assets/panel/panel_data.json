@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-21T23:20:14+00:00",
+  "generated": "2026-10-22T00:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 15.2,
-    "feels": 13.5,
+    "temp": 14.9,
+    "feels": 13.3,
     "code": 3,
     "wind": 3.2,
-    "humidity": 51,
+    "humidity": 53,
     "is_day": false,
-    "tmax": 15.7,
+    "tmax": 15.8,
     "tmin": 8.1,
     "forecast": [
       {
         "date": "2026-10-22",
-        "max": 15.7,
+        "max": 15.8,
         "min": 8.1,
         "code": 63
       },
       {
         "date": "2026-10-23",
-        "max": 14.7,
-        "min": 6.4,
+        "max": 14.6,
+        "min": 6.8,
         "code": 3
       },
       {
         "date": "2026-10-24",
         "max": 11.1,
         "min": 4.8,
-        "code": 51
+        "code": 45
       }
     ],
-    "observed": "2026-10-22T01:15",
+    "observed": "2026-10-22T02:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 84284,
-        "pln": 326965,
-        "chg24": 1.67
+        "usd": 84190,
+        "pln": 326583,
+        "chg24": 1.32
       },
       {
         "sym": "ETH",
-        "usd": 2478.04,
-        "pln": 9613.09,
-        "chg24": 1.27
+        "usd": 2476.95,
+        "pln": 9608.45,
+        "chg24": 1.02
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 57.715,
-        "chg": 0.02,
-        "as_of": "21.10 23:09"
+        "value": 57.725,
+        "chg": 0.03,
+        "as_of": "22.10 00:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.549,
-        "chg": -0.27,
-        "as_of": "21.10 23:10"
+        "value": 6.5595,
+        "chg": -0.11,
+        "as_of": "22.10 00:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "21.10 23:10",
+    "updated": "22.10 00:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Fortuna targets deeper Lindero pit after gold hits",
+        "url": "https://www.mining.com/fortuna-targets-deeper-lindero-pit-after-gold-hits/",
+        "date": "Wed, 21 Oct 2026 23:22:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Lithium’s $100B question: Who will build 134 new mines?",
         "url": "https://www.mining.com/lithiums-100b-question-who-will-build-134-new-mines/",
@@ -142,12 +148,6 @@
         "title": "Endurance Gold expands zones at Reliance as PEA work ongoing",
         "url": "https://www.mining.com/endurance-gold-expands-zones-at-reliance-as-pea-work-ongoing/",
         "date": "Wed, 21 Oct 2026 15:24:29 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Hudbay, Mitsubishi approve Copper World construction",
-        "url": "https://www.mining.com/hudbay-mitsubishi-approve-copper-world-construction/",
-        "date": "Wed, 21 Oct 2026 14:23:33 +0000",
         "src": "Mining.com"
       }
     ],
