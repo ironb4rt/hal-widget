@@ -1,21 +1,21 @@
 {
-  "generated": "2026-10-22T06:20:06+00:00",
+  "generated": "2026-10-22T07:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.5,
-    "feels": 8.5,
+    "temp": 10.3,
+    "feels": 7.4,
     "code": 61,
-    "wind": 21.2,
-    "humidity": 91,
+    "wind": 17.3,
+    "humidity": 89,
     "is_day": true,
     "tmax": 15.8,
-    "tmin": 8.0,
+    "tmin": 8.5,
     "forecast": [
       {
         "date": "2026-10-22",
         "max": 15.8,
-        "min": 8.0,
+        "min": 8.5,
         "code": 63
       },
       {
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-24",
-        "max": 12.2,
-        "min": 5.7,
-        "code": 3
+        "max": 11.8,
+        "min": 7.1,
+        "code": 51
       }
     ],
-    "observed": "2026-10-22T08:15",
+    "observed": "2026-10-22T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82714,
-        "pln": 320748,
-        "chg24": 0.14
+        "usd": 82215,
+        "pln": 318977,
+        "chg24": -0.6
       },
       {
         "sym": "ETH",
-        "usd": 2436.75,
-        "pln": 9449.22,
-        "chg24": 0.02
+        "usd": 2426.28,
+        "pln": 9413.45,
+        "chg24": -0.61
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.44,
-        "chg": -1.71,
-        "as_of": "22.10 06:10"
+        "value": 56.15,
+        "chg": -2.22,
+        "as_of": "22.10 07:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4815,
-        "chg": -0.94,
-        "as_of": "22.10 06:09"
+        "value": 6.4385,
+        "chg": -1.6,
+        "as_of": "22.10 07:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 06:10",
+    "updated": "22.10 07:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "17-latek ze złamanym obojczykiem. Kierowca nie ustąpił mu pierwszeństwa",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/17-latek-ze-zlamanym-obojczykiem-kierowca-nie-ustapil-mu-pierwszenstwa/101933/",
-        "date": "Thu, 22 Oct 2026 06:11:08 +0000",
+        "title": "W niedzielę warto zajrzeć do Soli",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/w-niedziele-warto-zajrzec-do-soli/101939/",
+        "date": "Thu, 22 Oct 2026 07:05:13 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Wojewódzki Szpital Chorób Płuc w Wodzisławiu ponownie korzysta ze swojego własnego źródła wody pitnej [WIDEO]",
+        "url": "https://www.radio90.pl/wojewodzki-szpital-chorob-pluc-w-wodzislawiu-ponownie-korzysta-ze-swojego-wlasnego-zrodla-wody-pitnej-wideo.html",
+        "date": "Thu, 22 Oct 2026 06:40:33 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Trzy zawodniczki BKT Advantage Bielsko-Biała w reprezentacji Polski!",
+        "url": "https://www.radiobielsko.pl/sport/trzy-zawodniczki-bkt-advantage-bielsko-biala-w-reprezentacji-polski/101938/",
+        "date": "Thu, 22 Oct 2026 06:54:06 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Miało być lepiej, a znów jest nerwowo. „Wszyscy mamy do siebie żal”",
-        "url": "https://www.radiobielsko.pl/sport/mialo-byc-lepiej-a-znow-jest-nerwowo-wszyscy-mamy-do-siebie-zal/101822/",
-        "date": "Thu, 22 Oct 2026 05:43:57 +0000",
+        "title": "Potwierdziło się najgorsze! Gwiazda wypadnie z gry na długie miesiące",
+        "url": "https://www.radiobielsko.pl/sport/jest-diagnoza-gwiazda-wypadnie-z-gry-na-dlugie-miesiace/101749/",
+        "date": "Thu, 22 Oct 2026 06:11:39 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Październik zaskoczył temperaturą. Bielsko-Biała znów najcieplejsza w Polsce!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/pazdziernik-zaskoczyl-temperatura-bielsko-biala-znow-najcieplejsza-w-polsce/101909/",
-        "date": "Wed, 21 Oct 2026 19:25:42 +0000",
+        "title": "Nastolatek połamany po groźnym wypadku. Kierowca dostawczaka nie ustąpił mu pierwszeństwa",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/17-latek-ze-zlamanym-obojczykiem-kierowca-nie-ustapil-mu-pierwszenstwa/101933/",
+        "date": "Thu, 22 Oct 2026 06:11:08 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -187,21 +199,14 @@
         "url": "https://www.radio90.pl/dzien-bezpieczenstwa-w-jastrzebiu-odbedzie-sie-w-wyzszej-szkole-bezpieczenstwa-beda-strazacy-policjanci.html",
         "date": "Wed, 21 Oct 2026 18:25:03 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Bezkonkurencyjny lider! Oto najmłodsze drużyny V Ligi",
-        "url": "https://www.radiobielsko.pl/sport/bezkonkurencyjny-lider-oto-najmlodsze-druzyny-v-ligi/101869/",
-        "date": "Wed, 21 Oct 2026 17:58:31 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Pomnik przyrody w Pstrążnej otrzyma imię. Jak będzie się nazywał? Zdecyduje internetowe głosowanie",
-        "url": "https://www.radio90.pl/pomnik-przyrody-w-pstraznej-otrzyma-imie-jak-bedzie-sie-nazywal-zdecyduje-internetowe-glosowanie.html",
-        "date": "Wed, 21 Oct 2026 17:40:31 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "Policjanci kontrolowali przejazdy kolejowe w Bielsku-Białej i powiecie. Ujawnili osiem wykroczeń",
+        "url": "/informacje/21021-policjanci-kontrolowali-przejazdy-kolejowe-w-bielsku-bialej-i-powiecie-ujawnili-osiem-wykroczen",
+        "date": ""
+      },
       {
         "title": "Ambulans Bielskiego Pogotowia Ratunkowego trafił na Uniwersytet Bielsko-Bialski",
         "url": "/informacje/21020-ambulans-bielskiego-pogotowia-ratunkowego-trafil-na-uniwersytet-bielsko-bialski",
@@ -225,11 +230,6 @@
       {
         "title": "Darmowa komunikacja miejska na Wszystkich Świętych. Uruchomią specjalne linie",
         "url": "/informacje/21010-darmowa-komunikacja-miejska-na-wszystkich-swietych-uruchomia-specjalne-linie",
-        "date": ""
-      },
-      {
-        "title": "Gorący tematPonad 2 promile alkoholu i 10-letnia wnuczka w aucie. 59-latek rozbił się na Krakowskiej",
-        "url": "/informacje/21006-ponad-2-promile-alkoholu-i-10-letnia-wnuczka-w-aucie-59-latek-rozbil-sie-na-krakowskiej",
         "date": ""
       }
     ],
