@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-22T04:20:06+00:00",
+  "generated": "2026-10-22T05:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.1,
-    "feels": 11.6,
+    "temp": 12.3,
+    "feels": 11.5,
     "code": 63,
-    "wind": 4.7,
-    "humidity": 90,
+    "wind": 7.9,
+    "humidity": 92,
     "is_day": false,
     "tmax": 15.8,
     "tmin": 8.1,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-22T06:15",
+    "observed": "2026-10-22T07:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82853,
-        "pln": 321095,
-        "chg24": 0.14
+        "usd": 82739,
+        "pln": 320760,
+        "chg24": -0.09
       },
       {
         "sym": "ETH",
-        "usd": 2442.7,
-        "pln": 9466.67,
-        "chg24": -0.05
+        "usd": 2439.29,
+        "pln": 9456.56,
+        "chg24": -0.29
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.49,
-        "chg": -1.62,
-        "as_of": "22.10 04:09"
+        "value": 56.41,
+        "chg": -1.76,
+        "as_of": "22.10 05:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.485,
-        "chg": -0.89,
-        "as_of": "22.10 04:09"
+        "value": 6.4885,
+        "chg": -0.83,
+        "as_of": "22.10 05:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 04:09",
+    "updated": "22.10 05:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Nowy przystanek autobusowy w Żorach. Pasażerowie będą mogli z niego skorzystać od najbliższej soboty",
+        "url": "https://www.radio90.pl/nowy-przystanek-autobusowy-w-zorach-pasazerowie-beda-mogli-z-niego-skorzystac-od-najblizszej-soboty.html",
+        "date": "Thu, 22 Oct 2026 04:50:05 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Październik zaskoczył temperaturą. Bielsko-Biała znów najcieplejsza w Polsce!",
         "url": "https://www.radiobielsko.pl/bielsko-biala/pazdziernik-zaskoczyl-temperatura-bielsko-biala-znow-najcieplejsza-w-polsce/101909/",
         "date": "Wed, 21 Oct 2026 19:25:42 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/dziewiaty-klub-seniora-otwarty-w-bielsku-bialej-powstal-przy-ulicy-solskiego/101889/",
         "date": "Wed, 21 Oct 2026 17:10:26 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Nowy mural w Raciborzu. To czekoladowa historia miasta",
-        "url": "https://www.radio90.pl/nowy-mural-w-raciborzu-to-czekoladowa-historia-miasta.html",
-        "date": "Wed, 21 Oct 2026 16:25:21 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
