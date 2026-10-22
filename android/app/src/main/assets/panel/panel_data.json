@@ -1,21 +1,21 @@
 {
-  "generated": "2026-10-22T07:20:07+00:00",
+  "generated": "2026-10-22T08:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.3,
-    "feels": 7.4,
+    "temp": 10.0,
+    "feels": 6.8,
     "code": 61,
-    "wind": 17.3,
+    "wind": 18.4,
     "humidity": 89,
     "is_day": true,
     "tmax": 15.8,
-    "tmin": 8.5,
+    "tmin": 8.0,
     "forecast": [
       {
         "date": "2026-10-22",
         "max": 15.8,
-        "min": 8.5,
+        "min": 8.0,
         "code": 63
       },
       {
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-24",
-        "max": 11.8,
-        "min": 7.1,
+        "max": 12.0,
+        "min": 6.2,
         "code": 51
       }
     ],
-    "observed": "2026-10-22T09:15",
+    "observed": "2026-10-22T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 82215,
-        "pln": 318977,
-        "chg24": -0.6
+        "usd": 82050,
+        "pln": 318763,
+        "chg24": -1.17
       },
       {
         "sym": "ETH",
-        "usd": 2426.28,
-        "pln": 9413.45,
-        "chg24": -0.61
+        "usd": 2415.09,
+        "pln": 9382.55,
+        "chg24": -1.48
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 56.15,
-        "chg": -2.22,
-        "as_of": "22.10 07:10"
+        "value": 55.93,
+        "chg": -2.6,
+        "as_of": "22.10 08:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4385,
-        "chg": -1.6,
-        "as_of": "22.10 07:10"
+        "value": 6.4075,
+        "chg": -2.07,
+        "as_of": "22.10 08:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4083,
-        "chg": -0.14,
-        "as_of": "22.10 02:20"
+        "value": 1.3974,
+        "chg": -3.05,
+        "as_of": "22.10 08:00"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 07:10",
+    "updated": "22.10 08:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,33 @@
     ],
     "local": [
       {
-        "title": "W niedzielę warto zajrzeć do Soli",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/w-niedziele-warto-zajrzec-do-soli/101939/",
-        "date": "Thu, 22 Oct 2026 07:05:13 +0000",
+        "title": "Szczyrk bez nocnej i świątecznej opieki zdrowotnej!",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/szczyrk-bez-nocnej-i-swiatecznej-opieki-zdrowotnej/101963/",
+        "date": "Thu, 22 Oct 2026 08:18:58 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Nieszczęśliwe wypadki w Raciborzu",
+        "url": "https://www.radio90.pl/nieszczesliwe-wypadki-w-raciborzu.html",
+        "date": "Thu, 22 Oct 2026 08:15:05 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Kontuzje pokrzyżują plany lidera?",
+        "url": "https://www.radiobielsko.pl/sport/kontuzje-pokrzyzuja-plany-lidera/101952/",
+        "date": "Thu, 22 Oct 2026 08:06:57 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Śląska Policja z apelem o rozwagę na drodze",
+        "url": "https://www.radio90.pl/slaska-policja-z-apelem-o-rozwage-na-drodze.html",
+        "date": "Thu, 22 Oct 2026 07:30:50 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Nowy parking przy Szpitalu Pediatrycznym w Bielsku-Białej. Ile kosztuje postój?",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/nowy-parking-przy-szpitalu-pediatrycznym-w-bielsku-bialej-ile-kosztuje-postoj/101956/",
+        "date": "Thu, 22 Oct 2026 07:58:12 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,39 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Trzy zawodniczki BKT Advantage Bielsko-Biała w reprezentacji Polski!",
-        "url": "https://www.radiobielsko.pl/sport/trzy-zawodniczki-bkt-advantage-bielsko-biala-w-reprezentacji-polski/101938/",
-        "date": "Thu, 22 Oct 2026 06:54:06 +0000",
+        "title": "Niski poziom wód. W Łące korona zapory zamknięta",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/niski-poziom-wod-w-lace-korona-zapory-zamknieta/101945/",
+        "date": "Thu, 22 Oct 2026 07:36:34 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Koniec utrudnień w Bargłówce. Droga wojewódzka jest przejezdna",
         "url": "https://www.radio90.pl/koniec-utrudnien-w-barglowce-droga-wojewodzka-jest-przejezdna.html",
         "date": "Thu, 22 Oct 2026 05:37:07 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Potwierdziło się najgorsze! Gwiazda wypadnie z gry na długie miesiące",
-        "url": "https://www.radiobielsko.pl/sport/jest-diagnoza-gwiazda-wypadnie-z-gry-na-dlugie-miesiace/101749/",
-        "date": "Thu, 22 Oct 2026 06:11:39 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Nowy przystanek autobusowy w Żorach. Pasażerowie będą mogli z niego skorzystać od najbliższej soboty",
-        "url": "https://www.radio90.pl/nowy-przystanek-autobusowy-w-zorach-pasazerowie-beda-mogli-z-niego-skorzystac-od-najblizszej-soboty.html",
-        "date": "Thu, 22 Oct 2026 04:50:05 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Nastolatek połamany po groźnym wypadku. Kierowca dostawczaka nie ustąpił mu pierwszeństwa",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/17-latek-ze-zlamanym-obojczykiem-kierowca-nie-ustapil-mu-pierwszenstwa/101933/",
-        "date": "Thu, 22 Oct 2026 06:11:08 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Dzień Bezpieczeństwa w Jastrzębiu. Odbędzie się w Wyższej Szkole Bezpieczeństwa. Będą strażacy, policjanci",
-        "url": "https://www.radio90.pl/dzien-bezpieczenstwa-w-jastrzebiu-odbedzie-sie-w-wyzszej-szkole-bezpieczenstwa-beda-strazacy-policjanci.html",
-        "date": "Wed, 21 Oct 2026 18:25:03 +0000",
         "src": "Radio90"
       }
     ],
