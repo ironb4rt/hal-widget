@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-22T13:20:09+00:00",
+  "generated": "2026-10-22T14:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.8,
-    "feels": 5.9,
-    "code": 55,
-    "wind": 23.0,
-    "humidity": 88,
+    "temp": 9.5,
+    "feels": 5.8,
+    "code": 51,
+    "wind": 20.5,
+    "humidity": 86,
     "is_day": true,
     "tmax": 15.8,
     "tmin": 8.2,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-24",
         "max": 11.2,
-        "min": 7.8,
+        "min": 8.0,
         "code": 51
       }
     ],
-    "observed": "2026-10-22T15:15",
+    "observed": "2026-10-22T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81673,
-        "pln": 318552,
-        "chg24": -2.42
+        "usd": 81618,
+        "pln": 318946,
+        "chg24": -2.6
       },
       {
         "sym": "ETH",
-        "usd": 2396.87,
-        "pln": 9348.64,
-        "chg24": -3.39
+        "usd": 2404.88,
+        "pln": 9397.79,
+        "chg24": -2.59
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 55.865,
-        "chg": -2.71,
-        "as_of": "22.10 13:10"
+        "value": 55.315,
+        "chg": -3.67,
+        "as_of": "22.10 14:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4285,
-        "chg": -1.75,
-        "as_of": "22.10 13:10"
+        "value": 6.4265,
+        "chg": -1.78,
+        "as_of": "22.10 14:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4065,
-        "chg": -2.42,
-        "as_of": "22.10 13:09"
+        "value": 1.4035,
+        "chg": -2.63,
+        "as_of": "22.10 14:08"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "22.10 13:10",
+    "updated": "22.10 14:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "Płacili wykorzystując cudze dane bankowe. Prokuratura Rejonowa w Żywcu prowadzi postępowanie w tej sprawie. Zatrzymano Chińczyka",
+        "url": "https://www.radio90.pl/placili-wykorzystujac-cudze-dane-bankowe-prokuratura-rejonowa-w-zywcu-prowadzi-postepowanie-w-tej-sprawie-zatrzymano-chinczyka.html",
+        "date": "Thu, 22 Oct 2026 13:50:06 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Wypadek w trudno dostępnym terenie. Śmigłowiec ruszył po 45-latka",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/wypadek-w-trudno-dostepnym-terenie-smiglowiec-ruszyl-po-45-latka/102041/",
+        "date": "Thu, 22 Oct 2026 13:44:59 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Ważne dla kierowców: utrudnienia w Czeskim Cieszynie",
         "url": "https://www.radio90.pl/wazne-dla-kierowcow-utrudnienia-w-czeskim-cieszynie.html",
         "date": "Thu, 22 Oct 2026 13:15:21 +0000",
@@ -171,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Dwie Sephie w jednym mieście. Kultowy lokal wraca po latach",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-sephie-w-jednym-miescie-kultowy-lokal-wraca-po-latach/102018/",
-        "date": "Thu, 22 Oct 2026 12:18:10 +0000",
+        "title": "Bielski tenis przeżywa piękne chwile! Kolejny wielki sukces",
+        "url": "https://www.radiobielsko.pl/sport/bielski-tenis-przezywa-piekne-chwile-kolejny-wielki-sukces/102016/",
+        "date": "Thu, 22 Oct 2026 12:45:22 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,21 +195,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Bielski tenis przeżywa piękne chwile! Kolejny wielki sukces",
-        "url": "https://www.radiobielsko.pl/sport/bielski-tenis-przezywa-piekne-chwile-kolejny-wielki-sukces/102016/",
-        "date": "Thu, 22 Oct 2026 12:06:22 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Podatki w Rybniku poszybują w górę?",
-        "url": "https://www.radio90.pl/podatki-w-rybniku-poszybuja-w-gore.html",
-        "date": "Thu, 22 Oct 2026 11:35:51 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Tragiczny koniec poszukiwań. Badania DNA dały odpowiedź",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/tragiczny-koniec-poszukiwan-badania-dna-daly-odpowiedz/102006/",
-        "date": "Thu, 22 Oct 2026 11:32:19 +0000",
+        "title": "Dwie Sephie w jednym mieście. Kultowy lokal wraca po latach",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-sephie-w-jednym-miescie-kultowy-lokal-wraca-po-latach/102018/",
+        "date": "Thu, 22 Oct 2026 12:18:10 +0000",
         "src": "RadioBielsko"
       }
     ],
