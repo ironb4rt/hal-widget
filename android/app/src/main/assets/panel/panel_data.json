@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T10:20:15+00:00",
+  "generated": "2026-10-23T11:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.3,
+    "temp": 14.4,
     "feels": 11.1,
     "code": 0,
-    "wind": 4.3,
-    "humidity": 49,
+    "wind": 8.3,
+    "humidity": 39,
     "is_day": true,
     "tmax": 14.8,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-23T12:15",
+    "observed": "2026-10-23T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81719,
-        "pln": 320632,
-        "chg24": -0.33
+        "usd": 81562,
+        "pln": 320156,
+        "chg24": -0.43
       },
       {
         "sym": "ETH",
-        "usd": 2400.2,
-        "pln": 9417.41,
-        "chg24": -0.32
+        "usd": 2395.15,
+        "pln": 9401.71,
+        "chg24": -0.31
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.88,
-        "chg": -1.61,
-        "as_of": "23.10 10:10"
+        "value": 54.075,
+        "chg": -1.26,
+        "as_of": "23.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.449,
-        "chg": 1.36,
-        "as_of": "23.10 10:10"
+        "value": 6.477,
+        "chg": 1.8,
+        "as_of": "23.10 11:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3994,
-        "chg": -3.37,
-        "as_of": "23.10 10:07"
+        "value": 1.4001,
+        "chg": -3.33,
+        "as_of": "23.10 10:15"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 10:10",
+    "updated": "23.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Remontują kamienicę na Rynku. To jeden z ostatnich zaniedbanych budynków",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/remontuja-kamienice-na-rynku-to-jeden-z-ostatnich-zaniedbanych-budynkow/102163/",
+        "date": "Fri, 23 Oct 2026 11:13:17 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Przebudowa drogi między Kornowacem a Rydułtowami. Mieszkańcy gminy Lyski skarżą się na ogromny ruch aut ciężarowych",
+        "url": "https://www.radio90.pl/przebudowa-drogi-miedzy-kornowacem-a-rydultowami-mieszkancy-gminy-lyski-skarza-sie-na-ogromny-ruch-aut-ciezarowych.html",
+        "date": "Fri, 23 Oct 2026 10:50:49 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Rusza przebudowa ważnej drogi. Utrudnienia aż do wiosny",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/rusza-przebudowa-waznej-drogi-utrudnienia-az-do-wiosny/102157/",
+        "date": "Fri, 23 Oct 2026 10:30:55 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Społeczna Straż Rybacka w Żywcu przeprowadziła kontrole wód. Dwukrotnie interweniowała policja",
         "url": "https://www.radio90.pl/spoleczna-straz-rybacka-w-zywcu-przeprowadzila-kontrole-wod-dwukrotnie-interweniowala-policja.html",
         "date": "Fri, 23 Oct 2026 10:00:13 +0000",
@@ -181,30 +199,27 @@
         "url": "https://www.radio90.pl/pozar-w-czerwionce-leszczynach-ogien-pojawil-sie-w-jednym-z-domow-poszkodowany-zostal-42-latek.html",
         "date": "Fri, 23 Oct 2026 08:45:17 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Tomasiak wraca do rywalizacji! Przed nim finał sezonu",
-        "url": "https://www.radiobielsko.pl/sport/tomasiak-wraca-do-rywalizacji-przed-nim-final-sezonu/102146/",
-        "date": "Fri, 23 Oct 2026 08:42:41 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Utrudnienia na drodze Racibórz-Pszczyna w Rybniku. Dwa auta zderzyły się na Alei ROW. Ostrzegają nasi słuchacze [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/utrudnienia-na-drodze-raciborz-pszczyna-w-rybniku-dwa-auta-zderzyly-sie-na-alei-row-ostrzegaja-nasi-sluchacze.html",
-        "date": "Fri, 23 Oct 2026 08:05:25 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Bielsko-Biała ogłosiło przetargi na parkingi podziemne",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/bielsko-biala-oglosilo-przetargi-na-parkingi-podziemne/102138/",
-        "date": "Fri, 23 Oct 2026 07:43:06 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
       {
+        "title": "MZD w Bielsku-Białej sprzedaje cztery Skody Fabie. Ceny od 11,2 tys. zł",
+        "url": "/informacje/21032-mzd-w-bielsku-bialej-sprzedaje-cztery-skody-fabie-ceny-od-11-2-tys-zl",
+        "date": ""
+      },
+      {
+        "title": "Piastowska: prace drogowe są zaawansowane w 80 procentach",
+        "url": "/informacje/21031-piastowska-prace-drogowe-sa-zaawansowane-w-80-procentach",
+        "date": ""
+      },
+      {
         "title": "Stracił panowanie nad swoim samochodem i wjechał na nasyp kolejowy. Wydmuchał 1,4 promila!",
         "url": "/informacje/21029-stracil-panowanie-nad-swoim-samochodem-i-wjechal-na-nasyp-kolejowy-wydmuchal-1-4-promila",
+        "date": ""
+      },
+      {
+        "title": "Bezpłatne sprawdzenie świateł w Bielsku-Białej. Sprawdź, gdzie podjechać",
+        "url": "/informacje/21030-bezplatne-sprawdzenie-swiatel-w-bielsku-bialej-sprawdz-gdzie-podjechac",
         "date": ""
       },
       {
@@ -215,21 +230,6 @@
       {
         "title": "Ciemności egipskie na Michałowicza? Pojechaliśmy na miejsce i zastaliśmy zupełnie inny obraz",
         "url": "/informacje/21026-ciemnosci-egipskie-na-michalowicza-pojechalismy-na-miejsce-i-zastalismy-zupelnie-inny-obraz",
-        "date": ""
-      },
-      {
-        "title": "[FOTO] Tragiczny wypadek na tyskim odcinku DK-1. Nie żyje 16-latek",
-        "url": "/informacje/21028-foto-tragiczny-wypadek-na-tyskim-odcinku-dk-1-nie-zyje-16-latek",
-        "date": ""
-      },
-      {
-        "title": "[FOTO] Za szybko w zakręcie. Przyczepa przewróciła się na pobocze przy ul. Legionów",
-        "url": "/informacje/21024-foto-za-szybko-w-zakrecie-przyczepa-przewrocila-sie-na-pobocze-przy-ul-legionow",
-        "date": ""
-      },
-      {
-        "title": "Pediatryk w Bielsku-Białej wyremontował parking. Ile kosztuje postój?",
-        "url": "/informacje/21022-pediatryk-w-bielsku-bialej-wyremontowal-parking-ile-kosztuje-postoj",
         "date": ""
       }
     ],
