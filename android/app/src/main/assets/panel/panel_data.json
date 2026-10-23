@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T09:20:15+00:00",
+  "generated": "2026-10-23T10:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.8,
-    "feels": 9.1,
+    "temp": 13.3,
+    "feels": 11.1,
     "code": 0,
-    "wind": 7.2,
-    "humidity": 54,
+    "wind": 4.3,
+    "humidity": 49,
     "is_day": true,
     "tmax": 14.8,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-23T11:15",
+    "observed": "2026-10-23T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81710,
-        "pln": 320768,
-        "chg24": -0.15
+        "usd": 81719,
+        "pln": 320632,
+        "chg24": -0.33
       },
       {
         "sym": "ETH",
-        "usd": 2402.73,
-        "pln": 9432.37,
-        "chg24": -0.06
+        "usd": 2400.2,
+        "pln": 9417.41,
+        "chg24": -0.32
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.125,
-        "chg": -1.17,
-        "as_of": "23.10 09:10"
+        "value": 53.88,
+        "chg": -1.61,
+        "as_of": "23.10 10:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.458,
-        "chg": 1.5,
-        "as_of": "23.10 09:10"
+        "value": 6.449,
+        "chg": 1.36,
+        "as_of": "23.10 10:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4016,
-        "chg": -3.23,
-        "as_of": "23.10 08:50"
+        "value": 1.3994,
+        "chg": -3.37,
+        "as_of": "23.10 10:07"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 09:10",
+    "updated": "23.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,30 @@
     ],
     "local": [
       {
+        "title": "Społeczna Straż Rybacka w Żywcu przeprowadziła kontrole wód. Dwukrotnie interweniowała policja",
+        "url": "https://www.radio90.pl/spoleczna-straz-rybacka-w-zywcu-przeprowadzila-kontrole-wod-dwukrotnie-interweniowala-policja.html",
+        "date": "Fri, 23 Oct 2026 10:00:13 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "RADIOWE TYPY: 12. kolejka żywiecko-skoczowskiej Klasy Okręgowej",
+        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-12-kolejka-zywiecko-skoczowskiej-klasy-okregowej/102151/",
+        "date": "Fri, 23 Oct 2026 09:59:51 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Dachowanie w Godowie. Kierowca pomylił biegi z… hamulcem ręcznym. Rozbił auto i dostał mandat",
+        "url": "https://www.radio90.pl/dachowanie-w-godowie-kierowca-pomylil-biegi-z-hamulcem-recznym-rozbil-auto-i-dostal-mandat.html",
+        "date": "Fri, 23 Oct 2026 09:25:42 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Rano był przejazd, po kilku godzinach zniknął",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/rano-byl-przejazd-po-kilku-godzinach-zniknal/102149/",
+        "date": "Fri, 23 Oct 2026 09:24:07 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Pożar w Czerwionce-Leszczynach. Ogień pojawił się w jednym z domów. Poszkodowany został 42-latek",
         "url": "https://www.radio90.pl/pozar-w-czerwionce-leszczynach-ogien-pojawil-sie-w-jednym-z-domow-poszkodowany-zostal-42-latek.html",
         "date": "Fri, 23 Oct 2026 08:45:17 +0000",
@@ -175,33 +199,14 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/bielsko-biala-oglosilo-przetargi-na-parkingi-podziemne/102138/",
         "date": "Fri, 23 Oct 2026 07:43:06 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "JKH GKS Jastrzębie zagra z STS Sanok-Sokół",
-        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-zagra-z-sts-sanok-sokol.html",
-        "date": "Fri, 23 Oct 2026 07:35:40 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Trzy mecze bez zwycięstwa. W sobotę zmierzą się z outsiderem",
-        "url": "https://www.radiobielsko.pl/sport/trzy-mecze-bez-zwyciestwa-w-sobote-zmierza-sie-z-outsiderem/102137/",
-        "date": "Fri, 23 Oct 2026 07:41:29 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Powiat Żywiecki inwestuje w szkolnictwo zawodowe",
-        "url": "https://www.radio90.pl/powiat-zywiecki-inwestuje-w-szkolnictwo-zawodowe.html",
-        "date": "Fri, 23 Oct 2026 07:00:42 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Po przełamaniu czas na kolejne wyzwanie! BBTS Bielsko-Biała wraca do gry",
-        "url": "https://www.radiobielsko.pl/sport/po-przelamaniu-czas-na-kolejny-mecz-bbts-bielsko-biala-wraca-do-gry/102126/",
-        "date": "Fri, 23 Oct 2026 06:26:25 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "Stracił panowanie nad swoim samochodem i wjechał na nasyp kolejowy. Wydmuchał 1,4 promila!",
+        "url": "/informacje/21029-stracil-panowanie-nad-swoim-samochodem-i-wjechal-na-nasyp-kolejowy-wydmuchal-1-4-promila",
+        "date": ""
+      },
       {
         "title": "Niebezpieczna sytuacja na skrzyżowaniu 1 Maja z Zamkową. Brakuje znaku STOP",
         "url": "/informacje/21027-niebezpieczna-sytuacja-na-skrzyzowaniu-1-maja-z-zamkowa-brakuje-znaku-stop",
@@ -225,11 +230,6 @@
       {
         "title": "Pediatryk w Bielsku-Białej wyremontował parking. Ile kosztuje postój?",
         "url": "/informacje/21022-pediatryk-w-bielsku-bialej-wyremontowal-parking-ile-kosztuje-postoj",
-        "date": ""
-      },
-      {
-        "title": "Policjanci kontrolowali przejazdy kolejowe w Bielsku-Białej i powiecie. Ujawnili osiem wykroczeń",
-        "url": "/informacje/21021-policjanci-kontrolowali-przejazdy-kolejowe-w-bielsku-bialej-i-powiecie-ujawnili-osiem-wykroczen",
         "date": ""
       }
     ],
