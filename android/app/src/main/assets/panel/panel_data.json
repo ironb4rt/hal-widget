@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T07:20:14+00:00",
+  "generated": "2026-10-23T08:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.4,
-    "feels": 4.7,
+    "temp": 10.0,
+    "feels": 6.8,
     "code": 0,
-    "wind": 12.6,
-    "humidity": 63,
+    "wind": 10.8,
+    "humidity": 61,
     "is_day": true,
     "tmax": 14.9,
     "tmin": 6.3,
@@ -21,17 +21,17 @@
       {
         "date": "2026-10-24",
         "max": 12.1,
-        "min": 8.5,
+        "min": 8.1,
         "code": 51
       },
       {
         "date": "2026-10-25",
-        "max": 11.8,
+        "max": 11.9,
         "min": 5.4,
         "code": 53
       }
     ],
-    "observed": "2026-10-23T09:15",
+    "observed": "2026-10-23T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81648,
-        "pln": 319324,
-        "chg24": -0.74
+        "usd": 81737,
+        "pln": 320039,
+        "chg24": -0.36
       },
       {
         "sym": "ETH",
-        "usd": 2401.29,
-        "pln": 9391.45,
-        "chg24": -1.08
+        "usd": 2407.36,
+        "pln": 9425.96,
+        "chg24": -0.26
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.06,
-        "chg": -1.29,
-        "as_of": "23.10 07:10"
+        "value": 53.84,
+        "chg": -1.69,
+        "as_of": "23.10 08:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.438,
-        "chg": 1.19,
-        "as_of": "23.10 07:10"
+        "value": 6.456,
+        "chg": 1.47,
+        "as_of": "23.10 08:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4061,
-        "chg": -2.91,
-        "as_of": "23.10 07:09"
+        "value": 1.405,
+        "chg": -2.99,
+        "as_of": "23.10 08:00"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 07:10",
+    "updated": "23.10 08:10",
     "stale": false
   },
   "fx": {
@@ -153,13 +153,37 @@
     ],
     "local": [
       {
+        "title": "Utrudnienia na drodze Racibórz-Pszczyna w Rybniku. Dwa auta zderzyły się na Alei ROW. Ostrzegają nasi słuchacze",
+        "url": "https://www.radio90.pl/utrudnienia-na-drodze-raciborz-pszczyna-w-rybniku-dwa-auta-zderzyly-sie-na-alei-row-ostrzegaja-nasi-sluchacze.html",
+        "date": "Fri, 23 Oct 2026 08:05:25 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Bielsko-Biała ogłosiło przetargi na parkingi podziemne",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/bielsko-biala-oglosilo-przetargi-na-parkingi-podziemne/102138/",
+        "date": "Fri, 23 Oct 2026 07:43:06 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "JKH GKS Jastrzębie zagra z STS Sanok-Sokół",
+        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-zagra-z-sts-sanok-sokol.html",
+        "date": "Fri, 23 Oct 2026 07:35:40 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Trzy mecze bez zwycięstwa. W sobotę zmierzą się z outsiderem",
+        "url": "https://www.radiobielsko.pl/sport/trzy-mecze-bez-zwyciestwa-w-sobote-zmierza-sie-z-outsiderem/102137/",
+        "date": "Fri, 23 Oct 2026 07:41:29 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Powiat Żywiecki inwestuje w szkolnictwo zawodowe",
         "url": "https://www.radio90.pl/powiat-zywiecki-inwestuje-w-szkolnictwo-zawodowe.html",
         "date": "Fri, 23 Oct 2026 07:00:42 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Po przełamaniu czas na kolejny mecz! BBTS Bielsko-Biała wraca do gry",
+        "title": "Po przełamaniu czas na kolejne wyzwanie! BBTS Bielsko-Biała wraca do gry",
         "url": "https://www.radiobielsko.pl/sport/po-przelamaniu-czas-na-kolejny-mecz-bbts-bielsko-biala-wraca-do-gry/102126/",
         "date": "Fri, 23 Oct 2026 06:26:25 +0000",
         "src": "RadioBielsko"
@@ -175,36 +199,22 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-demonstracje-na-placu-chrobrego-strajk-kobiet-zagluszony-przez-przeciwnikow-aborcji/102075/",
         "date": "Thu, 22 Oct 2026 19:57:58 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Starówka stanie się wielką galerią, żeby udowodnić, że sztuka jest dla każdego. Już wkrótce Noc Sztuki w Wodzisławiu Śląskim",
-        "url": "https://www.radio90.pl/starowka-stanie-sie-wielka-galeria-zeby-udowodnic-ze-sztuka-jest-dla-kazdego-juz-wkrotce-noc-sztuki-w-wodzislawiu-slaskim.html",
-        "date": "Fri, 23 Oct 2026 05:40:37 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dwukadencyjność zostaje. Kto w naszym regionie nie będzie mógł ponownie kandydować?",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/dwukadencyjnosc-zostaje-kto-w-naszym-regionie-nie-bedzie-mogl-ponownie-kandydowac/102070/",
-        "date": "Thu, 22 Oct 2026 19:39:14 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "JKH GKS Jastrzębie: siedmiu zawodników z powołaniami do reprezentacji Polski. Do seniorów i kadry młodzieżowej",
-        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-siedmiu-zawodnikow-z-powolaniami-do-reprezentacji-polski-do-seniorow-i-kadry-mlodziezowej.html",
-        "date": "Fri, 23 Oct 2026 04:50:32 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "„Mamusie, które sobie nie radzą”. Burza po słowach radnej o dzieciach z orzeczeniami",
-        "url": "https://www.radiobielsko.pl/powiat-wadowicki/mamusie-ktore-sobie-nie-radza-burza-po-slowach-radnej-o-dzieciach-z-orzeczeniami/102071/",
-        "date": "Thu, 22 Oct 2026 19:22:07 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
       {
+        "title": "Niebezpieczna sytuacja na skrzyżowaniu 1 Maja z Zamkową. Brakuje znaku STOP",
+        "url": "/informacje/21027-niebezpieczna-sytuacja-na-skrzyzowaniu-1-maja-z-zamkowa-brakuje-znaku-stop",
+        "date": ""
+      },
+      {
         "title": "Ciemności egipskie na Michałowicza? Pojechaliśmy na miejsce i zastaliśmy zupełnie inny obraz",
         "url": "/informacje/21026-ciemnosci-egipskie-na-michalowicza-pojechalismy-na-miejsce-i-zastalismy-zupelnie-inny-obraz",
+        "date": ""
+      },
+      {
+        "title": "[FOTO] Tragiczny wypadek na tyskim odcinku DK-1. Nie żyje 16-latek",
+        "url": "/informacje/21028-foto-tragiczny-wypadek-na-tyskim-odcinku-dk-1-nie-zyje-16-latek",
         "date": ""
       },
       {
@@ -220,16 +230,6 @@
       {
         "title": "Policjanci kontrolowali przejazdy kolejowe w Bielsku-Białej i powiecie. Ujawnili osiem wykroczeń",
         "url": "/informacje/21021-policjanci-kontrolowali-przejazdy-kolejowe-w-bielsku-bialej-i-powiecie-ujawnili-osiem-wykroczen",
-        "date": ""
-      },
-      {
-        "title": "Ambulans Bielskiego Pogotowia Ratunkowego trafił na Uniwersytet Bielsko-Bialski",
-        "url": "/informacje/21020-ambulans-bielskiego-pogotowia-ratunkowego-trafil-na-uniwersytet-bielsko-bialski",
-        "date": ""
-      },
-      {
-        "title": "Gorący temat[FOTO] Straconka: drogowa demolka za sprawą dziecka z karabinem?",
-        "url": "/informacje/21013-foto-straconka-drogowa-demolka-za-sprawa-dziecka-z-karabinem",
         "date": ""
       }
     ],
