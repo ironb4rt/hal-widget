@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-23T08:20:14+00:00",
+  "generated": "2026-10-23T09:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.0,
-    "feels": 6.8,
+    "temp": 11.8,
+    "feels": 9.1,
     "code": 0,
-    "wind": 10.8,
-    "humidity": 61,
+    "wind": 7.2,
+    "humidity": 54,
     "is_day": true,
-    "tmax": 14.9,
+    "tmax": 14.8,
     "tmin": 6.3,
     "forecast": [
       {
         "date": "2026-10-23",
-        "max": 14.9,
+        "max": 14.8,
         "min": 6.3,
         "code": 3
       },
       {
         "date": "2026-10-24",
-        "max": 12.1,
-        "min": 8.1,
+        "max": 11.1,
+        "min": 7.9,
         "code": 51
       },
       {
         "date": "2026-10-25",
-        "max": 11.9,
-        "min": 5.4,
+        "max": 11.1,
+        "min": 5.8,
         "code": 53
       }
     ],
-    "observed": "2026-10-23T10:15",
+    "observed": "2026-10-23T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81737,
-        "pln": 320039,
-        "chg24": -0.36
+        "usd": 81710,
+        "pln": 320768,
+        "chg24": -0.15
       },
       {
         "sym": "ETH",
-        "usd": 2407.36,
-        "pln": 9425.96,
-        "chg24": -0.26
+        "usd": 2402.73,
+        "pln": 9432.37,
+        "chg24": -0.06
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.84,
-        "chg": -1.69,
-        "as_of": "23.10 08:10"
+        "value": 54.125,
+        "chg": -1.17,
+        "as_of": "23.10 09:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.456,
-        "chg": 1.47,
-        "as_of": "23.10 08:10"
+        "value": 6.458,
+        "chg": 1.5,
+        "as_of": "23.10 09:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.405,
-        "chg": -2.99,
-        "as_of": "23.10 08:00"
+        "value": 1.4016,
+        "chg": -3.23,
+        "as_of": "23.10 08:50"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 08:10",
+    "updated": "23.10 09:10",
     "stale": false
   },
   "fx": {
@@ -153,7 +153,19 @@
     ],
     "local": [
       {
-        "title": "Utrudnienia na drodze Racibórz-Pszczyna w Rybniku. Dwa auta zderzyły się na Alei ROW. Ostrzegają nasi słuchacze",
+        "title": "Pożar w Czerwionce-Leszczynach. Ogień pojawił się w jednym z domów. Poszkodowany został 42-latek",
+        "url": "https://www.radio90.pl/pozar-w-czerwionce-leszczynach-ogien-pojawil-sie-w-jednym-z-domow-poszkodowany-zostal-42-latek.html",
+        "date": "Fri, 23 Oct 2026 08:45:17 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Tomasiak wraca do rywalizacji! Przed nim finał sezonu",
+        "url": "https://www.radiobielsko.pl/sport/tomasiak-wraca-do-rywalizacji-przed-nim-final-sezonu/102146/",
+        "date": "Fri, 23 Oct 2026 08:42:41 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Utrudnienia na drodze Racibórz-Pszczyna w Rybniku. Dwa auta zderzyły się na Alei ROW. Ostrzegają nasi słuchacze [ZDJĘCIA]",
         "url": "https://www.radio90.pl/utrudnienia-na-drodze-raciborz-pszczyna-w-rybniku-dwa-auta-zderzyly-sie-na-alei-row-ostrzegaja-nasi-sluchacze.html",
         "date": "Fri, 23 Oct 2026 08:05:25 +0000",
         "src": "Radio90"
@@ -186,18 +198,6 @@
         "title": "Po przełamaniu czas na kolejne wyzwanie! BBTS Bielsko-Biała wraca do gry",
         "url": "https://www.radiobielsko.pl/sport/po-przelamaniu-czas-na-kolejny-mecz-bbts-bielsko-biala-wraca-do-gry/102126/",
         "date": "Fri, 23 Oct 2026 06:26:25 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zamknięta DW935, remont chodnika w Pszowie-Krzyżkowicach. Nasz słuchacz o problemach w dojeździe do Rydułtów",
-        "url": "https://www.radio90.pl/zamknieta-dw935-remont-chodnika-w-pszowie-krzyzkowicach-nasz-sluchacz-o-problemach-w-dojezdzie-do-rydultow.html",
-        "date": "Fri, 23 Oct 2026 06:20:45 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dwie demonstracje na placu Chrobrego. Strajk Kobiet zagłuszony przez przeciwników aborcji",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-demonstracje-na-placu-chrobrego-strajk-kobiet-zagluszony-przez-przeciwnikow-aborcji/102075/",
-        "date": "Thu, 22 Oct 2026 19:57:58 +0000",
         "src": "RadioBielsko"
       }
     ],
