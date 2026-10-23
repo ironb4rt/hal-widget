@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-23T04:20:13+00:00",
+  "generated": "2026-10-23T05:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.5,
-    "feels": 3.2,
+    "temp": 6.7,
+    "feels": 3.0,
     "code": 0,
-    "wind": 9.4,
+    "wind": 13.3,
     "humidity": 71,
     "is_day": false,
     "tmax": 14.9,
@@ -21,7 +21,7 @@
       {
         "date": "2026-10-24",
         "max": 11.5,
-        "min": 8.3,
+        "min": 8.0,
         "code": 53
       },
       {
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-23T06:15",
+    "observed": "2026-10-23T07:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81629,
-        "pln": 318690,
-        "chg24": -1.44
+        "usd": 81727,
+        "pln": 319170,
+        "chg24": -1.29
       },
       {
         "sym": "ETH",
-        "usd": 2402.44,
-        "pln": 9379.49,
-        "chg24": -1.63
+        "usd": 2399.63,
+        "pln": 9371.32,
+        "chg24": -1.67
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.835,
-        "chg": -1.7,
-        "as_of": "23.10 04:10"
+        "value": 54.02,
+        "chg": -1.36,
+        "as_of": "23.10 05:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.43,
-        "chg": 1.06,
-        "as_of": "23.10 04:09"
+        "value": 6.439,
+        "chg": 1.2,
+        "as_of": "23.10 05:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3982,
-        "chg": -3.0,
-        "as_of": "23.10 02:54"
+        "value": 1.3994,
+        "chg": -3.37,
+        "as_of": "23.10 04:51"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 04:10",
+    "updated": "23.10 05:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "JKH GKS Jastrzębie: siedmiu zawodników z powołaniami do reprezentacji Polski. Do seniorów i kadry młodzieżowej",
+        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-siedmiu-zawodnikow-z-powolaniami-do-reprezentacji-polski-do-seniorow-i-kadry-mlodziezowej.html",
+        "date": "Fri, 23 Oct 2026 04:50:32 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Dwie demonstracje na placu Chrobrego. Strajk Kobiet zagłuszony przez przeciwników aborcji",
         "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-demonstracje-na-placu-chrobrego-strajk-kobiet-zagluszony-przez-przeciwnikow-aborcji/102075/",
         "date": "Thu, 22 Oct 2026 19:57:58 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-kolejki-stana-jednoczesnie-na-debowiec-i-szyndzielnie-tylko-piechota/102067/",
         "date": "Thu, 22 Oct 2026 18:00:52 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "107 km/h w terenie zbudowanym. 42-letni kierowca Skody stracił prawo jazdy",
-        "url": "https://www.radio90.pl/107-km-h-w-terenie-zbudowanym-42-letni-kierowca-skody-stracil-prawo-jazdy.html",
-        "date": "Thu, 22 Oct 2026 17:02:12 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
