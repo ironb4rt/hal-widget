@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T16:20:02+00:00",
+  "generated": "2026-10-23T17:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.3,
-    "feels": 9.2,
+    "temp": 11.4,
+    "feels": 8.8,
     "code": 3,
-    "wind": 8.6,
-    "humidity": 49,
+    "wind": 7.2,
+    "humidity": 56,
     "is_day": false,
     "tmax": 14.6,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-23T18:15",
+    "observed": "2026-10-23T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81534,
-        "pln": 320443,
-        "chg24": -0.07
+        "usd": 81690,
+        "pln": 321263,
+        "chg24": 0.69
       },
       {
         "sym": "ETH",
-        "usd": 2402.0,
-        "pln": 9440.3,
-        "chg24": 0.27
+        "usd": 2408.45,
+        "pln": 9471.78,
+        "chg24": 1.43
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.275,
-        "chg": -0.89,
-        "as_of": "23.10 16:10"
+        "value": 54.075,
+        "chg": -1.26,
+        "as_of": "23.10 17:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.521,
-        "chg": 2.49,
-        "as_of": "23.10 16:10"
+        "value": 6.499,
+        "chg": 2.15,
+        "as_of": "23.10 17:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4214,
-        "chg": -1.86,
-        "as_of": "23.10 15:52"
+        "value": 1.4225,
+        "chg": -1.79,
+        "as_of": "23.10 16:59"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 16:10",
+    "updated": "23.10 17:10",
     "stale": false
   },
   "fx": {
@@ -106,6 +106,12 @@
         "title": "Diesel price surge putting mining profits to test",
         "url": "https://www.mining.com/diesel-price-surge-putting-mining-profits-to-test/",
         "date": "Fri, 23 Oct 2026 14:24:08 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "New Found Gold doubles Queensway valuation to $1.2B",
+        "url": "https://www.mining.com/new-found-gold-doubles-queensway-valuation-to-1-2b/",
+        "date": "Fri, 23 Oct 2026 13:42:07 +0000",
         "src": "Mining.com"
       },
       {
@@ -143,19 +149,13 @@
         "url": "https://www.mining.com/us-permitting-environmental-review-overhaul-could-speed-mine-approvals-but-hurdles-remain/",
         "date": "Thu, 22 Oct 2026 17:24:54 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Ottawa finally matches C$1B Ring of Fire funds",
-        "url": "https://www.mining.com/ottawa-finally-matches-c1b-ring-of-fire-funds/",
-        "date": "Thu, 22 Oct 2026 17:11:57 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Ogólnopolska akcja policji także w Raciborzu i powiecie raciborskim. Chodzi o światła w samochodach",
-        "url": "https://www.radio90.pl/ogolnopolska-akcja-policji-takze-w-raciborzu-i-powiecie-raciborskim-chodzi-o-swiatla-w-samochodach.html",
-        "date": "Fri, 23 Oct 2026 16:00:59 +0000",
+        "title": "Utrudnienia na DK94. Rusza przebudowa drogi w Sosnowcu",
+        "url": "https://www.radio90.pl/utrudnienia-na-dk94-rusza-przebudowa-drogi-w-sosnowcu.html",
+        "date": "Fri, 23 Oct 2026 16:50:33 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Podwyżka podatków w Rybniku. Radni przegłosowali wzrost opłat za mieszkania i nieruchomości wykorzystywane w biznesie",
-        "url": "https://www.radio90.pl/podwyzka-podatkow-w-rybniku-radni-przeglosowali-wzrost-oplat-za-mieszkania-i-nieruchomosci-wykorzystywane-w-biznesie.html",
-        "date": "Fri, 23 Oct 2026 15:20:56 +0000",
+        "title": "Ogólnopolska akcja policji także w Raciborzu i powiecie raciborskim. Chodzi o światła w samochodach",
+        "url": "https://www.radio90.pl/ogolnopolska-akcja-policji-takze-w-raciborzu-i-powiecie-raciborskim-chodzi-o-swiatla-w-samochodach.html",
+        "date": "Fri, 23 Oct 2026 16:00:59 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Koncert na górniczą nutę i wydarzenia sportowe. Jak zawsze dzieje się w Rybniku",
-        "url": "https://www.radio90.pl/koncert-na-gornicza-nute-i-wydarzenia-sportowe-jak-zawsze-dzieje-sie-w-rybniku.html",
-        "date": "Fri, 23 Oct 2026 14:39:56 +0000",
+        "title": "Podwyżka podatków w Rybniku. Radni przegłosowali wzrost opłat za mieszkania i nieruchomości wykorzystywane w biznesie",
+        "url": "https://www.radio90.pl/podwyzka-podatkow-w-rybniku-radni-przeglosowali-wzrost-oplat-za-mieszkania-i-nieruchomosci-wykorzystywane-w-biznesie.html",
+        "date": "Fri, 23 Oct 2026 15:20:56 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Młodzież rybnickiego Ekonomika na warsztatach w Radiu 90. To nagroda za wygrany konkurs Powiatowego Urzędu Pracy w Rybniku [WIDEO, ZDJĘCIA]",
-        "url": "https://www.radio90.pl/mlodziez-rybnickiego-ekonomika-na-warsztatach-w-radiu-90-to-nagroda-za-wygrany-konkurs-powiatowego-urzedu-pracy-w-rybniku-wideo-zdjecia.html",
-        "date": "Fri, 23 Oct 2026 13:45:50 +0000",
+        "title": "Koncert na górniczą nutę i wydarzenia sportowe. Jak zawsze dzieje się w Rybniku",
+        "url": "https://www.radio90.pl/koncert-na-gornicza-nute-i-wydarzenia-sportowe-jak-zawsze-dzieje-sie-w-rybniku.html",
+        "date": "Fri, 23 Oct 2026 14:39:56 +0000",
         "src": "Radio90"
       },
       {
@@ -205,6 +205,11 @@
       {
         "title": "Sezon zimowy coraz bliżej, a wraz z nim doskonałe okazje!",
         "url": "/informacje/21034-sezon-zimowy-coraz-blizej-a-wraz-z-nim-doskonale-okazje",
+        "date": ""
+      },
+      {
+        "title": "Podejrzenie pożaru w hotelu w Szczyrku. Na miejscu straż pożarna",
+        "url": "/informacje/21035-podejrzenie-pozaru-w-hotelu-w-szczyrku-na-miejscu-straz-pozarna",
         "date": ""
       },
       {
@@ -225,11 +230,6 @@
       {
         "title": "Stracił panowanie nad swoim samochodem i wjechał na nasyp kolejowy. Wydmuchał 1,4 promila!",
         "url": "/informacje/21029-stracil-panowanie-nad-swoim-samochodem-i-wjechal-na-nasyp-kolejowy-wydmuchal-1-4-promila",
-        "date": ""
-      },
-      {
-        "title": "Bezpłatne sprawdzenie świateł w Bielsku-Białej. Sprawdź, gdzie podjechać",
-        "url": "/informacje/21030-bezplatne-sprawdzenie-swiatel-w-bielsku-bialej-sprawdz-gdzie-podjechac",
         "date": ""
       }
     ],
