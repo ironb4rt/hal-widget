@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T13:20:16+00:00",
+  "generated": "2026-10-23T14:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.7,
+    "temp": 14.3,
     "feels": 11.6,
     "code": 3,
-    "wind": 7.2,
-    "humidity": 38,
+    "wind": 6.8,
+    "humidity": 44,
     "is_day": true,
     "tmax": 14.8,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 55
       }
     ],
-    "observed": "2026-10-23T15:15",
+    "observed": "2026-10-23T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81583,
-        "pln": 320356,
-        "chg24": -0.15
+        "usd": 81225,
+        "pln": 318732,
+        "chg24": -0.49
       },
       {
         "sym": "ETH",
-        "usd": 2396.06,
-        "pln": 9408.76,
-        "chg24": -0.1
+        "usd": 2386.88,
+        "pln": 9366.25,
+        "chg24": -0.76
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.835,
-        "chg": -1.7,
-        "as_of": "23.10 13:10"
+        "value": 53.885,
+        "chg": -1.61,
+        "as_of": "23.10 14:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.469,
-        "chg": 1.67,
-        "as_of": "23.10 13:10"
+        "value": 6.481,
+        "chg": 1.86,
+        "as_of": "23.10 14:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4019,
-        "chg": -3.2,
-        "as_of": "23.10 12:46"
+        "value": 1.4132,
+        "chg": -2.43,
+        "as_of": "23.10 14:06"
       },
       {
         "sym": "HRC",
@@ -89,14 +89,14 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 13:10",
+    "updated": "23.10 14:10",
     "stale": false
   },
   "fx": {
     "ok": true,
-    "date": "2026-10-22",
-    "usdpln": 3.8996,
-    "usdeur": 0.89246,
+    "date": "2026-10-23",
+    "usdpln": 3.9261,
+    "usdeur": 0.89342,
     "stale": false
   },
   "news": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Dwie drogi po przebudowie",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dwie-drogi-po-przebudowie/102179/",
-        "date": "Fri, 23 Oct 2026 13:07:50 +0000",
+        "title": "Dwa dożywotnie zakazy to za mało? Jedna kontrola i cała lista problemów",
+        "url": "https://www.radiobielsko.pl/cieszyn/dwa-dozywotnie-zakazy-to-za-malo-jedna-kontrola-i-cala-lista-problemow/102218/",
+        "date": "Fri, 23 Oct 2026 14:07:36 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Młodzież rybnickiego Ekonomika na warsztatach w Radiu 90. To nagroda za wygrany konkurs Powiatowego Urzędu Pracy w Rybniku [WIDEO, ZDJĘCIA]",
+        "url": "https://www.radio90.pl/mlodziez-rybnickiego-ekonomika-na-warsztatach-w-radiu-90-to-nagroda-za-wygrany-konkurs-powiatowego-urzedu-pracy-w-rybniku-wideo-zdjecia.html",
+        "date": "Fri, 23 Oct 2026 13:45:50 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Zderzenie trzech aut. Strażacy wycinali kierowcę",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/zderzenie-trzech-aut-strazacy-wycinali-kierowce/102188/",
+        "date": "Fri, 23 Oct 2026 13:35:25 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Jeden telefon wyjaśnił sprawę. Odzyskano skradzione jednoślady",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/jeden-telefon-wyjasnil-sprawe-odzyskano-skradzione-jednoslady/102173/",
-        "date": "Fri, 23 Oct 2026 12:21:02 +0000",
+        "title": "Dwie drogi po przebudowie",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dwie-drogi-po-przebudowie/102179/",
+        "date": "Fri, 23 Oct 2026 13:07:50 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "RADIOWE TYPY: 12. kolejka bielsko-tyskiej „okręgówki”",
-        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-12-kolejka-bielsko-tyskiej-okregowki/102167/",
-        "date": "Fri, 23 Oct 2026 12:02:49 +0000",
+        "title": "Jeden telefon wyjaśnił sprawę. Odzyskano skradzione jednoślady",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/jeden-telefon-wyjasnil-sprawe-odzyskano-skradzione-jednoslady/102173/",
+        "date": "Fri, 23 Oct 2026 12:21:02 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -187,21 +199,19 @@
         "url": "https://www.radio90.pl/cieszynska-rotunda-z-klockow-lego-17-latek-zbudowal-miniature-historycznej-budowli.html",
         "date": "Fri, 23 Oct 2026 11:45:28 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Jak wygląda handel ludźmi? EscapeTruck pokaże",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/jak-wyglada-handel-ludzmi-escapetruck-pokaze/102168/",
-        "date": "Fri, 23 Oct 2026 11:31:39 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Przebudowa drogi między Kornowacem a Rydułtowami. Mieszkańcy gminy Lyski skarżą się na ogromny ruch aut ciężarowych",
-        "url": "https://www.radio90.pl/przebudowa-drogi-miedzy-kornowacem-a-rydultowami-mieszkancy-gminy-lyski-skarza-sie-na-ogromny-ruch-aut-ciezarowych.html",
-        "date": "Fri, 23 Oct 2026 10:50:49 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "Sezon zimowy coraz bliżej, a wraz z nim doskonałe okazje!",
+        "url": "/informacje/21034-sezon-zimowy-coraz-blizej-a-wraz-z-nim-doskonale-okazje",
+        "date": ""
+      },
+      {
+        "title": "Poważny wypadek na ul. Bielskiej w Pisarzowicach. Czołowo zderzyły się bus i samochód osobowy",
+        "url": "/informacje/21033-powazny-wypadek-na-ul-bielskiej-w-pisarzowicach-czolowo-zderzyly-sie-bus-i-samochod-osobowy",
+        "date": ""
+      },
       {
         "title": "MZD w Bielsku-Białej sprzedaje cztery Skody Fabie. Ceny od 11,2 tys. zł",
         "url": "/informacje/21032-mzd-w-bielsku-bialej-sprzedaje-cztery-skody-fabie-ceny-od-11-2-tys-zl",
@@ -220,16 +230,6 @@
       {
         "title": "Bezpłatne sprawdzenie świateł w Bielsku-Białej. Sprawdź, gdzie podjechać",
         "url": "/informacje/21030-bezplatne-sprawdzenie-swiatel-w-bielsku-bialej-sprawdz-gdzie-podjechac",
-        "date": ""
-      },
-      {
-        "title": "Niebezpieczna sytuacja na skrzyżowaniu 1 Maja z Zamkową. Brakuje znaku STOP",
-        "url": "/informacje/21027-niebezpieczna-sytuacja-na-skrzyzowaniu-1-maja-z-zamkowa-brakuje-znaku-stop",
-        "date": ""
-      },
-      {
-        "title": "Ciemności egipskie na Michałowicza? Pojechaliśmy na miejsce i zastaliśmy zupełnie inny obraz",
-        "url": "/informacje/21026-ciemnosci-egipskie-na-michalowicza-pojechalismy-na-miejsce-i-zastalismy-zupelnie-inny-obraz",
         "date": ""
       }
     ],
