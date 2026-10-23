@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T06:20:13+00:00",
+  "generated": "2026-10-23T07:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.1,
-    "feels": 3.3,
+    "temp": 8.4,
+    "feels": 4.7,
     "code": 0,
-    "wind": 13.3,
-    "humidity": 68,
+    "wind": 12.6,
+    "humidity": 63,
     "is_day": true,
     "tmax": 14.9,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-23T08:15",
+    "observed": "2026-10-23T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81856,
-        "pln": 319754,
-        "chg24": -1.03
+        "usd": 81648,
+        "pln": 319324,
+        "chg24": -0.74
       },
       {
         "sym": "ETH",
-        "usd": 2404.53,
-        "pln": 9392.82,
-        "chg24": -1.29
+        "usd": 2401.29,
+        "pln": 9391.45,
+        "chg24": -1.08
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.24,
-        "chg": -0.96,
-        "as_of": "23.10 06:10"
+        "value": 54.06,
+        "chg": -1.29,
+        "as_of": "23.10 07:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.457,
-        "chg": 1.49,
-        "as_of": "23.10 06:10"
+        "value": 6.438,
+        "chg": 1.19,
+        "as_of": "23.10 07:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.3994,
-        "chg": -3.37,
-        "as_of": "23.10 04:51"
+        "value": 1.4061,
+        "chg": -2.91,
+        "as_of": "23.10 07:09"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 06:10",
+    "updated": "23.10 07:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Starówka stanie się wielką galerią, żeby udowodnić, że sztuka jest dla każdego. Już wkrótce Noc Sztuki w Wodzisławiu Śląskim",
-        "url": "https://www.radio90.pl/starowka-stanie-sie-wielka-galeria-zeby-udowodnic-ze-sztuka-jest-dla-kazdego-juz-wkrotce-noc-sztuki-w-wodzislawiu-slaskim.html",
-        "date": "Fri, 23 Oct 2026 05:40:37 +0000",
+        "title": "Powiat Żywiecki inwestuje w szkolnictwo zawodowe",
+        "url": "https://www.radio90.pl/powiat-zywiecki-inwestuje-w-szkolnictwo-zawodowe.html",
+        "date": "Fri, 23 Oct 2026 07:00:42 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Po przełamaniu czas na kolejny mecz! BBTS Bielsko-Biała wraca do gry",
+        "url": "https://www.radiobielsko.pl/sport/po-przelamaniu-czas-na-kolejny-mecz-bbts-bielsko-biala-wraca-do-gry/102126/",
+        "date": "Fri, 23 Oct 2026 06:26:25 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Zamknięta DW935, remont chodnika w Pszowie-Krzyżkowicach. Nasz słuchacz o problemach w dojeździe do Rydułtów",
+        "url": "https://www.radio90.pl/zamknieta-dw935-remont-chodnika-w-pszowie-krzyzkowicach-nasz-sluchacz-o-problemach-w-dojezdzie-do-rydultow.html",
+        "date": "Fri, 23 Oct 2026 06:20:45 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "JKH GKS Jastrzębie: siedmiu zawodników z powołaniami do reprezentacji Polski. Do seniorów i kadry młodzieżowej",
-        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-siedmiu-zawodnikow-z-powolaniami-do-reprezentacji-polski-do-seniorow-i-kadry-mlodziezowej.html",
-        "date": "Fri, 23 Oct 2026 04:50:32 +0000",
+        "title": "Starówka stanie się wielką galerią, żeby udowodnić, że sztuka jest dla każdego. Już wkrótce Noc Sztuki w Wodzisławiu Śląskim",
+        "url": "https://www.radio90.pl/starowka-stanie-sie-wielka-galeria-zeby-udowodnic-ze-sztuka-jest-dla-kazdego-juz-wkrotce-noc-sztuki-w-wodzislawiu-slaskim.html",
+        "date": "Fri, 23 Oct 2026 05:40:37 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Rzuchów: zderzenie hulajnogi elektrycznej z rowerem",
-        "url": "https://www.radio90.pl/rzuchow-zderzenie-hulajnogi-elektrycznej-z-rowerem.html",
-        "date": "Thu, 22 Oct 2026 19:06:04 +0000",
+        "title": "JKH GKS Jastrzębie: siedmiu zawodników z powołaniami do reprezentacji Polski. Do seniorów i kadry młodzieżowej",
+        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-siedmiu-zawodnikow-z-powolaniami-do-reprezentacji-polski-do-seniorow-i-kadry-mlodziezowej.html",
+        "date": "Fri, 23 Oct 2026 04:50:32 +0000",
         "src": "Radio90"
       },
       {
@@ -187,21 +199,14 @@
         "url": "https://www.radiobielsko.pl/powiat-wadowicki/mamusie-ktore-sobie-nie-radza-burza-po-slowach-radnej-o-dzieciach-z-orzeczeniami/102071/",
         "date": "Thu, 22 Oct 2026 19:22:07 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Sprzątanie Świata w Jastrzębiu. Zebrano ponad tonę odpadów [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/sprzatanie-swiata-w-jastrzebiu-zebrano-ponad-tone-odpadow-zdjecia.html",
-        "date": "Thu, 22 Oct 2026 18:04:29 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dwie kolejki staną jednocześnie. Na Dębowiec i Szyndzielnię tylko piechotą!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dwie-kolejki-stana-jednoczesnie-na-debowiec-i-szyndzielnie-tylko-piechota/102067/",
-        "date": "Thu, 22 Oct 2026 18:00:52 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "Ciemności egipskie na Michałowicza? Pojechaliśmy na miejsce i zastaliśmy zupełnie inny obraz",
+        "url": "/informacje/21026-ciemnosci-egipskie-na-michalowicza-pojechalismy-na-miejsce-i-zastalismy-zupelnie-inny-obraz",
+        "date": ""
+      },
       {
         "title": "[FOTO] Za szybko w zakręcie. Przyczepa przewróciła się na pobocze przy ul. Legionów",
         "url": "/informacje/21024-foto-za-szybko-w-zakrecie-przyczepa-przewrocila-sie-na-pobocze-przy-ul-legionow",
@@ -225,11 +230,6 @@
       {
         "title": "Gorący temat[FOTO] Straconka: drogowa demolka za sprawą dziecka z karabinem?",
         "url": "/informacje/21013-foto-straconka-drogowa-demolka-za-sprawa-dziecka-z-karabinem",
-        "date": ""
-      },
-      {
-        "title": "Ponad 21 mln zł na trasę VeloBiała. Przebudują skrzyżowania i drogi w Bielsku-Białej",
-        "url": "/informacje/21015-ponad-21-mln-zl-na-trase-velobiala-przebuduja-skrzyzowania-i-drogi-w-bielsku-bialej",
         "date": ""
       }
     ],
