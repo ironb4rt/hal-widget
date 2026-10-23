@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T12:20:16+00:00",
+  "generated": "2026-10-23T13:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 14.7,
-    "feels": 11.5,
-    "code": 1,
-    "wind": 7.9,
-    "humidity": 37,
+    "feels": 11.6,
+    "code": 3,
+    "wind": 7.2,
+    "humidity": 38,
     "is_day": true,
     "tmax": 14.8,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 55
       }
     ],
-    "observed": "2026-10-23T14:15",
+    "observed": "2026-10-23T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81531,
-        "pln": 320128,
-        "chg24": -0.31
+        "usd": 81583,
+        "pln": 320356,
+        "chg24": -0.15
       },
       {
         "sym": "ETH",
-        "usd": 2396.77,
-        "pln": 9410.87,
-        "chg24": -0.21
+        "usd": 2396.06,
+        "pln": 9408.76,
+        "chg24": -0.1
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.915,
-        "chg": -1.55,
-        "as_of": "23.10 12:10"
+        "value": 53.835,
+        "chg": -1.7,
+        "as_of": "23.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.473,
-        "chg": 1.74,
-        "as_of": "23.10 12:10"
+        "value": 6.469,
+        "chg": 1.67,
+        "as_of": "23.10 13:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.407,
-        "chg": -2.85,
-        "as_of": "23.10 11:59"
+        "value": 1.4019,
+        "chg": -3.2,
+        "as_of": "23.10 12:46"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 12:10",
+    "updated": "23.10 13:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Halo Minerals clears key hurdle at Chile copper project",
+        "url": "https://www.mining.com/halo-minerals-clears-key-hurdle-at-chile-copper-project/",
+        "date": "Fri, 23 Oct 2026 11:53:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Kodal targets Ghana lithium growth beyond Mali mine",
+        "url": "https://www.mining.com/kodal-targets-ghana-lithium-growth-beyond-mali-mine/",
+        "date": "Fri, 23 Oct 2026 10:59:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Mining Forum video: Majors are waking up to discoveries, fund manager says",
         "url": "https://www.mining.com/mining-forum-video-majors-are-waking-up-to-discoveries-fund-manager-says/",
@@ -137,21 +149,21 @@
         "url": "https://www.mining.com/southern-copper-weighs-680m-cuajone-mine-expansion/",
         "date": "Thu, 22 Oct 2026 15:49:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Liberty Gold stretches Black Pine’s reach in Idaho",
-        "url": "https://www.mining.com/liberty-gold-stretches-black-pines-reach-in-idaho/",
-        "date": "Thu, 22 Oct 2026 14:54:51 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "US targets critical materials boost with $389M funding plan",
-        "url": "https://www.mining.com/us-targets-critical-materials-boost-with-389m-funding-plan/",
-        "date": "Thu, 22 Oct 2026 13:03:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Dwie drogi po przebudowie",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dwie-drogi-po-przebudowie/102179/",
+        "date": "Fri, 23 Oct 2026 13:07:50 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Pociągi z Żywca do Suchej Beskidzkiej. Są w nowym kolejowym rozkładzie jazdy. Kiedy będzie można nimi jeździć?",
+        "url": "https://www.radio90.pl/pociagi-z-zywca-do-suchej-beskidzkiej-sa-w-nowym-kolejowym-rozkladzie-jazdy-kiedy-bedzie-mozna-nimi-jezdzic.html",
+        "date": "Fri, 23 Oct 2026 13:00:27 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Jeden telefon wyjaśnił sprawę. Odzyskano skradzione jednoślady",
         "url": "https://www.radiobielsko.pl/powiat-cieszynski/jeden-telefon-wyjasnil-sprawe-odzyskano-skradzione-jednoslady/102173/",
@@ -159,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Cieszyńska rotunda z klocków LEGO. 17-latek zbudował miniaturę historycznej budowli",
-        "url": "https://www.radio90.pl/cieszynska-rotunda-z-klockow-lego-17-latek-zbudowal-miniature-historycznej-budowli.html",
-        "date": "Fri, 23 Oct 2026 11:45:28 +0000",
+        "title": "Ogromne korki w Pszowie po zamknięciu drogi w Kornowacu. Mieszkańcy pytają o nakładające się na siebie roboty drogowe",
+        "url": "https://www.radio90.pl/ogromne-korki-w-pszowie-po-zamknieciu-drogi-w-kornowacu-mieszkancy-pytaja-o-nakladajace-sie-na-siebie-roboty-drogowe.html",
+        "date": "Fri, 23 Oct 2026 12:25:43 +0000",
         "src": "Radio90"
       },
       {
@@ -171,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Przebudowa drogi między Kornowacem a Rydułtowami. Mieszkańcy gminy Lyski skarżą się na ogromny ruch aut ciężarowych",
-        "url": "https://www.radio90.pl/przebudowa-drogi-miedzy-kornowacem-a-rydultowami-mieszkancy-gminy-lyski-skarza-sie-na-ogromny-ruch-aut-ciezarowych.html",
-        "date": "Fri, 23 Oct 2026 10:50:49 +0000",
+        "title": "Cieszyńska rotunda z klocków LEGO. 17-latek zbudował miniaturę historycznej budowli",
+        "url": "https://www.radio90.pl/cieszynska-rotunda-z-klockow-lego-17-latek-zbudowal-miniature-historycznej-budowli.html",
+        "date": "Fri, 23 Oct 2026 11:45:28 +0000",
         "src": "Radio90"
       },
       {
@@ -183,21 +195,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Społeczna Straż Rybacka w Żywcu przeprowadziła kontrole wód. Dwukrotnie interweniowała policja",
-        "url": "https://www.radio90.pl/spoleczna-straz-rybacka-w-zywcu-przeprowadzila-kontrole-wod-dwukrotnie-interweniowala-policja.html",
-        "date": "Fri, 23 Oct 2026 10:00:13 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Remontują kamienicę na Rynku. To jeden z ostatnich zaniedbanych budynków",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/remontuja-kamienice-na-rynku-to-jeden-z-ostatnich-zaniedbanych-budynkow/102163/",
-        "date": "Fri, 23 Oct 2026 11:13:17 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Dachowanie w Godowie. Kierowca pomylił biegi z… hamulcem ręcznym. Rozbił auto i dostał mandat",
-        "url": "https://www.radio90.pl/dachowanie-w-godowie-kierowca-pomylil-biegi-z-hamulcem-recznym-rozbil-auto-i-dostal-mandat.html",
-        "date": "Fri, 23 Oct 2026 09:25:42 +0000",
+        "title": "Przebudowa drogi między Kornowacem a Rydułtowami. Mieszkańcy gminy Lyski skarżą się na ogromny ruch aut ciężarowych",
+        "url": "https://www.radio90.pl/przebudowa-drogi-miedzy-kornowacem-a-rydultowami-mieszkancy-gminy-lyski-skarza-sie-na-ogromny-ruch-aut-ciezarowych.html",
+        "date": "Fri, 23 Oct 2026 10:50:49 +0000",
         "src": "Radio90"
       }
     ],
