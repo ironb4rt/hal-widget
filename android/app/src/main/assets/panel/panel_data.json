@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-23T15:20:16+00:00",
+  "generated": "2026-10-23T16:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.3,
-    "feels": 10.2,
+    "temp": 12.3,
+    "feels": 9.2,
     "code": 3,
-    "wind": 9.0,
-    "humidity": 47,
-    "is_day": true,
+    "wind": 8.6,
+    "humidity": 49,
+    "is_day": false,
     "tmax": 14.6,
     "tmin": 6.3,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-23T17:15",
+    "observed": "2026-10-23T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81457,
-        "pln": 320042,
-        "chg24": -0.13
+        "usd": 81534,
+        "pln": 320443,
+        "chg24": -0.07
       },
       {
         "sym": "ETH",
-        "usd": 2399.7,
-        "pln": 9428.38,
-        "chg24": 0.08
+        "usd": 2402.0,
+        "pln": 9440.3,
+        "chg24": 0.27
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.01,
-        "chg": -1.38,
-        "as_of": "23.10 15:10"
+        "value": 54.275,
+        "chg": -0.89,
+        "as_of": "23.10 16:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.488,
-        "chg": 1.97,
-        "as_of": "23.10 15:10"
+        "value": 6.521,
+        "chg": 2.49,
+        "as_of": "23.10 16:10"
       },
       {
         "sym": "ALI=F",
@@ -77,7 +77,7 @@
         "unit": "USD/lb",
         "value": 1.4214,
         "chg": -1.86,
-        "as_of": "23.10 15:03"
+        "as_of": "23.10 15:52"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 15:10",
+    "updated": "23.10 16:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Ogólnopolska akcja policji także w Raciborzu i powiecie raciborskim. Chodzi o światła w samochodach",
+        "url": "https://www.radio90.pl/ogolnopolska-akcja-policji-takze-w-raciborzu-i-powiecie-raciborskim-chodzi-o-swiatla-w-samochodach.html",
+        "date": "Fri, 23 Oct 2026 16:00:59 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Jedno zdjęcie spośród tysiąca. Wielki sukces Jacka Cisły",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/jedno-zdjecie-sposrod-tysiaca-wielki-sukces-jacka-cisly/102230/",
+        "date": "Fri, 23 Oct 2026 15:48:23 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Podwyżka podatków w Rybniku. Radni przegłosowali wzrost opłat za mieszkania i nieruchomości wykorzystywane w biznesie",
+        "url": "https://www.radio90.pl/podwyzka-podatkow-w-rybniku-radni-przeglosowali-wzrost-oplat-za-mieszkania-i-nieruchomosci-wykorzystywane-w-biznesie.html",
+        "date": "Fri, 23 Oct 2026 15:20:56 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Takiego zwierzęcia nie spotyka się w Beskidach. Nietypowa interwencja OSP Milówka",
         "url": "https://www.radiobielsko.pl/region/takiego-zwierzecia-nie-spotyka-sie-w-beskidach-nietypowa-interwencja-osp-milowka/102224/",
         "date": "Fri, 23 Oct 2026 14:56:30 +0000",
@@ -181,24 +199,6 @@
         "url": "https://www.radiobielsko.pl/zywiec/analiza-trwa-a-gabaryty-trzeba-wozic-samodzielnie/102211/",
         "date": "Fri, 23 Oct 2026 14:23:14 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Pociągi z Żywca do Suchej Beskidzkiej. Są w nowym kolejowym rozkładzie jazdy. Kiedy będzie można nimi jeździć?",
-        "url": "https://www.radio90.pl/pociagi-z-zywca-do-suchej-beskidzkiej-sa-w-nowym-kolejowym-rozkladzie-jazdy-kiedy-bedzie-mozna-nimi-jezdzic.html",
-        "date": "Fri, 23 Oct 2026 13:00:27 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dwa dożywotnie zakazy to za mało? Jedna kontrola i cała lista problemów",
-        "url": "https://www.radiobielsko.pl/cieszyn/dwa-dozywotnie-zakazy-to-za-malo-jedna-kontrola-i-cala-lista-problemow/102218/",
-        "date": "Fri, 23 Oct 2026 14:07:36 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Ogromne korki w Pszowie po zamknięciu drogi w Kornowacu. Mieszkańcy pytają o nakładające się na siebie roboty drogowe",
-        "url": "https://www.radio90.pl/ogromne-korki-w-pszowie-po-zamknieciu-drogi-w-kornowacu-mieszkancy-pytaja-o-nakladajace-sie-na-siebie-roboty-drogowe.html",
-        "date": "Fri, 23 Oct 2026 12:25:43 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
