@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T20:20:03+00:00",
+  "generated": "2026-10-23T21:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 10.8,
-    "feels": 8.1,
+    "feels": 8.4,
     "code": 3,
-    "wind": 4.7,
-    "humidity": 51,
+    "wind": 3.6,
+    "humidity": 53,
     "is_day": false,
     "tmax": 14.6,
     "tmin": 6.3,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-24",
-        "max": 11.1,
-        "min": 7.8,
-        "code": 51
+        "max": 11.6,
+        "min": 8.0,
+        "code": 53
       },
       {
         "date": "2026-10-25",
-        "max": 11.4,
-        "min": 5.8,
+        "max": 11.5,
+        "min": 6.1,
         "code": 61
       }
     ],
-    "observed": "2026-10-23T22:15",
+    "observed": "2026-10-23T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81263,
-        "pln": 319523,
-        "chg24": -0.01
+        "usd": 81359,
+        "pln": 319751,
+        "chg24": -0.08
       },
       {
         "sym": "ETH",
-        "usd": 2393.0,
-        "pln": 9409.23,
-        "chg24": 0.55
+        "usd": 2400.63,
+        "pln": 9434.74,
+        "chg24": 0.28
       }
     ],
     "stale": false
@@ -61,23 +61,23 @@
         "unit": "USD/oz",
         "value": 53.96,
         "chg": -1.47,
-        "as_of": "23.10 20:09"
+        "as_of": "23.10 20:59"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.492,
-        "chg": 2.04,
-        "as_of": "23.10 20:10"
+        "value": 6.497,
+        "chg": 2.11,
+        "as_of": "23.10 20:59"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4225,
-        "chg": -1.79,
-        "as_of": "23.10 16:59"
+        "value": 1.4287,
+        "chg": -1.35,
+        "as_of": "23.10 20:50"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 20:10",
+    "updated": "23.10 20:59",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,21 @@
     ],
     "local": [
       {
+        "title": "Kacper Tomasiak zachwycił wszystkich. Co za skok! (VIDEO)",
+        "url": "https://www.radiobielsko.pl/sport/kacper-tomasiak-zachwycil-wszystkich-co-za-skok-video/102248/",
+        "date": "Fri, 23 Oct 2026 20:59:25 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Żory: pielęgniarka z narkotykami",
         "url": "https://www.radio90.pl/zory-pielegniarka-z-narkotykami.html",
         "date": "Fri, 23 Oct 2026 18:31:40 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Łyżwy w ruch! Znamy datę otwarcia lodowiska i nowe zasady",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/lyzwy-w-ruch-znamy-date-otwarcia-lodowiska-i-nowe-zasady/102235/",
-        "date": "Fri, 23 Oct 2026 18:25:17 +0000",
+        "title": "Powrót po trzech latach. Caputa znów zagra w Wilkowicach!",
+        "url": "https://www.radiobielsko.pl/sport/powrot-po-trzech-latach-caputa-znow-zagra-w-wilkowicach/102244/",
+        "date": "Fri, 23 Oct 2026 20:44:14 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Jedno zdjęcie spośród tysiąca. Wielki sukces Jacka Cisły",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/jedno-zdjecie-sposrod-tysiaca-wielki-sukces-jacka-cisly/102230/",
-        "date": "Fri, 23 Oct 2026 15:48:23 +0000",
+        "title": "Łyżwy w ruch! Znamy datę otwarcia lodowiska i nowe zasady",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/lyzwy-w-ruch-znamy-date-otwarcia-lodowiska-i-nowe-zasady/102235/",
+        "date": "Fri, 23 Oct 2026 18:25:17 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Takiego zwierzęcia nie spotyka się w Beskidach. Nietypowa interwencja OSP Milówka",
-        "url": "https://www.radiobielsko.pl/region/takiego-zwierzecia-nie-spotyka-sie-w-beskidach-nietypowa-interwencja-osp-milowka/102224/",
-        "date": "Fri, 23 Oct 2026 14:56:30 +0000",
+        "title": "Jedno zdjęcie spośród tysiąca. Wielki sukces Jacka Cisły",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/jedno-zdjecie-sposrod-tysiaca-wielki-sukces-jacka-cisly/102230/",
+        "date": "Fri, 23 Oct 2026 15:48:23 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -193,12 +199,6 @@
         "url": "https://www.radio90.pl/ogolnopolska-akcja-policji-takze-w-raciborzu-i-powiecie-raciborskim-chodzi-o-swiatla-w-samochodach.html",
         "date": "Fri, 23 Oct 2026 16:00:59 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Tatuaż na łydce i czarna nerka. Rozpoznajesz go?",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/tatuaz-na-lydce-i-czarna-nerka-rozpoznajesz-go/102196/",
-        "date": "Fri, 23 Oct 2026 14:41:28 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
