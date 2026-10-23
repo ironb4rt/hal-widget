@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T22:20:05+00:00",
+  "generated": "2026-10-23T23:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.6,
-    "feels": 8.2,
+    "temp": 10.5,
+    "feels": 8.1,
     "code": 3,
-    "wind": 3.6,
-    "humidity": 54,
+    "wind": 3.2,
+    "humidity": 53,
     "is_day": false,
     "tmax": 11.6,
     "tmin": 8.0,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-24T00:15",
+    "observed": "2026-10-24T01:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81300,
-        "pln": 319517,
-        "chg24": -0.01
+        "usd": 80727,
+        "pln": 317265,
+        "chg24": -0.63
       },
       {
         "sym": "ETH",
-        "usd": 2396.31,
-        "pln": 9417.77,
-        "chg24": 0.47
+        "usd": 2372.52,
+        "pln": 9324.27,
+        "chg24": -0.41
       }
     ],
     "stale": false
@@ -103,6 +103,24 @@
     "ok": true,
     "market": [
       {
+        "title": "US Department of Energy names helium to critical materials list",
+        "url": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/",
+        "date": "Fri, 23 Oct 2026 22:50:19 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Bannerman pulls trigger on $353M uranium mine",
+        "url": "https://www.mining.com/bannerman-pulls-trigger-on-353m-uranium-mine/",
+        "date": "Fri, 23 Oct 2026 22:39:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Moon River lifts Davidson value to $879M, tungsten output jumps",
+        "url": "https://www.mining.com/moon-river-lifts-davidson-value-to-879m-tungsten-output-jumps/",
+        "date": "Fri, 23 Oct 2026 19:55:00 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security",
         "url": "https://www.mining.com/op-ed-nicaragua-mining-the-golden-bridgehead-threatening-us-national-security/",
         "date": "Fri, 23 Oct 2026 19:09:48 +0000",
@@ -130,24 +148,6 @@
         "title": "Central banks pile into gold as China leads buying spree",
         "url": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
         "date": "Fri, 23 Oct 2026 13:10:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Halo Minerals clears key hurdle at Chile copper project",
-        "url": "https://www.mining.com/halo-minerals-clears-key-hurdle-at-chile-copper-project/",
-        "date": "Fri, 23 Oct 2026 11:53:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Kodal targets Ghana lithium growth beyond Mali mine",
-        "url": "https://www.mining.com/kodal-targets-ghana-lithium-growth-beyond-mali-mine/",
-        "date": "Fri, 23 Oct 2026 10:59:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Mining Forum video: Majors are waking up to discoveries, fund manager says",
-        "url": "https://www.mining.com/mining-forum-video-majors-are-waking-up-to-discoveries-fund-manager-says/",
-        "date": "Thu, 22 Oct 2026 23:28:54 +0000",
         "src": "Mining.com"
       }
     ],
