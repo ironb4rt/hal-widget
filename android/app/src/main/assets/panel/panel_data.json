@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-23T14:20:16+00:00",
+  "generated": "2026-10-23T15:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.3,
-    "feels": 11.6,
+    "temp": 13.3,
+    "feels": 10.2,
     "code": 3,
-    "wind": 6.8,
-    "humidity": 44,
+    "wind": 9.0,
+    "humidity": 47,
     "is_day": true,
-    "tmax": 14.8,
+    "tmax": 14.6,
     "tmin": 6.3,
     "forecast": [
       {
         "date": "2026-10-23",
-        "max": 14.8,
+        "max": 14.6,
         "min": 6.3,
         "code": 3
       },
       {
         "date": "2026-10-24",
-        "max": 11.3,
-        "min": 7.6,
+        "max": 10.9,
+        "min": 7.5,
         "code": 3
       },
       {
         "date": "2026-10-25",
-        "max": 11.7,
-        "min": 6.5,
-        "code": 55
+        "max": 11.6,
+        "min": 6.1,
+        "code": 61
       }
     ],
-    "observed": "2026-10-23T16:15",
+    "observed": "2026-10-23T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81225,
-        "pln": 318732,
-        "chg24": -0.49
+        "usd": 81457,
+        "pln": 320042,
+        "chg24": -0.13
       },
       {
         "sym": "ETH",
-        "usd": 2386.88,
-        "pln": 9366.25,
-        "chg24": -0.76
+        "usd": 2399.7,
+        "pln": 9428.38,
+        "chg24": 0.08
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.885,
-        "chg": -1.61,
-        "as_of": "23.10 14:10"
+        "value": 54.01,
+        "chg": -1.38,
+        "as_of": "23.10 15:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.481,
-        "chg": 1.86,
-        "as_of": "23.10 14:10"
+        "value": 6.488,
+        "chg": 1.97,
+        "as_of": "23.10 15:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4132,
-        "chg": -2.43,
-        "as_of": "23.10 14:06"
+        "value": 1.4214,
+        "chg": -1.86,
+        "as_of": "23.10 15:03"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 14:10",
+    "updated": "23.10 15:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Diesel price surge putting mining profits to test",
+        "url": "https://www.mining.com/diesel-price-surge-putting-mining-profits-to-test/",
+        "date": "Fri, 23 Oct 2026 14:24:08 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Central banks pile into gold as China leads buying spree",
+        "url": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
+        "date": "Fri, 23 Oct 2026 13:10:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Halo Minerals clears key hurdle at Chile copper project",
         "url": "https://www.mining.com/halo-minerals-clears-key-hurdle-at-chile-copper-project/",
@@ -137,25 +149,25 @@
         "url": "https://www.mining.com/ottawa-finally-matches-c1b-ring-of-fire-funds/",
         "date": "Thu, 22 Oct 2026 17:11:57 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Mining M&A wave set to lift juniors, investor predicts",
-        "url": "https://www.mining.com/mining-ma-wave-set-to-lift-juniors-investor-predicts/",
-        "date": "Thu, 22 Oct 2026 16:30:33 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Southern Copper weighs $680M Cuajone mine expansion",
-        "url": "https://www.mining.com/southern-copper-weighs-680m-cuajone-mine-expansion/",
-        "date": "Thu, 22 Oct 2026 15:49:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Dwa dożywotnie zakazy to za mało? Jedna kontrola i cała lista problemów",
-        "url": "https://www.radiobielsko.pl/cieszyn/dwa-dozywotnie-zakazy-to-za-malo-jedna-kontrola-i-cala-lista-problemow/102218/",
-        "date": "Fri, 23 Oct 2026 14:07:36 +0000",
+        "title": "Takiego zwierzęcia nie spotyka się w Beskidach. Nietypowa interwencja OSP Milówka",
+        "url": "https://www.radiobielsko.pl/region/takiego-zwierzecia-nie-spotyka-sie-w-beskidach-nietypowa-interwencja-osp-milowka/102224/",
+        "date": "Fri, 23 Oct 2026 14:56:30 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Koncert na górniczą nutę i wydarzenia sportowe. Jak zawsze dzieje się w Rybniku",
+        "url": "https://www.radio90.pl/koncert-na-gornicza-nute-i-wydarzenia-sportowe-jak-zawsze-dzieje-sie-w-rybniku.html",
+        "date": "Fri, 23 Oct 2026 14:39:56 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Tatuaż na łydce i czarna nerka. Rozpoznajesz go?",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/tatuaz-na-lydce-i-czarna-nerka-rozpoznajesz-go/102196/",
+        "date": "Fri, 23 Oct 2026 14:41:28 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Zderzenie trzech aut. Strażacy wycinali kierowcę",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/zderzenie-trzech-aut-strazacy-wycinali-kierowce/102188/",
-        "date": "Fri, 23 Oct 2026 13:35:25 +0000",
+        "title": "Analiza trwa, a gabaryty trzeba wozić samodzielnie",
+        "url": "https://www.radiobielsko.pl/zywiec/analiza-trwa-a-gabaryty-trzeba-wozic-samodzielnie/102211/",
+        "date": "Fri, 23 Oct 2026 14:23:14 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,27 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Dwie drogi po przebudowie",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dwie-drogi-po-przebudowie/102179/",
-        "date": "Fri, 23 Oct 2026 13:07:50 +0000",
+        "title": "Dwa dożywotnie zakazy to za mało? Jedna kontrola i cała lista problemów",
+        "url": "https://www.radiobielsko.pl/cieszyn/dwa-dozywotnie-zakazy-to-za-malo-jedna-kontrola-i-cala-lista-problemow/102218/",
+        "date": "Fri, 23 Oct 2026 14:07:36 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Ogromne korki w Pszowie po zamknięciu drogi w Kornowacu. Mieszkańcy pytają o nakładające się na siebie roboty drogowe",
         "url": "https://www.radio90.pl/ogromne-korki-w-pszowie-po-zamknieciu-drogi-w-kornowacu-mieszkancy-pytaja-o-nakladajace-sie-na-siebie-roboty-drogowe.html",
         "date": "Fri, 23 Oct 2026 12:25:43 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Jeden telefon wyjaśnił sprawę. Odzyskano skradzione jednoślady",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/jeden-telefon-wyjasnil-sprawe-odzyskano-skradzione-jednoslady/102173/",
-        "date": "Fri, 23 Oct 2026 12:21:02 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Cieszyńska rotunda z klocków LEGO. 17-latek zbudował miniaturę historycznej budowli",
-        "url": "https://www.radio90.pl/cieszynska-rotunda-z-klockow-lego-17-latek-zbudowal-miniature-historycznej-budowli.html",
-        "date": "Fri, 23 Oct 2026 11:45:28 +0000",
         "src": "Radio90"
       }
     ],
