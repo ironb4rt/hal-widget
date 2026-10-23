@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T18:20:02+00:00",
+  "generated": "2026-10-23T19:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.0,
-    "feels": 7.7,
-    "code": 2,
-    "wind": 11.5,
-    "humidity": 57,
+    "temp": 10.8,
+    "feels": 6.7,
+    "code": 1,
+    "wind": 15.5,
+    "humidity": 52,
     "is_day": false,
     "tmax": 14.6,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-23T20:15",
+    "observed": "2026-10-23T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81558,
-        "pln": 320789,
-        "chg24": 0.58
+        "usd": 81218,
+        "pln": 319314,
+        "chg24": -0.12
       },
       {
         "sym": "ETH",
-        "usd": 2407.06,
-        "pln": 9467.57,
-        "chg24": 1.31
+        "usd": 2392.6,
+        "pln": 9406.63,
+        "chg24": 0.44
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.07,
-        "chg": -1.27,
-        "as_of": "23.10 18:09"
+        "value": 54.01,
+        "chg": -1.38,
+        "as_of": "23.10 19:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.503,
-        "chg": 2.21,
-        "as_of": "23.10 18:09"
+        "value": 6.498,
+        "chg": 2.13,
+        "as_of": "23.10 19:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 18:09",
+    "updated": "23.10 19:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security",
+        "url": "https://www.mining.com/op-ed-nicaragua-mining-the-golden-bridgehead-threatening-us-national-security/",
+        "date": "Fri, 23 Oct 2026 19:09:48 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Newmont prices Red Chris expansion at up to $4.8B",
         "url": "https://www.mining.com/newmont-prices-red-chris-expansion-at-up-to-4-8b/",
@@ -143,15 +149,21 @@
         "url": "https://www.mining.com/mining-forum-video-majors-are-waking-up-to-discoveries-fund-manager-says/",
         "date": "Thu, 22 Oct 2026 23:28:54 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Boroo signs $100M deal for Yukon Eagle gold mine",
-        "url": "https://www.mining.com/boroo-signs-100m-deal-for-yukon-eagle-gold-mine/",
-        "date": "Thu, 22 Oct 2026 22:06:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Żory: pielęgniarka z narkotykami",
+        "url": "https://www.radio90.pl/zory-pielegniarka-z-narkotykami.html",
+        "date": "Fri, 23 Oct 2026 18:31:40 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Łyżwy w ruch! Znamy datę otwarcia lodowiska i nowe zasady",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/lyzwy-w-ruch-znamy-date-otwarcia-lodowiska-i-nowe-zasady/102235/",
+        "date": "Fri, 23 Oct 2026 18:25:17 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Zmiana czasu bez wpływu na pociągi Kolei Śląskich",
         "url": "https://www.radio90.pl/zmiana-czasu-bez-wplywu-na-pociagi-kolei-slaskich.html",
@@ -186,18 +198,6 @@
         "title": "Tatuaż na łydce i czarna nerka. Rozpoznajesz go?",
         "url": "https://www.radiobielsko.pl/powiat-oswiecimski/tatuaz-na-lydce-i-czarna-nerka-rozpoznajesz-go/102196/",
         "date": "Fri, 23 Oct 2026 14:41:28 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Podwyżka podatków w Rybniku. Radni przegłosowali wzrost opłat za mieszkania i nieruchomości wykorzystywane w biznesie",
-        "url": "https://www.radio90.pl/podwyzka-podatkow-w-rybniku-radni-przeglosowali-wzrost-oplat-za-mieszkania-i-nieruchomosci-wykorzystywane-w-biznesie.html",
-        "date": "Fri, 23 Oct 2026 15:20:56 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Analiza trwa, a gabaryty trzeba wozić samodzielnie",
-        "url": "https://www.radiobielsko.pl/zywiec/analiza-trwa-a-gabaryty-trzeba-wozic-samodzielnie/102211/",
-        "date": "Fri, 23 Oct 2026 14:23:14 +0000",
         "src": "RadioBielsko"
       }
     ],
