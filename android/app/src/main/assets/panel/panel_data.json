@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-23T11:20:15+00:00",
+  "generated": "2026-10-23T12:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 14.4,
-    "feels": 11.1,
-    "code": 0,
-    "wind": 8.3,
-    "humidity": 39,
+    "temp": 14.7,
+    "feels": 11.5,
+    "code": 1,
+    "wind": 7.9,
+    "humidity": 37,
     "is_day": true,
     "tmax": 14.8,
     "tmin": 6.3,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-24",
-        "max": 11.1,
-        "min": 7.9,
-        "code": 51
+        "max": 11.3,
+        "min": 7.6,
+        "code": 3
       },
       {
         "date": "2026-10-25",
-        "max": 11.1,
-        "min": 5.8,
-        "code": 53
+        "max": 11.7,
+        "min": 6.5,
+        "code": 55
       }
     ],
-    "observed": "2026-10-23T13:15",
+    "observed": "2026-10-23T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81562,
-        "pln": 320156,
-        "chg24": -0.43
+        "usd": 81531,
+        "pln": 320128,
+        "chg24": -0.31
       },
       {
         "sym": "ETH",
-        "usd": 2395.15,
-        "pln": 9401.71,
-        "chg24": -0.31
+        "usd": 2396.77,
+        "pln": 9410.87,
+        "chg24": -0.21
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.075,
-        "chg": -1.26,
-        "as_of": "23.10 11:10"
+        "value": 53.915,
+        "chg": -1.55,
+        "as_of": "23.10 12:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.477,
-        "chg": 1.8,
-        "as_of": "23.10 11:10"
+        "value": 6.473,
+        "chg": 1.74,
+        "as_of": "23.10 12:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4001,
-        "chg": -3.33,
-        "as_of": "23.10 10:15"
+        "value": 1.407,
+        "chg": -2.85,
+        "as_of": "23.10 11:59"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "23.10 11:10",
+    "updated": "23.10 12:10",
     "stale": false
   },
   "fx": {
@@ -112,12 +112,6 @@
         "title": "Boroo signs $100M deal for Yukon Eagle gold mine",
         "url": "https://www.mining.com/boroo-signs-100m-deal-for-yukon-eagle-gold-mine/",
         "date": "Thu, 22 Oct 2026 22:06:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Vivox AI, beSirius partner on mining supply chain compliance",
-        "url": "https://www.mining.com/vivox-ai-besirius-partner-on-mining-supply-chain-compliance/",
-        "date": "Thu, 22 Oct 2026 21:49:19 +0000",
         "src": "Mining.com"
       },
       {
@@ -149,13 +143,31 @@
         "url": "https://www.mining.com/liberty-gold-stretches-black-pines-reach-in-idaho/",
         "date": "Thu, 22 Oct 2026 14:54:51 +0000",
         "src": "Mining.com"
+      },
+      {
+        "title": "US targets critical materials boost with $389M funding plan",
+        "url": "https://www.mining.com/us-targets-critical-materials-boost-with-389m-funding-plan/",
+        "date": "Thu, 22 Oct 2026 13:03:00 +0000",
+        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Remontują kamienicę na Rynku. To jeden z ostatnich zaniedbanych budynków",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/remontuja-kamienice-na-rynku-to-jeden-z-ostatnich-zaniedbanych-budynkow/102163/",
-        "date": "Fri, 23 Oct 2026 11:13:17 +0000",
+        "title": "Jeden telefon wyjaśnił sprawę. Odzyskano skradzione jednoślady",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/jeden-telefon-wyjasnil-sprawe-odzyskano-skradzione-jednoslady/102173/",
+        "date": "Fri, 23 Oct 2026 12:21:02 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Cieszyńska rotunda z klocków LEGO. 17-latek zbudował miniaturę historycznej budowli",
+        "url": "https://www.radio90.pl/cieszynska-rotunda-z-klockow-lego-17-latek-zbudowal-miniature-historycznej-budowli.html",
+        "date": "Fri, 23 Oct 2026 11:45:28 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "RADIOWE TYPY: 12. kolejka bielsko-tyskiej „okręgówki”",
+        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-12-kolejka-bielsko-tyskiej-okregowki/102167/",
+        "date": "Fri, 23 Oct 2026 12:02:49 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Rusza przebudowa ważnej drogi. Utrudnienia aż do wiosny",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/rusza-przebudowa-waznej-drogi-utrudnienia-az-do-wiosny/102157/",
-        "date": "Fri, 23 Oct 2026 10:30:55 +0000",
+        "title": "Jak wygląda handel ludźmi? EscapeTruck pokaże",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/jak-wyglada-handel-ludzmi-escapetruck-pokaze/102168/",
+        "date": "Fri, 23 Oct 2026 11:31:39 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,27 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "RADIOWE TYPY: 12. kolejka żywiecko-skoczowskiej Klasy Okręgowej",
-        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-12-kolejka-zywiecko-skoczowskiej-klasy-okregowej/102151/",
-        "date": "Fri, 23 Oct 2026 09:59:51 +0000",
+        "title": "Remontują kamienicę na Rynku. To jeden z ostatnich zaniedbanych budynków",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/remontuja-kamienice-na-rynku-to-jeden-z-ostatnich-zaniedbanych-budynkow/102163/",
+        "date": "Fri, 23 Oct 2026 11:13:17 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Dachowanie w Godowie. Kierowca pomylił biegi z… hamulcem ręcznym. Rozbił auto i dostał mandat",
         "url": "https://www.radio90.pl/dachowanie-w-godowie-kierowca-pomylil-biegi-z-hamulcem-recznym-rozbil-auto-i-dostal-mandat.html",
         "date": "Fri, 23 Oct 2026 09:25:42 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Rano był przejazd, po kilku godzinach zniknął",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/rano-byl-przejazd-po-kilku-godzinach-zniknal/102149/",
-        "date": "Fri, 23 Oct 2026 09:24:07 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Pożar w Czerwionce-Leszczynach. Ogień pojawił się w jednym z domów. Poszkodowany został 42-latek",
-        "url": "https://www.radio90.pl/pozar-w-czerwionce-leszczynach-ogien-pojawil-sie-w-jednym-z-domow-poszkodowany-zostal-42-latek.html",
-        "date": "Fri, 23 Oct 2026 08:45:17 +0000",
         "src": "Radio90"
       }
     ],
