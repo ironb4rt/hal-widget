@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-24T18:20:08+00:00",
+  "generated": "2026-10-24T19:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.6,
-    "feels": 7.4,
-    "code": 3,
+    "temp": 9.3,
+    "feels": 7.0,
+    "code": 1,
     "wind": 7.9,
     "humidity": 76,
     "is_day": false,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-24T20:15",
+    "observed": "2026-10-24T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80271,
-        "pln": 315474,
-        "chg24": -1.55
+        "usd": 80437,
+        "pln": 316125,
+        "chg24": -0.99
       },
       {
         "sym": "ETH",
-        "usd": 2324.13,
-        "pln": 9134.1,
-        "chg24": -3.39
+        "usd": 2334.44,
+        "pln": 9174.61,
+        "chg24": -2.42
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Gol na otwarcie i fatalne pudło na koniec",
+        "url": "https://www.radiobielsko.pl/sport/gol-na-otwarcie-i-fatalne-pudlo-na-koniec/102288/",
+        "date": "Sat, 24 Oct 2026 19:08:11 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Będą rozmawiać o pomocy seniorom i niepełnosprawnym. Odbędzie się konferencja w Łukowie Śląskim [PATRONAT]",
         "url": "https://www.radio90.pl/beda-rozmawiac-o-pomocy-seniorom-i-niepelnosprawnym-odbedzie-sie-konferencja-w-lukowie-slaskim-patronat.html",
         "date": "Sat, 24 Oct 2026 18:00:11 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radio90.pl/osrodek-kultury-zameczek-w-czernicy-dwa-wydarzenia-w-ostatnich-dniach-pazdziernika-jakie.html",
         "date": "Sat, 24 Oct 2026 13:55:28 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Ponad 4 miliony pojazdów w rok. Obwodnica ma pierwsze urodziny",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/ponad-4-miliony-pojazdow-w-rok-obwodnica-ma-pierwsze-urodziny/102237/",
-        "date": "Sat, 24 Oct 2026 06:29:10 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
