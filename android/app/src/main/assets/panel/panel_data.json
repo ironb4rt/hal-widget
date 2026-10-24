@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-24T17:20:08+00:00",
+  "generated": "2026-10-24T18:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.5,
-    "feels": 7.2,
+    "temp": 9.6,
+    "feels": 7.4,
     "code": 3,
-    "wind": 8.6,
-    "humidity": 77,
+    "wind": 7.9,
+    "humidity": 76,
     "is_day": false,
     "tmax": 10.8,
-    "tmin": 8.7,
+    "tmin": 9.1,
     "forecast": [
       {
         "date": "2026-10-24",
         "max": 10.8,
-        "min": 8.7,
+        "min": 9.1,
         "code": 51
       },
       {
         "date": "2026-10-25",
-        "max": 11.9,
+        "max": 11.6,
         "min": 7.3,
         "code": 61
       },
       {
         "date": "2026-10-26",
-        "max": 9.9,
-        "min": 6.2,
+        "max": 10.0,
+        "min": 6.3,
         "code": 61
       }
     ],
-    "observed": "2026-10-24T19:15",
+    "observed": "2026-10-24T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80133,
-        "pln": 314931,
-        "chg24": -1.92
+        "usd": 80271,
+        "pln": 315474,
+        "chg24": -1.55
       },
       {
         "sym": "ETH",
-        "usd": 2318.4,
-        "pln": 9111.55,
-        "chg24": -3.75
+        "usd": 2324.13,
+        "pln": 9134.1,
+        "chg24": -3.39
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Żłobek w Marklowicach: powstała do niego droga dojazdowa. Gmina: „Została zrealizowana w celu poprawy bezpieczeństwa”",
-        "url": "https://www.radio90.pl/zlobek-w-marklowicach-powstala-do-niego-droga-dojazdowa-gmina-zostala-zrealizowana-w-celu-poprawy-bezpieczenstwa.html",
-        "date": "Sat, 24 Oct 2026 16:40:01 +0000",
+        "title": "Będą rozmawiać o pomocy seniorom i niepełnosprawnym. Odbędzie się konferencja w Łukowie Śląskim [PATRONAT]",
+        "url": "https://www.radio90.pl/beda-rozmawiac-o-pomocy-seniorom-i-niepelnosprawnym-odbedzie-sie-konferencja-w-lukowie-slaskim-patronat.html",
+        "date": "Sat, 24 Oct 2026 18:00:11 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Przebudowa lodowiska Jastor w Jastrzębiu. Jest już konstrukcja małej trybuny, niedługo ruszy montaż pokrycia [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/przebudowa-lodowiska-jastor-w-jastrzebiu-jest-juz-konstrukcja-malej-trybuny-niedlugo-ruszy-montaz-pokrycia-zdjecia.html",
-        "date": "Sat, 24 Oct 2026 15:20:40 +0000",
+        "title": "Żłobek w Marklowicach: powstała do niego droga dojazdowa. Gmina: „Została zrealizowana w celu poprawy bezpieczeństwa”",
+        "url": "https://www.radio90.pl/zlobek-w-marklowicach-powstala-do-niego-droga-dojazdowa-gmina-zostala-zrealizowana-w-celu-poprawy-bezpieczenstwa.html",
+        "date": "Sat, 24 Oct 2026 16:40:01 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Ośrodek Kultury Zameczek w Czernicy: dwa wydarzenia w ostatnich dniach października. Jakie?",
-        "url": "https://www.radio90.pl/osrodek-kultury-zameczek-w-czernicy-dwa-wydarzenia-w-ostatnich-dniach-pazdziernika-jakie.html",
-        "date": "Sat, 24 Oct 2026 13:55:28 +0000",
+        "title": "Przebudowa lodowiska Jastor w Jastrzębiu. Jest już konstrukcja małej trybuny, niedługo ruszy montaż pokrycia [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/przebudowa-lodowiska-jastor-w-jastrzebiu-jest-juz-konstrukcja-malej-trybuny-niedlugo-ruszy-montaz-pokrycia-zdjecia.html",
+        "date": "Sat, 24 Oct 2026 15:20:40 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Historia szlaku kolejowego w Leszczynach w pigułce",
-        "url": "https://www.radio90.pl/historia-szlaku-kolejowego-w-leszczynach-w-pigulce.html",
-        "date": "Sat, 24 Oct 2026 12:30:13 +0000",
+        "title": "Ośrodek Kultury Zameczek w Czernicy: dwa wydarzenia w ostatnich dniach października. Jakie?",
+        "url": "https://www.radio90.pl/osrodek-kultury-zameczek-w-czernicy-dwa-wydarzenia-w-ostatnich-dniach-pazdziernika-jakie.html",
+        "date": "Sat, 24 Oct 2026 13:55:28 +0000",
         "src": "Radio90"
       },
       {
