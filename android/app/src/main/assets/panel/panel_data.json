@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-24T13:20:09+00:00",
+  "generated": "2026-10-24T14:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.6,
-    "feels": 8.2,
-    "code": 3,
-    "wind": 10.1,
-    "humidity": 73,
+    "temp": 10.8,
+    "feels": 8.5,
+    "code": 2,
+    "wind": 8.6,
+    "humidity": 71,
     "is_day": true,
     "tmax": 10.8,
     "tmin": 8.6,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-24T15:15",
+    "observed": "2026-10-24T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80700,
-        "pln": 317161,
-        "chg24": -1.06
+        "usd": 80054,
+        "pln": 314621,
+        "chg24": -1.34
       },
       {
         "sym": "ETH",
-        "usd": 2364.94,
-        "pln": 9294.48,
-        "chg24": -1.32
+        "usd": 2335.16,
+        "pln": 9177.45,
+        "chg24": -2.02
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Historia szlaku kolejowego w Leszczynach w pigułce",
-        "url": "https://www.radio90.pl/historia-szlaku-kolejowego-w-leszczynach-w-pigulce.html",
-        "date": "Sat, 24 Oct 2026 12:30:13 +0000",
+        "title": "Ośrodek Kultury Zameczek w Czernicy: dwa wydarzenia w ostatnich dniach października. Jakie?",
+        "url": "https://www.radio90.pl/osrodek-kultury-zameczek-w-czernicy-dwa-wydarzenia-w-ostatnich-dniach-pazdziernika-jakie.html",
+        "date": "Sat, 24 Oct 2026 13:55:28 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Pracownia Energetyki Odnawialnej w ZST w Wodzisławiu [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/pracownia-energetyki-odnawialnej-w-zst-w-wodzislawiu-zdjecia.html",
-        "date": "Sat, 24 Oct 2026 11:10:04 +0000",
+        "title": "Historia szlaku kolejowego w Leszczynach w pigułce",
+        "url": "https://www.radio90.pl/historia-szlaku-kolejowego-w-leszczynach-w-pigulce.html",
+        "date": "Sat, 24 Oct 2026 12:30:13 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Rybnicka Rada Seniorów: do połowy listopada można zgłaszać do niej kandydatów. W grudniu wybory",
-        "url": "https://www.radio90.pl/rybnicka-rada-seniorow-do-polowy-listopada-mozna-zglaszac-do-niej-kandydatow-w-grudniu-wybory.html",
-        "date": "Sat, 24 Oct 2026 09:50:18 +0000",
+        "title": "Pracownia Energetyki Odnawialnej w ZST w Wodzisławiu [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/pracownia-energetyki-odnawialnej-w-zst-w-wodzislawiu-zdjecia.html",
+        "date": "Sat, 24 Oct 2026 11:10:04 +0000",
         "src": "Radio90"
       },
       {
@@ -189,15 +189,15 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Koleje Śląskie: pasażerowie dybią na rydza",
-        "url": "https://www.radio90.pl/koleje-slaskie-pasazerowie-dybia-na-rydza.html",
-        "date": "Sat, 24 Oct 2026 08:30:56 +0000",
+        "title": "Rybnicka Rada Seniorów: do połowy listopada można zgłaszać do niej kandydatów. W grudniu wybory",
+        "url": "https://www.radio90.pl/rybnicka-rada-seniorow-do-polowy-listopada-mozna-zglaszac-do-niej-kandydatow-w-grudniu-wybory.html",
+        "date": "Sat, 24 Oct 2026 09:50:18 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Rock’N’Rolla w przebudowie, SahAira zamknięta na miesiąc",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/rocknrolla-w-przebudowie-sahaira-zamknieta-na-miesiac/102238/",
-        "date": "Sat, 24 Oct 2026 06:00:44 +0000",
+        "title": "Koniec pięknej przygody Katarzyny Kawy! Było blisko sensacji",
+        "url": "https://www.radiobielsko.pl/sport/koniec-pieknej-przygody-bylo-blisko-sensacji/102253/",
+        "date": "Sat, 24 Oct 2026 06:21:14 +0000",
         "src": "RadioBielsko"
       }
     ],
@@ -205,6 +205,11 @@
       {
         "title": "Sezon zimowy coraz bliżej, a wraz z nim doskonałe okazje!",
         "url": "/informacje/21034-sezon-zimowy-coraz-blizej-a-wraz-z-nim-doskonale-okazje",
+        "date": ""
+      },
+      {
+        "title": "JutroPodczas meczu Podbeskidzia będzie można pomóc pogorzelcom z Kobiernic",
+        "url": "/informacje/21036-podczas-meczu-podbeskidzia-bedzie-mozna-pomoc-pogorzelcom-z-kobiernic",
         "date": ""
       },
       {
@@ -225,11 +230,6 @@
       {
         "title": "Bezpłatne sprawdzenie świateł w Bielsku-Białej. Sprawdź, gdzie podjechać",
         "url": "/informacje/21030-bezplatne-sprawdzenie-swiatel-w-bielsku-bialej-sprawdz-gdzie-podjechac",
-        "date": ""
-      },
-      {
-        "title": "Niebezpieczna sytuacja na skrzyżowaniu 1 Maja z Zamkową. Brakuje znaku STOP",
-        "url": "/informacje/21027-niebezpieczna-sytuacja-na-skrzyzowaniu-1-maja-z-zamkowa-brakuje-znaku-stop",
         "date": ""
       }
     ],
