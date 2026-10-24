@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-24T07:20:07+00:00",
+  "generated": "2026-10-24T08:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.8,
-    "feels": 8.2,
+    "temp": 10.7,
+    "feels": 8.0,
     "code": 3,
-    "wind": 7.9,
-    "humidity": 61,
+    "wind": 9.0,
+    "humidity": 64,
     "is_day": true,
     "tmax": 11.1,
     "tmin": 8.8,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-24T09:15",
+    "observed": "2026-10-24T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80801,
-        "pln": 317557,
-        "chg24": -1.03
+        "usd": 80715,
+        "pln": 317220,
+        "chg24": -1.27
       },
       {
         "sym": "ETH",
-        "usd": 2380.46,
-        "pln": 9355.49,
-        "chg24": -0.85
+        "usd": 2371.63,
+        "pln": 9320.79,
+        "chg24": -1.48
       }
     ],
     "stale": false
@@ -101,8 +101,63 @@
   },
   "news": {
     "ok": true,
-    "market": [],
+    "market": [
+      {
+        "title": "US Department of Energy names helium to critical materials list",
+        "url": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/",
+        "date": "Fri, 23 Oct 2026 22:50:19 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Bannerman pulls trigger on $353M uranium mine",
+        "url": "https://www.mining.com/bannerman-pulls-trigger-on-353m-uranium-mine/",
+        "date": "Fri, 23 Oct 2026 22:39:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Moon River lifts Davidson value to $879M, tungsten output jumps",
+        "url": "https://www.mining.com/moon-river-lifts-davidson-value-to-879m-tungsten-output-jumps/",
+        "date": "Fri, 23 Oct 2026 19:55:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security",
+        "url": "https://www.mining.com/op-ed-nicaragua-mining-the-golden-bridgehead-threatening-us-national-security/",
+        "date": "Fri, 23 Oct 2026 19:09:48 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Newmont prices Red Chris expansion at up to $4.8B",
+        "url": "https://www.mining.com/newmont-prices-red-chris-expansion-at-up-to-4-8b/",
+        "date": "Fri, 23 Oct 2026 17:15:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Diesel price surge putting mining profits to test",
+        "url": "https://www.mining.com/diesel-price-surge-putting-mining-profits-to-test/",
+        "date": "Fri, 23 Oct 2026 14:24:08 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "New Found Gold doubles Queensway valuation to $1.2B",
+        "url": "https://www.mining.com/new-found-gold-doubles-queensway-valuation-to-1-2b/",
+        "date": "Fri, 23 Oct 2026 13:42:07 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Central banks pile into gold as China leads buying spree",
+        "url": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
+        "date": "Fri, 23 Oct 2026 13:10:00 +0000",
+        "src": "Mining.com"
+      }
+    ],
     "local": [
+      {
+        "title": "Linia ze zdwojoną liczbą kursów. „To nie będzie pechowa trzynastka”",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/linia-ze-zdwojona-liczba-kursow-to-nie-bedzie-pechowa-trzynastka/102256/",
+        "date": "Sat, 24 Oct 2026 08:08:35 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Akcja znakowania rowerów w Rybniku. W tym roku Straż Miejska oznaczyła równo 200 jednośladów [ZDJĘCIA]",
         "url": "https://www.radio90.pl/akcja-znakowania-rowerow-w-rybniku-w-tym-roku-straz-miejska-oznaczyla-rowno-200-jednosladow-zdjecia.html",
@@ -144,12 +199,6 @@
         "url": "https://www.radio90.pl/zmiana-czasu-bez-wplywu-na-pociagi-kolei-slaskich.html",
         "date": "Fri, 23 Oct 2026 17:40:25 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Koniec pięknej przygody! Było blisko sensacji",
-        "url": "https://www.radiobielsko.pl/sport/koniec-pieknej-przygody-bylo-blisko-sensacji/102253/",
-        "date": "Fri, 23 Oct 2026 21:21:14 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
