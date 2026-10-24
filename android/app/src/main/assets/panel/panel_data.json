@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-24T19:20:08+00:00",
+  "generated": "2026-10-24T20:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.3,
-    "feels": 7.0,
-    "code": 1,
-    "wind": 7.9,
-    "humidity": 76,
+    "temp": 9.1,
+    "feels": 6.8,
+    "code": 3,
+    "wind": 7.6,
+    "humidity": 77,
     "is_day": false,
     "tmax": 10.8,
     "tmin": 9.1,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-24T21:15",
+    "observed": "2026-10-24T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80437,
-        "pln": 316125,
-        "chg24": -0.99
+        "usd": 80493,
+        "pln": 316347,
+        "chg24": -0.93
       },
       {
         "sym": "ETH",
-        "usd": 2334.44,
-        "pln": 9174.61,
-        "chg24": -2.42
+        "usd": 2343.44,
+        "pln": 9210.0,
+        "chg24": -2.06
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Gol na otwarcie i fatalne pudło na koniec",
-        "url": "https://www.radiobielsko.pl/sport/gol-na-otwarcie-i-fatalne-pudlo-na-koniec/102288/",
-        "date": "Sat, 24 Oct 2026 19:08:11 +0000",
+        "title": "Strachy opanowały Bielsko-Białą. Tłumy na 5. Marszu Strachów",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/strachy-opanowaly-bielsko-biala-tlumy-na-5-marszu-strachow/102310/",
+        "date": "Sat, 24 Oct 2026 20:04:52 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "LKS Bestwina zmienia trenera! To był jego ostatni mecz",
-        "url": "https://www.radiobielsko.pl/sport/lks-bestwina-zmienia-trenera-to-byl-jego-ostatni-mecz/102265/",
-        "date": "Sat, 24 Oct 2026 15:52:31 +0000",
+        "title": "Psy, koty, kozy i jeże. Ilona Buczek od ponad 20 lat ratuje im życie",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/psy-koty-kozy-i-jeze-ilona-buczek-od-ponad-20-lat-ratuje-im-zycie/102287/",
+        "date": "Sat, 24 Oct 2026 19:48:05 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Za szybko i nielegalnie. Problem w Parku Bulwary",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/za-szybko-i-nielegalnie-problem-w-parku-bulwary/102261/",
-        "date": "Sat, 24 Oct 2026 11:27:10 +0000",
+        "title": "Gol na otwarcie i fatalne pudło na koniec",
+        "url": "https://www.radiobielsko.pl/sport/gol-na-otwarcie-i-fatalne-pudlo-na-koniec/102288/",
+        "date": "Sat, 24 Oct 2026 19:08:11 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Linia ze zdwojoną liczbą kursów. „To nie będzie pechowa trzynastka”",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/linia-ze-zdwojona-liczba-kursow-to-nie-bedzie-pechowa-trzynastka/102256/",
-        "date": "Sat, 24 Oct 2026 08:08:35 +0000",
+        "title": "LKS Bestwina zmienia trenera! To był jego ostatni mecz",
+        "url": "https://www.radiobielsko.pl/sport/lks-bestwina-zmienia-trenera-to-byl-jego-ostatni-mecz/102265/",
+        "date": "Sat, 24 Oct 2026 15:52:31 +0000",
         "src": "RadioBielsko"
       },
       {
