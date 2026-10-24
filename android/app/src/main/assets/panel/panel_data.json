@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-24T12:20:09+00:00",
+  "generated": "2026-10-24T13:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.7,
-    "feels": 8.3,
+    "temp": 10.6,
+    "feels": 8.2,
     "code": 3,
     "wind": 10.1,
-    "humidity": 74,
+    "humidity": 73,
     "is_day": true,
     "tmax": 10.8,
     "tmin": 8.6,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-26",
         "max": 10.6,
-        "min": 5.2,
+        "min": 3.7,
         "code": 51
       }
     ],
-    "observed": "2026-10-24T14:15",
+    "observed": "2026-10-24T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80617,
-        "pln": 316835,
-        "chg24": -1.1
+        "usd": 80700,
+        "pln": 317161,
+        "chg24": -1.06
       },
       {
         "sym": "ETH",
-        "usd": 2365.46,
-        "pln": 9296.53,
-        "chg24": -1.28
+        "usd": 2364.94,
+        "pln": 9294.48,
+        "chg24": -1.32
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Historia szlaku kolejowego w Leszczynach w pigułce",
+        "url": "https://www.radio90.pl/historia-szlaku-kolejowego-w-leszczynach-w-pigulce.html",
+        "date": "Sat, 24 Oct 2026 12:30:13 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Za szybko i nielegalnie. Problem w Parku Bulwary",
         "url": "https://www.radiobielsko.pl/powiat-oswiecimski/za-szybko-i-nielegalnie-problem-w-parku-bulwary/102261/",
         "date": "Sat, 24 Oct 2026 11:27:10 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/rocknrolla-w-przebudowie-sahaira-zamknieta-na-miesiac/102238/",
         "date": "Sat, 24 Oct 2026 06:00:44 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Akcja znakowania rowerów w Rybniku. W tym roku Straż Miejska oznaczyła równo 200 jednośladów [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/akcja-znakowania-rowerow-w-rybniku-w-tym-roku-straz-miejska-oznaczyla-rowno-200-jednosladow-zdjecia.html",
-        "date": "Sat, 24 Oct 2026 07:15:44 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
