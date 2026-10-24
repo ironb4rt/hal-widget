@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-24T08:20:08+00:00",
+  "generated": "2026-10-24T09:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.7,
-    "feels": 8.0,
+    "temp": 10.1,
+    "feels": 7.5,
     "code": 3,
-    "wind": 9.0,
-    "humidity": 64,
+    "wind": 10.4,
+    "humidity": 73,
     "is_day": true,
-    "tmax": 11.1,
-    "tmin": 8.8,
+    "tmax": 10.9,
+    "tmin": 8.3,
     "forecast": [
       {
         "date": "2026-10-24",
-        "max": 11.1,
-        "min": 8.8,
-        "code": 3
+        "max": 10.9,
+        "min": 8.3,
+        "code": 51
       },
       {
         "date": "2026-10-25",
-        "max": 12.2,
-        "min": 6.4,
-        "code": 55
+        "max": 11.5,
+        "min": 6.2,
+        "code": 61
       },
       {
         "date": "2026-10-26",
-        "max": 10.4,
+        "max": 10.2,
         "min": 5.2,
-        "code": 61
+        "code": 63
       }
     ],
-    "observed": "2026-10-24T10:15",
+    "observed": "2026-10-24T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80715,
-        "pln": 317220,
-        "chg24": -1.27
+        "usd": 80536,
+        "pln": 316515,
+        "chg24": -1.42
       },
       {
         "sym": "ETH",
-        "usd": 2371.63,
-        "pln": 9320.79,
-        "chg24": -1.48
+        "usd": 2361.78,
+        "pln": 9282.07,
+        "chg24": -1.68
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Koleje Śląskie: pasażerowie dybią na rydza",
+        "url": "https://www.radio90.pl/koleje-slaskie-pasazerowie-dybia-na-rydza.html",
+        "date": "Sat, 24 Oct 2026 08:30:56 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Linia ze zdwojoną liczbą kursów. „To nie będzie pechowa trzynastka”",
         "url": "https://www.radiobielsko.pl/powiat-oswiecimski/linia-ze-zdwojona-liczba-kursow-to-nie-bedzie-pechowa-trzynastka/102256/",
         "date": "Sat, 24 Oct 2026 08:08:35 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-cieszynski/dawna-zwirownia-zmienila-sie-nie-do-poznania-eko-strefa-juz-gotowa/102186/",
         "date": "Sat, 24 Oct 2026 04:24:53 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Zmiana czasu bez wpływu na pociągi Kolei Śląskich",
-        "url": "https://www.radio90.pl/zmiana-czasu-bez-wplywu-na-pociagi-kolei-slaskich.html",
-        "date": "Fri, 23 Oct 2026 17:40:25 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
@@ -213,16 +213,6 @@
         "date": ""
       },
       {
-        "title": "Poważny wypadek na ul. Bielskiej w Pisarzowicach. Czołowo zderzyły się bus i samochód osobowy",
-        "url": "/informacje/21033-powazny-wypadek-na-ul-bielskiej-w-pisarzowicach-czolowo-zderzyly-sie-bus-i-samochod-osobowy",
-        "date": ""
-      },
-      {
-        "title": "MZD w Bielsku-Białej sprzedaje cztery Skody Fabie. Ceny od 11,2 tys. zł",
-        "url": "/informacje/21032-mzd-w-bielsku-bialej-sprzedaje-cztery-skody-fabie-ceny-od-11-2-tys-zl",
-        "date": ""
-      },
-      {
         "title": "Piastowska: prace drogowe są zaawansowane w 80 procentach",
         "url": "/informacje/21031-piastowska-prace-drogowe-sa-zaawansowane-w-80-procentach",
         "date": ""
@@ -230,6 +220,16 @@
       {
         "title": "Stracił panowanie nad swoim samochodem i wjechał na nasyp kolejowy. Wydmuchał 1,4 promila!",
         "url": "/informacje/21029-stracil-panowanie-nad-swoim-samochodem-i-wjechal-na-nasyp-kolejowy-wydmuchal-1-4-promila",
+        "date": ""
+      },
+      {
+        "title": "Bezpłatne sprawdzenie świateł w Bielsku-Białej. Sprawdź, gdzie podjechać",
+        "url": "/informacje/21030-bezplatne-sprawdzenie-swiatel-w-bielsku-bialej-sprawdz-gdzie-podjechac",
+        "date": ""
+      },
+      {
+        "title": "Niebezpieczna sytuacja na skrzyżowaniu 1 Maja z Zamkową. Brakuje znaku STOP",
+        "url": "/informacje/21027-niebezpieczna-sytuacja-na-skrzyzowaniu-1-maja-z-zamkowa-brakuje-znaku-stop",
         "date": ""
       }
     ],
