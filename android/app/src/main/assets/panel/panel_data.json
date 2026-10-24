@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-24T09:20:08+00:00",
+  "generated": "2026-10-24T10:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.1,
-    "feels": 7.5,
+    "temp": 10.5,
+    "feels": 7.9,
     "code": 3,
-    "wind": 10.4,
-    "humidity": 73,
+    "wind": 10.1,
+    "humidity": 71,
     "is_day": true,
     "tmax": 10.9,
     "tmin": 8.3,
@@ -31,7 +31,7 @@
         "code": 63
       }
     ],
-    "observed": "2026-10-24T11:15",
+    "observed": "2026-10-24T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80536,
-        "pln": 316515,
-        "chg24": -1.42
+        "usd": 80498,
+        "pln": 316366,
+        "chg24": -1.5
       },
       {
         "sym": "ETH",
-        "usd": 2361.78,
-        "pln": 9282.07,
-        "chg24": -1.68
+        "usd": 2363.47,
+        "pln": 9288.71,
+        "chg24": -1.53
       }
     ],
     "stale": false
@@ -101,61 +101,12 @@
   },
   "news": {
     "ok": true,
-    "market": [
-      {
-        "title": "US Department of Energy names helium to critical materials list",
-        "url": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/",
-        "date": "Fri, 23 Oct 2026 22:50:19 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Bannerman pulls trigger on $353M uranium mine",
-        "url": "https://www.mining.com/bannerman-pulls-trigger-on-353m-uranium-mine/",
-        "date": "Fri, 23 Oct 2026 22:39:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Moon River lifts Davidson value to $879M, tungsten output jumps",
-        "url": "https://www.mining.com/moon-river-lifts-davidson-value-to-879m-tungsten-output-jumps/",
-        "date": "Fri, 23 Oct 2026 19:55:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security",
-        "url": "https://www.mining.com/op-ed-nicaragua-mining-the-golden-bridgehead-threatening-us-national-security/",
-        "date": "Fri, 23 Oct 2026 19:09:48 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Newmont prices Red Chris expansion at up to $4.8B",
-        "url": "https://www.mining.com/newmont-prices-red-chris-expansion-at-up-to-4-8b/",
-        "date": "Fri, 23 Oct 2026 17:15:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Diesel price surge putting mining profits to test",
-        "url": "https://www.mining.com/diesel-price-surge-putting-mining-profits-to-test/",
-        "date": "Fri, 23 Oct 2026 14:24:08 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "New Found Gold doubles Queensway valuation to $1.2B",
-        "url": "https://www.mining.com/new-found-gold-doubles-queensway-valuation-to-1-2b/",
-        "date": "Fri, 23 Oct 2026 13:42:07 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Central banks pile into gold as China leads buying spree",
-        "url": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
-        "date": "Fri, 23 Oct 2026 13:10:00 +0000",
-        "src": "Mining.com"
-      }
-    ],
+    "market": [],
     "local": [
       {
-        "title": "Koleje Śląskie: pasażerowie dybią na rydza",
-        "url": "https://www.radio90.pl/koleje-slaskie-pasazerowie-dybia-na-rydza.html",
-        "date": "Sat, 24 Oct 2026 08:30:56 +0000",
+        "title": "Rybnicka Rada Seniorów: do połowy listopada można zgłaszać do niej kandydatów. W grudniu wybory",
+        "url": "https://www.radio90.pl/rybnicka-rada-seniorow-do-polowy-listopada-mozna-zglaszac-do-niej-kandydatow-w-grudniu-wybory.html",
+        "date": "Sat, 24 Oct 2026 09:50:18 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +116,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Akcja znakowania rowerów w Rybniku. W tym roku Straż Miejska oznaczyła równo 200 jednośladów [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/akcja-znakowania-rowerow-w-rybniku-w-tym-roku-straz-miejska-oznaczyla-rowno-200-jednosladow-zdjecia.html",
-        "date": "Sat, 24 Oct 2026 07:15:44 +0000",
+        "title": "Koleje Śląskie: pasażerowie dybią na rydza",
+        "url": "https://www.radio90.pl/koleje-slaskie-pasazerowie-dybia-na-rydza.html",
+        "date": "Sat, 24 Oct 2026 08:30:56 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +128,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Kuchnia Radia 90: przepis na domowe cynamonki",
-        "url": "https://www.radio90.pl/kuchnia-radia-90-przepis-na-domowe-cynamonki.html",
-        "date": "Sat, 24 Oct 2026 06:00:36 +0000",
+        "title": "Akcja znakowania rowerów w Rybniku. W tym roku Straż Miejska oznaczyła równo 200 jednośladów [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/akcja-znakowania-rowerow-w-rybniku-w-tym-roku-straz-miejska-oznaczyla-rowno-200-jednosladow-zdjecia.html",
+        "date": "Sat, 24 Oct 2026 07:15:44 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +140,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Żory: pielęgniarka z narkotykami",
-        "url": "https://www.radio90.pl/zory-pielegniarka-z-narkotykami.html",
-        "date": "Fri, 23 Oct 2026 18:31:40 +0000",
+        "title": "Kuchnia Radia 90: przepis na domowe cynamonki",
+        "url": "https://www.radio90.pl/kuchnia-radia-90-przepis-na-domowe-cynamonki.html",
+        "date": "Sat, 24 Oct 2026 06:00:36 +0000",
         "src": "Radio90"
       },
       {
