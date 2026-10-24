@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-24T06:20:07+00:00",
+  "generated": "2026-10-24T07:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.5,
-    "feels": 7.0,
+    "temp": 10.8,
+    "feels": 8.2,
     "code": 3,
-    "wind": 13.0,
-    "humidity": 59,
+    "wind": 7.9,
+    "humidity": 61,
     "is_day": true,
     "tmax": 11.1,
     "tmin": 8.8,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-26",
-        "max": 10.2,
-        "min": 3.8,
+        "max": 10.4,
+        "min": 5.2,
         "code": 61
       }
     ],
-    "observed": "2026-10-24T08:15",
+    "observed": "2026-10-24T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80701,
-        "pln": 317162,
-        "chg24": -1.38
+        "usd": 80801,
+        "pln": 317557,
+        "chg24": -1.03
       },
       {
         "sym": "ETH",
-        "usd": 2376.4,
-        "pln": 9339.5,
-        "chg24": -1.18
+        "usd": 2380.46,
+        "pln": 9355.49,
+        "chg24": -0.85
       }
     ],
     "stale": false
@@ -104,9 +104,15 @@
     "market": [],
     "local": [
       {
-        "title": "Rock’N’Rolla w przebudowie, SahAira zamknięta na miesiąc",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/rocknrolla-w-przebudowie-sahaira-zamknieta-na-miesiac/102238/",
-        "date": "Sat, 24 Oct 2026 06:00:44 +0000",
+        "title": "Akcja znakowania rowerów w Rybniku. W tym roku Straż Miejska oznaczyła równo 200 jednośladów [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/akcja-znakowania-rowerow-w-rybniku-w-tym-roku-straz-miejska-oznaczyla-rowno-200-jednosladow-zdjecia.html",
+        "date": "Sat, 24 Oct 2026 07:15:44 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Ponad 4 miliony pojazdów w rok. Obwodnica ma pierwsze urodziny",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/ponad-4-miliony-pojazdow-w-rok-obwodnica-ma-pierwsze-urodziny/102237/",
+        "date": "Sat, 24 Oct 2026 06:29:10 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -116,9 +122,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Dawna żwirownia zmieniła się nie do poznania. Eko-strefa już gotowa",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dawna-zwirownia-zmienila-sie-nie-do-poznania-eko-strefa-juz-gotowa/102186/",
-        "date": "Sat, 24 Oct 2026 04:24:53 +0000",
+        "title": "Rock’N’Rolla w przebudowie, SahAira zamknięta na miesiąc",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/rocknrolla-w-przebudowie-sahaira-zamknieta-na-miesiac/102238/",
+        "date": "Sat, 24 Oct 2026 06:00:44 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -128,9 +134,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Koniec pięknej przygody! Było blisko sensacji",
-        "url": "https://www.radiobielsko.pl/sport/koniec-pieknej-przygody-bylo-blisko-sensacji/102253/",
-        "date": "Fri, 23 Oct 2026 21:21:14 +0000",
+        "title": "Dawna żwirownia zmieniła się nie do poznania. Eko-strefa już gotowa",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dawna-zwirownia-zmienila-sie-nie-do-poznania-eko-strefa-juz-gotowa/102186/",
+        "date": "Sat, 24 Oct 2026 04:24:53 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -140,16 +146,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Ależ bomba! Kacper Tomasiak zachwycił wszystkich (VIDEO)",
-        "url": "https://www.radiobielsko.pl/sport/kacper-tomasiak-zachwycil-wszystkich-co-za-skok-video/102248/",
-        "date": "Fri, 23 Oct 2026 20:59:25 +0000",
+        "title": "Koniec pięknej przygody! Było blisko sensacji",
+        "url": "https://www.radiobielsko.pl/sport/koniec-pieknej-przygody-bylo-blisko-sensacji/102253/",
+        "date": "Fri, 23 Oct 2026 21:21:14 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Utrudnienia na DK94. Rusza przebudowa drogi w Sosnowcu",
-        "url": "https://www.radio90.pl/utrudnienia-na-dk94-rusza-przebudowa-drogi-w-sosnowcu.html",
-        "date": "Fri, 23 Oct 2026 16:50:33 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
