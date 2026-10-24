@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-24T16:20:07+00:00",
+  "generated": "2026-10-24T17:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.0,
-    "feels": 7.8,
+    "temp": 9.5,
+    "feels": 7.2,
     "code": 3,
-    "wind": 7.9,
-    "humidity": 76,
+    "wind": 8.6,
+    "humidity": 77,
     "is_day": false,
     "tmax": 10.8,
     "tmin": 8.7,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-24T18:15",
+    "observed": "2026-10-24T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79755,
-        "pln": 313447,
-        "chg24": -2.17
+        "usd": 80133,
+        "pln": 314931,
+        "chg24": -1.92
       },
       {
         "sym": "ETH",
-        "usd": 2306.71,
-        "pln": 9065.63,
-        "chg24": -3.94
+        "usd": 2318.4,
+        "pln": 9111.55,
+        "chg24": -3.75
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Żłobek w Marklowicach: powstała do niego droga dojazdowa. Gmina: „Została zrealizowana w celu poprawy bezpieczeństwa”",
+        "url": "https://www.radio90.pl/zlobek-w-marklowicach-powstala-do-niego-droga-dojazdowa-gmina-zostala-zrealizowana-w-celu-poprawy-bezpieczenstwa.html",
+        "date": "Sat, 24 Oct 2026 16:40:01 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "LKS Bestwina zmienia trenera! To był jego ostatni mecz",
         "url": "https://www.radiobielsko.pl/sport/lks-bestwina-zmienia-trenera-to-byl-jego-ostatni-mecz/102265/",
         "date": "Sat, 24 Oct 2026 15:52:31 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/ponad-4-miliony-pojazdow-w-rok-obwodnica-ma-pierwsze-urodziny/102237/",
         "date": "Sat, 24 Oct 2026 06:29:10 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Pracownia Energetyki Odnawialnej w ZST w Wodzisławiu [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/pracownia-energetyki-odnawialnej-w-zst-w-wodzislawiu-zdjecia.html",
-        "date": "Sat, 24 Oct 2026 11:10:04 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
