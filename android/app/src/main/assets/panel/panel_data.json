@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-25T06:20:15+00:00",
+  "generated": "2026-10-25T07:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.3,
-    "feels": 4.0,
-    "code": 1,
-    "wind": 11.5,
-    "humidity": 76,
+    "temp": 8.2,
+    "feels": 5.1,
+    "code": 3,
+    "wind": 10.4,
+    "humidity": 72,
     "is_day": true,
     "tmax": 11.8,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-25T07:15",
+    "observed": "2026-10-25T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80573,
-        "pln": 316660,
-        "chg24": -0.16
+        "usd": 80545,
+        "pln": 316061,
+        "chg24": -0.35
       },
       {
         "sym": "ETH",
-        "usd": 2349.4,
-        "pln": 9233.39,
-        "chg24": -1.15
+        "usd": 2345.78,
+        "pln": 9204.95,
+        "chg24": -1.49
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Strachy opanowały Bielsko-Białą. Tłumy na 5. Marszu Strachów",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/strachy-opanowaly-bielsko-biala-tlumy-na-5-marszu-strachow/102310/",
-        "date": "Sat, 24 Oct 2026 20:04:52 +0000",
+        "title": "Decyzja zapadła. Kacper Tomasiak nie wystartuje w konkursie",
+        "url": "https://www.radiobielsko.pl/sport/decyzja-zapadla-kacper-tomasiak-nie-wystartuje-w-konkursie/102375/",
+        "date": "Sun, 25 Oct 2026 06:53:02 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Psy, koty, kozy i jeże. Ilona Buczek od ponad 20 lat ratuje im życie",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/psy-koty-kozy-i-jeze-ilona-buczek-od-ponad-20-lat-ratuje-im-zycie/102287/",
-        "date": "Sat, 24 Oct 2026 19:48:05 +0000",
+        "title": "BBTS był blisko odwrócenia losów meczu. Finał przyniósł rozczarowanie",
+        "url": "https://www.radiobielsko.pl/sport/bbts-byl-blisko-odwrocenia-losow-meczu-final-przyniosl-rozczarowanie/102370/",
+        "date": "Sun, 25 Oct 2026 06:40:09 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Gol na otwarcie i fatalne pudło na koniec",
-        "url": "https://www.radiobielsko.pl/sport/gol-na-otwarcie-i-fatalne-pudlo-na-koniec/102288/",
-        "date": "Sat, 24 Oct 2026 19:08:11 +0000",
+        "title": "Strachy opanowały Bielsko-Białą. Tłumy na 5. Marszu Strachów",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/strachy-opanowaly-bielsko-biala-tlumy-na-5-marszu-strachow/102310/",
+        "date": "Sat, 24 Oct 2026 20:04:52 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "To był jego ostatni mecz. Klub zmienia trenera!",
-        "url": "https://www.radiobielsko.pl/sport/lks-bestwina-zmienia-trenera-to-byl-jego-ostatni-mecz/102265/",
-        "date": "Sat, 24 Oct 2026 15:52:31 +0000",
+        "title": "Psy, koty, kozy i jeże. Ilona Buczek od ponad 20 lat ratuje im życie",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/psy-koty-kozy-i-jeze-ilona-buczek-od-ponad-20-lat-ratuje-im-zycie/102287/",
+        "date": "Sat, 24 Oct 2026 19:48:05 +0000",
         "src": "RadioBielsko"
       },
       {
