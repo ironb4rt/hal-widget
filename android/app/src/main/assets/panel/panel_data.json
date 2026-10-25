@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-25T20:20:07+00:00",
+  "generated": "2026-10-25T21:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.8,
-    "feels": 2.1,
+    "temp": 8.6,
+    "feels": 2.6,
     "code": 61,
-    "wind": 36.0,
-    "humidity": 71,
+    "wind": 33.1,
+    "humidity": 78,
     "is_day": false,
     "tmax": 12.5,
     "tmin": 7.0,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-26",
-        "max": 10.3,
-        "min": 7.4,
-        "code": 61
+        "max": 10.6,
+        "min": 7.8,
+        "code": 55
       },
       {
         "date": "2026-10-27",
-        "max": 12.1,
-        "min": 5.5,
+        "max": 11.8,
+        "min": 5.1,
         "code": 3
       }
     ],
-    "observed": "2026-10-25T21:15",
+    "observed": "2026-10-25T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80498,
-        "pln": 315486,
-        "chg24": -0.03
+        "usd": 80395,
+        "pln": 315163,
+        "chg24": 0.11
       },
       {
         "sym": "ETH",
-        "usd": 2348.58,
-        "pln": 9204.55,
-        "chg24": 0.15
+        "usd": 2341.91,
+        "pln": 9180.74,
+        "chg24": 0.35
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Kiedy pociągi wrócą na trasę Bielsko-Biała – Skoczów? Jest ważna decyzja PKP PLK",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/kiedy-pociagi-wroca-na-trase-bielsko-biala-skoczow-jest-wazna-decyzja-pkp-plk/102426/",
-        "date": "Sun, 25 Oct 2026 19:54:44 +0000",
+        "title": "240 lat teatru w Bielsku-Białej. Odsłonięto tablicę pamiątkową!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/240-lat-teatru-w-bielsku-bialej-odslonieto-tablice-pamiatkowa/102435/",
+        "date": "Sun, 25 Oct 2026 20:26:07 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Absolutne szaleństwo na Stadionie Miejskim. Co za końcówka spotkania!",
-        "url": "https://www.radiobielsko.pl/sport/szalenstwo-na-stadionie-miejskim-co-za-koncowka-spotkania/102419/",
-        "date": "Sun, 25 Oct 2026 17:56:09 +0000",
+        "title": "Kiedy pociągi wrócą na trasę Bielsko-Biała – Skoczów? Jest ważna decyzja PKP PLK",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/kiedy-pociagi-wroca-na-trase-bielsko-biala-skoczow-jest-wazna-decyzja-pkp-plk/102426/",
+        "date": "Sun, 25 Oct 2026 19:54:44 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Chcą wprowadzenia biletu aglomeracyjnego. Mieszkańcy złożyli petycję",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/chca-wprowadzenia-biletu-aglomeracyjnego-mieszkancy-zlozyli-petycje/102417/",
-        "date": "Sun, 25 Oct 2026 15:58:47 +0000",
+        "title": "Absolutne szaleństwo na Stadionie Miejskim. Co za końcówka spotkania!",
+        "url": "https://www.radiobielsko.pl/sport/szalenstwo-na-stadionie-miejskim-co-za-koncowka-spotkania/102419/",
+        "date": "Sun, 25 Oct 2026 17:56:09 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Z Wilkowic na mistrzostwa świata w Chinach",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/z-wilkowic-na-mistrzostwa-swiata-w-chinach/102390/",
-        "date": "Sun, 25 Oct 2026 13:40:11 +0000",
+        "title": "Chcą wprowadzenia biletu aglomeracyjnego. Mieszkańcy złożyli petycję",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/chca-wprowadzenia-biletu-aglomeracyjnego-mieszkancy-zlozyli-petycje/102417/",
+        "date": "Sun, 25 Oct 2026 15:58:47 +0000",
         "src": "RadioBielsko"
       },
       {
