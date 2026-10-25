@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-25T12:20:02+00:00",
+  "generated": "2026-10-25T13:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.1,
-    "feels": 6.4,
+    "temp": 11.6,
+    "feels": 5.4,
     "code": 3,
-    "wind": 24.1,
-    "humidity": 42,
+    "wind": 28.1,
+    "humidity": 46,
     "is_day": true,
     "tmax": 12.5,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-25T13:15",
+    "observed": "2026-10-25T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80386,
-        "pln": 315439,
-        "chg24": -0.29
+        "usd": 80336,
+        "pln": 315240,
+        "chg24": -0.4
       },
       {
         "sym": "ETH",
-        "usd": 2332.3,
-        "pln": 9152.04,
-        "chg24": -1.39
+        "usd": 2333.15,
+        "pln": 9155.38,
+        "chg24": -1.34
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Akcja zima w Wodzisławiu Śląskim. Służby w gotowości",
-        "url": "https://www.radio90.pl/akcja-zima-w-wodzislawiu-slaskim-sluzby-w-gotowosci.html",
-        "date": "Sun, 25 Oct 2026 11:50:47 +0000",
+        "title": "Pojawią się nowe rośliny w Czerwionce-Leszczynach. Zapowiadają jesienne nasadzenia. „Na terenie całej gminy”",
+        "url": "https://www.radio90.pl/pojawia-sie-nowe-rosliny-w-czerwionce-leszczynach-zapowiadaja-jesienne-nasadzenia-na-terenie-calej-gminy.html",
+        "date": "Sun, 25 Oct 2026 13:10:26 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Ci kierowcy dali przykład… jak nie parkować. Straż Miejska w Rybniku pokazuje „mistrzów parkowania” [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/ci-kierowcy-dali-przyklad-jak-nie-parkowac-straz-miejska-w-rybniku-pokazuje-mistrzow-parkowania-zdjecia.html",
-        "date": "Sun, 25 Oct 2026 10:30:44 +0000",
+        "title": "Akcja zima w Wodzisławiu Śląskim. Służby w gotowości",
+        "url": "https://www.radio90.pl/akcja-zima-w-wodzislawiu-slaskim-sluzby-w-gotowosci.html",
+        "date": "Sun, 25 Oct 2026 11:50:47 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Inwestycja, która ma ograniczyć ryzyko podtopień w Radlinie i Rybniku",
-        "url": "https://www.radio90.pl/inwestycja-ktora-ma-ograniczyc-ryzyko-podtopien-w-radlinie-i-rybniku.html",
-        "date": "Sun, 25 Oct 2026 09:00:41 +0000",
+        "title": "Ci kierowcy dali przykład… jak nie parkować. Straż Miejska w Rybniku pokazuje „mistrzów parkowania” [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/ci-kierowcy-dali-przyklad-jak-nie-parkowac-straz-miejska-w-rybniku-pokazuje-mistrzow-parkowania-zdjecia.html",
+        "date": "Sun, 25 Oct 2026 10:30:44 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Eko Patrol Radia 90 – odcinek 42/2026. W jaki sposób tworzyć miasto odporne na zmiany klimatyczne?",
-        "url": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-42-2026-w-jaki-sposob-tworzyc-miasto-odporne-na-zmiany-klimatyczne.html",
-        "date": "Sun, 25 Oct 2026 07:40:48 +0000",
+        "title": "Inwestycja, która ma ograniczyć ryzyko podtopień w Radlinie i Rybniku",
+        "url": "https://www.radio90.pl/inwestycja-ktora-ma-ograniczyc-ryzyko-podtopien-w-radlinie-i-rybniku.html",
+        "date": "Sun, 25 Oct 2026 09:00:41 +0000",
         "src": "Radio90"
       },
       {
