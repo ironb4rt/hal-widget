@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-25T14:20:03+00:00",
+  "generated": "2026-10-25T15:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.2,
-    "feels": 4.8,
+    "temp": 10.8,
+    "feels": 3.4,
     "code": 3,
-    "wind": 28.8,
+    "wind": 35.3,
     "humidity": 44,
     "is_day": true,
     "tmax": 12.5,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-26",
-        "max": 9.6,
+        "max": 10.2,
         "min": 7.4,
         "code": 61
       },
       {
         "date": "2026-10-27",
-        "max": 11.6,
-        "min": 2.5,
+        "max": 11.8,
+        "min": 5.3,
         "code": 3
       }
     ],
-    "observed": "2026-10-25T15:15",
+    "observed": "2026-10-25T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80237,
-        "pln": 314852,
-        "chg24": 0.14
+        "usd": 80584,
+        "pln": 316216,
+        "chg24": 1.47
       },
       {
         "sym": "ETH",
-        "usd": 2329.91,
-        "pln": 9142.66,
-        "chg24": -0.45
+        "usd": 2340.25,
+        "pln": 9183.25,
+        "chg24": 1.98
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "INNPRO ROW Rybnik: kibice wybierają na najlepszych żużlowców zakończonego sezonu. W internetowym głosowaniu",
+        "url": "https://www.radio90.pl/innpro-row-rybnik-kibice-wybieraja-na-najlepszych-zuzlowcow-zakonczonego-sezonu-w-internetowym-glosowaniu.html",
+        "date": "Sun, 25 Oct 2026 14:35:49 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Z Wilkowic na mistrzostwa świata w Chinach",
         "url": "https://www.radiobielsko.pl/powiat-bielski/z-wilkowic-na-mistrzostwa-swiata-w-chinach/102390/",
         "date": "Sun, 25 Oct 2026 13:40:11 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/zywiec/samorzady-chca-drugiej-jezdni-s1-wspolne-stanowisko-wszystkich-gmin-i-powiatu/102379/",
         "date": "Sun, 25 Oct 2026 11:35:16 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Inwestycja, która ma ograniczyć ryzyko podtopień w Radlinie i Rybniku",
-        "url": "https://www.radio90.pl/inwestycja-ktora-ma-ograniczyc-ryzyko-podtopien-w-radlinie-i-rybniku.html",
-        "date": "Sun, 25 Oct 2026 09:00:41 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
