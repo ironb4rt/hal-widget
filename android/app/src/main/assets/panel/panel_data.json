@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-25T16:20:04+00:00",
+  "generated": "2026-10-25T17:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.6,
-    "feels": 2.6,
-    "code": 3,
-    "wind": 38.9,
-    "humidity": 42,
+    "temp": 10.2,
+    "feels": 1.6,
+    "code": 51,
+    "wind": 43.6,
+    "humidity": 46,
     "is_day": false,
     "tmax": 12.5,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-25T17:15",
+    "observed": "2026-10-25T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80526,
-        "pln": 315988,
-        "chg24": 1.07
+        "usd": 80737,
+        "pln": 316817,
+        "chg24": 0.78
       },
       {
         "sym": "ETH",
-        "usd": 2343.7,
-        "pln": 9196.77,
-        "chg24": 1.73
+        "usd": 2353.1,
+        "pln": 9233.67,
+        "chg24": 1.54
       }
     ],
     "stale": false
@@ -103,6 +103,12 @@
     "ok": true,
     "market": [
       {
+        "title": "China’s Argentina mining footprint smaller than it looks",
+        "url": "https://www.mining.com/chinas-argentina-mining-footprint-smaller-than-it-looks/",
+        "date": "Sun, 25 Oct 2026 12:00:00 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "US Department of Energy names helium to critical materials list",
         "url": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/",
         "date": "Fri, 23 Oct 2026 22:50:19 +0000",
@@ -143,15 +149,15 @@
         "url": "https://www.mining.com/new-found-gold-doubles-queensway-valuation-to-1-2b/",
         "date": "Fri, 23 Oct 2026 13:42:07 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Central banks pile into gold as China leads buying spree",
-        "url": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
-        "date": "Fri, 23 Oct 2026 13:10:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Nocna akcja policji w Rybniku. Funkcjonariusze drogówki wlepiali mandaty i zatrzymywali dowody rejestracyjne",
+        "url": "https://www.radio90.pl/nocna-akcja-policji-w-rybniku-funkcjonariusze-drogowki-wlepiali-mandaty-i-zatrzymywali-dowody-rejestracyjne.html",
+        "date": "Sun, 25 Oct 2026 17:15:14 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Chcą wprowadzenia biletu aglomeracyjnego. Mieszkańcy złożyli petycję",
         "url": "https://www.radiobielsko.pl/bielsko-biala/chca-wprowadzenia-biletu-aglomeracyjnego-mieszkancy-zlozyli-petycje/102417/",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-cieszynski/motocyklista-zderzyl-sie-z-dwoma-autami-w-ustroniu-trwa-akcja-ratunkowa/102387/",
         "date": "Sun, 25 Oct 2026 11:43:30 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Akcja zima w Wodzisławiu Śląskim. Służby w gotowości",
-        "url": "https://www.radio90.pl/akcja-zima-w-wodzislawiu-slaskim-sluzby-w-gotowosci.html",
-        "date": "Sun, 25 Oct 2026 11:50:47 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
