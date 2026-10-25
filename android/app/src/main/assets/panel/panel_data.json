@@ -1,27 +1,27 @@
 {
-  "generated": "2026-10-25T08:20:16+00:00",
+  "generated": "2026-10-25T09:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.8,
-    "feels": 6.7,
+    "temp": 11.9,
+    "feels": 8.0,
     "code": 3,
-    "wind": 10.1,
-    "humidity": 62,
+    "wind": 13.0,
+    "humidity": 47,
     "is_day": true,
-    "tmax": 11.8,
+    "tmax": 12.5,
     "tmin": 7.0,
     "forecast": [
       {
         "date": "2026-10-25",
-        "max": 11.8,
+        "max": 12.5,
         "min": 7.0,
-        "code": 61
+        "code": 55
       },
       {
         "date": "2026-10-26",
-        "max": 10.0,
-        "min": 6.6,
+        "max": 9.5,
+        "min": 6.4,
         "code": 61
       },
       {
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-25T09:15",
+    "observed": "2026-10-25T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80515,
-        "pln": 315944,
-        "chg24": -0.21
+        "usd": 80043,
+        "pln": 314093,
+        "chg24": -0.58
       },
       {
         "sym": "ETH",
-        "usd": 2340.54,
-        "pln": 9184.37,
-        "chg24": -1.26
+        "usd": 2319.12,
+        "pln": 9100.32,
+        "chg24": -1.77
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Eko Patrol Radia 90 – odcinek 42/2026. W jaki sposób tworzyć miasto odporne na zmiany klimatyczne?",
-        "url": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-42-2026-w-jaki-sposob-tworzyc-miasto-odporne-na-zmiany-klimatyczne.html",
-        "date": "Sun, 25 Oct 2026 07:40:48 +0000",
+        "title": "Inwestycja, która ma ograniczyć ryzyko podtopień w Radlinie i Rybniku",
+        "url": "https://www.radio90.pl/inwestycja-ktora-ma-ograniczyc-ryzyko-podtopien-w-radlinie-i-rybniku.html",
+        "date": "Sun, 25 Oct 2026 09:00:41 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Będą rozmawiać o pomocy seniorom i niepełnosprawnym. Odbędzie się konferencja w Łukowie Śląskim [PATRONAT]",
-        "url": "https://www.radio90.pl/beda-rozmawiac-o-pomocy-seniorom-i-niepelnosprawnym-odbedzie-sie-konferencja-w-lukowie-slaskim-patronat.html",
-        "date": "Sat, 24 Oct 2026 18:00:11 +0000",
+        "title": "Eko Patrol Radia 90 – odcinek 42/2026. W jaki sposób tworzyć miasto odporne na zmiany klimatyczne?",
+        "url": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-42-2026-w-jaki-sposob-tworzyc-miasto-odporne-na-zmiany-klimatyczne.html",
+        "date": "Sun, 25 Oct 2026 07:40:48 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Żłobek w Marklowicach: powstała do niego droga dojazdowa. Gmina: „Została zrealizowana w celu poprawy bezpieczeństwa”",
-        "url": "https://www.radio90.pl/zlobek-w-marklowicach-powstala-do-niego-droga-dojazdowa-gmina-zostala-zrealizowana-w-celu-poprawy-bezpieczenstwa.html",
-        "date": "Sat, 24 Oct 2026 16:40:01 +0000",
+        "title": "Będą rozmawiać o pomocy seniorom i niepełnosprawnym. Odbędzie się konferencja w Łukowie Śląskim [PATRONAT]",
+        "url": "https://www.radio90.pl/beda-rozmawiac-o-pomocy-seniorom-i-niepelnosprawnym-odbedzie-sie-konferencja-w-lukowie-slaskim-patronat.html",
+        "date": "Sat, 24 Oct 2026 18:00:11 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Przebudowa lodowiska Jastor w Jastrzębiu. Jest już konstrukcja małej trybuny, niedługo ruszy montaż pokrycia [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/przebudowa-lodowiska-jastor-w-jastrzebiu-jest-juz-konstrukcja-malej-trybuny-niedlugo-ruszy-montaz-pokrycia-zdjecia.html",
-        "date": "Sat, 24 Oct 2026 15:20:40 +0000",
+        "title": "Żłobek w Marklowicach: powstała do niego droga dojazdowa. Gmina: „Została zrealizowana w celu poprawy bezpieczeństwa”",
+        "url": "https://www.radio90.pl/zlobek-w-marklowicach-powstala-do-niego-droga-dojazdowa-gmina-zostala-zrealizowana-w-celu-poprawy-bezpieczenstwa.html",
+        "date": "Sat, 24 Oct 2026 16:40:01 +0000",
         "src": "Radio90"
       },
       {
