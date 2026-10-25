@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-25T11:20:02+00:00",
+  "generated": "2026-10-25T12:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.5,
-    "feels": 7.7,
+    "temp": 12.1,
+    "feels": 6.4,
     "code": 3,
-    "wind": 18.0,
-    "humidity": 41,
+    "wind": 24.1,
+    "humidity": 42,
     "is_day": true,
     "tmax": 12.5,
     "tmin": 7.0,
@@ -16,22 +16,22 @@
         "date": "2026-10-25",
         "max": 12.5,
         "min": 7.0,
-        "code": 55
+        "code": 61
       },
       {
         "date": "2026-10-26",
-        "max": 9.5,
-        "min": 6.4,
+        "max": 9.6,
+        "min": 7.4,
         "code": 61
       },
       {
         "date": "2026-10-27",
-        "max": 11.9,
-        "min": 3.1,
+        "max": 11.6,
+        "min": 2.5,
         "code": 3
       }
     ],
-    "observed": "2026-10-25T12:15",
+    "observed": "2026-10-25T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80341,
-        "pln": 315260,
-        "chg24": -0.28
+        "usd": 80386,
+        "pln": 315439,
+        "chg24": -0.29
       },
       {
         "sym": "ETH",
-        "usd": 2330.72,
-        "pln": 9145.84,
-        "chg24": -1.5
+        "usd": 2332.3,
+        "pln": 9152.04,
+        "chg24": -1.39
       }
     ],
     "stale": false
@@ -153,15 +153,27 @@
     ],
     "local": [
       {
+        "title": "Akcja zima w Wodzisławiu Śląskim. Służby w gotowości",
+        "url": "https://www.radio90.pl/akcja-zima-w-wodzislawiu-slaskim-sluzby-w-gotowosci.html",
+        "date": "Sun, 25 Oct 2026 11:50:47 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Motocyklista zderzył się z dwoma autami w Ustroniu. Trwa akcja ratunkowa",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/motocyklista-zderzyl-sie-z-dwoma-autami-w-ustroniu-trwa-akcja-ratunkowa/102387/",
+        "date": "Sun, 25 Oct 2026 11:43:30 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Ci kierowcy dali przykład… jak nie parkować. Straż Miejska w Rybniku pokazuje „mistrzów parkowania” [ZDJĘCIA]",
         "url": "https://www.radio90.pl/ci-kierowcy-dali-przyklad-jak-nie-parkowac-straz-miejska-w-rybniku-pokazuje-mistrzow-parkowania-zdjecia.html",
         "date": "Sun, 25 Oct 2026 10:30:44 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Decyzja zapadła. Kacper Tomasiak nie wystartuje w konkursie",
-        "url": "https://www.radiobielsko.pl/sport/decyzja-zapadla-kacper-tomasiak-nie-wystartuje-w-konkursie/102375/",
-        "date": "Sun, 25 Oct 2026 06:53:02 +0000",
+        "title": "Samorządy chcą drugiej jezdni S1. Wspólne stanowisko wszystkich gmin i powiatu trafi do ministra",
+        "url": "https://www.radiobielsko.pl/zywiec/samorzady-chca-drugiej-jezdni-s1-wspolne-stanowisko-wszystkich-gmin-i-powiatu/102379/",
+        "date": "Sun, 25 Oct 2026 11:35:16 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "BBTS był blisko odwrócenia losów meczu. Finał przyniósł rozczarowanie",
-        "url": "https://www.radiobielsko.pl/sport/bbts-byl-blisko-odwrocenia-losow-meczu-final-przyniosl-rozczarowanie/102370/",
-        "date": "Sun, 25 Oct 2026 06:40:09 +0000",
+        "title": "Decyzja zapadła. Kacper Tomasiak nie wystartuje w konkursie",
+        "url": "https://www.radiobielsko.pl/sport/decyzja-zapadla-kacper-tomasiak-nie-wystartuje-w-konkursie/102375/",
+        "date": "Sun, 25 Oct 2026 06:53:02 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,21 +195,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Strachy opanowały Bielsko-Białą. Tłumy na 5. Marszu Strachów",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/strachy-opanowaly-bielsko-biala-tlumy-na-5-marszu-strachow/102310/",
-        "date": "Sat, 24 Oct 2026 20:04:52 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Będą rozmawiać o pomocy seniorom i niepełnosprawnym. Odbędzie się konferencja w Łukowie Śląskim [PATRONAT]",
-        "url": "https://www.radio90.pl/beda-rozmawiac-o-pomocy-seniorom-i-niepelnosprawnym-odbedzie-sie-konferencja-w-lukowie-slaskim-patronat.html",
-        "date": "Sat, 24 Oct 2026 18:00:11 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Psy, koty, kozy i jeże. Ilona Buczek od ponad 20 lat ratuje im życie",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/psy-koty-kozy-i-jeze-ilona-buczek-od-ponad-20-lat-ratuje-im-zycie/102287/",
-        "date": "Sat, 24 Oct 2026 19:48:05 +0000",
+        "title": "BBTS był blisko odwrócenia losów meczu. Finał przyniósł rozczarowanie",
+        "url": "https://www.radiobielsko.pl/sport/bbts-byl-blisko-odwrocenia-losow-meczu-final-przyniosl-rozczarowanie/102370/",
+        "date": "Sun, 25 Oct 2026 06:40:09 +0000",
         "src": "RadioBielsko"
       }
     ],
