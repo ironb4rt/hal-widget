@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-25T17:20:05+00:00",
+  "generated": "2026-10-25T18:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.2,
-    "feels": 1.6,
+    "temp": 9.2,
+    "feels": 2.0,
     "code": 51,
-    "wind": 43.6,
-    "humidity": 46,
+    "wind": 37.8,
+    "humidity": 62,
     "is_day": false,
     "tmax": 12.5,
     "tmin": 7.0,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-26",
-        "max": 10.2,
+        "max": 10.3,
         "min": 7.4,
         "code": 61
       },
       {
         "date": "2026-10-27",
-        "max": 11.8,
-        "min": 5.3,
+        "max": 12.1,
+        "min": 5.5,
         "code": 3
       }
     ],
-    "observed": "2026-10-25T18:15",
+    "observed": "2026-10-25T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80737,
-        "pln": 316817,
-        "chg24": 0.78
+        "usd": 80636,
+        "pln": 316419,
+        "chg24": 0.43
       },
       {
         "sym": "ETH",
         "usd": 2353.1,
-        "pln": 9233.67,
-        "chg24": 1.54
+        "pln": 9233.68,
+        "chg24": 1.22
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Szaleństwo na Stadionie Miejskim. Co za końcówka spotkania!",
+        "url": "https://www.radiobielsko.pl/sport/szalenstwo-na-stadionie-miejskim-co-za-koncowka-spotkania/102419/",
+        "date": "Sun, 25 Oct 2026 17:56:09 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Nocna akcja policji w Rybniku. Funkcjonariusze drogówki wlepiali mandaty i zatrzymywali dowody rejestracyjne",
         "url": "https://www.radio90.pl/nocna-akcja-policji-w-rybniku-funkcjonariusze-drogowki-wlepiali-mandaty-i-zatrzymywali-dowody-rejestracyjne.html",
         "date": "Sun, 25 Oct 2026 17:15:14 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radio90.pl/pojawia-sie-nowe-rosliny-w-czerwionce-leszczynach-zapowiadaja-jesienne-nasadzenia-na-terenie-calej-gminy.html",
         "date": "Sun, 25 Oct 2026 13:10:26 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Motocyklista zderzył się z dwoma autami w Ustroniu. Trwa akcja ratunkowa",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/motocyklista-zderzyl-sie-z-dwoma-autami-w-ustroniu-trwa-akcja-ratunkowa/102387/",
-        "date": "Sun, 25 Oct 2026 11:43:30 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
