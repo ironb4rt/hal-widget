@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-25T07:20:15+00:00",
+  "generated": "2026-10-25T08:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.2,
-    "feels": 5.1,
+    "temp": 9.8,
+    "feels": 6.7,
     "code": 3,
-    "wind": 10.4,
-    "humidity": 72,
+    "wind": 10.1,
+    "humidity": 62,
     "is_day": true,
     "tmax": 11.8,
     "tmin": 7.0,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-27",
         "max": 11.9,
-        "min": 2.8,
+        "min": 3.1,
         "code": 3
       }
     ],
-    "observed": "2026-10-25T08:15",
+    "observed": "2026-10-25T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80545,
-        "pln": 316061,
-        "chg24": -0.35
+        "usd": 80515,
+        "pln": 315944,
+        "chg24": -0.21
       },
       {
         "sym": "ETH",
-        "usd": 2345.78,
-        "pln": 9204.95,
-        "chg24": -1.49
+        "usd": 2340.54,
+        "pln": 9184.37,
+        "chg24": -1.26
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Eko Patrol Radia 90 – odcinek 42/2026. W jaki sposób tworzyć miasto odporne na zmiany klimatyczne?",
+        "url": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-42-2026-w-jaki-sposob-tworzyc-miasto-odporne-na-zmiany-klimatyczne.html",
+        "date": "Sun, 25 Oct 2026 07:40:48 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Decyzja zapadła. Kacper Tomasiak nie wystartuje w konkursie",
         "url": "https://www.radiobielsko.pl/sport/decyzja-zapadla-kacper-tomasiak-nie-wystartuje-w-konkursie/102375/",
         "date": "Sun, 25 Oct 2026 06:53:02 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-cieszynski/psy-koty-kozy-i-jeze-ilona-buczek-od-ponad-20-lat-ratuje-im-zycie/102287/",
         "date": "Sat, 24 Oct 2026 19:48:05 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Ośrodek Kultury Zameczek w Czernicy: dwa wydarzenia w ostatnich dniach października. Jakie?",
-        "url": "https://www.radio90.pl/osrodek-kultury-zameczek-w-czernicy-dwa-wydarzenia-w-ostatnich-dniach-pazdziernika-jakie.html",
-        "date": "Sat, 24 Oct 2026 13:55:28 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
