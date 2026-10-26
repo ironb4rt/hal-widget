@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-26T12:20:11+00:00",
+  "generated": "2026-10-26T13:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.7,
-    "feels": 6.8,
-    "code": 51,
-    "wind": 13.7,
-    "humidity": 78,
+    "temp": 9.3,
+    "feels": 6.7,
+    "code": 0,
+    "wind": 9.0,
+    "humidity": 74,
     "is_day": true,
     "tmax": 10.1,
     "tmin": 6.8,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-28",
         "max": 13.3,
-        "min": 4.4,
+        "min": 4.1,
         "code": 3
       }
     ],
-    "observed": "2026-10-26T13:15",
+    "observed": "2026-10-26T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80226,
-        "pln": 315892,
-        "chg24": -0.19
+        "usd": 80066,
+        "pln": 315156,
+        "chg24": -0.3
       },
       {
         "sym": "ETH",
-        "usd": 2327.81,
-        "pln": 9165.81,
-        "chg24": -0.16
+        "usd": 2316.08,
+        "pln": 9116.55,
+        "chg24": -0.69
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.085,
-        "chg": 0.7,
-        "as_of": "26.10 12:10"
+        "value": 53.945,
+        "chg": 0.44,
+        "as_of": "26.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.516,
-        "chg": 0.62,
-        "as_of": "26.10 12:10"
+        "value": 6.5305,
+        "chg": 0.84,
+        "as_of": "26.10 13:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4097,
-        "chg": -4.92,
-        "as_of": "26.10 12:02"
+        "value": 1.4098,
+        "chg": -4.91,
+        "as_of": "26.10 13:06"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "26.10 12:10",
+    "updated": "26.10 13:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,27 @@
     ],
     "local": [
       {
-        "title": "Kiedy policjanci z Cieszyna doczekają się nowej komendy? Rok temu przekazano działkę. „Mam nadzieję, że bardzo szybko”",
-        "url": "https://www.radio90.pl/kiedy-policjanci-z-cieszyna-doczekaja-sie-nowej-komendy-rok-temu-przekazano-dzialke-mam-nadzieje-ze-bardzo-szybko.html",
-        "date": "Mon, 26 Oct 2026 11:40:53 +0000",
+        "title": "Runda jesienna zakończona! Kto na czele stawki?",
+        "url": "https://www.radiobielsko.pl/sport/runda-jesienna-zakonczona-kto-na-czele-stawki/102514/",
+        "date": "Mon, 26 Oct 2026 13:05:22 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "MKKS Rybnik ze zwycięstwem na wyjeździe. Rybniccy koszykarze pokonali Basket Hills Bielsko-Biała",
+        "url": "https://www.radio90.pl/mkks-rybnik-ze-zwyciestwem-na-wyjezdzie-rybniccy-koszykarze-pokonali-basket-hills-bielsko-biala.html",
+        "date": "Mon, 26 Oct 2026 13:00:49 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "24-latek zatrzymany po kradzieży sklepowej. Miał przy sobie narkotyki",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/24-latek-zatrzymany-po-kradziezy-sklepowej-mial-przy-sobie-narkotyki/102522/",
+        "date": "Mon, 26 Oct 2026 12:43:30 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Remont linii kolejowej między Czechowicami-Dziedzicami a Cieszynem. Do połowy grudnia zamiast pociągów, jeżdżą autobusy",
+        "url": "https://www.radio90.pl/remont-linii-kolejowej-miedzy-czechowicami-dziedzicami-a-cieszynem-do-polowy-grudnia-zamiast-pociagow-jezdza-autobusy.html",
+        "date": "Mon, 26 Oct 2026 12:25:45 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Zlikwidowany przejazd kolejowy w Pietrzykowicach. Powiat żywiecki ma zażądać wyjaśnień od PKP PLK",
-        "url": "https://www.radio90.pl/zlikwidowany-przejazd-kolejowy-w-pietrzykowicach-powiat-zywiecki-ma-zazadac-wyjasnien-od-pkp-plk.html",
-        "date": "Mon, 26 Oct 2026 11:05:59 +0000",
+        "title": "Kiedy policjanci z Cieszyna doczekają się nowej komendy? Rok temu przekazano działkę. „Mam nadzieję, że bardzo szybko”",
+        "url": "https://www.radio90.pl/kiedy-policjanci-z-cieszyna-doczekaja-sie-nowej-komendy-rok-temu-przekazano-dzialke-mam-nadzieje-ze-bardzo-szybko.html",
+        "date": "Mon, 26 Oct 2026 11:40:53 +0000",
         "src": "Radio90"
       },
       {
@@ -177,28 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Koszykarki RMKS Xbest Rybnik pokonują Brother MUKS Poznań. „Był to mecz z tych trudniejszych” [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/koszykarki-rmks-xbest-rybnik-pokonuja-brother-muks-poznan-byl-to-mecz-z-tych-trudniejszych.html",
-        "date": "Mon, 26 Oct 2026 10:25:54 +0000",
+        "title": "Zlikwidowany przejazd kolejowy w Pietrzykowicach. Powiat żywiecki ma zażądać wyjaśnień od PKP PLK",
+        "url": "https://www.radio90.pl/zlikwidowany-przejazd-kolejowy-w-pietrzykowicach-powiat-zywiecki-ma-zazadac-wyjasnien-od-pkp-plk.html",
+        "date": "Mon, 26 Oct 2026 11:05:59 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Wejście do szkoły na kod QR",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/wejscie-do-szkoly-na-kod-qr/102424/",
-        "date": "Mon, 26 Oct 2026 11:10:44 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Śląska policja: w weekend na drogach regionu doszło do 165 zdarzeń. Nie brakowało kierowców jadących po alkoholu…",
-        "url": "https://www.radio90.pl/slaska-policja-w-weekend-na-drogach-regionu-doszlo-do-165-zdarzen-nie-brakowalo-kierowcow-jadacych-po-alkoholu.html",
-        "date": "Mon, 26 Oct 2026 09:40:11 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Prawie 3 promile za kierownicą i awantura z policjantami",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/prawie-3-promile-za-kierownica-i-awantura-z-policjantami/102505/",
-        "date": "Mon, 26 Oct 2026 10:38:31 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
