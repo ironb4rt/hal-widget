@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-26T21:20:14+00:00",
+  "generated": "2026-10-26T22:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.2,
-    "feels": 3.3,
-    "code": 0,
-    "wind": 8.3,
+    "temp": 6.1,
+    "feels": 3.1,
+    "code": 1,
+    "wind": 9.0,
     "humidity": 78,
     "is_day": false,
     "tmax": 10.1,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-26T22:15",
+    "observed": "2026-10-26T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79854,
-        "pln": 314590,
-        "chg24": -0.7
+        "usd": 79884,
+        "pln": 314812,
+        "chg24": -0.76
       },
       {
         "sym": "ETH",
-        "usd": 2303.23,
-        "pln": 9073.69,
-        "chg24": -1.7
+        "usd": 2307.58,
+        "pln": 9093.91,
+        "chg24": -1.57
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.035,
-        "chg": 0.6,
-        "as_of": "26.10 20:59"
+        "value": 54.01,
+        "chg": 0.56,
+        "as_of": "26.10 22:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5445,
-        "chg": 1.06,
-        "as_of": "26.10 20:59"
+        "value": 6.549,
+        "chg": 1.13,
+        "as_of": "26.10 22:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "26.10 20:59",
+    "updated": "26.10 22:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "British Columbia Conservative landslide raises mining hopes, Indigenous rights fears",
+        "url": "https://www.mining.com/bc-tory-landslide-raises-mining-hopes-rights-fears/",
+        "date": "Mon, 26 Oct 2026 21:35:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Canada Nickel, Swiss Steel plan transatlantic partnership",
         "url": "https://www.mining.com/canada-nickel-swiss-steel-plan-transatlantic-partnership/",
@@ -142,12 +148,6 @@
         "title": "China’s Argentina mining footprint smaller than it looks",
         "url": "https://www.mining.com/chinas-argentina-mining-footprint-smaller-than-it-looks/",
         "date": "Sun, 25 Oct 2026 12:00:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "US Department of Energy names helium to critical materials list",
-        "url": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/",
-        "date": "Fri, 23 Oct 2026 22:50:19 +0000",
         "src": "Mining.com"
       }
     ],
