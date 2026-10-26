@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-26T10:20:11+00:00",
+  "generated": "2026-10-26T11:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.4,
-    "feels": 6.3,
-    "code": 1,
-    "wind": 13.7,
-    "humidity": 77,
+    "temp": 9.8,
+    "feels": 6.7,
+    "code": 3,
+    "wind": 13.0,
+    "humidity": 74,
     "is_day": true,
     "tmax": 10.6,
     "tmin": 6.6,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-26T11:15",
+    "observed": "2026-10-26T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80339,
-        "pln": 316028,
-        "chg24": 0.03
+        "usd": 80185,
+        "pln": 315774,
+        "chg24": -0.21
       },
       {
         "sym": "ETH",
-        "usd": 2328.4,
-        "pln": 9159.16,
-        "chg24": 0.05
+        "usd": 2322.23,
+        "pln": 9145.03,
+        "chg24": -0.38
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.055,
-        "chg": 0.64,
-        "as_of": "26.10 10:10"
+        "value": 53.89,
+        "chg": 0.33,
+        "as_of": "26.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.538,
-        "chg": 0.96,
-        "as_of": "26.10 10:10"
+        "value": 6.5105,
+        "chg": 0.53,
+        "as_of": "26.10 11:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "26.10 10:10",
+    "updated": "26.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,30 @@
     ],
     "local": [
       {
+        "title": "Wejście do szkoły na kod QR",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/wejscie-do-szkoly-na-kod-qr/102424/",
+        "date": "Mon, 26 Oct 2026 11:10:44 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Zlikwidowany przejazd kolejowy w Pietrzykowicach. Powiat żywiecki ma zażądać wyjaśnień od PKP PLK",
+        "url": "https://www.radio90.pl/zlikwidowany-przejazd-kolejowy-w-pietrzykowicach-powiat-zywiecki-ma-zazadac-wyjasnien-od-pkp-plk.html",
+        "date": "Mon, 26 Oct 2026 11:05:59 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Prawie 3 promile za kierownicą i awantura z policjantami",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/prawie-3-promile-za-kierownica-i-awantura-z-policjantami/102505/",
+        "date": "Mon, 26 Oct 2026 10:38:31 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Koszykarki RMKS Xbest Rybnik pokonują Brother MUKS Poznań. „Był to mecz z tych trudniejszych” [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/koszykarki-rmks-xbest-rybnik-pokonuja-brother-muks-poznan-byl-to-mecz-z-tych-trudniejszych.html",
+        "date": "Mon, 26 Oct 2026 10:25:54 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Kolejne potrącenie w regionie",
         "url": "https://www.radiobielsko.pl/powiat-oswiecimski/kolejne-potracenie-w-regionie/102494/",
         "date": "Mon, 26 Oct 2026 09:50:32 +0000",
@@ -174,30 +198,6 @@
         "title": "Wybuch w Suszcu. Eksplodowała butla z gazem. Na szczęście były to tylko ćwiczenia służb [ZDJĘCIA]",
         "url": "https://www.radio90.pl/wybuch-w-suszcu-eksplodowala-butla-z-gazem-na-szczescie-byly-to-tylko-cwiczenia-sluzb-zdjecia.html",
         "date": "Mon, 26 Oct 2026 09:05:37 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dlaczego kibice Stali Rzeszów nie weszli na Stadion Miejski?",
-        "url": "https://www.radiobielsko.pl/sport/dlaczego-kibice-stali-rzeszow-nie-weszli-na-stadion-miejski/102485/",
-        "date": "Mon, 26 Oct 2026 09:42:21 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "JKH GKS Jastrzębie z domowym zwycięstwem i wyjazdową porażką w weekend. Kolejny mecz w czwartek",
-        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-z-domowym-zwyciestwem-i-wyjazdowa-porazka-w-weekend-kolejny-mecz-w-czwartek.html",
-        "date": "Mon, 26 Oct 2026 08:45:04 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Potrącenie w Jasienicy. Kobieta trafiła do szpitala",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/potracenie-w-jasienicy-kobieta-trafila-do-szpitala/102486/",
-        "date": "Mon, 26 Oct 2026 09:09:42 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Wandale w Żywcu dali o sobie znać… Zniszczyli ławki i kosze na śmieci przy ścieżce rowerowej",
-        "url": "https://www.radio90.pl/wandale-w-zywcu-dali-o-sobie-znac-zniszczyli-lawki-i-kosze-na-smieci-przy-sciezce-rowerowej.html",
-        "date": "Mon, 26 Oct 2026 08:05:26 +0000",
         "src": "Radio90"
       }
     ],
