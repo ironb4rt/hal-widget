@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-26T17:20:13+00:00",
+  "generated": "2026-10-26T18:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.9,
-    "feels": 5.4,
+    "temp": 7.4,
+    "feels": 5.0,
     "code": 0,
-    "wind": 7.6,
-    "humidity": 75,
+    "wind": 5.0,
+    "humidity": 73,
     "is_day": false,
     "tmax": 10.1,
-    "tmin": 7.0,
+    "tmin": 6.5,
     "forecast": [
       {
         "date": "2026-10-26",
         "max": 10.1,
-        "min": 7.0,
+        "min": 6.5,
         "code": 55
       },
       {
         "date": "2026-10-27",
-        "max": 11.4,
-        "min": 5.1,
-        "code": 2
+        "max": 11.6,
+        "min": 4.9,
+        "code": 3
       },
       {
         "date": "2026-10-28",
         "max": 13.7,
-        "min": 6.6,
+        "min": 6.4,
         "code": 3
       }
     ],
-    "observed": "2026-10-26T18:15",
+    "observed": "2026-10-26T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80420,
-        "pln": 316465,
-        "chg24": -0.4
+        "usd": 80169,
+        "pln": 315490,
+        "chg24": -0.6
       },
       {
         "sym": "ETH",
-        "usd": 2330.69,
-        "pln": 9171.56,
-        "chg24": -1.0
+        "usd": 2322.79,
+        "pln": 9140.85,
+        "chg24": -1.33
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.24,
-        "chg": 0.98,
-        "as_of": "26.10 17:10"
+        "value": 54.17,
+        "chg": 0.85,
+        "as_of": "26.10 18:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5525,
-        "chg": 1.18,
-        "as_of": "26.10 17:10"
+        "value": 6.5555,
+        "chg": 1.23,
+        "as_of": "26.10 18:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4169,
-        "chg": -4.43,
-        "as_of": "26.10 17:09"
+        "value": 1.421,
+        "chg": -4.15,
+        "as_of": "26.10 17:51"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "26.10 17:10",
+    "updated": "26.10 18:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Smutne i tajemnicze losy szlachcianek. Będzie je można poznać. Odbędzie się Muzealna Noc Duchów w Wodzisławiu [PATRONAT]",
+        "url": "https://www.radio90.pl/smutne-i-tajemnicze-losy-szlachcianek-bedzie-je-mozna-poznac-odbedzie-sie-muzealna-noc-duchow-w-wodzislawiu-patronat.html",
+        "date": "Mon, 26 Oct 2026 18:10:56 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Od dziś można głosować. Osiem projektów do wyboru",
+        "url": "https://www.radiobielsko.pl/cieszyn/od-dzis-mozna-glosowac-osiem-projektow-do-wyboru/102536/",
+        "date": "Mon, 26 Oct 2026 17:48:51 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Specjalistyczny Ośrodek Wsparcia w Wodzisławiu Śląskim pomaga od 20 lat",
+        "url": "https://www.radio90.pl/specjalistyczny-osrodek-wsparcia-w-wodzislawiu-slaskim-pomaga-od-20-lat.html",
+        "date": "Mon, 26 Oct 2026 17:25:32 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Włodzimierz Czarzasty w Bielsku-Białej. Marszałek odsłonił tablicę upamiętniającą strajk robotników",
         "url": "https://www.radiobielsko.pl/bielsko-biala/wlodzimierz-czarzasty-w-bielsku-bialej-marszalek-odslonil-tablice-upamietniajaca-strajk-robotnikow/102540/",
         "date": "Mon, 26 Oct 2026 16:44:36 +0000",
@@ -181,27 +199,14 @@
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/jedno-swieto-dwa-plakaty-poprawili-narodowe-barwy/102528/",
         "date": "Mon, 26 Oct 2026 13:50:15 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "ROW Rybnik ograł Polonię Nysa. Zwycięstwo pozwoliło zielono-czarnym na awans w tabeli [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/row-rybnik-ogral-polonie-nysa-zwyciestwo-pozwolilo-zielono-czarnym-na-awans-w-tabeli-zdjecia.html",
-        "date": "Mon, 26 Oct 2026 15:10:36 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Runda jesienna zakończona! Kto na czele stawki?",
-        "url": "https://www.radiobielsko.pl/sport/runda-jesienna-zakonczona-kto-na-czele-stawki/102514/",
-        "date": "Mon, 26 Oct 2026 13:05:22 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Obwodnica Węgierskiej Górki. Kierowcy jeżdżą nią od roku. GDDKiA podaje statystyki za ten czas",
-        "url": "https://www.radio90.pl/obwodnica-wegierskiej-gorki-kierowcy-jezdza-nia-od-roku-gddkia-podaje-statystyki-za-ten-czas.html",
-        "date": "Mon, 26 Oct 2026 14:30:23 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "Felieton[FELIETON] Ile warta jest skrzynka \"STOP Agresji Drogowej\"? To jeden wielki pic na wodę!",
+        "url": "/informacje/21040-felieton-ile-warta-jest-skrzynka-stop-agresji-drogowej-to-jeden-wielki-pic-na-wode",
+        "date": ""
+      },
       {
         "title": "[FOTO] Rozbiórka starego pustostanu przy Sempołowskiej. Byliśmy na miejscu z kamerą",
         "url": "/informacje/21038-foto-rozbiorka-starego-pustostanu-przy-sempolowskiej-bylismy-na-miejscu-z-kamera",
@@ -225,11 +230,6 @@
       {
         "title": "Podejrzenie pożaru w hotelu w Szczyrku. Na miejscu straż pożarna",
         "url": "/informacje/21035-podejrzenie-pozaru-w-hotelu-w-szczyrku-na-miejscu-straz-pozarna",
-        "date": ""
-      },
-      {
-        "title": "Piastowska: prace drogowe są zaawansowane w 80 procentach",
-        "url": "/informacje/21031-piastowska-prace-drogowe-sa-zaawansowane-w-80-procentach",
         "date": ""
       }
     ],
