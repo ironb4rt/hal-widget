@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-26T08:20:11+00:00",
+  "generated": "2026-10-26T09:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.3,
-    "feels": 5.1,
+    "temp": 8.8,
+    "feels": 5.7,
     "code": 3,
-    "wind": 14.4,
-    "humidity": 81,
+    "wind": 13.7,
+    "humidity": 78,
     "is_day": true,
-    "tmax": 10.4,
-    "tmin": 5.7,
+    "tmax": 10.6,
+    "tmin": 6.6,
     "forecast": [
       {
         "date": "2026-10-26",
-        "max": 10.4,
-        "min": 5.7,
+        "max": 10.6,
+        "min": 6.6,
         "code": 55
       },
       {
         "date": "2026-10-27",
-        "max": 11.6,
-        "min": 5.1,
+        "max": 11.5,
+        "min": 4.9,
         "code": 3
       },
       {
         "date": "2026-10-28",
-        "max": 13.6,
+        "max": 13.7,
         "min": 4.4,
         "code": 3
       }
     ],
-    "observed": "2026-10-26T09:15",
+    "observed": "2026-10-26T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79904,
-        "pln": 314055,
-        "chg24": -0.74
+        "usd": 80288,
+        "pln": 315052,
+        "chg24": 0.3
       },
       {
         "sym": "ETH",
-        "usd": 2313.82,
-        "pln": 9094.27,
-        "chg24": -1.11
+        "usd": 2324.52,
+        "pln": 9121.53,
+        "chg24": 0.26
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.195,
-        "chg": 0.9,
-        "as_of": "26.10 08:10"
+        "value": 54.07,
+        "chg": 0.67,
+        "as_of": "26.10 09:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.518,
-        "chg": 0.65,
-        "as_of": "26.10 08:10"
+        "value": 6.519,
+        "chg": 0.66,
+        "as_of": "26.10 09:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "26.10 08:10",
+    "updated": "26.10 09:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,33 @@
     ],
     "local": [
       {
-        "title": "Weekend niespodzianek i wielu goli. Piłka do siatki wpadała 252 razy",
-        "url": "https://www.radiobielsko.pl/sport/weekend-niespodzianek-i-wielu-goli-pilka-do-siatki-wpadala-252-razy/102453/",
-        "date": "Mon, 26 Oct 2026 08:13:33 +0000",
+        "title": "Potrącenie w Jasienicy. Kobieta trafiła do szpitala",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/potracenie-w-jasienicy-kobieta-trafila-do-szpitala/102486/",
+        "date": "Mon, 26 Oct 2026 09:09:42 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Wybuch w Suszcu. Eksplodowała butla z gazem. Na szczęście były to tylko ćwiczenia służb [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/wybuch-w-suszcu-eksplodowala-butla-z-gazem-na-szczescie-byly-to-tylko-cwiczenia-sluzb-zdjecia.html",
+        "date": "Mon, 26 Oct 2026 09:05:37 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Wyspa dla ptaków? Ruszyła procedura",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/wyspa-dla-ptakow-ruszyla-procedura/102481/",
+        "date": "Mon, 26 Oct 2026 08:56:58 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "JKH GKS Jastrzębie z domowym zwycięstwem i wyjazdową porażką w weekend. Kolejny mecz w czwartek",
+        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-z-domowym-zwyciestwem-i-wyjazdowa-porazka-w-weekend-kolejny-mecz-w-czwartek.html",
+        "date": "Mon, 26 Oct 2026 08:45:04 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Co dzieje się na terenie dawnej rafinerii? Inwestorzy zajrzeli do zakładów w Czechowicach-Dziedzicach",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/co-dzieje-sie-na-terenie-dawnej-rafinerii-inwestorzy-zajrzeli-do-zakladow-w-czechowicach-dziedzicach/102478/",
+        "date": "Mon, 26 Oct 2026 08:42:31 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Przebudowa ulicy Mazańcowickiej bez opóźnień. Kiedy koniec prac?",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/przebudowa-ulicy-mazancowickiej-bez-opoznien-kiedy-koniec-prac/102454/",
-        "date": "Mon, 26 Oct 2026 07:59:45 +0000",
+        "title": "Nowe funkcje w autobusach. Łatwiej będzie kupić bilet",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/nowe-funkcje-w-autobusach-latwiej-bedzie-kupic-bilet/102458/",
+        "date": "Mon, 26 Oct 2026 08:20:39 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -175,33 +199,14 @@
         "url": "https://www.radio90.pl/powstal-rybnicki-spiewnik-gorniczy-przygotowano-go-na-podstawie-ponad-setki-barborkowych-spiewnikow-zdjecia.html",
         "date": "Mon, 26 Oct 2026 07:35:53 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Po wielkim sukcesie nadeszły złe wieści. Maja Chwalińska wycofana",
-        "url": "https://www.radiobielsko.pl/sport/maja-chwalinska-kontuzjowana/102441/",
-        "date": "Mon, 26 Oct 2026 07:29:51 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Kradzież w Gliwicach. Mundurowi na tropie biżuterii skradzionej podczas włamania do jednego z domów",
-        "url": "https://www.radio90.pl/kradziez-w-gliwicach-mundurowi-na-tropie-bizuterii-skradzionej-podczas-wlamania-do-jednego-z-domow.html",
-        "date": "Mon, 26 Oct 2026 07:05:41 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Nie żyje 20-miesięczny Nikoś z Czechowic-Dziedzic. Chłopczyk przegrał walkę z nowotworem",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/nie-zyje-20-miesieczny-nikos-z-czechowic-dziedzic-chlopczyk-przegral-walke-z-nowotworem/102440/",
-        "date": "Mon, 26 Oct 2026 07:21:20 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zmiany w kursowaniu autobusów w Czerwionce-Leszczynach. Utrudnienia dziś",
-        "url": "https://www.radio90.pl/zmiany-w-kursowaniu-autobusow-w-czerwionce-leszczynach-utrudnienia-dzis.html",
-        "date": "Mon, 26 Oct 2026 06:26:14 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "Niebezpieczna jazda i agresja w środku nocy. Kierująca Suzuki wydmuchała prawie 3 promile!",
+        "url": "/informacje/21037-niebezpieczna-jazda-i-agresja-w-srodku-nocy-kierujaca-suzuki-wydmuchala-prawie-3-promile",
+        "date": ""
+      },
       {
         "title": "Podczas meczu Podbeskidzia będzie można pomóc pogorzelcom z Kobiernic",
         "url": "/informacje/21036-podczas-meczu-podbeskidzia-bedzie-mozna-pomoc-pogorzelcom-z-kobiernic",
@@ -225,11 +230,6 @@
       {
         "title": "Stracił panowanie nad swoim samochodem i wjechał na nasyp kolejowy. Wydmuchał 1,4 promila!",
         "url": "/informacje/21029-stracil-panowanie-nad-swoim-samochodem-i-wjechal-na-nasyp-kolejowy-wydmuchal-1-4-promila",
-        "date": ""
-      },
-      {
-        "title": "Bezpłatne sprawdzenie świateł w Bielsku-Białej. Sprawdź, gdzie podjechać",
-        "url": "/informacje/21030-bezplatne-sprawdzenie-swiatel-w-bielsku-bialej-sprawdz-gdzie-podjechac",
         "date": ""
       }
     ],
