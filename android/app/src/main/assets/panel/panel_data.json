@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-26T09:20:11+00:00",
+  "generated": "2026-10-26T10:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.8,
-    "feels": 5.7,
-    "code": 3,
+    "temp": 9.4,
+    "feels": 6.3,
+    "code": 1,
     "wind": 13.7,
-    "humidity": 78,
+    "humidity": 77,
     "is_day": true,
     "tmax": 10.6,
     "tmin": 6.6,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-26T10:15",
+    "observed": "2026-10-26T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80288,
-        "pln": 315052,
-        "chg24": 0.3
+        "usd": 80339,
+        "pln": 316028,
+        "chg24": 0.03
       },
       {
         "sym": "ETH",
-        "usd": 2324.52,
-        "pln": 9121.53,
-        "chg24": 0.26
+        "usd": 2328.4,
+        "pln": 9159.16,
+        "chg24": 0.05
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.07,
-        "chg": 0.67,
-        "as_of": "26.10 09:10"
+        "value": 54.055,
+        "chg": 0.64,
+        "as_of": "26.10 10:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.519,
-        "chg": 0.66,
-        "as_of": "26.10 09:09"
+        "value": 6.538,
+        "chg": 0.96,
+        "as_of": "26.10 10:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "26.10 09:10",
+    "updated": "26.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Potrącenie w Jasienicy. Kobieta trafiła do szpitala",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/potracenie-w-jasienicy-kobieta-trafila-do-szpitala/102486/",
-        "date": "Mon, 26 Oct 2026 09:09:42 +0000",
+        "title": "Kolejne potrącenie w regionie",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/kolejne-potracenie-w-regionie/102494/",
+        "date": "Mon, 26 Oct 2026 09:50:32 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Śląska policja: w weekend na drogach regionu doszło do 165 zdarzeń. Nie brakowało kierowców jadących po alkoholu…",
+        "url": "https://www.radio90.pl/slaska-policja-w-weekend-na-drogach-regionu-doszlo-do-165-zdarzen-nie-brakowalo-kierowcow-jadacych-po-alkoholu.html",
+        "date": "Mon, 26 Oct 2026 09:40:11 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Pilsko już białe! Ale bywało znacznie wcześniej…",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/pilsko-juz-biale-ale-bywalo-znacznie-wczesniej/102492/",
+        "date": "Mon, 26 Oct 2026 09:48:32 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Wyspa dla ptaków? Ruszyła procedura",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/wyspa-dla-ptakow-ruszyla-procedura/102481/",
-        "date": "Mon, 26 Oct 2026 08:56:58 +0000",
+        "title": "Dlaczego kibice Stali Rzeszów nie weszli na Stadion Miejski?",
+        "url": "https://www.radiobielsko.pl/sport/dlaczego-kibice-stali-rzeszow-nie-weszli-na-stadion-miejski/102485/",
+        "date": "Mon, 26 Oct 2026 09:42:21 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Co dzieje się na terenie dawnej rafinerii? Inwestorzy zajrzeli do zakładów w Czechowicach-Dziedzicach",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/co-dzieje-sie-na-terenie-dawnej-rafinerii-inwestorzy-zajrzeli-do-zakladow-w-czechowicach-dziedzicach/102478/",
-        "date": "Mon, 26 Oct 2026 08:42:31 +0000",
+        "title": "Potrącenie w Jasienicy. Kobieta trafiła do szpitala",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/potracenie-w-jasienicy-kobieta-trafila-do-szpitala/102486/",
+        "date": "Mon, 26 Oct 2026 09:09:42 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -187,21 +199,14 @@
         "url": "https://www.radio90.pl/wandale-w-zywcu-dali-o-sobie-znac-zniszczyli-lawki-i-kosze-na-smieci-przy-sciezce-rowerowej.html",
         "date": "Mon, 26 Oct 2026 08:05:26 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Nowe funkcje w autobusach. Łatwiej będzie kupić bilet",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/nowe-funkcje-w-autobusach-latwiej-bedzie-kupic-bilet/102458/",
-        "date": "Mon, 26 Oct 2026 08:20:39 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Powstał Rybnicki Śpiewnik Górniczy. Przygotowano go na podstawie ponad setki barbórkowych śpiewników [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/powstal-rybnicki-spiewnik-gorniczy-przygotowano-go-na-podstawie-ponad-setki-barborkowych-spiewnikow-zdjecia.html",
-        "date": "Mon, 26 Oct 2026 07:35:53 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "[FOTO] Rozbiórka starego pustostanu przy Sempołowskiej. Byliśmy na miejscu z kamerą",
+        "url": "/informacje/21038-foto-rozbiorka-starego-pustostanu-przy-sempolowskiej-bylismy-na-miejscu-z-kamera",
+        "date": ""
+      },
       {
         "title": "Niebezpieczna jazda i agresja w środku nocy. Kierująca Suzuki wydmuchała prawie 3 promile!",
         "url": "/informacje/21037-niebezpieczna-jazda-i-agresja-w-srodku-nocy-kierujaca-suzuki-wydmuchala-prawie-3-promile",
@@ -225,11 +230,6 @@
       {
         "title": "Piastowska: prace drogowe są zaawansowane w 80 procentach",
         "url": "/informacje/21031-piastowska-prace-drogowe-sa-zaawansowane-w-80-procentach",
-        "date": ""
-      },
-      {
-        "title": "Stracił panowanie nad swoim samochodem i wjechał na nasyp kolejowy. Wydmuchał 1,4 promila!",
-        "url": "/informacje/21029-stracil-panowanie-nad-swoim-samochodem-i-wjechal-na-nasyp-kolejowy-wydmuchal-1-4-promila",
         "date": ""
       }
     ],
