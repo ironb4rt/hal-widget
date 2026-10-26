@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-26T14:20:12+00:00",
+  "generated": "2026-10-26T15:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.8,
-    "feels": 7.2,
+    "temp": 9.5,
+    "feels": 6.8,
     "code": 0,
-    "wind": 9.7,
-    "humidity": 74,
+    "wind": 8.3,
+    "humidity": 65,
     "is_day": true,
     "tmax": 10.1,
-    "tmin": 6.8,
+    "tmin": 7.0,
     "forecast": [
       {
         "date": "2026-10-26",
         "max": 10.1,
-        "min": 6.8,
+        "min": 7.0,
         "code": 55
       },
       {
         "date": "2026-10-27",
-        "max": 11.5,
-        "min": 5.0,
-        "code": 3
+        "max": 11.4,
+        "min": 5.1,
+        "code": 2
       },
       {
         "date": "2026-10-28",
-        "max": 13.3,
-        "min": 4.1,
+        "max": 13.7,
+        "min": 6.6,
         "code": 3
       }
     ],
-    "observed": "2026-10-26T15:15",
+    "observed": "2026-10-26T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79905,
-        "pln": 314736,
-        "chg24": -0.4
+        "usd": 80505,
+        "pln": 316901,
+        "chg24": -0.07
       },
       {
         "sym": "ETH",
-        "usd": 2313.42,
-        "pln": 9112.24,
-        "chg24": -0.69
+        "usd": 2330.04,
+        "pln": 9172.0,
+        "chg24": -0.38
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.505,
-        "chg": -0.38,
-        "as_of": "26.10 14:10"
+        "value": 54.245,
+        "chg": 0.99,
+        "as_of": "26.10 15:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5235,
-        "chg": 0.73,
-        "as_of": "26.10 14:10"
+        "value": 6.5295,
+        "chg": 0.83,
+        "as_of": "26.10 15:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4091,
-        "chg": -4.96,
-        "as_of": "26.10 13:59"
+        "value": 1.4154,
+        "chg": -4.53,
+        "as_of": "26.10 14:53"
       },
       {
         "sym": "HRC",
@@ -89,14 +89,14 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "26.10 14:10",
+    "updated": "26.10 15:10",
     "stale": false
   },
   "fx": {
     "ok": true,
-    "date": "2026-10-23",
-    "usdpln": 3.9261,
-    "usdeur": 0.89342,
+    "date": "2026-10-26",
+    "usdpln": 3.9362,
+    "usdeur": 0.89381,
     "stale": false
   },
   "news": {
@@ -153,15 +153,21 @@
     ],
     "local": [
       {
+        "title": "ROW Rybnik ograł Polonię Nysa. Zwycięstwo pozwoliło zielono-czarnym na awans w tabeli [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/row-rybnik-ogral-polonie-nysa-zwyciestwo-pozwolilo-zielono-czarnym-na-awans-w-tabeli-zdjecia.html",
+        "date": "Mon, 26 Oct 2026 15:10:36 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Jedno święto, dwa plakaty. Poprawili narodowe barwy",
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/jedno-swieto-dwa-plakaty-poprawili-narodowe-barwy/102528/",
         "date": "Mon, 26 Oct 2026 13:50:15 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Wraca kolej do Jastrzębia-Zdroju! PKP PLK w Żorach ogłosiło przetarg na odbudowę linii między tymi miastami [WIDEO]",
-        "url": "https://www.radio90.pl/wraca-kolej-do-jastrzebia-zdroju-pkp-plk-w-zorach-oglosilo-przetarg-na-odbudowe-linii-miedzy-tymi-miastami-zdjecia-wideo.html",
-        "date": "Mon, 26 Oct 2026 13:40:11 +0000",
+        "title": "Obwodnica Węgierskiej Górki. Kierowcy jeżdżą nią od roku. GDDKiA podaje statystyki za ten czas",
+        "url": "https://www.radio90.pl/obwodnica-wegierskiej-gorki-kierowcy-jezdza-nia-od-roku-gddkia-podaje-statystyki-za-ten-czas.html",
+        "date": "Mon, 26 Oct 2026 14:30:23 +0000",
         "src": "Radio90"
       },
       {
@@ -171,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "MKKS Rybnik ze zwycięstwem na wyjeździe. Rybniccy koszykarze pokonali Basket Hills Bielsko-Biała",
-        "url": "https://www.radio90.pl/mkks-rybnik-ze-zwyciestwem-na-wyjezdzie-rybniccy-koszykarze-pokonali-basket-hills-bielsko-biala.html",
-        "date": "Mon, 26 Oct 2026 13:00:49 +0000",
+        "title": "Wraca kolej do Jastrzębia-Zdroju! PKP PLK w Żorach ogłosiło przetarg na odbudowę linii między tymi miastami [WIDEO]",
+        "url": "https://www.radio90.pl/wraca-kolej-do-jastrzebia-zdroju-pkp-plk-w-zorach-oglosilo-przetarg-na-odbudowe-linii-miedzy-tymi-miastami-zdjecia-wideo.html",
+        "date": "Mon, 26 Oct 2026 13:40:11 +0000",
         "src": "Radio90"
       },
       {
@@ -183,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Remont linii kolejowej między Czechowicami-Dziedzicami a Cieszynem. Do połowy grudnia zamiast pociągów, jeżdżą autobusy",
-        "url": "https://www.radio90.pl/remont-linii-kolejowej-miedzy-czechowicami-dziedzicami-a-cieszynem-do-polowy-grudnia-zamiast-pociagow-jezdza-autobusy.html",
-        "date": "Mon, 26 Oct 2026 12:25:45 +0000",
+        "title": "MKKS Rybnik ze zwycięstwem na wyjeździe. Rybniccy koszykarze pokonali Basket Hills Bielsko-Biała",
+        "url": "https://www.radio90.pl/mkks-rybnik-ze-zwyciestwem-na-wyjezdzie-rybniccy-koszykarze-pokonali-basket-hills-bielsko-biala.html",
+        "date": "Mon, 26 Oct 2026 13:00:49 +0000",
         "src": "Radio90"
       },
       {
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/dramatyczna-interwencja-na-torowisku-w-bielsku-bialej/102511/",
         "date": "Mon, 26 Oct 2026 11:30:27 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Kiedy policjanci z Cieszyna doczekają się nowej komendy? Rok temu przekazano działkę. „Mam nadzieję, że bardzo szybko”",
-        "url": "https://www.radio90.pl/kiedy-policjanci-z-cieszyna-doczekaja-sie-nowej-komendy-rok-temu-przekazano-dzialke-mam-nadzieje-ze-bardzo-szybko.html",
-        "date": "Mon, 26 Oct 2026 11:40:53 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
