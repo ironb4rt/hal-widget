@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-26T16:20:13+00:00",
+  "generated": "2026-10-26T17:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.8,
-    "feels": 6.1,
+    "temp": 7.9,
+    "feels": 5.4,
     "code": 0,
-    "wind": 8.3,
-    "humidity": 70,
+    "wind": 7.6,
+    "humidity": 75,
     "is_day": false,
     "tmax": 10.1,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 3
       }
     ],
-    "observed": "2026-10-26T17:15",
+    "observed": "2026-10-26T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80089,
-        "pln": 315476,
-        "chg24": -0.53
+        "usd": 80420,
+        "pln": 316465,
+        "chg24": -0.4
       },
       {
         "sym": "ETH",
-        "usd": 2315.72,
-        "pln": 9121.83,
-        "chg24": -1.17
+        "usd": 2330.69,
+        "pln": 9171.56,
+        "chg24": -1.0
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.23,
-        "chg": 0.97,
-        "as_of": "26.10 16:10"
+        "value": 54.24,
+        "chg": 0.98,
+        "as_of": "26.10 17:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.542,
-        "chg": 1.02,
-        "as_of": "26.10 16:10"
+        "value": 6.5525,
+        "chg": 1.18,
+        "as_of": "26.10 17:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4163,
-        "chg": -4.47,
-        "as_of": "26.10 16:03"
+        "value": 1.4169,
+        "chg": -4.43,
+        "as_of": "26.10 17:09"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "26.10 16:10",
+    "updated": "26.10 17:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Złamała sądowy zakaz prowadzenia pojazdów. Ale to nie wszystko, co miała na sumieniu 22-latka z Jastrzębia",
-        "url": "https://www.radio90.pl/zlamala-sadowy-zakaz-prowadzenia-pojazdow-ale-to-nie-wszystko-co-miala-na-sumieniu-22-latka-z-jastrzebia.html",
-        "date": "Mon, 26 Oct 2026 15:55:32 +0000",
+        "title": "Włodzimierz Czarzasty w Bielsku-Białej. Marszałek odsłonił tablicę upamiętniającą strajk robotników",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/wlodzimierz-czarzasty-w-bielsku-bialej-marszalek-odslonil-tablice-upamietniajaca-strajk-robotnikow/102540/",
+        "date": "Mon, 26 Oct 2026 16:44:36 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Jastrzębie Barkom wygrywa na wyjeździe ze Stilonem Gorzów. W najbliższy weekend rozegra pierwszy mecz domowy",
+        "url": "https://www.radio90.pl/jastrzebie-barkom-wygrywa-na-wyjezdzie-ze-stilonem-gorzow-w-najblizszy-weekend-rozegra-pierwszy-mecz-domowy.html",
+        "date": "Mon, 26 Oct 2026 16:40:21 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "ROW Rybnik ograł Polonię Nysa. Zwycięstwo pozwoliło zielono-czarnym na awans w tabeli [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/row-rybnik-ogral-polonie-nysa-zwyciestwo-pozwolilo-zielono-czarnym-na-awans-w-tabeli-zdjecia.html",
-        "date": "Mon, 26 Oct 2026 15:10:36 +0000",
+        "title": "Złamała sądowy zakaz prowadzenia pojazdów. Ale to nie wszystko, co miała na sumieniu 22-latka z Jastrzębia",
+        "url": "https://www.radio90.pl/zlamala-sadowy-zakaz-prowadzenia-pojazdow-ale-to-nie-wszystko-co-miala-na-sumieniu-22-latka-z-jastrzebia.html",
+        "date": "Mon, 26 Oct 2026 15:55:32 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Obwodnica Węgierskiej Górki. Kierowcy jeżdżą nią od roku. GDDKiA podaje statystyki za ten czas",
-        "url": "https://www.radio90.pl/obwodnica-wegierskiej-gorki-kierowcy-jezdza-nia-od-roku-gddkia-podaje-statystyki-za-ten-czas.html",
-        "date": "Mon, 26 Oct 2026 14:30:23 +0000",
+        "title": "ROW Rybnik ograł Polonię Nysa. Zwycięstwo pozwoliło zielono-czarnym na awans w tabeli [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/row-rybnik-ogral-polonie-nysa-zwyciestwo-pozwolilo-zielono-czarnym-na-awans-w-tabeli-zdjecia.html",
+        "date": "Mon, 26 Oct 2026 15:10:36 +0000",
         "src": "Radio90"
       },
       {
@@ -189,16 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wraca kolej do Jastrzębia-Zdroju! PKP PLK w Żorach ogłosiło przetarg na odbudowę linii między tymi miastami [WIDEO]",
-        "url": "https://www.radio90.pl/wraca-kolej-do-jastrzebia-zdroju-pkp-plk-w-zorach-oglosilo-przetarg-na-odbudowe-linii-miedzy-tymi-miastami-zdjecia-wideo.html",
-        "date": "Mon, 26 Oct 2026 13:40:11 +0000",
+        "title": "Obwodnica Węgierskiej Górki. Kierowcy jeżdżą nią od roku. GDDKiA podaje statystyki za ten czas",
+        "url": "https://www.radio90.pl/obwodnica-wegierskiej-gorki-kierowcy-jezdza-nia-od-roku-gddkia-podaje-statystyki-za-ten-czas.html",
+        "date": "Mon, 26 Oct 2026 14:30:23 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "24-latek zatrzymany po kradzieży sklepowej. Miał przy sobie narkotyki",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/24-latek-zatrzymany-po-kradziezy-sklepowej-mial-przy-sobie-narkotyki/102522/",
-        "date": "Mon, 26 Oct 2026 12:43:30 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
