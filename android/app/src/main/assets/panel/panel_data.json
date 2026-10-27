@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-27T18:20:05+00:00",
+  "generated": "2026-10-27T19:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.7,
-    "feels": 5.2,
+    "temp": 7.5,
+    "feels": 4.6,
     "code": 0,
-    "wind": 5.8,
+    "wind": 7.6,
     "humidity": 70,
     "is_day": false,
     "tmax": 11.9,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-27T19:15",
+    "observed": "2026-10-27T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80520,
-        "pln": 318068,
-        "chg24": 0.4
+        "usd": 80544,
+        "pln": 318146,
+        "chg24": 0.7
       },
       {
         "sym": "ETH",
-        "usd": 2344.75,
-        "pln": 9262.2,
-        "chg24": 0.93
+        "usd": 2338.82,
+        "pln": 9238.22,
+        "chg24": 0.96
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.39,
-        "chg": 0.52,
-        "as_of": "27.10 18:09"
+        "value": 54.46,
+        "chg": 0.65,
+        "as_of": "27.10 19:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.659,
-        "chg": 2.32,
-        "as_of": "27.10 18:10"
+        "value": 6.657,
+        "chg": 2.29,
+        "as_of": "27.10 19:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 18:10",
+    "updated": "27.10 19:10",
     "stale": false
   },
   "fx": {
@@ -103,9 +103,21 @@
     "ok": true,
     "market": [
       {
+        "title": "Labour shortage hurts West Lake Gold output",
+        "url": "https://www.mining.com/labour-shortage-hurts-west-lake-gold-output/",
+        "date": "Tue, 27 Oct 2026 16:35:44 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "China Gold restarts CSH mine after five-month shutdown",
         "url": "https://www.mining.com/china-gold-restarts-csh-mine-after-five-month-shutdown/",
         "date": "Tue, 27 Oct 2026 16:18:20 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Western Copper CEO exits as Casino review advances",
+        "url": "https://www.mining.com/western-copper-ceo-exits-as-casino-review-advances/",
+        "date": "Tue, 27 Oct 2026 16:08:54 +0000",
         "src": "Mining.com"
       },
       {
@@ -115,47 +127,35 @@
         "src": "Mining.com"
       },
       {
+        "title": "Iamgold drilling strengthens Nelligan growth case",
+        "url": "https://www.mining.com/iamgold-drilling-strengthens-nelligan-growth-case/",
+        "date": "Tue, 27 Oct 2026 14:35:59 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Australia to fund rare earths project with A$180M deal",
+        "url": "https://www.mining.com/australia-to-fund-rare-earths-project-with-a180m-deal/",
+        "date": "Tue, 27 Oct 2026 14:23:11 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Gold miners trade at discount after selloff: Haywood",
+        "url": "https://www.mining.com/gold-miners-trade-at-discount-after-selloff-haywood/",
+        "date": "Tue, 27 Oct 2026 14:06:13 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Codelco copper mine blockade adds to supply concerns",
         "url": "https://www.mining.com/codelco-copper-mine-blockade-adds-to-supply-concerns/",
         "date": "Tue, 27 Oct 2026 12:29:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Millennial Potash eyes bigger Gabon mine with US backing",
-        "url": "https://www.mining.com/millennial-potash-eyes-bigger-gabon-mine-with-us-backing/",
-        "date": "Tue, 27 Oct 2026 12:12:55 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Capstone to invest $3B in Chile to double copper production",
-        "url": "https://www.mining.com/capstone-to-invest-3b-in-chile-to-double-copper-production/",
-        "date": "Tue, 27 Oct 2026 10:53:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Avanti Helium advances construction at Sweetgrass project in Montana",
-        "url": "https://www.mining.com/avanti-helium-advances-construction-at-sweetgrass-project-in-montana/",
-        "date": "Mon, 26 Oct 2026 22:31:48 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "British Columbia Conservative landslide raises mining hopes, Indigenous rights fears",
-        "url": "https://www.mining.com/bc-tory-landslide-raises-mining-hopes-rights-fears/",
-        "date": "Mon, 26 Oct 2026 21:35:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Canada Nickel, Swiss Steel plan transatlantic partnership",
-        "url": "https://www.mining.com/canada-nickel-swiss-steel-plan-transatlantic-partnership/",
-        "date": "Mon, 26 Oct 2026 16:38:25 +0000",
         "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Roboty drogowe w Raciborzu. Jutro na DK45 pojawią się drogowcy, będą utrudnienia w ruchu",
-        "url": "https://www.radio90.pl/roboty-drogowe-w-raciborzu-jutro-na-dk45-pojawia-sie-drogowcy-beda-utrudnienia-w-ruchu.html",
-        "date": "Tue, 27 Oct 2026 18:15:19 +0000",
+        "title": "Pijany kierowca w Jastrzębiu. Pojechał do sklepu kupić alkohol… Został zatrzymany dzięki reakcji świadka",
+        "url": "https://www.radio90.pl/pijany-kierowca-w-jastrzebiu-pojechal-do-sklepu-kupic-alkohol-zostal-zatrzymany-dzieki-reakcji-swiadka.html",
+        "date": "Tue, 27 Oct 2026 19:00:35 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Będzie inwestycja w centrum Rybnika. Miasto za kilka milionów sprzedało teren przy ul. Za Komendą [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/bedzie-inwestycja-w-centrum-rybnika-miasto-za-kilka-milionow-sprzedalo-teren-przy-ul-za-komenda-zdjecia.html",
-        "date": "Tue, 27 Oct 2026 17:20:13 +0000",
+        "title": "Roboty drogowe w Raciborzu. Jutro na DK45 pojawią się drogowcy, będą utrudnienia w ruchu",
+        "url": "https://www.radio90.pl/roboty-drogowe-w-raciborzu-jutro-na-dk45-pojawia-sie-drogowcy-beda-utrudnienia-w-ruchu.html",
+        "date": "Tue, 27 Oct 2026 18:15:19 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Straż graniczna: najwięcej Kolumbijczyków pracuje u nas na czarno",
-        "url": "https://www.radio90.pl/straz-graniczna-najwiecej-kolumbijczykow-pracuje-u-nas-na-czarno.html",
-        "date": "Tue, 27 Oct 2026 16:25:11 +0000",
+        "title": "Będzie inwestycja w centrum Rybnika. Miasto za kilka milionów sprzedało teren przy ul. Za Komendą [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/bedzie-inwestycja-w-centrum-rybnika-miasto-za-kilka-milionow-sprzedalo-teren-przy-ul-za-komenda-zdjecia.html",
+        "date": "Tue, 27 Oct 2026 17:20:13 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Hulajnoga elektryczna nie dla każdego. Sąd zajmie się sprawą 12-latka",
-        "url": "https://www.radio90.pl/hulajnoga-elektryczna-nie-dla-kazdego-sad-zajmie-sie-sprawa-12-latka.html",
-        "date": "Tue, 27 Oct 2026 15:30:28 +0000",
+        "title": "Straż graniczna: najwięcej Kolumbijczyków pracuje u nas na czarno",
+        "url": "https://www.radio90.pl/straz-graniczna-najwiecej-kolumbijczykow-pracuje-u-nas-na-czarno.html",
+        "date": "Tue, 27 Oct 2026 16:25:11 +0000",
         "src": "Radio90"
       },
       {
