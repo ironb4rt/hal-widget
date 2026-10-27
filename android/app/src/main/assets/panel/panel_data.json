@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-27T12:20:04+00:00",
+  "generated": "2026-10-27T13:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 11.5,
-    "feels": 9.3,
+    "feels": 8.7,
     "code": 0,
-    "wind": 4.3,
-    "humidity": 57,
+    "wind": 10.1,
+    "humidity": 63,
     "is_day": true,
     "tmax": 11.6,
     "tmin": 4.2,
@@ -31,7 +31,7 @@
         "code": 45
       }
     ],
-    "observed": "2026-10-27T13:15",
+    "observed": "2026-10-27T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79869,
-        "pln": 315403,
-        "chg24": -0.41
+        "usd": 80153,
+        "pln": 316510,
+        "chg24": 0.12
       },
       {
         "sym": "ETH",
-        "usd": 2314.69,
-        "pln": 9140.7,
-        "chg24": -0.53
+        "usd": 2326.58,
+        "pln": 9187.22,
+        "chg24": 0.5
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.415,
-        "chg": -1.28,
-        "as_of": "27.10 12:09"
+        "value": 53.825,
+        "chg": -0.52,
+        "as_of": "27.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.622,
-        "chg": 1.75,
-        "as_of": "27.10 12:10"
+        "value": 6.596,
+        "chg": 1.35,
+        "as_of": "27.10 13:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4295,
-        "chg": -2.19,
-        "as_of": "27.10 11:59"
+        "value": 1.4309,
+        "chg": -2.09,
+        "as_of": "27.10 12:27"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 12:10",
+    "updated": "27.10 13:10",
     "stale": false
   },
   "fx": {
@@ -106,6 +106,12 @@
         "title": "Millennial Potash eyes bigger Gabon mine with US backing",
         "url": "https://www.mining.com/millennial-potash-eyes-bigger-gabon-mine-with-us-backing/",
         "date": "Tue, 27 Oct 2026 12:12:55 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Capstone to invest $3B in Chile to double copper production",
+        "url": "https://www.mining.com/capstone-to-invest-3b-in-chile-to-double-copper-production/",
+        "date": "Tue, 27 Oct 2026 10:53:00 +0000",
         "src": "Mining.com"
       },
       {
@@ -143,19 +149,31 @@
         "url": "https://www.mining.com/strike-curbs-output-at-canadas-largest-copper-mine/",
         "date": "Mon, 26 Oct 2026 14:53:12 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Lula’s Brazil win puts rare earths in Trump’s crosshairs",
-        "url": "https://www.mining.com/lulas-brazil-win-puts-rare-earths-in-trumps-crosshairs/",
-        "date": "Mon, 26 Oct 2026 12:08:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Dwa razy weszli w płomienie. Za drugim razem liczyły się sekundy",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/dwa-razy-weszli-w-plomienie-za-drugim-razem-liczyly-sie-sekundy/102657/",
-        "date": "Tue, 27 Oct 2026 12:00:40 +0000",
+        "title": "Straż Graniczna planuje wybudować ośrodek dla uchodźców w Rudziczce? To obawy mieszkańców, choć pogranicznicy zaprzeczają",
+        "url": "https://www.radio90.pl/straz-graniczna-planuje-wybudowac-osrodek-dla-uchodzcow-w-rudziczce-to-obawy-mieszkancow-choc-pogranicznicy-zaprzeczaja.html",
+        "date": "Tue, 27 Oct 2026 13:15:54 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Po ile chryzantemy? Sprawdziliśmy na targowisku",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/po-ile-chryzantemy-sprawdzilismy-na-targowisku/102662/",
+        "date": "Tue, 27 Oct 2026 12:44:32 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Gogołowa: awaria za awarią. Jak mamy normalnie pracować – pytają mieszkańcy",
+        "url": "https://www.radio90.pl/gogolowa-awaria-za-awaria-jak-mamy-normalnie-pracowac-pytaja-mieszkancy.html",
+        "date": "Tue, 27 Oct 2026 12:35:57 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Zimę spędzą na fotelu lidera? „Chcemy już zakończyć tę rundę”",
+        "url": "https://www.radiobielsko.pl/sport/zime-spedza-na-fotelu-lidera-chcemy-juz-zakonczyc-te-runde/102663/",
+        "date": "Tue, 27 Oct 2026 12:36:57 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Ktoś chętny na autobus? MZK planuje sprzedaż",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/ktos-chetny-na-autobus-mzk-planuje-sprzedaz/102652/",
-        "date": "Tue, 27 Oct 2026 11:20:13 +0000",
+        "title": "Dwa razy weszli w płomienie. Za drugim razem liczyły się sekundy",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/dwa-razy-weszli-w-plomienie-za-drugim-razem-liczyly-sie-sekundy/102657/",
+        "date": "Tue, 27 Oct 2026 12:00:40 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,34 +195,21 @@
         "src": "Radio90"
       },
       {
-        "title": "Cztery auta zderzyły się na Andersa, kierowcy utknęli w korkach",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-auta-zderzyly-sie-na-andersa-kierowcy-utkneli-w-korkach/102626/",
-        "date": "Tue, 27 Oct 2026 10:35:01 +0000",
+        "title": "Ktoś chętny na autobus? MZK planuje sprzedaż",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/ktos-chetny-na-autobus-mzk-planuje-sprzedaz/102652/",
+        "date": "Tue, 27 Oct 2026 11:20:13 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Ścieżka Historyczna po Radoszowach. Dziś odbędzie się jej premiera. „To będzie wyjątkowy wieczór”",
-        "url": "https://www.radio90.pl/sciezka-historyczna-po-radoszowach-dzis-odbedzie-sie-jej-premiera.html",
-        "date": "Tue, 27 Oct 2026 10:48:51 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Ratownicy przekazali karetkę studentom",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/ratownicy-przekazali-karetke-studentom/102638/",
-        "date": "Tue, 27 Oct 2026 10:19:43 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Czy droga ekspresowa S1 z Żywca do Zwardonia doczeka się drugiej jezdni?",
-        "url": "https://www.radio90.pl/czy-droga-ekspresowa-s1-z-zywca-do-zwardonia-doczeka-sie-drugiej-jezdni.html",
-        "date": "Tue, 27 Oct 2026 10:20:52 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
       {
         "title": "Felieton[FELIETON] Ile warta jest skrzynka \"STOP Agresji Drogowej\"? To jeden wielki pic na wodę!",
         "url": "/informacje/21040-felieton-ile-warta-jest-skrzynka-stop-agresji-drogowej-to-jeden-wielki-pic-na-wode",
+        "date": ""
+      },
+      {
+        "title": "Kolizja karetki z samochodem osobowym na al. Andersa w Bielsku-Białej",
+        "url": "/informacje/21045-kolizja-karetki-z-samochodem-osobowym-na-al-andersa-w-bielsku-bialej",
         "date": ""
       },
       {
@@ -225,11 +230,6 @@
       {
         "title": "Niebezpieczna jazda i agresja w środku nocy. Kierująca Suzuki wydmuchała prawie 3 promile!",
         "url": "/informacje/21037-niebezpieczna-jazda-i-agresja-w-srodku-nocy-kierujaca-suzuki-wydmuchala-prawie-3-promile",
-        "date": ""
-      },
-      {
-        "title": "Podczas meczu Podbeskidzia będzie można pomóc pogorzelcom z Kobiernic",
-        "url": "/informacje/21036-podczas-meczu-podbeskidzia-bedzie-mozna-pomoc-pogorzelcom-z-kobiernic",
         "date": ""
       }
     ],
