@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-27T10:20:03+00:00",
+  "generated": "2026-10-27T11:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.8,
-    "feels": 7.8,
+    "temp": 10.9,
+    "feels": 8.9,
     "code": 0,
-    "wind": 2.2,
-    "humidity": 61,
+    "wind": 2.5,
+    "humidity": 56,
     "is_day": true,
     "tmax": 11.7,
     "tmin": 4.2,
@@ -31,7 +31,7 @@
         "code": 45
       }
     ],
-    "observed": "2026-10-27T11:15",
+    "observed": "2026-10-27T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79465,
-        "pln": 314244,
-        "chg24": -1.09
+        "usd": 79789,
+        "pln": 315321,
+        "chg24": -0.49
       },
       {
         "sym": "ETH",
-        "usd": 2298.04,
-        "pln": 9087.54,
-        "chg24": -1.31
+        "usd": 2310.97,
+        "pln": 9132.84,
+        "chg24": -0.51
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.32,
-        "chg": -1.46,
-        "as_of": "27.10 10:09"
+        "value": 53.52,
+        "chg": -1.09,
+        "as_of": "27.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.611,
-        "chg": 1.58,
-        "as_of": "27.10 10:09"
+        "value": 6.629,
+        "chg": 1.86,
+        "as_of": "27.10 11:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4095,
-        "chg": -4.93,
-        "as_of": "27.10 02:43"
+        "value": 1.4275,
+        "chg": -2.33,
+        "as_of": "27.10 11:06"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 10:09",
+    "updated": "27.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,33 @@
     ],
     "local": [
       {
+        "title": "Budowa kolei do Jastrzębia to dobra wiadomość także dla mieszkańców Żor. Waldemar Socha: kolej ma przyszłość",
+        "url": "https://www.radio90.pl/budowa-kolei-do-jastrzebia-to-dobra-wiadomosc-takze-dla-mieszkancow-zor-waldemar-socha-kolej-ma-przyszlosc.html",
+        "date": "Tue, 27 Oct 2026 11:00:21 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Cztery auta zderzyły się na Andersa, kierowcy utknęli w korkach",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-auta-zderzyly-sie-na-andersa-kierowcy-utkneli-w-korkach/102626/",
+        "date": "Tue, 27 Oct 2026 10:35:01 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Ścieżka Historyczna po Radoszowach. Dziś odbędzie się jej premiera. „To będzie wyjątkowy wieczór”",
+        "url": "https://www.radio90.pl/sciezka-historyczna-po-radoszowach-dzis-odbedzie-sie-jej-premiera.html",
+        "date": "Tue, 27 Oct 2026 10:48:51 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Ratownicy przekazali karetkę studentom",
         "url": "https://www.radiobielsko.pl/bielsko-biala/ratownicy-przekazali-karetke-studentom/102638/",
         "date": "Tue, 27 Oct 2026 10:19:43 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Już pada śnieg w Beskidach. Nagranie prószącego śniegu publikuje w sieci schronisko na Markowych Szczawinach [WIDEO]",
-        "url": "https://www.radio90.pl/juz-pada-snieg-w-beskidach-nagranie-proszacego-sniegu-publikuje-w-sieci-schronisko-na-markowych-szczawinach-wideo.html",
-        "date": "Tue, 27 Oct 2026 09:45:51 +0000",
+        "title": "Czy droga ekspresowa S1 z Żywca do Zwardonia doczeka się drugiej jezdni?",
+        "url": "https://www.radio90.pl/czy-droga-ekspresowa-s1-z-zywca-do-zwardonia-doczeka-sie-drugiej-jezdni.html",
+        "date": "Tue, 27 Oct 2026 10:20:52 +0000",
         "src": "Radio90"
       },
       {
@@ -171,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Śląska drogówka: uwaga na poranne przymrozki, zachowajcie ostrożność na drodze",
-        "url": "https://www.radio90.pl/slaska-drogowka-uwaga-na-poranne-przymrozki-zachowajcie-ostroznosc-na-drodze.html",
-        "date": "Tue, 27 Oct 2026 09:20:34 +0000",
+        "title": "Już pada śnieg w Beskidach. Nagranie prószącego śniegu publikuje w sieci schronisko na Markowych Szczawinach [WIDEO]",
+        "url": "https://www.radio90.pl/juz-pada-snieg-w-beskidach-nagranie-proszacego-sniegu-publikuje-w-sieci-schronisko-na-markowych-szczawinach-wideo.html",
+        "date": "Tue, 27 Oct 2026 09:45:51 +0000",
         "src": "Radio90"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/zalozyli-za-wojewode-grozilo-wstrzymanie-orzekania/102625/",
         "date": "Tue, 27 Oct 2026 09:42:05 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Oszuści znów w akcji. Oszukują nawet metodą „na znicze”",
-        "url": "https://www.radio90.pl/oszusci-znow-w-akcji-oszukuja-nawet-metoda-na-znicze.html",
-        "date": "Tue, 27 Oct 2026 08:50:05 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Maja Chwalińska zabrała głos po kontuzji. „Jestem bardzo rozczarowana…”",
-        "url": "https://www.radiobielsko.pl/sport/maja-chwalinska-zabrala-glos-po-kontuzji-jestem-bardzo-rozczarowana/102620/",
-        "date": "Tue, 27 Oct 2026 09:30:20 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Mistrzostwa świata rot asekuracyjnych w Chinach. Zwyciężyli w nich strażacy z naszego regionu!",
-        "url": "https://www.radio90.pl/mistrzostwa-swiata-rot-asekuracyjnych-w-chinach-zwyciezyli-w-nich-strazacy-z-naszego-regionu.html",
-        "date": "Tue, 27 Oct 2026 08:05:00 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
