@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-27T11:20:03+00:00",
+  "generated": "2026-10-27T12:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.9,
-    "feels": 8.9,
+    "temp": 11.5,
+    "feels": 9.3,
     "code": 0,
-    "wind": 2.5,
-    "humidity": 56,
+    "wind": 4.3,
+    "humidity": 57,
     "is_day": true,
-    "tmax": 11.7,
+    "tmax": 11.6,
     "tmin": 4.2,
     "forecast": [
       {
         "date": "2026-10-27",
-        "max": 11.7,
+        "max": 11.6,
         "min": 4.2,
         "code": 0
       },
       {
         "date": "2026-10-28",
-        "max": 13.0,
-        "min": 6.2,
+        "max": 13.2,
+        "min": 6.1,
         "code": 3
       },
       {
         "date": "2026-10-29",
-        "max": 8.9,
-        "min": 5.9,
+        "max": 7.4,
+        "min": 5.8,
         "code": 45
       }
     ],
-    "observed": "2026-10-27T12:15",
+    "observed": "2026-10-27T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79789,
-        "pln": 315321,
-        "chg24": -0.49
+        "usd": 79869,
+        "pln": 315403,
+        "chg24": -0.41
       },
       {
         "sym": "ETH",
-        "usd": 2310.97,
-        "pln": 9132.84,
-        "chg24": -0.51
+        "usd": 2314.69,
+        "pln": 9140.7,
+        "chg24": -0.53
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.52,
-        "chg": -1.09,
-        "as_of": "27.10 11:10"
+        "value": 53.415,
+        "chg": -1.28,
+        "as_of": "27.10 12:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.629,
-        "chg": 1.86,
-        "as_of": "27.10 11:09"
+        "value": 6.622,
+        "chg": 1.75,
+        "as_of": "27.10 12:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4275,
-        "chg": -2.33,
-        "as_of": "27.10 11:06"
+        "value": 1.4295,
+        "chg": -2.19,
+        "as_of": "27.10 11:59"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 11:10",
+    "updated": "27.10 12:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Millennial Potash eyes bigger Gabon mine with US backing",
+        "url": "https://www.mining.com/millennial-potash-eyes-bigger-gabon-mine-with-us-backing/",
+        "date": "Tue, 27 Oct 2026 12:12:55 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Avanti Helium advances construction at Sweetgrass project in Montana",
         "url": "https://www.mining.com/avanti-helium-advances-construction-at-sweetgrass-project-in-montana/",
@@ -143,15 +149,27 @@
         "url": "https://www.mining.com/lulas-brazil-win-puts-rare-earths-in-trumps-crosshairs/",
         "date": "Mon, 26 Oct 2026 12:08:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Buried sediments prove Romans mined gold in Pyrenees",
-        "url": "https://www.mining.com/buried-sediments-prove-romans-mined-gold-in-pyrenees/",
-        "date": "Mon, 26 Oct 2026 10:58:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Dwa razy weszli w płomienie. Za drugim razem liczyły się sekundy",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/dwa-razy-weszli-w-plomienie-za-drugim-razem-liczyly-sie-sekundy/102657/",
+        "date": "Tue, 27 Oct 2026 12:00:40 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Ważna konferencja w Wodzisławiu. Poświęcona wyzwaniom związanym z funkcjonowaniem dzieci i młodzieży w świecie cyfrowym [PATRONAT]",
+        "url": "https://www.radio90.pl/wazna-konferencja-w-wodzislawiu-poswiecona-wyzwaniom-zwiazanym-z-funkcjonowaniem-dzieci-i-mlodziezy-w-swiecie-cyfrowym-patronat.html",
+        "date": "Tue, 27 Oct 2026 11:50:05 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Ktoś chętny na autobus? MZK planuje sprzedaż",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/ktos-chetny-na-autobus-mzk-planuje-sprzedaz/102652/",
+        "date": "Tue, 27 Oct 2026 11:20:13 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Budowa kolei do Jastrzębia to dobra wiadomość także dla mieszkańców Żor. Waldemar Socha: kolej ma przyszłość",
         "url": "https://www.radio90.pl/budowa-kolei-do-jastrzebia-to-dobra-wiadomosc-takze-dla-mieszkancow-zor-waldemar-socha-kolej-ma-przyszlosc.html",
@@ -181,30 +199,17 @@
         "url": "https://www.radio90.pl/czy-droga-ekspresowa-s1-z-zywca-do-zwardonia-doczeka-sie-drugiej-jezdni.html",
         "date": "Tue, 27 Oct 2026 10:20:52 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "„Tusk=drożyzna”. Posłowie PiS chcą ustawy obniżającej podatki",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/tuskdrozyzna-poslowie-pis-chca-ustawy-obnizajacej-podatki/102634/",
-        "date": "Tue, 27 Oct 2026 10:07:55 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Już pada śnieg w Beskidach. Nagranie prószącego śniegu publikuje w sieci schronisko na Markowych Szczawinach [WIDEO]",
-        "url": "https://www.radio90.pl/juz-pada-snieg-w-beskidach-nagranie-proszacego-sniegu-publikuje-w-sieci-schronisko-na-markowych-szczawinach-wideo.html",
-        "date": "Tue, 27 Oct 2026 09:45:51 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "„Założyli” za wojewodę. Groziło wstrzymanie orzekania",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/zalozyli-za-wojewode-grozilo-wstrzymanie-orzekania/102625/",
-        "date": "Tue, 27 Oct 2026 09:42:05 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
       {
         "title": "Felieton[FELIETON] Ile warta jest skrzynka \"STOP Agresji Drogowej\"? To jeden wielki pic na wodę!",
         "url": "/informacje/21040-felieton-ile-warta-jest-skrzynka-stop-agresji-drogowej-to-jeden-wielki-pic-na-wode",
+        "date": ""
+      },
+      {
+        "title": "Wszystkich Świętych w Bielsku-Białej. Zmiany ruchu przy cmentarzach i dodatkowe autobusy",
+        "url": "/informacje/21043-wszystkich-swietych-w-bielsku-bialej-zmiany-ruchu-przy-cmentarzach-i-dodatkowe-autobusy",
         "date": ""
       },
       {
@@ -225,11 +230,6 @@
       {
         "title": "Podczas meczu Podbeskidzia będzie można pomóc pogorzelcom z Kobiernic",
         "url": "/informacje/21036-podczas-meczu-podbeskidzia-bedzie-mozna-pomoc-pogorzelcom-z-kobiernic",
-        "date": ""
-      },
-      {
-        "title": "Sezon zimowy coraz bliżej, a wraz z nim doskonałe okazje!",
-        "url": "/informacje/21034-sezon-zimowy-coraz-blizej-a-wraz-z-nim-doskonale-okazje",
         "date": ""
       }
     ],
