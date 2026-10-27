@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-27T19:20:05+00:00",
+  "generated": "2026-10-27T20:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.5,
-    "feels": 4.6,
+    "temp": 7.3,
+    "feels": 4.5,
     "code": 0,
-    "wind": 7.6,
+    "wind": 7.2,
     "humidity": 70,
     "is_day": false,
     "tmax": 11.9,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-27T20:15",
+    "observed": "2026-10-27T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80544,
-        "pln": 318146,
-        "chg24": 0.7
+        "usd": 80661,
+        "pln": 318699,
+        "chg24": 1.08
       },
       {
         "sym": "ETH",
-        "usd": 2338.82,
-        "pln": 9238.22,
-        "chg24": 0.96
+        "usd": 2344.21,
+        "pln": 9262.2,
+        "chg24": 1.37
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.46,
-        "chg": 0.65,
-        "as_of": "27.10 19:10"
+        "value": 54.47,
+        "chg": 0.67,
+        "as_of": "27.10 20:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.657,
-        "chg": 2.29,
-        "as_of": "27.10 19:09"
+        "value": 6.656,
+        "chg": 2.27,
+        "as_of": "27.10 20:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 19:10",
+    "updated": "27.10 20:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Perpetua Resources gets $40M US Army funding to advance tungsten production",
+        "url": "https://www.mining.com/perpetua-resources-gets-40m-us-army-funding-to-advance-tungsten-production-in-idaho/",
+        "date": "Tue, 27 Oct 2026 19:59:26 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "FireFly finds copper-gold system near idle mill",
+        "url": "https://www.mining.com/firefly-finds-copper-gold-system-near-idle-mill/",
+        "date": "Tue, 27 Oct 2026 16:59:33 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Labour shortage hurts West Lake Gold output",
         "url": "https://www.mining.com/labour-shortage-hurts-west-lake-gold-output/",
@@ -137,25 +149,13 @@
         "url": "https://www.mining.com/australia-to-fund-rare-earths-project-with-a180m-deal/",
         "date": "Tue, 27 Oct 2026 14:23:11 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Gold miners trade at discount after selloff: Haywood",
-        "url": "https://www.mining.com/gold-miners-trade-at-discount-after-selloff-haywood/",
-        "date": "Tue, 27 Oct 2026 14:06:13 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Codelco copper mine blockade adds to supply concerns",
-        "url": "https://www.mining.com/codelco-copper-mine-blockade-adds-to-supply-concerns/",
-        "date": "Tue, 27 Oct 2026 12:29:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Pijany kierowca w Jastrzębiu. Pojechał do sklepu kupić alkohol… Został zatrzymany dzięki reakcji świadka",
-        "url": "https://www.radio90.pl/pijany-kierowca-w-jastrzebiu-pojechal-do-sklepu-kupic-alkohol-zostal-zatrzymany-dzieki-reakcji-swiadka.html",
-        "date": "Tue, 27 Oct 2026 19:00:35 +0000",
+        "title": "Dyniowa Stacja Rudy: odbędzie się tam wydarzenie z okazji Halloween. „Wydarzy się coś, o czym lepiej nie mówić głośno”",
+        "url": "https://www.radio90.pl/dyniowa-stacja-rudy-odbedzie-sie-tam-wydarzenie-z-okazji-halloween-wydarzy-sie-cos-o-czym-lepiej-nie-mowic-glosno.html",
+        "date": "Tue, 27 Oct 2026 19:50:54 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Roboty drogowe w Raciborzu. Jutro na DK45 pojawią się drogowcy, będą utrudnienia w ruchu",
-        "url": "https://www.radio90.pl/roboty-drogowe-w-raciborzu-jutro-na-dk45-pojawia-sie-drogowcy-beda-utrudnienia-w-ruchu.html",
-        "date": "Tue, 27 Oct 2026 18:15:19 +0000",
+        "title": "Pijany kierowca w Jastrzębiu. Pojechał do sklepu kupić alkohol… Został zatrzymany dzięki reakcji świadka",
+        "url": "https://www.radio90.pl/pijany-kierowca-w-jastrzebiu-pojechal-do-sklepu-kupic-alkohol-zostal-zatrzymany-dzieki-reakcji-swiadka.html",
+        "date": "Tue, 27 Oct 2026 19:00:35 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Będzie inwestycja w centrum Rybnika. Miasto za kilka milionów sprzedało teren przy ul. Za Komendą [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/bedzie-inwestycja-w-centrum-rybnika-miasto-za-kilka-milionow-sprzedalo-teren-przy-ul-za-komenda-zdjecia.html",
-        "date": "Tue, 27 Oct 2026 17:20:13 +0000",
+        "title": "Roboty drogowe w Raciborzu. Jutro na DK45 pojawią się drogowcy, będą utrudnienia w ruchu",
+        "url": "https://www.radio90.pl/roboty-drogowe-w-raciborzu-jutro-na-dk45-pojawia-sie-drogowcy-beda-utrudnienia-w-ruchu.html",
+        "date": "Tue, 27 Oct 2026 18:15:19 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Straż graniczna: najwięcej Kolumbijczyków pracuje u nas na czarno",
-        "url": "https://www.radio90.pl/straz-graniczna-najwiecej-kolumbijczykow-pracuje-u-nas-na-czarno.html",
-        "date": "Tue, 27 Oct 2026 16:25:11 +0000",
+        "title": "Będzie inwestycja w centrum Rybnika. Miasto za kilka milionów sprzedało teren przy ul. Za Komendą [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/bedzie-inwestycja-w-centrum-rybnika-miasto-za-kilka-milionow-sprzedalo-teren-przy-ul-za-komenda-zdjecia.html",
+        "date": "Tue, 27 Oct 2026 17:20:13 +0000",
         "src": "Radio90"
       },
       {
