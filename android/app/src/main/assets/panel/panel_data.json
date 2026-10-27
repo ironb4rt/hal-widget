@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-27T16:20:04+00:00",
+  "generated": "2026-10-27T17:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.9,
-    "feels": 6.2,
+    "temp": 8.1,
+    "feels": 5.9,
     "code": 0,
-    "wind": 9.7,
-    "humidity": 74,
+    "wind": 5.4,
+    "humidity": 75,
     "is_day": false,
     "tmax": 11.9,
     "tmin": 4.2,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-27T17:15",
+    "observed": "2026-10-27T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80473,
-        "pln": 317667,
-        "chg24": 0.42
+        "usd": 80522,
+        "pln": 318006,
+        "chg24": 0.11
       },
       {
         "sym": "ETH",
-        "usd": 2346.02,
-        "pln": 9260.91,
-        "chg24": 1.22
+        "usd": 2348.13,
+        "pln": 9273.51,
+        "chg24": 0.65
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.46,
-        "chg": 0.65,
-        "as_of": "27.10 16:10"
+        "value": 54.49,
+        "chg": 0.71,
+        "as_of": "27.10 17:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.648,
-        "chg": 2.15,
-        "as_of": "27.10 16:10"
+        "value": 6.66,
+        "chg": 2.34,
+        "as_of": "27.10 17:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4441,
-        "chg": -1.19,
-        "as_of": "27.10 15:47"
+        "value": 1.4434,
+        "chg": -1.23,
+        "as_of": "27.10 16:10"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 16:10",
+    "updated": "27.10 17:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "China Gold restarts CSH mine after five-month shutdown",
+        "url": "https://www.mining.com/china-gold-restarts-csh-mine-after-five-month-shutdown/",
+        "date": "Tue, 27 Oct 2026 16:18:20 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Op-Ed: How foreign miners can unlock ASX listings",
+        "url": "https://www.mining.com/op-ed-how-foreign-miners-can-unlock-asx-listings/",
+        "date": "Tue, 27 Oct 2026 14:44:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Codelco copper mine blockade adds to supply concerns",
         "url": "https://www.mining.com/codelco-copper-mine-blockade-adds-to-supply-concerns/",
@@ -137,25 +149,13 @@
         "url": "https://www.mining.com/canada-nickel-swiss-steel-plan-transatlantic-partnership/",
         "date": "Mon, 26 Oct 2026 16:38:25 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Local miner outbids Freeport for Colombia exploration",
-        "url": "https://www.mining.com/local-miner-outbids-freeport-for-colombia-exploration/",
-        "date": "Mon, 26 Oct 2026 15:21:20 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Codelco, BHP launch $40M copper hunt in northern Chile",
-        "url": "https://www.mining.com/codelco-bhp-launch-40m-copper-hunt-in-northern-chile/",
-        "date": "Mon, 26 Oct 2026 15:19:56 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Hulajnoga elektryczna nie dla każdego. Sąd zajmie się sprawą 12-latka",
-        "url": "https://www.radio90.pl/hulajnoga-elektryczna-nie-dla-kazdego-sad-zajmie-sie-sprawa-12-latka.html",
-        "date": "Tue, 27 Oct 2026 15:30:28 +0000",
+        "title": "Straż graniczna: najwięcej Kolumbijczyków pracuje u nas na czarno",
+        "url": "https://www.radio90.pl/straz-graniczna-najwiecej-kolumbijczykow-pracuje-u-nas-na-czarno.html",
+        "date": "Tue, 27 Oct 2026 16:25:11 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Będzie zakaz reklamy piwa? Konsekwencji jego wprowadzenia obawiają się władze Żywca i Tychów",
-        "url": "https://www.radio90.pl/bedzie-zakaz-reklamy-piwa-konsekwencji-jego-wprowadzenia-obawiaja-sie-wladze-zywca-i-tychow.html",
-        "date": "Tue, 27 Oct 2026 14:55:45 +0000",
+        "title": "Hulajnoga elektryczna nie dla każdego. Sąd zajmie się sprawą 12-latka",
+        "url": "https://www.radio90.pl/hulajnoga-elektryczna-nie-dla-kazdego-sad-zajmie-sie-sprawa-12-latka.html",
+        "date": "Tue, 27 Oct 2026 15:30:28 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Podatki od nieruchomości w Wodzisławiu do góry. O ile wzrośnie?",
-        "url": "https://www.radio90.pl/podatki-od-nieruchomosci-w-wodzislawiu-do-gory-o-ile-wzrosnie.html",
-        "date": "Tue, 27 Oct 2026 14:05:26 +0000",
+        "title": "Będzie zakaz reklamy piwa? Konsekwencji jego wprowadzenia obawiają się władze Żywca i Tychów",
+        "url": "https://www.radio90.pl/bedzie-zakaz-reklamy-piwa-konsekwencji-jego-wprowadzenia-obawiaja-sie-wladze-zywca-i-tychow.html",
+        "date": "Tue, 27 Oct 2026 14:55:45 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Straż Graniczna planuje wybudować ośrodek dla uchodźców w Rudziczce? To obawy mieszkańców, choć pogranicznicy zaprzeczają",
-        "url": "https://www.radio90.pl/straz-graniczna-planuje-wybudowac-osrodek-dla-uchodzcow-w-rudziczce-to-obawy-mieszkancow-choc-pogranicznicy-zaprzeczaja.html",
-        "date": "Tue, 27 Oct 2026 13:15:54 +0000",
+        "title": "Podatki od nieruchomości w Wodzisławiu do góry. O ile wzrośnie?",
+        "url": "https://www.radio90.pl/podatki-od-nieruchomosci-w-wodzislawiu-do-gory-o-ile-wzrosnie.html",
+        "date": "Tue, 27 Oct 2026 14:05:26 +0000",
         "src": "Radio90"
       },
       {
@@ -223,13 +223,13 @@
         "date": ""
       },
       {
-        "title": "[FOTO] Rozbiórka starego pustostanu przy Sempołowskiej. Byliśmy na miejscu z kamerą",
-        "url": "/informacje/21038-foto-rozbiorka-starego-pustostanu-przy-sempolowskiej-bylismy-na-miejscu-z-kamera",
+        "title": "[FOTO] Trwa rozbudowa ul. Mazańcowickiej. Prace przebiegają zgodnie z harmonogramem",
+        "url": "/informacje/21046-foto-trwa-rozbudowa-ul-mazancowickiej-prace-przebiegaja-zgodnie-z-harmonogramem",
         "date": ""
       },
       {
-        "title": "Niebezpieczna jazda i agresja w środku nocy. Kierująca Suzuki wydmuchała prawie 3 promile!",
-        "url": "/informacje/21037-niebezpieczna-jazda-i-agresja-w-srodku-nocy-kierujaca-suzuki-wydmuchala-prawie-3-promile",
+        "title": "[FOTO] Rozbiórka starego pustostanu przy Sempołowskiej. Byliśmy na miejscu z kamerą",
+        "url": "/informacje/21038-foto-rozbiorka-starego-pustostanu-przy-sempolowskiej-bylismy-na-miejscu-z-kamera",
         "date": ""
       }
     ],
