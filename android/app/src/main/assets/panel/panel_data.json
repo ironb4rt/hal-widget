@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-27T17:20:05+00:00",
+  "generated": "2026-10-27T18:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.1,
-    "feels": 5.9,
+    "temp": 7.7,
+    "feels": 5.2,
     "code": 0,
-    "wind": 5.4,
-    "humidity": 75,
+    "wind": 5.8,
+    "humidity": 70,
     "is_day": false,
     "tmax": 11.9,
     "tmin": 4.2,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-28",
-        "max": 13.3,
-        "min": 6.1,
+        "max": 13.4,
+        "min": 6.2,
         "code": 3
       },
       {
         "date": "2026-10-29",
-        "max": 7.8,
-        "min": 6.5,
+        "max": 7.9,
+        "min": 6.7,
         "code": 51
       }
     ],
-    "observed": "2026-10-27T18:15",
+    "observed": "2026-10-27T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80522,
-        "pln": 318006,
-        "chg24": 0.11
+        "usd": 80520,
+        "pln": 318068,
+        "chg24": 0.4
       },
       {
         "sym": "ETH",
-        "usd": 2348.13,
-        "pln": 9273.51,
-        "chg24": 0.65
+        "usd": 2344.75,
+        "pln": 9262.2,
+        "chg24": 0.93
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.49,
-        "chg": 0.71,
-        "as_of": "27.10 17:10"
+        "value": 54.39,
+        "chg": 0.52,
+        "as_of": "27.10 18:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.66,
-        "chg": 2.34,
-        "as_of": "27.10 17:10"
+        "value": 6.659,
+        "chg": 2.32,
+        "as_of": "27.10 18:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4434,
-        "chg": -1.23,
-        "as_of": "27.10 16:10"
+        "value": 1.4488,
+        "chg": -0.87,
+        "as_of": "27.10 17:35"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 17:10",
+    "updated": "27.10 18:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,30 @@
     ],
     "local": [
       {
+        "title": "Roboty drogowe w Raciborzu. Jutro na DK45 pojawią się drogowcy, będą utrudnienia w ruchu",
+        "url": "https://www.radio90.pl/roboty-drogowe-w-raciborzu-jutro-na-dk45-pojawia-sie-drogowcy-beda-utrudnienia-w-ruchu.html",
+        "date": "Tue, 27 Oct 2026 18:15:19 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Zmiana we władzach Łodygowic. Odwołany zastępca chce wrócić do projektu rowerowego",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/zmiana-we-wladzach-lodygowic-odwolany-zastepca-chce-wrocic-do-projektu-rowerowego/102691/",
+        "date": "Tue, 27 Oct 2026 17:31:18 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Będzie inwestycja w centrum Rybnika. Miasto za kilka milionów sprzedało teren przy ul. Za Komendą [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/bedzie-inwestycja-w-centrum-rybnika-miasto-za-kilka-milionow-sprzedalo-teren-przy-ul-za-komenda-zdjecia.html",
+        "date": "Tue, 27 Oct 2026 17:20:13 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Koniec z podtopieniami? Miliony złotych na ważną inwestycję",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/koniec-z-podtopieniami-miliony-zlotych-na-wazna-inwestycje/102688/",
+        "date": "Tue, 27 Oct 2026 17:22:36 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Straż graniczna: najwięcej Kolumbijczyków pracuje u nas na czarno",
         "url": "https://www.radio90.pl/straz-graniczna-najwiecej-kolumbijczykow-pracuje-u-nas-na-czarno.html",
         "date": "Tue, 27 Oct 2026 16:25:11 +0000",
@@ -174,30 +198,6 @@
         "title": "Zwykły zakręt, a jaki bolesny finał. Niefortunny manewr na skrzyżowaniu",
         "url": "https://www.radiobielsko.pl/powiat-oswiecimski/zwykly-zakret-a-jaki-bolesny-final-niefortunny-manewr-na-skrzyzowaniu/102670/",
         "date": "Tue, 27 Oct 2026 13:30:34 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Będzie zakaz reklamy piwa? Konsekwencji jego wprowadzenia obawiają się władze Żywca i Tychów",
-        "url": "https://www.radio90.pl/bedzie-zakaz-reklamy-piwa-konsekwencji-jego-wprowadzenia-obawiaja-sie-wladze-zywca-i-tychow.html",
-        "date": "Tue, 27 Oct 2026 14:55:45 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Korki, nerwy i interwencja radnych. Dobra wiadomość dla kierowców w Czechowicach-Dziedzicach",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/korki-nerwy-i-interwencja-radnych-dobra-wiadomosc-dla-kierowcow-w-czechowicach-dziedzicach/102674/",
-        "date": "Tue, 27 Oct 2026 13:23:19 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Podatki od nieruchomości w Wodzisławiu do góry. O ile wzrośnie?",
-        "url": "https://www.radio90.pl/podatki-od-nieruchomosci-w-wodzislawiu-do-gory-o-ile-wzrosnie.html",
-        "date": "Tue, 27 Oct 2026 14:05:26 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Po ile chryzantemy? Sprawdziliśmy na targowisku",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/po-ile-chryzantemy-sprawdzilismy-na-targowisku/102662/",
-        "date": "Tue, 27 Oct 2026 12:44:32 +0000",
         "src": "RadioBielsko"
       }
     ],
@@ -228,8 +228,8 @@
         "date": ""
       },
       {
-        "title": "[FOTO] Rozbiórka starego pustostanu przy Sempołowskiej. Byliśmy na miejscu z kamerą",
-        "url": "/informacje/21038-foto-rozbiorka-starego-pustostanu-przy-sempolowskiej-bylismy-na-miejscu-z-kamera",
+        "title": "Gorący tematPoważny wypadek na ul. Bielskiej w Pisarzowicach. Czołowo zderzyły się bus i samochód osobowy",
+        "url": "/informacje/21033-powazny-wypadek-na-ul-bielskiej-w-pisarzowicach-czolowo-zderzyly-sie-bus-i-samochod-osobowy",
         "date": ""
       }
     ],
