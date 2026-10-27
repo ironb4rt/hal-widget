@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-27T15:20:04+00:00",
+  "generated": "2026-10-27T16:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.0,
-    "feels": 7.2,
+    "temp": 8.9,
+    "feels": 6.2,
     "code": 0,
-    "wind": 11.5,
-    "humidity": 73,
-    "is_day": true,
+    "wind": 9.7,
+    "humidity": 74,
+    "is_day": false,
     "tmax": 11.9,
     "tmin": 4.2,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-27T16:15",
+    "observed": "2026-10-27T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80278,
-        "pln": 316891,
-        "chg24": -0.27
+        "usd": 80473,
+        "pln": 317667,
+        "chg24": 0.42
       },
       {
         "sym": "ETH",
-        "usd": 2332.04,
-        "pln": 9205.61,
-        "chg24": 0.07
+        "usd": 2346.02,
+        "pln": 9260.91,
+        "chg24": 1.22
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.44,
-        "chg": 0.61,
-        "as_of": "27.10 15:10"
+        "value": 54.46,
+        "chg": 0.65,
+        "as_of": "27.10 16:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.644,
-        "chg": 2.09,
-        "as_of": "27.10 15:10"
+        "value": 6.648,
+        "chg": 2.15,
+        "as_of": "27.10 16:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4433,
-        "chg": -1.24,
-        "as_of": "27.10 15:06"
+        "value": 1.4441,
+        "chg": -1.19,
+        "as_of": "27.10 15:47"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 15:10",
+    "updated": "27.10 16:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Będzie zakaz reklamy piwa? Konsekwencji jego wprowadzenia obawiają się władze Żywca i Tychów",
-        "url": "https://www.radio90.pl/bedzie-zakaz-reklamy-piwa-konsekwencji-jego-wprowadzenia-obawiaja-sie-wladze-zywca-i-tychow.html",
-        "date": "Tue, 27 Oct 2026 14:55:45 +0000",
+        "title": "Hulajnoga elektryczna nie dla każdego. Sąd zajmie się sprawą 12-latka",
+        "url": "https://www.radio90.pl/hulajnoga-elektryczna-nie-dla-kazdego-sad-zajmie-sie-sprawa-12-latka.html",
+        "date": "Tue, 27 Oct 2026 15:30:28 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Podatki od nieruchomości w Wodzisławiu do góry. O ile wzrośnie?",
-        "url": "https://www.radio90.pl/podatki-od-nieruchomosci-w-wodzislawiu-do-gory-o-ile-wzrosnie.html",
-        "date": "Tue, 27 Oct 2026 14:05:26 +0000",
+        "title": "Będzie zakaz reklamy piwa? Konsekwencji jego wprowadzenia obawiają się władze Żywca i Tychów",
+        "url": "https://www.radio90.pl/bedzie-zakaz-reklamy-piwa-konsekwencji-jego-wprowadzenia-obawiaja-sie-wladze-zywca-i-tychow.html",
+        "date": "Tue, 27 Oct 2026 14:55:45 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Straż Graniczna planuje wybudować ośrodek dla uchodźców w Rudziczce? To obawy mieszkańców, choć pogranicznicy zaprzeczają",
-        "url": "https://www.radio90.pl/straz-graniczna-planuje-wybudowac-osrodek-dla-uchodzcow-w-rudziczce-to-obawy-mieszkancow-choc-pogranicznicy-zaprzeczaja.html",
-        "date": "Tue, 27 Oct 2026 13:15:54 +0000",
+        "title": "Podatki od nieruchomości w Wodzisławiu do góry. O ile wzrośnie?",
+        "url": "https://www.radio90.pl/podatki-od-nieruchomosci-w-wodzislawiu-do-gory-o-ile-wzrosnie.html",
+        "date": "Tue, 27 Oct 2026 14:05:26 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Gogołowa: awaria za awarią. Jak mamy normalnie pracować – pytają mieszkańcy",
-        "url": "https://www.radio90.pl/gogolowa-awaria-za-awaria-jak-mamy-normalnie-pracowac-pytaja-mieszkancy.html",
-        "date": "Tue, 27 Oct 2026 12:35:57 +0000",
+        "title": "Straż Graniczna planuje wybudować ośrodek dla uchodźców w Rudziczce? To obawy mieszkańców, choć pogranicznicy zaprzeczają",
+        "url": "https://www.radio90.pl/straz-graniczna-planuje-wybudowac-osrodek-dla-uchodzcow-w-rudziczce-to-obawy-mieszkancow-choc-pogranicznicy-zaprzeczaja.html",
+        "date": "Tue, 27 Oct 2026 13:15:54 +0000",
         "src": "Radio90"
       },
       {
