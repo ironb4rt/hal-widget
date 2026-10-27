@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-27T13:20:03+00:00",
+  "generated": "2026-10-27T14:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.5,
-    "feels": 8.7,
+    "temp": 10.8,
+    "feels": 8.0,
     "code": 0,
-    "wind": 10.1,
-    "humidity": 63,
+    "wind": 11.9,
+    "humidity": 69,
     "is_day": true,
     "tmax": 11.6,
     "tmin": 4.2,
@@ -31,7 +31,7 @@
         "code": 45
       }
     ],
-    "observed": "2026-10-27T14:15",
+    "observed": "2026-10-27T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80153,
-        "pln": 316510,
-        "chg24": 0.12
+        "usd": 79972,
+        "pln": 315533,
+        "chg24": -0.08
       },
       {
         "sym": "ETH",
-        "usd": 2326.58,
-        "pln": 9187.22,
-        "chg24": 0.5
+        "usd": 2320.53,
+        "pln": 9155.77,
+        "chg24": 0.07
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.825,
-        "chg": -0.52,
-        "as_of": "27.10 13:10"
+        "value": 54.22,
+        "chg": 0.21,
+        "as_of": "27.10 14:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.596,
-        "chg": 1.35,
-        "as_of": "27.10 13:10"
+        "value": 6.614,
+        "chg": 1.63,
+        "as_of": "27.10 14:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4309,
-        "chg": -2.09,
-        "as_of": "27.10 12:27"
+        "value": 1.4388,
+        "chg": -1.55,
+        "as_of": "27.10 14:09"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 13:10",
+    "updated": "27.10 14:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,27 @@
     ],
     "local": [
       {
+        "title": "Podatki od nieruchomości w Wodzisławiu do góry. O ile wzrośnie?",
+        "url": "https://www.radio90.pl/podatki-od-nieruchomosci-w-wodzislawiu-do-gory-o-ile-wzrosnie.html",
+        "date": "Tue, 27 Oct 2026 14:05:26 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Mówiono nawet o antyterrorystach. Policja wyjaśnia zamieszanie w Żywcu",
+        "url": "https://www.radiobielsko.pl/zywiec/mowiono-nawet-o-antyterrorystach-policja-wyjasnia-zamieszanie-w-zywcu/102678/",
+        "date": "Tue, 27 Oct 2026 13:34:52 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Straż Graniczna planuje wybudować ośrodek dla uchodźców w Rudziczce? To obawy mieszkańców, choć pogranicznicy zaprzeczają",
         "url": "https://www.radio90.pl/straz-graniczna-planuje-wybudowac-osrodek-dla-uchodzcow-w-rudziczce-to-obawy-mieszkancow-choc-pogranicznicy-zaprzeczaja.html",
         "date": "Tue, 27 Oct 2026 13:15:54 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Po ile chryzantemy? Sprawdziliśmy na targowisku",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/po-ile-chryzantemy-sprawdzilismy-na-targowisku/102662/",
-        "date": "Tue, 27 Oct 2026 12:44:32 +0000",
+        "title": "Zwykły zakręt, a jaki bolesny finał. Niefortunny manewr na skrzyżowaniu",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/zwykly-zakret-a-jaki-bolesny-final-niefortunny-manewr-na-skrzyzowaniu/102670/",
+        "date": "Tue, 27 Oct 2026 13:30:34 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Zimę spędzą na fotelu lidera? „Chcemy już zakończyć tę rundę”",
-        "url": "https://www.radiobielsko.pl/sport/zime-spedza-na-fotelu-lidera-chcemy-juz-zakonczyc-te-runde/102663/",
-        "date": "Tue, 27 Oct 2026 12:36:57 +0000",
+        "title": "Korki, nerwy i interwencja radnych. Dobra wiadomość dla kierowców w Czechowicach-Dziedzicach",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/korki-nerwy-i-interwencja-radnych-dobra-wiadomosc-dla-kierowcow-w-czechowicach-dziedzicach/102674/",
+        "date": "Tue, 27 Oct 2026 13:23:19 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,21 +195,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Dwa razy weszli w płomienie. Za drugim razem liczyły się sekundy",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/dwa-razy-weszli-w-plomienie-za-drugim-razem-liczyly-sie-sekundy/102657/",
-        "date": "Tue, 27 Oct 2026 12:00:40 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Budowa kolei do Jastrzębia to dobra wiadomość także dla mieszkańców Żor. Waldemar Socha: kolej ma przyszłość",
-        "url": "https://www.radio90.pl/budowa-kolei-do-jastrzebia-to-dobra-wiadomosc-takze-dla-mieszkancow-zor-waldemar-socha-kolej-ma-przyszlosc.html",
-        "date": "Tue, 27 Oct 2026 11:00:21 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Ktoś chętny na autobus? MZK planuje sprzedaż",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/ktos-chetny-na-autobus-mzk-planuje-sprzedaz/102652/",
-        "date": "Tue, 27 Oct 2026 11:20:13 +0000",
+        "title": "Po ile chryzantemy? Sprawdziliśmy na targowisku",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/po-ile-chryzantemy-sprawdzilismy-na-targowisku/102662/",
+        "date": "Tue, 27 Oct 2026 12:44:32 +0000",
         "src": "RadioBielsko"
       }
     ],
