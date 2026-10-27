@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-27T21:20:06+00:00",
+  "generated": "2026-10-27T22:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.1,
+    "temp": 7.2,
     "feels": 3.9,
     "code": 0,
-    "wind": 9.7,
-    "humidity": 70,
+    "wind": 10.1,
+    "humidity": 69,
     "is_day": false,
     "tmax": 11.9,
     "tmin": 4.2,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-27T22:15",
+    "observed": "2026-10-27T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80631,
-        "pln": 318799,
-        "chg24": 0.93
+        "usd": 80905,
+        "pln": 319816,
+        "chg24": 1.27
       },
       {
         "sym": "ETH",
-        "usd": 2340.28,
-        "pln": 9252.98,
-        "chg24": 1.5
+        "usd": 2351.16,
+        "pln": 9294.12,
+        "chg24": 1.87
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.495,
-        "chg": 0.72,
-        "as_of": "27.10 20:59"
+        "value": 54.505,
+        "chg": 0.73,
+        "as_of": "27.10 22:08"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.661,
-        "chg": 2.35,
-        "as_of": "27.10 20:59"
+        "value": 6.6585,
+        "chg": 2.31,
+        "as_of": "27.10 22:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4488,
-        "chg": -0.87,
-        "as_of": "27.10 17:35"
+        "value": 1.4447,
+        "chg": -1.15,
+        "as_of": "27.10 22:09"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 20:59",
+    "updated": "27.10 22:09",
     "stale": false
   },
   "fx": {
@@ -103,7 +103,13 @@
     "ok": true,
     "market": [
       {
-        "title": "Perpetua Resources gets $40M US Army funding to advance tungsten production",
+        "title": "Anfield Energy secures draft State approvals for Utah uranium mill",
+        "url": "https://www.mining.com/anfield-energy-secures-draft-state-approvals-for-utah-uranium-mill/",
+        "date": "Tue, 27 Oct 2026 21:44:51 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Perpetua Resources receives $40M US Army funding to advance tungsten production",
         "url": "https://www.mining.com/perpetua-resources-gets-40m-us-army-funding-to-advance-tungsten-production-in-idaho/",
         "date": "Tue, 27 Oct 2026 19:59:26 +0000",
         "src": "Mining.com"
@@ -142,12 +148,6 @@
         "title": "Iamgold drilling strengthens Nelligan growth case",
         "url": "https://www.mining.com/iamgold-drilling-strengthens-nelligan-growth-case/",
         "date": "Tue, 27 Oct 2026 14:35:59 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Australia to fund rare earths project with A$180M deal",
-        "url": "https://www.mining.com/australia-to-fund-rare-earths-project-with-a180m-deal/",
-        "date": "Tue, 27 Oct 2026 14:23:11 +0000",
         "src": "Mining.com"
       }
     ],
