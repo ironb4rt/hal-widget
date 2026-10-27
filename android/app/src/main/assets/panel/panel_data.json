@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-27T09:20:02+00:00",
+  "generated": "2026-10-27T10:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.3,
-    "feels": 7.1,
+    "temp": 9.8,
+    "feels": 7.8,
     "code": 0,
-    "wind": 3.6,
-    "humidity": 63,
+    "wind": 2.2,
+    "humidity": 61,
     "is_day": true,
     "tmax": 11.7,
     "tmin": 4.2,
@@ -21,17 +21,17 @@
       {
         "date": "2026-10-28",
         "max": 13.0,
-        "min": 6.5,
+        "min": 6.2,
         "code": 3
       },
       {
         "date": "2026-10-29",
-        "max": 9.8,
-        "min": 5.6,
-        "code": 51
+        "max": 8.9,
+        "min": 5.9,
+        "code": 45
       }
     ],
-    "observed": "2026-10-27T10:15",
+    "observed": "2026-10-27T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79642,
-        "pln": 314931,
-        "chg24": -0.83
+        "usd": 79465,
+        "pln": 314244,
+        "chg24": -1.09
       },
       {
         "sym": "ETH",
-        "usd": 2308.06,
-        "pln": 9126.85,
-        "chg24": -0.75
+        "usd": 2298.04,
+        "pln": 9087.54,
+        "chg24": -1.31
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.25,
-        "chg": -1.59,
-        "as_of": "27.10 09:10"
+        "value": 53.32,
+        "chg": -1.46,
+        "as_of": "27.10 10:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.597,
-        "chg": 1.37,
-        "as_of": "27.10 09:09"
+        "value": 6.611,
+        "chg": 1.58,
+        "as_of": "27.10 10:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 09:10",
+    "updated": "27.10 10:09",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,45 @@
     ],
     "local": [
       {
+        "title": "Ratownicy przekazali karetkę studentom",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/ratownicy-przekazali-karetke-studentom/102638/",
+        "date": "Tue, 27 Oct 2026 10:19:43 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Już pada śnieg w Beskidach. Nagranie prószącego śniegu publikuje w sieci schronisko na Markowych Szczawinach [WIDEO]",
+        "url": "https://www.radio90.pl/juz-pada-snieg-w-beskidach-nagranie-proszacego-sniegu-publikuje-w-sieci-schronisko-na-markowych-szczawinach-wideo.html",
+        "date": "Tue, 27 Oct 2026 09:45:51 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "„Tusk=drożyzna”. Posłowie PiS chcą ustawy obniżającej podatki",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/tuskdrozyzna-poslowie-pis-chca-ustawy-obnizajacej-podatki/102634/",
+        "date": "Tue, 27 Oct 2026 10:07:55 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Śląska drogówka: uwaga na poranne przymrozki, zachowajcie ostrożność na drodze",
+        "url": "https://www.radio90.pl/slaska-drogowka-uwaga-na-poranne-przymrozki-zachowajcie-ostroznosc-na-drodze.html",
+        "date": "Tue, 27 Oct 2026 09:20:34 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "„Założyli” za wojewodę. Groziło wstrzymanie orzekania",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/zalozyli-za-wojewode-grozilo-wstrzymanie-orzekania/102625/",
+        "date": "Tue, 27 Oct 2026 09:42:05 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Oszuści znów w akcji. Oszukują nawet metodą „na znicze”",
         "url": "https://www.radio90.pl/oszusci-znow-w-akcji-oszukuja-nawet-metoda-na-znicze.html",
         "date": "Tue, 27 Oct 2026 08:50:05 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Po raz pierwszy zagrały przed własną publicznością. Nieudany powrót do Bielska-Białej",
-        "url": "https://www.radiobielsko.pl/sport/seria-dobiegla-konca-nieudany-powrot-do-bielska-bialej/102614/",
-        "date": "Tue, 27 Oct 2026 08:46:17 +0000",
+        "title": "Maja Chwalińska zabrała głos po kontuzji. „Jestem bardzo rozczarowana…”",
+        "url": "https://www.radiobielsko.pl/sport/maja-chwalinska-zabrala-glos-po-kontuzji-jestem-bardzo-rozczarowana/102620/",
+        "date": "Tue, 27 Oct 2026 09:30:20 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -169,36 +199,6 @@
         "url": "https://www.radio90.pl/mistrzostwa-swiata-rot-asekuracyjnych-w-chinach-zwyciezyli-w-nich-strazacy-z-naszego-regionu.html",
         "date": "Tue, 27 Oct 2026 08:05:00 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Zmarł Damian Kruszyński. W przeszłości grał dla klubów z regionu",
-        "url": "https://www.radiobielsko.pl/sport/zmarl-damian-kruszynski-w-przeszlosci-gral-dla-klubow-z-regionu/102595/",
-        "date": "Tue, 27 Oct 2026 07:55:28 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zauważył pijanego kierowcę i zabrał mu kluczyki. Policjanci z Jastrzębia chwalą postawę świadka",
-        "url": "https://www.radio90.pl/zauwazyl-pijanego-kierowce-i-zabral-mu-kluczyki-policjanci-z-jastrzebia-chwala-postawe-swiadka.html",
-        "date": "Tue, 27 Oct 2026 07:35:24 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Wielka inwestycja kolejowa, wielkie utrudnienia",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/wielka-inwestycja-kolejowa-wielkie-utrudnienia/102590/",
-        "date": "Tue, 27 Oct 2026 07:38:59 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Pożar w Rybniku. Straty wstępnie oszacowano na około 20 tysięcy złotych",
-        "url": "https://www.radio90.pl/pozar-w-rybniku-straty-wstepnie-oszacowano-na-okolo-20-tysiecy-zlotych.html",
-        "date": "Tue, 27 Oct 2026 07:05:38 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Jeszcze niedawno jeździła na rowerze. Pani Otylia z Drogomyśla skończyła 100 lat!",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/jeszcze-niedawno-jezdzila-na-rowerze-pani-otylia-z-drogomysla-skonczyla-100-lat/102586/",
-        "date": "Tue, 27 Oct 2026 07:03:51 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
