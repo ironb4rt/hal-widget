@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-27T07:20:16+00:00",
+  "generated": "2026-10-27T08:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.8,
-    "feels": 3.9,
+    "temp": 8.2,
+    "feels": 5.7,
     "code": 0,
-    "wind": 7.9,
-    "humidity": 72,
+    "wind": 5.4,
+    "humidity": 67,
     "is_day": true,
     "tmax": 11.7,
     "tmin": 4.2,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-27T08:15",
+    "observed": "2026-10-27T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79577,
-        "pln": 314084,
-        "chg24": -0.55
+        "usd": 79775,
+        "pln": 315082,
+        "chg24": -0.07
       },
       {
         "sym": "ETH",
-        "usd": 2302.61,
-        "pln": 9088.17,
-        "chg24": -0.62
+        "usd": 2312.59,
+        "pln": 9133.95,
+        "chg24": 0.05
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.87,
-        "chg": -2.29,
-        "as_of": "27.10 07:10"
+        "value": 52.92,
+        "chg": -2.2,
+        "as_of": "27.10 08:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.549,
-        "chg": 0.63,
-        "as_of": "27.10 07:10"
+        "value": 6.561,
+        "chg": 0.81,
+        "as_of": "27.10 08:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 07:10",
+    "updated": "27.10 08:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,30 @@
     ],
     "local": [
       {
+        "title": "Mistrzostwa świata rot asekuracyjnych w Chinach. Zwyciężyli w nich strażacy z naszego regionu!",
+        "url": "https://www.radio90.pl/mistrzostwa-swiata-rot-asekuracyjnych-w-chinach-zwyciezyli-w-nich-strazacy-z-naszego-regionu.html",
+        "date": "Tue, 27 Oct 2026 08:05:00 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Zmarł Damian Kruszyński. W przeszłości grał dla klubów z regionu",
+        "url": "https://www.radiobielsko.pl/sport/zmarl-damian-kruszynski-w-przeszlosci-gral-dla-klubow-z-regionu/102595/",
+        "date": "Tue, 27 Oct 2026 07:55:28 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Zauważył pijanego kierowcę i zabrał mu kluczyki. Policjanci z Jastrzębia chwalą postawę świadka",
+        "url": "https://www.radio90.pl/zauwazyl-pijanego-kierowce-i-zabral-mu-kluczyki-policjanci-z-jastrzebia-chwala-postawe-swiadka.html",
+        "date": "Tue, 27 Oct 2026 07:35:24 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Wielka inwestycja kolejowa, wielkie utrudnienia",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/wielka-inwestycja-kolejowa-wielkie-utrudnienia/102590/",
+        "date": "Tue, 27 Oct 2026 07:38:59 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Pożar w Rybniku. Straty wstępnie oszacowano na około 20 tysięcy złotych",
         "url": "https://www.radio90.pl/pozar-w-rybniku-straty-wstepnie-oszacowano-na-okolo-20-tysiecy-zlotych.html",
         "date": "Tue, 27 Oct 2026 07:05:38 +0000",
@@ -174,30 +198,6 @@
         "title": "Wszystkich Świętych. Zmiany w ruchu przy cmentarzach już od soboty",
         "url": "https://www.radiobielsko.pl/bielsko-biala/wszystkich-swietych-zmiany-w-ruchu-przy-cmentarzach-juz-od-soboty/102581/",
         "date": "Tue, 27 Oct 2026 06:49:34 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Kolejna stulatka w regionie. Sto lat skończyła Marianna Śmigielska. „Niezwykły dzień i piękny jubileusz”",
-        "url": "https://www.radio90.pl/kolejna-stulatka-w-regionie-sto-lat-skonczyla-marianna-smigielska-niezwykly-dzien-i-piekny-jubileusz.html",
-        "date": "Tue, 27 Oct 2026 05:50:37 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "„Lalka” przyciąga tłumy do kina. Ale miasto wciąż dopłaca do seansów",
-        "url": "https://www.radiobielsko.pl/cieszyn/lalka-przyciaga-tlumy-do-kina-ale-miasto-wciaz-doplaca-do-seansow/102575/",
-        "date": "Tue, 27 Oct 2026 05:53:55 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Siatkarki MUKS Sari Żory urwały punkt wiceliderkom z Częstochowy. Pojutrze zagrają z ekipą ze Szczyrku",
-        "url": "https://www.radio90.pl/siatkarki-muks-sari-zory-urwaly-punkt-wiceliderkom-z-czestochowy-pojutrze-zagraja-z-ekipa-ze-szczyrku.html",
-        "date": "Mon, 26 Oct 2026 19:00:27 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Wybrano 33 projekty za blisko 10 mln. Co powstanie?",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/wybrano-ponad-30-projektow-za-blisko-10-mln-co-powstanie/102563/",
-        "date": "Mon, 26 Oct 2026 19:30:03 +0000",
         "src": "RadioBielsko"
       }
     ],
