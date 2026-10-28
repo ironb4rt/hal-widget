@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T16:20:13+00:00",
+  "generated": "2026-10-28T17:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.1,
-    "feels": 8.1,
+    "temp": 8.8,
+    "feels": 7.1,
     "code": 0,
-    "wind": 4.7,
-    "humidity": 69,
+    "wind": 2.2,
+    "humidity": 71,
     "is_day": false,
     "tmax": 13.4,
     "tmin": 5.7,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-28T17:15",
+    "observed": "2026-10-28T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80473,
-        "pln": 317960,
-        "chg24": -0.01
+        "usd": 80428,
+        "pln": 317759,
+        "chg24": -0.11
       },
       {
         "sym": "ETH",
-        "usd": 2331.58,
-        "pln": 9212.45,
-        "chg24": -0.57
+        "usd": 2329.81,
+        "pln": 9204.76,
+        "chg24": -0.75
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.635,
-        "chg": -1.21,
-        "as_of": "28.10 16:10"
+        "value": 53.73,
+        "chg": -1.04,
+        "as_of": "28.10 17:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.656,
-        "chg": 0.51,
-        "as_of": "28.10 16:10"
+        "value": 6.6725,
+        "chg": 0.76,
+        "as_of": "28.10 17:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4322,
-        "chg": -3.89,
-        "as_of": "28.10 16:06"
+        "value": 1.4404,
+        "chg": -3.34,
+        "as_of": "28.10 16:25"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 16:10",
+    "updated": "28.10 17:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,24 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "US offers Constellation up to $5B nuclear loan",
+        "url": "https://www.mining.com/us-offers-constellation-up-to-5b-nuclear-loan/",
+        "date": "Wed, 28 Oct 2026 16:22:26 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Glencore, CNGR back $380M Brazil nickel mine with $40M",
+        "url": "https://www.mining.com/glencore-cngr-back-380m-brazil-nickel-mine-with-40m/",
+        "date": "Wed, 28 Oct 2026 16:08:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Gold dip draws Asian buyers as North American funds lose cash",
+        "url": "https://www.mining.com/gold-dip-draws-asian-buyers-as-north-american-funds-lose-cash/",
+        "date": "Wed, 28 Oct 2026 14:38:59 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Deep Sea Minerals eyes US listing as leasing auction nears",
         "url": "https://www.mining.com/deep-sea-minerals-eyes-us-listing-as-leasing-auction-nears/",
@@ -131,31 +149,13 @@
         "url": "https://www.mining.com/anfield-energy-secures-draft-state-approvals-for-utah-uranium-mill/",
         "date": "Tue, 27 Oct 2026 21:44:51 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Perpetua Resources receives $40M US Army funding to advance tungsten production",
-        "url": "https://www.mining.com/perpetua-resources-gets-40m-us-army-funding-to-advance-tungsten-production-in-idaho/",
-        "date": "Tue, 27 Oct 2026 19:59:26 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "FireFly finds copper-gold system near idle mill",
-        "url": "https://www.mining.com/firefly-finds-copper-gold-system-near-idle-mill/",
-        "date": "Tue, 27 Oct 2026 16:59:33 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Labour shortage hurts West Lake Gold output",
-        "url": "https://www.mining.com/labour-shortage-hurts-west-lake-gold-output/",
-        "date": "Tue, 27 Oct 2026 16:35:44 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Wraca temat zlikwidowanego przejazdu kolejowego w Pietrzykowicach",
-        "url": "https://www.radio90.pl/wraca-temat-zlikwidowanego-przejazdu-kolejowego-w-pietrzykowicach.html",
-        "date": "Wed, 28 Oct 2026 16:10:31 +0000",
+        "title": "Łodygowice: odwołany zastępca wójta",
+        "url": "https://www.radio90.pl/lodygowice-odwolany-zastepca-wojta.html",
+        "date": "Wed, 28 Oct 2026 16:53:01 +0000",
         "src": "Radio90"
       },
       {
@@ -165,21 +165,21 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Remont drogi w Jastrzębiu-Zdroju. Drogowcy leją nowy asfalt na ulicy Cieszyńskiej. Obowiązuje tam „wahadło”",
-        "url": "https://www.radio90.pl/remont-drogi-w-jastrzebiu-zdroju-drogowcy-leja-nowy-asfalt-na-ulicy-cieszynskiej-obowiazuje-tam-wahadlo.html",
-        "date": "Wed, 28 Oct 2026 15:35:30 +0000",
+        "title": "Wraca temat zlikwidowanego przejazdu kolejowego w Pietrzykowicach",
+        "url": "https://www.radio90.pl/wraca-temat-zlikwidowanego-przejazdu-kolejowego-w-pietrzykowicach.html",
+        "date": "Wed, 28 Oct 2026 16:10:31 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Straż Graniczna wycofuje się z Rudziczki! Jest oficjalne pismo, inwestycji nie będzie",
+        "title": "Straż Graniczna wycofuje się! Jest oficjalne pismo, inwestycji nie będzie",
         "url": "https://www.radiobielsko.pl/powiat-pszczynski/straz-graniczna-wycofuje-sie-z-rudziczki-jest-oficjalne-pismo-inwestycji-nie-bedzie/102768/",
         "date": "Wed, 28 Oct 2026 13:21:41 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Nowi uczniowie rzemiosła w powiecie wodzisławskim. Przed nimi trzy lata intensywnej nauki zawodu",
-        "url": "https://www.radio90.pl/nowi-uczniowie-rzemiosla-w-powiecie-wodzislawskim-przed-nimi-trzy-lata-intensywnej-nauki-zawodu.html",
-        "date": "Wed, 28 Oct 2026 15:00:19 +0000",
+        "title": "Remont drogi w Jastrzębiu-Zdroju. Drogowcy leją nowy asfalt na ulicy Cieszyńskiej. Obowiązuje tam „wahadło”",
+        "url": "https://www.radio90.pl/remont-drogi-w-jastrzebiu-zdroju-drogowcy-leja-nowy-asfalt-na-ulicy-cieszynskiej-obowiazuje-tam-wahadlo.html",
+        "date": "Wed, 28 Oct 2026 15:35:30 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Utrudnienia w Rybniku: rusza remont fragmentu ulicy Konarskiego",
-        "url": "https://www.radio90.pl/utrudnienia-w-rybniku-rusza-remont-fragmentu-ulicy-konarskiego.html",
-        "date": "Wed, 28 Oct 2026 14:15:40 +0000",
+        "title": "Nowi uczniowie rzemiosła w powiecie wodzisławskim. Przed nimi trzy lata intensywnej nauki zawodu",
+        "url": "https://www.radio90.pl/nowi-uczniowie-rzemiosla-w-powiecie-wodzislawskim-przed-nimi-trzy-lata-intensywnej-nauki-zawodu.html",
+        "date": "Wed, 28 Oct 2026 15:00:19 +0000",
         "src": "Radio90"
       },
       {
