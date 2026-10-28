@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-27T23:20:06+00:00",
+  "generated": "2026-10-28T00:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.1,
-    "feels": 3.9,
+    "temp": 7.3,
+    "feels": 4.2,
     "code": 0,
-    "wind": 8.6,
+    "wind": 8.3,
     "humidity": 68,
     "is_day": false,
-    "tmax": 13.2,
-    "tmin": 6.1,
+    "tmax": 13.0,
+    "tmin": 6.0,
     "forecast": [
       {
         "date": "2026-10-28",
-        "max": 13.2,
-        "min": 6.1,
-        "code": 3
+        "max": 13.0,
+        "min": 6.0,
+        "code": 0
       },
       {
         "date": "2026-10-29",
-        "max": 7.3,
-        "min": 6.7,
+        "max": 7.5,
+        "min": 6.5,
         "code": 51
       },
       {
         "date": "2026-10-30",
         "max": 9.0,
-        "min": 5.8,
+        "min": 5.6,
         "code": 51
       }
     ],
-    "observed": "2026-10-28T00:15",
+    "observed": "2026-10-28T01:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80801,
-        "pln": 319482,
-        "chg24": 1.23
+        "usd": 80661,
+        "pln": 318777,
+        "chg24": 0.68
       },
       {
         "sym": "ETH",
-        "usd": 2346.84,
-        "pln": 9279.26,
-        "chg24": 1.66
+        "usd": 2343.62,
+        "pln": 9262.11,
+        "chg24": 0.81
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.53,
-        "chg": 0.78,
-        "as_of": "27.10 23:10"
+        "value": 54.57,
+        "chg": 0.85,
+        "as_of": "28.10 00:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6585,
-        "chg": 2.31,
-        "as_of": "27.10 23:10"
+        "value": 6.6615,
+        "chg": 2.36,
+        "as_of": "28.10 00:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "27.10 23:10",
+    "updated": "28.10 00:09",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Nova Minerals gets final approvals for Alaska antimony project",
+        "url": "https://www.mining.com/nova-minerals-gets-final-approvals-for-alaska-antimony-project/",
+        "date": "Tue, 27 Oct 2026 23:59:18 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Anfield Energy secures draft State approvals for Utah uranium mill",
         "url": "https://www.mining.com/anfield-energy-secures-draft-state-approvals-for-utah-uranium-mill/",
@@ -142,12 +148,6 @@
         "title": "Op-Ed: How foreign miners can unlock ASX listings",
         "url": "https://www.mining.com/op-ed-how-foreign-miners-can-unlock-asx-listings/",
         "date": "Tue, 27 Oct 2026 14:44:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Iamgold drilling strengthens Nelligan growth case",
-        "url": "https://www.mining.com/iamgold-drilling-strengthens-nelligan-growth-case/",
-        "date": "Tue, 27 Oct 2026 14:35:59 +0000",
         "src": "Mining.com"
       }
     ],
