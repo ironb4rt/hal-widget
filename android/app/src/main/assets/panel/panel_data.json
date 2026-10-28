@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T09:20:11+00:00",
+  "generated": "2026-10-28T10:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.1,
-    "feels": 8.6,
+    "temp": 12.1,
+    "feels": 9.6,
     "code": 0,
-    "wind": 2.5,
-    "humidity": 45,
+    "wind": 2.9,
+    "humidity": 44,
     "is_day": true,
     "tmax": 13.6,
     "tmin": 6.1,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-28T10:15",
+    "observed": "2026-10-28T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81400,
-        "pln": 322623,
-        "chg24": 2.17
+        "usd": 81412,
+        "pln": 322753,
+        "chg24": 2.46
       },
       {
         "sym": "ETH",
-        "usd": 2367.8,
-        "pln": 9384.62,
-        "chg24": 2.53
+        "usd": 2367.91,
+        "pln": 9387.49,
+        "chg24": 3.03
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.955,
-        "chg": -0.62,
-        "as_of": "28.10 09:10"
+        "value": 53.83,
+        "chg": -0.85,
+        "as_of": "28.10 10:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6375,
-        "chg": 0.23,
-        "as_of": "28.10 09:09"
+        "value": 6.6245,
+        "chg": 0.04,
+        "as_of": "28.10 10:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4456,
-        "chg": -2.99,
-        "as_of": "28.10 08:44"
+        "value": 1.4467,
+        "chg": -2.91,
+        "as_of": "28.10 09:24"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 09:10",
+    "updated": "28.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Rudziczka: protesty mieszkańców przyniosą efekt? Wszystko na to wskazuje",
-        "url": "https://www.radio90.pl/rudziczka-protesty-mieszkancow-przyniosa-efekt-wszystko-na-to-wskazuje.html",
-        "date": "Wed, 28 Oct 2026 09:03:06 +0000",
+        "title": "Uciekinier z poprawczaka w wodzisławskiej szkole. Dyrektor poprosił o pomoc policję",
+        "url": "https://www.radio90.pl/uciekinier-z-poprawczaka-w-wodzislawskiej-szkole-dyrektor-poprosil-o-pomoc-policje.html",
+        "date": "Wed, 28 Oct 2026 09:45:44 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Starostwo Powiatowe w Rybniku: znajdujący się przy nim fortepian plenerowy nadal nie działa. Kilka tygodni temu został zniszczony",
-        "url": "https://www.radio90.pl/starostwo-powiatowe-w-rybniku-znajdujacy-sie-przy-nim-fortepian-plenerowy-nadal-nie-dziala-kilka-tygodni-temu-zostal-zniszczony.html",
-        "date": "Wed, 28 Oct 2026 08:35:32 +0000",
+        "title": "Wypadek na wiślance w Pawłowicach. Po kraksie auta i osobówki zablokowana jest droga w kierunku Skoczowa",
+        "url": "https://www.radio90.pl/wypadek-na-wislance-w-pawlowicach-po-kraksie-auta-i-osobowki-zablokowana-jest-droga-w-kierunku-skoczowa.html",
+        "date": "Wed, 28 Oct 2026 09:28:50 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Podwyżki opłat za śmieci w Raciborzu? To niestety dla mieszkańców realny scenariusz",
-        "url": "https://www.radio90.pl/podwyzki-oplat-za-smieci-w-raciborzu-to-niestety-dla-mieszkancow-realny-scenariusz.html",
-        "date": "Wed, 28 Oct 2026 07:40:38 +0000",
+        "title": "Rudziczka: protesty mieszkańców przyniosą efekt? Wszystko na to wskazuje",
+        "url": "https://www.radio90.pl/rudziczka-protesty-mieszkancow-przyniosa-efekt-wszystko-na-to-wskazuje.html",
+        "date": "Wed, 28 Oct 2026 09:03:06 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Powstanie nowa droga w Wodzisławiu Śląskim. Jest już wykonawca trasy w strefie ekonomicznej",
-        "url": "https://www.radio90.pl/powstanie-nowa-droga-w-wodzislawiu-slaskim-jest-juz-wykonawca-trasy-w-strefie-ekonomicznej-kto-nim-zostal.html",
-        "date": "Wed, 28 Oct 2026 06:45:55 +0000",
+        "title": "Starostwo Powiatowe w Rybniku: znajdujący się przy nim fortepian plenerowy nadal nie działa. Kilka tygodni temu został zniszczony",
+        "url": "https://www.radio90.pl/starostwo-powiatowe-w-rybniku-znajdujacy-sie-przy-nim-fortepian-plenerowy-nadal-nie-dziala-kilka-tygodni-temu-zostal-zniszczony.html",
+        "date": "Wed, 28 Oct 2026 08:35:32 +0000",
         "src": "Radio90"
       },
       {
