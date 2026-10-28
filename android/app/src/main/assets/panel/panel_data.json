@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T13:20:12+00:00",
+  "generated": "2026-10-28T14:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.5,
-    "feels": 10.9,
+    "temp": 12.8,
+    "feels": 10.4,
     "code": 0,
-    "wind": 4.3,
-    "humidity": 42,
+    "wind": 5.8,
+    "humidity": 51,
     "is_day": true,
     "tmax": 13.5,
     "tmin": 6.1,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-28T14:15",
+    "observed": "2026-10-28T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80618,
-        "pln": 318964,
-        "chg24": 0.58
+        "usd": 80473,
+        "pln": 318517,
+        "chg24": 0.7
       },
       {
         "sym": "ETH",
-        "usd": 2335.61,
-        "pln": 9240.83,
-        "chg24": 0.4
+        "usd": 2325.59,
+        "pln": 9204.86,
+        "chg24": 0.28
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.295,
-        "chg": 0.0,
-        "as_of": "28.10 13:10"
+        "value": 53.89,
+        "chg": -0.74,
+        "as_of": "28.10 14:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6655,
-        "chg": 0.66,
-        "as_of": "28.10 13:10"
+        "value": 6.6565,
+        "chg": 0.52,
+        "as_of": "28.10 14:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4445,
-        "chg": -3.07,
-        "as_of": "28.10 12:10"
+        "value": 1.4349,
+        "chg": -3.71,
+        "as_of": "28.10 14:01"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 13:10",
+    "updated": "28.10 14:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Wymiana opon na zimowe. Czy to już czas na taką decyzję?",
-        "url": "https://www.radio90.pl/wymiana-opon-na-zimowe-czy-to-juz-czas-na-taka-decyzje.html",
-        "date": "Wed, 28 Oct 2026 12:40:46 +0000",
+        "title": "Utrudnienia w Rybniku: rusza remont fragmentu ulicy Konarskiego",
+        "url": "https://www.radio90.pl/utrudnienia-w-rybniku-rusza-remont-fragmentu-ulicy-konarskiego.html",
+        "date": "Wed, 28 Oct 2026 14:15:40 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Straż Graniczna wycofuje się z Rudziczki! Jest oficjalne pismo, inwestycji nie będzie",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/straz-graniczna-wycofuje-sie-z-rudziczki-jest-oficjalne-pismo-inwestycji-nie-bedzie/102768/",
+        "date": "Wed, 28 Oct 2026 13:21:41 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Powiat żywiecki: dyskusja o przyszłości szkoły w Węgierskiej Górce",
+        "url": "https://www.radio90.pl/powiat-zywiecki-dyskusja-o-przyszlosci-szkoly-w-wegierskiej-gorce.html",
+        "date": "Wed, 28 Oct 2026 13:30:54 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Rudziczka: mieszkańcy żądają na piśmie zapewnień od Straży Granicznej [WIDEO]",
-        "url": "https://www.radio90.pl/rudziczka-mieszkancy-zadaja-na-pismie-zapewnien-od-strazy-granicznej.html",
-        "date": "Wed, 28 Oct 2026 11:55:36 +0000",
+        "title": "Wymiana opon na zimowe. Czy to już czas na taką decyzję?",
+        "url": "https://www.radio90.pl/wymiana-opon-na-zimowe-czy-to-juz-czas-na-taka-decyzje.html",
+        "date": "Wed, 28 Oct 2026 12:40:46 +0000",
         "src": "Radio90"
       },
       {
@@ -177,27 +189,15 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dzień Odpoczynku dla Zszarganych Nerwów. Jak radzimy sobie ze stresem? [SONDA]",
-        "url": "https://www.radio90.pl/dzien-odpoczynku-dla-zszarganych-nerwow-jak-radzimy-sobie-ze-stresem-sonda.html",
-        "date": "Wed, 28 Oct 2026 11:02:54 +0000",
+        "title": "Rudziczka: mieszkańcy żądają na piśmie zapewnień od Straży Granicznej [WIDEO]",
+        "url": "https://www.radio90.pl/rudziczka-mieszkancy-zadaja-na-pismie-zapewnien-od-strazy-granicznej.html",
+        "date": "Wed, 28 Oct 2026 11:55:36 +0000",
         "src": "Radio90"
       },
       {
         "title": "W ten weekend nie zagrają! Spotkanie przełożone",
         "url": "https://www.radiobielsko.pl/sport/w-ten-weekend-nie-zagraja-spotkanie-przelozone/102755/",
         "date": "Wed, 28 Oct 2026 12:14:02 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Śląska policja znów ostrzega kierowców",
-        "url": "https://www.radio90.pl/slaska-policja-znow-ostrzega-kierowcow.html",
-        "date": "Wed, 28 Oct 2026 10:25:03 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Tung Tung Tung Sahur zniknął w autobusie. Do akcji wkroczyli policjanci z Jasienicy",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/tung-tung-tung-sahur-zniknal-w-autobusie-do-akcji-wkroczyli-policjanci-z-jasienicy/102746/",
-        "date": "Wed, 28 Oct 2026 12:03:24 +0000",
         "src": "RadioBielsko"
       }
     ],
