@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-28T05:20:09+00:00",
+  "generated": "2026-10-28T06:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.2,
-    "feels": 3.3,
+    "temp": 6.7,
+    "feels": 3.9,
     "code": 0,
     "wind": 4.7,
     "humidity": 61,
-    "is_day": false,
+    "is_day": true,
     "tmax": 13.3,
-    "tmin": 6.1,
+    "tmin": 6.0,
     "forecast": [
       {
         "date": "2026-10-28",
         "max": 13.3,
-        "min": 6.1,
-        "code": 3
+        "min": 6.0,
+        "code": 0
       },
       {
         "date": "2026-10-29",
-        "max": 7.5,
+        "max": 8.3,
         "min": 6.4,
         "code": 51
       },
       {
         "date": "2026-10-30",
-        "max": 9.0,
+        "max": 9.3,
         "min": 5.6,
-        "code": 51
+        "code": 53
       }
     ],
-    "observed": "2026-10-28T06:15",
+    "observed": "2026-10-28T07:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80846,
-        "pln": 319946,
-        "chg24": 1.34
+        "usd": 80870,
+        "pln": 320155,
+        "chg24": 1.46
       },
       {
         "sym": "ETH",
-        "usd": 2351.09,
-        "pln": 9304.45,
-        "chg24": 1.68
+        "usd": 2352.2,
+        "pln": 9312.1,
+        "chg24": 2.05
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.96,
-        "chg": -0.61,
-        "as_of": "28.10 05:10"
+        "value": 53.935,
+        "chg": -0.66,
+        "as_of": "28.10 06:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.645,
-        "chg": 0.35,
-        "as_of": "28.10 05:10"
+        "value": 6.6475,
+        "chg": 0.39,
+        "as_of": "28.10 06:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 05:10",
+    "updated": "28.10 06:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Zniszczył plenerowy fortepian, grozi mu więzienia. Policjanci z Gliwic zatrzymali 24-letniego wandala",
+        "url": "https://www.radio90.pl/zniszczyl-plenerowy-fortepian-grozi-mu-wiezienia-policjanci-z-gliwic-zatrzymali-24-letniego-wandala.html",
+        "date": "Wed, 28 Oct 2026 05:50:22 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Rafał Haratyk wraca do klatki KSW! Znamy jego rywala",
         "url": "https://www.radiobielsko.pl/sport/rafal-haratyk-wraca-do-klatki-ksw-znamy-jego-rywala/102700/",
         "date": "Tue, 27 Oct 2026 21:16:00 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/zywiec/mowiono-nawet-o-antyterrorystach-policja-wyjasnia-zamieszanie-w-zywcu/102678/",
         "date": "Tue, 27 Oct 2026 13:34:52 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Będzie inwestycja w centrum Rybnika. Miasto za kilka milionów sprzedało teren przy ul. Za Komendą [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/bedzie-inwestycja-w-centrum-rybnika-miasto-za-kilka-milionow-sprzedalo-teren-przy-ul-za-komenda-zdjecia.html",
-        "date": "Tue, 27 Oct 2026 17:20:13 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
