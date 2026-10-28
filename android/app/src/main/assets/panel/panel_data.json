@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-28T11:20:12+00:00",
+  "generated": "2026-10-28T12:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.0,
-    "feels": 10.5,
+    "temp": 13.4,
+    "feels": 10.8,
     "code": 0,
-    "wind": 2.5,
-    "humidity": 41,
+    "wind": 3.2,
+    "humidity": 39,
     "is_day": true,
-    "tmax": 13.6,
+    "tmax": 13.5,
     "tmin": 6.1,
     "forecast": [
       {
         "date": "2026-10-28",
-        "max": 13.6,
+        "max": 13.5,
         "min": 6.1,
         "code": 0
       },
       {
         "date": "2026-10-29",
-        "max": 8.9,
-        "min": 6.7,
+        "max": 9.2,
+        "min": 6.3,
         "code": 51
       },
       {
         "date": "2026-10-30",
-        "max": 9.8,
+        "max": 9.7,
         "min": 5.5,
-        "code": 53
+        "code": 51
       }
     ],
-    "observed": "2026-10-28T12:15",
+    "observed": "2026-10-28T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81257,
-        "pln": 321892,
-        "chg24": 1.83
+        "usd": 80922,
+        "pln": 320068,
+        "chg24": 1.23
       },
       {
         "sym": "ETH",
-        "usd": 2359.56,
-        "pln": 9347.18,
-        "chg24": 2.07
+        "usd": 2346.07,
+        "pln": 9279.38,
+        "chg24": 1.24
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.775,
-        "chg": -0.95,
-        "as_of": "28.10 11:10"
+        "value": 53.88,
+        "chg": -0.76,
+        "as_of": "28.10 12:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6365,
-        "chg": 0.22,
-        "as_of": "28.10 11:08"
+        "value": 6.6445,
+        "chg": 0.34,
+        "as_of": "28.10 12:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4467,
-        "chg": -2.91,
-        "as_of": "28.10 09:24"
+        "value": 1.4445,
+        "chg": -3.07,
+        "as_of": "28.10 12:10"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 11:10",
+    "updated": "28.10 12:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,33 @@
     ],
     "local": [
       {
+        "title": "Siedem nowych autobusów. Wymienili ćwierć taboru w niespełna rok",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/siedem-nowych-autobusow-wymienili-cwierc-taboru-w-niespelna-rok/102745/",
+        "date": "Wed, 28 Oct 2026 12:16:42 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Rudziczka: mieszkańcy żądają na piśmie zapewnień od Straży Granicznej [WIDEO]",
+        "url": "https://www.radio90.pl/rudziczka-mieszkancy-zadaja-na-pismie-zapewnien-od-strazy-granicznej.html",
+        "date": "Wed, 28 Oct 2026 11:55:36 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "W ten weekend nie zagrają! Spotkanie przełożone",
+        "url": "https://www.radiobielsko.pl/sport/w-ten-weekend-nie-zagraja-spotkanie-przelozone/102755/",
+        "date": "Wed, 28 Oct 2026 12:14:02 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Dzień Odpoczynku dla Zszarganych Nerwów. Jak radzimy sobie ze stresem? [SONDA]",
         "url": "https://www.radio90.pl/dzien-odpoczynku-dla-zszarganych-nerwow-jak-radzimy-sobie-ze-stresem-sonda.html",
         "date": "Wed, 28 Oct 2026 11:02:54 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Miał 3,6 promila i prowadził dostawczaka",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/mial-36-promila-i-prowadzil-dostawczaka/102731/",
-        "date": "Wed, 28 Oct 2026 10:55:51 +0000",
+        "title": "Tung Tung Tung Sahur zniknął w autobusie. Do akcji wkroczyli policjanci z Jasienicy",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/tung-tung-tung-sahur-zniknal-w-autobusie-do-akcji-wkroczyli-policjanci-z-jasienicy/102746/",
+        "date": "Wed, 28 Oct 2026 12:03:24 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "W tych zespołach doszło do zmian na ławce trenerskiej. Jaki był efekt?",
-        "url": "https://www.radiobielsko.pl/sport/w-tych-zespolach-doszlo-do-zmian-na-lawce-trenerskiej-jaki-byl-efekt/102725/",
-        "date": "Wed, 28 Oct 2026 10:24:03 +0000",
+        "title": "Awantura domowa. 47-latek nie może zbliżać się do rodziny",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/awantura-domowa-47-latek-nie-moze-zblizac-sie-do-rodziny/102737/",
+        "date": "Wed, 28 Oct 2026 11:21:06 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/uciekinier-z-poprawczaka-w-wodzislawskiej-szkole-dyrektor-poprosil-o-pomoc-policje.html",
         "date": "Wed, 28 Oct 2026 09:45:44 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Zderzenie na wiślance. Droga w kierunku Skoczowa zablokowana!",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/zderzenie-na-wislance-droga-zablokowana/102717/",
-        "date": "Wed, 28 Oct 2026 08:57:39 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Wypadek na wiślance w Pawłowicach. Po kraksie auta i osobówki zablokowana jest droga w kierunku Skoczowa [AKTUALIZACJA]",
-        "url": "https://www.radio90.pl/wypadek-na-wislance-w-pawlowicach-po-kraksie-auta-i-osobowki-zablokowana-jest-droga-w-kierunku-skoczowa.html",
-        "date": "Wed, 28 Oct 2026 09:28:50 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Nikt nie może ich pokonać przy Rychlińskiego. Ta seria robi wrażenie!",
-        "url": "https://www.radiobielsko.pl/sport/niesamowita-seria-gorali-podbeskidzie-zbudowalo-prawdziwa-twierdze/102640/",
-        "date": "Wed, 28 Oct 2026 08:50:28 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
