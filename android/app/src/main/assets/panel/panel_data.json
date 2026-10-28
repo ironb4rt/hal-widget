@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T07:20:10+00:00",
+  "generated": "2026-10-28T08:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.8,
-    "feels": 6.1,
+    "temp": 10.4,
+    "feels": 7.7,
     "code": 0,
-    "wind": 4.0,
-    "humidity": 52,
+    "wind": 3.2,
+    "humidity": 47,
     "is_day": true,
     "tmax": 13.3,
     "tmin": 6.0,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-28T08:15",
+    "observed": "2026-10-28T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80818,
-        "pln": 320235,
-        "chg24": 1.58
+        "usd": 81075,
+        "pln": 321109,
+        "chg24": 1.66
       },
       {
         "sym": "ETH",
-        "usd": 2350.4,
-        "pln": 9313.33,
-        "chg24": 2.08
+        "usd": 2362.34,
+        "pln": 9356.43,
+        "chg24": 2.17
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.935,
-        "chg": -0.66,
-        "as_of": "28.10 07:10"
+        "value": 54.075,
+        "chg": -0.4,
+        "as_of": "28.10 08:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6615,
-        "chg": 0.6,
-        "as_of": "28.10 07:09"
+        "value": 6.648,
+        "chg": 0.39,
+        "as_of": "28.10 08:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 07:10",
+    "updated": "28.10 08:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Podwyżki opłat za śmieci w Raciborzu? To niestety dla mieszkańców realny scenariusz",
+        "url": "https://www.radio90.pl/podwyzki-oplat-za-smieci-w-raciborzu-to-niestety-dla-mieszkancow-realny-scenariusz.html",
+        "date": "Wed, 28 Oct 2026 07:40:38 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Plan ogólny Milówki zablokowany. Gmina poszła do sądu",
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/plan-ogolny-milowki-zablokowany-gmina-poszla-do-sadu/102706/",
         "date": "Wed, 28 Oct 2026 07:15:42 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/zmiana-we-wladzach-lodygowic-odwolany-zastepca-chce-wrocic-do-projektu-rowerowego/102691/",
         "date": "Tue, 27 Oct 2026 17:31:18 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Dyniowa Stacja Rudy: odbędzie się tam wydarzenie z okazji Halloween. „Wydarzy się coś, o czym lepiej nie mówić głośno”",
-        "url": "https://www.radio90.pl/dyniowa-stacja-rudy-odbedzie-sie-tam-wydarzenie-z-okazji-halloween-wydarzy-sie-cos-o-czym-lepiej-nie-mowic-glosno.html",
-        "date": "Tue, 27 Oct 2026 19:50:54 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
