@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-28T20:20:15+00:00",
+  "generated": "2026-10-28T21:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.0,
-    "feels": 4.7,
+    "temp": 6.6,
+    "feels": 4.8,
     "code": 0,
-    "wind": 3.6,
-    "humidity": 71,
+    "wind": 1.8,
+    "humidity": 79,
     "is_day": false,
     "tmax": 13.4,
-    "tmin": 5.6,
+    "tmin": 6.1,
     "forecast": [
       {
         "date": "2026-10-28",
         "max": 13.4,
-        "min": 5.6,
-        "code": 3
+        "min": 6.1,
+        "code": 0
       },
       {
         "date": "2026-10-29",
-        "max": 9.3,
-        "min": 5.9,
+        "max": 9.2,
+        "min": 6.1,
         "code": 45
       },
       {
         "date": "2026-10-30",
-        "max": 8.8,
-        "min": 6.8,
+        "max": 9.0,
+        "min": 7.0,
         "code": 53
       }
     ],
-    "observed": "2026-10-28T21:15",
+    "observed": "2026-10-28T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81195,
-        "pln": 320247,
-        "chg24": 0.67
+        "usd": 81318,
+        "pln": 320934,
+        "chg24": 0.86
       },
       {
         "sym": "ETH",
-        "usd": 2361.05,
-        "pln": 9312.42,
-        "chg24": 0.74
+        "usd": 2361.7,
+        "pln": 9320.81,
+        "chg24": 0.9
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.375,
-        "chg": 0.15,
-        "as_of": "28.10 20:10"
+        "value": 54.04,
+        "chg": -0.47,
+        "as_of": "28.10 20:59"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.7035,
-        "chg": 1.23,
-        "as_of": "28.10 20:10"
+        "value": 6.6825,
+        "chg": 0.91,
+        "as_of": "28.10 20:59"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 20:10",
+    "updated": "28.10 20:59",
     "stale": false
   },
   "fx": {
@@ -103,6 +103,12 @@
     "ok": true,
     "market": [
       {
+        "title": "Mule Canyon gold resource advances restart plans",
+        "url": "https://www.mining.com/mule-canyon-gold-resource-advances-restart-plans/",
+        "date": "Wed, 28 Oct 2026 19:41:09 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Oil exploration opens door to Brazil offshore potash",
         "url": "https://www.mining.com/oil-exploration-opens-door-to-brazil-offshore-potash/",
         "date": "Wed, 28 Oct 2026 18:02:17 +0000",
@@ -112,6 +118,12 @@
         "title": "US offers Constellation up to $5B nuclear loan",
         "url": "https://www.mining.com/us-offers-constellation-up-to-5b-nuclear-loan/",
         "date": "Wed, 28 Oct 2026 16:22:26 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "XXIX Metal launches largest drilling campaign in its history",
+        "url": "https://www.mining.com/xxix-metal-launches-largest-drilling-campaign-in-its-history/",
+        "date": "Wed, 28 Oct 2026 16:18:00 +0000",
         "src": "Mining.com"
       },
       {
@@ -136,18 +148,6 @@
         "title": "Deep Sea Minerals eyes US listing as leasing auction nears",
         "url": "https://www.mining.com/deep-sea-minerals-eyes-us-listing-as-leasing-auction-nears/",
         "date": "Wed, 28 Oct 2026 13:18:17 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Codelco relocates 74% of workers as Andes Norte remains halted",
-        "url": "https://www.mining.com/codelco-relocates-74-of-workers-as-andes-norte-remains-halted/",
-        "date": "Wed, 28 Oct 2026 12:49:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Rio Tinto eyes 56% CEO pay hike amid talent crunch",
-        "url": "https://www.mining.com/rio-tinto-eyes-56-ceo-pay-hike-amid-talent-crunch/",
-        "date": "Wed, 28 Oct 2026 10:56:00 +0000",
         "src": "Mining.com"
       }
     ],
