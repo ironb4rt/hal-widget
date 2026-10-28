@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T19:20:15+00:00",
+  "generated": "2026-10-28T20:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.6,
-    "feels": 5.1,
+    "temp": 7.0,
+    "feels": 4.7,
     "code": 0,
-    "wind": 3.2,
-    "humidity": 61,
+    "wind": 3.6,
+    "humidity": 71,
     "is_day": false,
     "tmax": 13.4,
     "tmin": 5.6,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-28T20:15",
+    "observed": "2026-10-28T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81032,
-        "pln": 319568,
-        "chg24": 0.62
+        "usd": 81195,
+        "pln": 320247,
+        "chg24": 0.67
       },
       {
         "sym": "ETH",
-        "usd": 2354.31,
-        "pln": 9284.77,
-        "chg24": 0.71
+        "usd": 2361.05,
+        "pln": 9312.42,
+        "chg24": 0.74
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.755,
-        "chg": -0.99,
-        "as_of": "28.10 19:10"
+        "value": 54.375,
+        "chg": 0.15,
+        "as_of": "28.10 20:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6835,
-        "chg": 0.93,
-        "as_of": "28.10 19:10"
+        "value": 6.7035,
+        "chg": 1.23,
+        "as_of": "28.10 20:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 19:10",
+    "updated": "28.10 20:10",
     "stale": false
   },
   "fx": {
@@ -121,6 +121,12 @@
         "src": "Mining.com"
       },
       {
+        "title": "Hitachi, Yanmar join forces on Michigan compact equipment manufacturing",
+        "url": "https://www.mining.com/hitachi-yanmar-join-forces-on-michigan-compact-equipment-manufacturing/",
+        "date": "Wed, 28 Oct 2026 15:10:29 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Gold dip draws Asian buyers as North American funds lose cash",
         "url": "https://www.mining.com/gold-dip-draws-asian-buyers-as-north-american-funds-lose-cash/",
         "date": "Wed, 28 Oct 2026 14:38:59 +0000",
@@ -143,19 +149,13 @@
         "url": "https://www.mining.com/rio-tinto-eyes-56-ceo-pay-hike-amid-talent-crunch/",
         "date": "Wed, 28 Oct 2026 10:56:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Nova Minerals gets final approvals for Alaska antimony project",
-        "url": "https://www.mining.com/nova-minerals-gets-final-approvals-for-alaska-antimony-project/",
-        "date": "Tue, 27 Oct 2026 23:59:18 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Mniej niż 26 lat. Oto najmłodsze drużyny bielsko-tyskiej „okręgówki”",
-        "url": "https://www.radiobielsko.pl/sport/mniej-niz-26-lat-oto-najmlodsze-druzyny-bielsko-tyskiej-okregowki/102789/",
-        "date": "Wed, 28 Oct 2026 19:09:01 +0000",
+        "title": "Niski poziom wody w Jeziorze Żywieckim. Miasto chce wykorzystać sytuację",
+        "url": "https://www.radiobielsko.pl/zywiec/niski-poziom-wody-w-jeziorze-zywieckim-miasto-chce-wykorzystac-sytuacje/102812/",
+        "date": "Wed, 28 Oct 2026 19:30:45 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Samochody wypożyczalni zajęły miejsca parkingowe na osiedlu. Mieszkanka zainterweniowała, firma zareagowała",
-        "url": "https://www.radiobielsko.pl/region/samochody-wypozyczalni-zajely-miejsca-parkingowe-na-osiedlu/102799/",
-        "date": "Wed, 28 Oct 2026 17:47:36 +0000",
+        "title": "Mniej niż 26 lat. Oto najmłodsze drużyny bielsko-tyskiej „okręgówki”",
+        "url": "https://www.radiobielsko.pl/sport/mniej-niz-26-lat-oto-najmlodsze-druzyny-bielsko-tyskiej-okregowki/102789/",
+        "date": "Wed, 28 Oct 2026 19:09:01 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "BKS znów przed własną publicznością! Mecz w obiektywie Radia BIELSKO (Galeria)",
-        "url": "https://www.radiobielsko.pl/sport/bks-znow-przed-wlasna-publicznoscia-mecz-w-obiektywie-radia-bielsko-galeria/102773/",
-        "date": "Wed, 28 Oct 2026 14:37:55 +0000",
+        "title": "Samochody wypożyczalni zajęły miejsca parkingowe na osiedlu. Mieszkanka zainterweniowała, firma zareagowała",
+        "url": "https://www.radiobielsko.pl/region/samochody-wypozyczalni-zajely-miejsca-parkingowe-na-osiedlu/102799/",
+        "date": "Wed, 28 Oct 2026 17:47:36 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Straż Graniczna wycofuje się! Jest oficjalne pismo, inwestycji nie będzie",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/straz-graniczna-wycofuje-sie-z-rudziczki-jest-oficjalne-pismo-inwestycji-nie-bedzie/102768/",
-        "date": "Wed, 28 Oct 2026 13:21:41 +0000",
+        "title": "BKS znów przed własną publicznością! Mecz w obiektywie Radia BIELSKO (Galeria)",
+        "url": "https://www.radiobielsko.pl/sport/bks-znow-przed-wlasna-publicznoscia-mecz-w-obiektywie-radia-bielsko-galeria/102773/",
+        "date": "Wed, 28 Oct 2026 14:37:55 +0000",
         "src": "RadioBielsko"
       },
       {
