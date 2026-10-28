@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-28T08:20:10+00:00",
+  "generated": "2026-10-28T09:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 10.4,
-    "feels": 7.7,
+    "temp": 11.1,
+    "feels": 8.6,
     "code": 0,
-    "wind": 3.2,
-    "humidity": 47,
+    "wind": 2.5,
+    "humidity": 45,
     "is_day": true,
-    "tmax": 13.3,
-    "tmin": 6.0,
+    "tmax": 13.6,
+    "tmin": 6.1,
     "forecast": [
       {
         "date": "2026-10-28",
-        "max": 13.3,
-        "min": 6.0,
+        "max": 13.6,
+        "min": 6.1,
         "code": 0
       },
       {
         "date": "2026-10-29",
-        "max": 8.3,
-        "min": 6.4,
+        "max": 8.9,
+        "min": 6.7,
         "code": 51
       },
       {
         "date": "2026-10-30",
-        "max": 9.7,
+        "max": 9.8,
         "min": 5.5,
         "code": 53
       }
     ],
-    "observed": "2026-10-28T09:15",
+    "observed": "2026-10-28T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81075,
-        "pln": 321109,
-        "chg24": 1.66
+        "usd": 81400,
+        "pln": 322623,
+        "chg24": 2.17
       },
       {
         "sym": "ETH",
-        "usd": 2362.34,
-        "pln": 9356.43,
-        "chg24": 2.17
+        "usd": 2367.8,
+        "pln": 9384.62,
+        "chg24": 2.53
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.075,
-        "chg": -0.4,
-        "as_of": "28.10 08:10"
+        "value": 53.955,
+        "chg": -0.62,
+        "as_of": "28.10 09:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.648,
-        "chg": 0.39,
-        "as_of": "28.10 08:10"
+        "value": 6.6375,
+        "chg": 0.23,
+        "as_of": "28.10 09:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4448,
-        "chg": -1.14,
-        "as_of": "28.10 01:01"
+        "value": 1.4456,
+        "chg": -2.99,
+        "as_of": "28.10 08:44"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 08:10",
+    "updated": "28.10 09:10",
     "stale": false
   },
   "fx": {
@@ -153,13 +153,37 @@
     ],
     "local": [
       {
+        "title": "Rudziczka: protesty mieszkańców przyniosą efekt? Wszystko na to wskazuje",
+        "url": "https://www.radio90.pl/rudziczka-protesty-mieszkancow-przyniosa-efekt-wszystko-na-to-wskazuje.html",
+        "date": "Wed, 28 Oct 2026 09:03:06 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Zderzenie na wiślance. Droga w kierunku Skoczowa zablokowana!",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/zderzenie-na-wislance-droga-zablokowana/102717/",
+        "date": "Wed, 28 Oct 2026 08:57:39 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Starostwo Powiatowe w Rybniku: znajdujący się przy nim fortepian plenerowy nadal nie działa. Kilka tygodni temu został zniszczony",
+        "url": "https://www.radio90.pl/starostwo-powiatowe-w-rybniku-znajdujacy-sie-przy-nim-fortepian-plenerowy-nadal-nie-dziala-kilka-tygodni-temu-zostal-zniszczony.html",
+        "date": "Wed, 28 Oct 2026 08:35:32 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Niesamowita seria „Górali”! Podbeskidzie zbudowało prawdziwą twierdzę",
+        "url": "https://www.radiobielsko.pl/sport/niesamowita-seria-gorali-podbeskidzie-zbudowalo-prawdziwa-twierdze/102640/",
+        "date": "Wed, 28 Oct 2026 08:50:28 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Podwyżki opłat za śmieci w Raciborzu? To niestety dla mieszkańców realny scenariusz",
         "url": "https://www.radio90.pl/podwyzki-oplat-za-smieci-w-raciborzu-to-niestety-dla-mieszkancow-realny-scenariusz.html",
         "date": "Wed, 28 Oct 2026 07:40:38 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Plan ogólny Milówki zablokowany. Gmina poszła do sądu",
+        "title": "Plan ogólny zablokowany. Gmina poszła do sądu",
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/plan-ogolny-milowki-zablokowany-gmina-poszla-do-sadu/102706/",
         "date": "Wed, 28 Oct 2026 07:15:42 +0000",
         "src": "RadioBielsko"
@@ -171,33 +195,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Rafał Haratyk wraca do klatki KSW! Znamy jego rywala",
+        "title": "Rafał Haratyk poznał rywala na KSW 124! Czeka go starcie z Chorwatem",
         "url": "https://www.radiobielsko.pl/sport/rafal-haratyk-wraca-do-klatki-ksw-znamy-jego-rywala/102700/",
-        "date": "Wed, 28 Oct 2026 06:50:00 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Utrudnienia przy cmentarzach w Jastrzębiu-Zdroju. Pierwsze zmiany od środy",
-        "url": "https://www.radio90.pl/utrudnienia-przy-cmentarzach-w-jastrzebiu-zdroju-pierwsze-zmiany-od-srody.html",
-        "date": "Wed, 28 Oct 2026 06:20:07 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "NA JEDEN KONTAKT: Mateusz Fiedor",
-        "url": "https://www.radiobielsko.pl/sport/na-jeden-kontakt-mateusz-fiedor/102696/",
-        "date": "Wed, 28 Oct 2026 06:31:07 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zniszczył plenerowy fortepian, grozi mu więzienia. Policjanci z Gliwic zatrzymali 24-letniego wandala",
-        "url": "https://www.radio90.pl/zniszczyl-plenerowy-fortepian-grozi-mu-wiezienia-policjanci-z-gliwic-zatrzymali-24-letniego-wandala.html",
-        "date": "Wed, 28 Oct 2026 05:50:22 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Zmiana we władzach Łodygowic. Odwołany zastępca chce wrócić do projektu rowerowego",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/zmiana-we-wladzach-lodygowic-odwolany-zastepca-chce-wrocic-do-projektu-rowerowego/102691/",
-        "date": "Tue, 27 Oct 2026 17:31:18 +0000",
+        "date": "Wed, 28 Oct 2026 07:11:00 +0000",
         "src": "RadioBielsko"
       }
     ],
