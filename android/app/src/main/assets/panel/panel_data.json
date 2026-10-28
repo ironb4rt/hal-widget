@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T21:20:15+00:00",
+  "generated": "2026-10-28T22:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.6,
-    "feels": 4.8,
+    "temp": 6.2,
+    "feels": 4.4,
     "code": 0,
     "wind": 1.8,
-    "humidity": 79,
+    "humidity": 83,
     "is_day": false,
     "tmax": 13.4,
     "tmin": 6.1,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-28T22:15",
+    "observed": "2026-10-28T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81318,
-        "pln": 320934,
-        "chg24": 0.86
+        "usd": 81162,
+        "pln": 320500,
+        "chg24": 0.39
       },
       {
         "sym": "ETH",
-        "usd": 2361.7,
-        "pln": 9320.81,
-        "chg24": 0.9
+        "usd": 2355.7,
+        "pln": 9302.42,
+        "chg24": 0.29
       }
     ],
     "stale": false
@@ -61,15 +61,15 @@
         "unit": "USD/oz",
         "value": 54.04,
         "chg": -0.47,
-        "as_of": "28.10 20:59"
+        "as_of": "28.10 22:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6825,
-        "chg": 0.91,
-        "as_of": "28.10 20:59"
+        "value": 6.6785,
+        "chg": 0.85,
+        "as_of": "28.10 22:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 20:59",
+    "updated": "28.10 22:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,24 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Green Manganese trials deliver high recovery rates alongside zinc extraction",
+        "url": "https://www.mining.com/green-manganese-trials-deliver-high-recovery-rates-alongside-zinc-extraction/",
+        "date": "Wed, 28 Oct 2026 22:06:46 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Veramark launches platform for responsible metals sourcing",
+        "url": "https://www.mining.com/veramark-launches-platform-for-responsible-metals-sourcing/",
+        "date": "Wed, 28 Oct 2026 21:18:10 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "World Bank lifts copper price outlook by 18%",
+        "url": "https://www.mining.com/world-bank-lifts-copper-price-outlook-by-18/",
+        "date": "Wed, 28 Oct 2026 21:00:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Mule Canyon gold resource advances restart plans",
         "url": "https://www.mining.com/mule-canyon-gold-resource-advances-restart-plans/",
@@ -130,24 +148,6 @@
         "title": "Glencore, CNGR back $380M Brazil nickel mine with $40M",
         "url": "https://www.mining.com/glencore-cngr-back-380m-brazil-nickel-mine-with-40m/",
         "date": "Wed, 28 Oct 2026 16:08:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Hitachi, Yanmar join forces on Michigan compact equipment manufacturing",
-        "url": "https://www.mining.com/hitachi-yanmar-join-forces-on-michigan-compact-equipment-manufacturing/",
-        "date": "Wed, 28 Oct 2026 15:10:29 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Gold dip draws Asian buyers as North American funds lose cash",
-        "url": "https://www.mining.com/gold-dip-draws-asian-buyers-as-north-american-funds-lose-cash/",
-        "date": "Wed, 28 Oct 2026 14:38:59 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Deep Sea Minerals eyes US listing as leasing auction nears",
-        "url": "https://www.mining.com/deep-sea-minerals-eyes-us-listing-as-leasing-auction-nears/",
-        "date": "Wed, 28 Oct 2026 13:18:17 +0000",
         "src": "Mining.com"
       }
     ],
