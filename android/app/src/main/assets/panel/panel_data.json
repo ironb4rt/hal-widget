@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-28T14:20:12+00:00",
+  "generated": "2026-10-28T15:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.8,
-    "feels": 10.4,
+    "temp": 11.4,
+    "feels": 9.1,
     "code": 0,
-    "wind": 5.8,
-    "humidity": 51,
+    "wind": 7.2,
+    "humidity": 63,
     "is_day": true,
-    "tmax": 13.5,
-    "tmin": 6.1,
+    "tmax": 13.4,
+    "tmin": 5.7,
     "forecast": [
       {
         "date": "2026-10-28",
-        "max": 13.5,
-        "min": 6.1,
-        "code": 0
+        "max": 13.4,
+        "min": 5.7,
+        "code": 45
       },
       {
         "date": "2026-10-29",
-        "max": 9.2,
-        "min": 6.3,
-        "code": 51
+        "max": 8.9,
+        "min": 5.4,
+        "code": 45
       },
       {
         "date": "2026-10-30",
-        "max": 9.7,
-        "min": 5.5,
+        "max": 9.1,
+        "min": 6.8,
         "code": 51
       }
     ],
-    "observed": "2026-10-28T15:15",
+    "observed": "2026-10-28T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80473,
-        "pln": 318517,
-        "chg24": 0.7
+        "usd": 80596,
+        "pln": 318742,
+        "chg24": 0.3
       },
       {
         "sym": "ETH",
-        "usd": 2325.59,
-        "pln": 9204.86,
-        "chg24": 0.28
+        "usd": 2334.19,
+        "pln": 9231.28,
+        "chg24": -0.06
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.89,
-        "chg": -0.74,
-        "as_of": "28.10 14:10"
+        "value": 53.65,
+        "chg": -1.18,
+        "as_of": "28.10 15:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6565,
-        "chg": 0.52,
-        "as_of": "28.10 14:10"
+        "value": 6.644,
+        "chg": 0.33,
+        "as_of": "28.10 15:10"
       },
       {
         "sym": "ALI=F",
@@ -89,14 +89,14 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 14:10",
+    "updated": "28.10 15:10",
     "stale": false
   },
   "fx": {
     "ok": true,
-    "date": "2026-10-27",
-    "usdpln": 3.948,
-    "usdeur": 0.89686,
+    "date": "2026-10-28",
+    "usdpln": 3.9563,
+    "usdeur": 0.89823,
     "stale": false
   },
   "news": {
@@ -106,6 +106,12 @@
         "title": "Deep Sea Minerals eyes US listing as leasing auction nears",
         "url": "https://www.mining.com/deep-sea-minerals-eyes-us-listing-as-leasing-auction-nears/",
         "date": "Wed, 28 Oct 2026 13:18:17 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Codelco relocates 74% of workers as Andes Norte remains halted",
+        "url": "https://www.mining.com/codelco-relocates-74-of-workers-as-andes-norte-remains-halted/",
+        "date": "Wed, 28 Oct 2026 12:49:00 +0000",
         "src": "Mining.com"
       },
       {
@@ -143,15 +149,21 @@
         "url": "https://www.mining.com/labour-shortage-hurts-west-lake-gold-output/",
         "date": "Tue, 27 Oct 2026 16:35:44 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "China Gold restarts CSH mine after five-month shutdown",
-        "url": "https://www.mining.com/china-gold-restarts-csh-mine-after-five-month-shutdown/",
-        "date": "Tue, 27 Oct 2026 16:18:20 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Nowi uczniowie rzemiosła w powiecie wodzisławskim. Przed nimi trzy lata intensywnej nauki zawodu",
+        "url": "https://www.radio90.pl/nowi-uczniowie-rzemiosla-w-powiecie-wodzislawskim-przed-nimi-trzy-lata-intensywnej-nauki-zawodu.html",
+        "date": "Wed, 28 Oct 2026 15:00:19 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "BKS znów przed własną publicznością! Mecz w obiektywie Radia BIELSKO (Galeria)",
+        "url": "https://www.radiobielsko.pl/sport/bks-znow-przed-wlasna-publicznoscia-mecz-w-obiektywie-radia-bielsko-galeria/102773/",
+        "date": "Wed, 28 Oct 2026 14:37:55 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Utrudnienia w Rybniku: rusza remont fragmentu ulicy Konarskiego",
         "url": "https://www.radio90.pl/utrudnienia-w-rybniku-rusza-remont-fragmentu-ulicy-konarskiego.html",
@@ -186,18 +198,6 @@
         "title": "Siedem nowych autobusów. Wymienili ćwierć taboru w niespełna rok",
         "url": "https://www.radiobielsko.pl/bielsko-biala/siedem-nowych-autobusow-wymienili-cwierc-taboru-w-niespelna-rok/102745/",
         "date": "Wed, 28 Oct 2026 12:16:42 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Rudziczka: mieszkańcy żądają na piśmie zapewnień od Straży Granicznej [WIDEO]",
-        "url": "https://www.radio90.pl/rudziczka-mieszkancy-zadaja-na-pismie-zapewnien-od-strazy-granicznej.html",
-        "date": "Wed, 28 Oct 2026 11:55:36 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "W ten weekend nie zagrają! Spotkanie przełożone",
-        "url": "https://www.radiobielsko.pl/sport/w-ten-weekend-nie-zagraja-spotkanie-przelozone/102755/",
-        "date": "Wed, 28 Oct 2026 12:14:02 +0000",
         "src": "RadioBielsko"
       }
     ],
