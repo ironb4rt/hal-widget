@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T12:20:11+00:00",
+  "generated": "2026-10-28T13:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 13.4,
-    "feels": 10.8,
+    "temp": 13.5,
+    "feels": 10.9,
     "code": 0,
-    "wind": 3.2,
-    "humidity": 39,
+    "wind": 4.3,
+    "humidity": 42,
     "is_day": true,
     "tmax": 13.5,
     "tmin": 6.1,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-28T13:15",
+    "observed": "2026-10-28T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80922,
-        "pln": 320068,
-        "chg24": 1.23
+        "usd": 80618,
+        "pln": 318964,
+        "chg24": 0.58
       },
       {
         "sym": "ETH",
-        "usd": 2346.07,
-        "pln": 9279.38,
-        "chg24": 1.24
+        "usd": 2335.61,
+        "pln": 9240.83,
+        "chg24": 0.4
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.88,
-        "chg": -0.76,
-        "as_of": "28.10 12:10"
+        "value": 54.295,
+        "chg": 0.0,
+        "as_of": "28.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6445,
-        "chg": 0.34,
-        "as_of": "28.10 12:10"
+        "value": 6.6655,
+        "chg": 0.66,
+        "as_of": "28.10 13:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 12:10",
+    "updated": "28.10 13:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Deep Sea Minerals eyes US listing as leasing auction nears",
+        "url": "https://www.mining.com/deep-sea-minerals-eyes-us-listing-as-leasing-auction-nears/",
+        "date": "Wed, 28 Oct 2026 13:18:17 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Rio Tinto eyes 56% CEO pay hike amid talent crunch",
+        "url": "https://www.mining.com/rio-tinto-eyes-56-ceo-pay-hike-amid-talent-crunch/",
+        "date": "Wed, 28 Oct 2026 10:56:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Nova Minerals gets final approvals for Alaska antimony project",
         "url": "https://www.mining.com/nova-minerals-gets-final-approvals-for-alaska-antimony-project/",
@@ -137,25 +149,19 @@
         "url": "https://www.mining.com/china-gold-restarts-csh-mine-after-five-month-shutdown/",
         "date": "Tue, 27 Oct 2026 16:18:20 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Western Copper CEO exits as Casino review advances",
-        "url": "https://www.mining.com/western-copper-ceo-exits-as-casino-review-advances/",
-        "date": "Tue, 27 Oct 2026 16:08:54 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Op-Ed: How foreign miners can unlock ASX listings",
-        "url": "https://www.mining.com/op-ed-how-foreign-miners-can-unlock-asx-listings/",
-        "date": "Tue, 27 Oct 2026 14:44:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Siedem nowych autobusów. Wymienili ćwierć taboru w niespełna rok",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/siedem-nowych-autobusow-wymienili-cwierc-taboru-w-niespelna-rok/102745/",
-        "date": "Wed, 28 Oct 2026 12:16:42 +0000",
+        "title": "Wymiana opon na zimowe. Czy to już czas na taką decyzję?",
+        "url": "https://www.radio90.pl/wymiana-opon-na-zimowe-czy-to-juz-czas-na-taka-decyzje.html",
+        "date": "Wed, 28 Oct 2026 12:40:46 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Odszedł ceniony społecznik. Miał 68 lat",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/odszedl-ceniony-spolecznik-jaroslaw-zablocki-mial-68-lat/102762/",
+        "date": "Wed, 28 Oct 2026 12:39:12 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +171,9 @@
         "src": "Radio90"
       },
       {
-        "title": "W ten weekend nie zagrają! Spotkanie przełożone",
-        "url": "https://www.radiobielsko.pl/sport/w-ten-weekend-nie-zagraja-spotkanie-przelozone/102755/",
-        "date": "Wed, 28 Oct 2026 12:14:02 +0000",
+        "title": "Siedem nowych autobusów. Wymienili ćwierć taboru w niespełna rok",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/siedem-nowych-autobusow-wymienili-cwierc-taboru-w-niespelna-rok/102745/",
+        "date": "Wed, 28 Oct 2026 12:16:42 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Tung Tung Tung Sahur zniknął w autobusie. Do akcji wkroczyli policjanci z Jasienicy",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/tung-tung-tung-sahur-zniknal-w-autobusie-do-akcji-wkroczyli-policjanci-z-jasienicy/102746/",
-        "date": "Wed, 28 Oct 2026 12:03:24 +0000",
+        "title": "W ten weekend nie zagrają! Spotkanie przełożone",
+        "url": "https://www.radiobielsko.pl/sport/w-ten-weekend-nie-zagraja-spotkanie-przelozone/102755/",
+        "date": "Wed, 28 Oct 2026 12:14:02 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,16 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Awantura domowa. 47-latek nie może zbliżać się do rodziny",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/awantura-domowa-47-latek-nie-moze-zblizac-sie-do-rodziny/102737/",
-        "date": "Wed, 28 Oct 2026 11:21:06 +0000",
+        "title": "Tung Tung Tung Sahur zniknął w autobusie. Do akcji wkroczyli policjanci z Jasienicy",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/tung-tung-tung-sahur-zniknal-w-autobusie-do-akcji-wkroczyli-policjanci-z-jasienicy/102746/",
+        "date": "Wed, 28 Oct 2026 12:03:24 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Uciekinier z poprawczaka w wodzisławskiej szkole. Dyrektor poprosił o pomoc policję",
-        "url": "https://www.radio90.pl/uciekinier-z-poprawczaka-w-wodzislawskiej-szkole-dyrektor-poprosil-o-pomoc-policje.html",
-        "date": "Wed, 28 Oct 2026 09:45:44 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
