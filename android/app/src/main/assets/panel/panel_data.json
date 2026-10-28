@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T10:20:11+00:00",
+  "generated": "2026-10-28T11:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 12.1,
-    "feels": 9.6,
+    "temp": 13.0,
+    "feels": 10.5,
     "code": 0,
-    "wind": 2.9,
-    "humidity": 44,
+    "wind": 2.5,
+    "humidity": 41,
     "is_day": true,
     "tmax": 13.6,
     "tmin": 6.1,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-28T11:15",
+    "observed": "2026-10-28T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81412,
-        "pln": 322753,
-        "chg24": 2.46
+        "usd": 81257,
+        "pln": 321892,
+        "chg24": 1.83
       },
       {
         "sym": "ETH",
-        "usd": 2367.91,
-        "pln": 9387.49,
-        "chg24": 3.03
+        "usd": 2359.56,
+        "pln": 9347.18,
+        "chg24": 2.07
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.83,
-        "chg": -0.85,
-        "as_of": "28.10 10:10"
+        "value": 53.775,
+        "chg": -0.95,
+        "as_of": "28.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6245,
-        "chg": 0.04,
-        "as_of": "28.10 10:10"
+        "value": 6.6365,
+        "chg": 0.22,
+        "as_of": "28.10 11:08"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 10:10",
+    "updated": "28.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,30 @@
     ],
     "local": [
       {
+        "title": "Dzień Odpoczynku dla Zszarganych Nerwów. Jak radzimy sobie ze stresem? [SONDA]",
+        "url": "https://www.radio90.pl/dzien-odpoczynku-dla-zszarganych-nerwow-jak-radzimy-sobie-ze-stresem-sonda.html",
+        "date": "Wed, 28 Oct 2026 11:02:54 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Miał 3,6 promila i prowadził dostawczaka",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/mial-36-promila-i-prowadzil-dostawczaka/102731/",
+        "date": "Wed, 28 Oct 2026 10:55:51 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Śląska policja znów ostrzega kierowców",
+        "url": "https://www.radio90.pl/slaska-policja-znow-ostrzega-kierowcow.html",
+        "date": "Wed, 28 Oct 2026 10:25:03 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "W tych zespołach doszło do zmian na ławce trenerskiej. Jaki był efekt?",
+        "url": "https://www.radiobielsko.pl/sport/w-tych-zespolach-doszlo-do-zmian-na-lawce-trenerskiej-jaki-byl-efekt/102725/",
+        "date": "Wed, 28 Oct 2026 10:24:03 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Uciekinier z poprawczaka w wodzisławskiej szkole. Dyrektor poprosił o pomoc policję",
         "url": "https://www.radio90.pl/uciekinier-z-poprawczaka-w-wodzislawskiej-szkole-dyrektor-poprosil-o-pomoc-policje.html",
         "date": "Wed, 28 Oct 2026 09:45:44 +0000",
@@ -165,39 +189,15 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wypadek na wiślance w Pawłowicach. Po kraksie auta i osobówki zablokowana jest droga w kierunku Skoczowa",
+        "title": "Wypadek na wiślance w Pawłowicach. Po kraksie auta i osobówki zablokowana jest droga w kierunku Skoczowa [AKTUALIZACJA]",
         "url": "https://www.radio90.pl/wypadek-na-wislance-w-pawlowicach-po-kraksie-auta-i-osobowki-zablokowana-jest-droga-w-kierunku-skoczowa.html",
         "date": "Wed, 28 Oct 2026 09:28:50 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Niesamowita seria „Górali”! Podbeskidzie zbudowało prawdziwą twierdzę",
+        "title": "Nikt nie może ich pokonać przy Rychlińskiego. Ta seria robi wrażenie!",
         "url": "https://www.radiobielsko.pl/sport/niesamowita-seria-gorali-podbeskidzie-zbudowalo-prawdziwa-twierdze/102640/",
         "date": "Wed, 28 Oct 2026 08:50:28 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Rudziczka: protesty mieszkańców przyniosą efekt? Wszystko na to wskazuje",
-        "url": "https://www.radio90.pl/rudziczka-protesty-mieszkancow-przyniosa-efekt-wszystko-na-to-wskazuje.html",
-        "date": "Wed, 28 Oct 2026 09:03:06 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Plan ogólny zablokowany. Gmina poszła do sądu",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/plan-ogolny-milowki-zablokowany-gmina-poszla-do-sadu/102706/",
-        "date": "Wed, 28 Oct 2026 07:15:42 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Starostwo Powiatowe w Rybniku: znajdujący się przy nim fortepian plenerowy nadal nie działa. Kilka tygodni temu został zniszczony",
-        "url": "https://www.radio90.pl/starostwo-powiatowe-w-rybniku-znajdujacy-sie-przy-nim-fortepian-plenerowy-nadal-nie-dziala-kilka-tygodni-temu-zostal-zniszczony.html",
-        "date": "Wed, 28 Oct 2026 08:35:32 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Rafał Haratyk poznał rywala na KSW 124! Czeka go starcie z Chorwatem",
-        "url": "https://www.radiobielsko.pl/sport/rafal-haratyk-wraca-do-klatki-ksw-znamy-jego-rywala/102700/",
-        "date": "Wed, 28 Oct 2026 07:11:00 +0000",
         "src": "RadioBielsko"
       }
     ],
@@ -205,6 +205,11 @@
       {
         "title": "Felieton[FELIETON] Ile warta jest skrzynka \"STOP Agresji Drogowej\"? To jeden wielki pic na wodę!",
         "url": "/informacje/21040-felieton-ile-warta-jest-skrzynka-stop-agresji-drogowej-to-jeden-wielki-pic-na-wode",
+        "date": ""
+      },
+      {
+        "title": "Ciemności przy ul. Dawnej w Białej. Czy tak będzie wyglądało na Wszystkich Świętych?",
+        "url": "/informacje/21049-ciemnosci-przy-ul-dawnej-w-bialej-czy-tak-bedzie-wygladalo-na-wszystkich-swietych",
         "date": ""
       },
       {
@@ -225,11 +230,6 @@
       {
         "title": "[FOTO] Trwa rozbudowa ul. Mazańcowickiej. Prace przebiegają zgodnie z harmonogramem",
         "url": "/informacje/21046-foto-trwa-rozbudowa-ul-mazancowickiej-prace-przebiegaja-zgodnie-z-harmonogramem",
-        "date": ""
-      },
-      {
-        "title": "Gorący tematPoważny wypadek na ul. Bielskiej w Pisarzowicach. Czołowo zderzyły się bus i samochód osobowy",
-        "url": "/informacje/21033-powazny-wypadek-na-ul-bielskiej-w-pisarzowicach-czolowo-zderzyly-sie-bus-i-samochod-osobowy",
         "date": ""
       }
     ],
