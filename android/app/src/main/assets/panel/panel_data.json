@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-28T06:20:10+00:00",
+  "generated": "2026-10-28T07:20:10+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.7,
-    "feels": 3.9,
+    "temp": 8.8,
+    "feels": 6.1,
     "code": 0,
-    "wind": 4.7,
-    "humidity": 61,
+    "wind": 4.0,
+    "humidity": 52,
     "is_day": true,
     "tmax": 13.3,
     "tmin": 6.0,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-30",
-        "max": 9.3,
-        "min": 5.6,
+        "max": 9.7,
+        "min": 5.5,
         "code": 53
       }
     ],
-    "observed": "2026-10-28T07:15",
+    "observed": "2026-10-28T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80870,
-        "pln": 320155,
-        "chg24": 1.46
+        "usd": 80818,
+        "pln": 320235,
+        "chg24": 1.58
       },
       {
         "sym": "ETH",
-        "usd": 2352.2,
-        "pln": 9312.1,
-        "chg24": 2.05
+        "usd": 2350.4,
+        "pln": 9313.33,
+        "chg24": 2.08
       }
     ],
     "stale": false
@@ -61,15 +61,15 @@
         "unit": "USD/oz",
         "value": 53.935,
         "chg": -0.66,
-        "as_of": "28.10 06:10"
+        "as_of": "28.10 07:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6475,
-        "chg": 0.39,
-        "as_of": "28.10 06:09"
+        "value": 6.6615,
+        "chg": 0.6,
+        "as_of": "28.10 07:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 06:10",
+    "updated": "28.10 07:10",
     "stale": false
   },
   "fx": {
@@ -153,21 +153,39 @@
     ],
     "local": [
       {
-        "title": "Zniszczył plenerowy fortepian, grozi mu więzienia. Policjanci z Gliwic zatrzymali 24-letniego wandala",
-        "url": "https://www.radio90.pl/zniszczyl-plenerowy-fortepian-grozi-mu-wiezienia-policjanci-z-gliwic-zatrzymali-24-letniego-wandala.html",
-        "date": "Wed, 28 Oct 2026 05:50:22 +0000",
+        "title": "Plan ogólny Milówki zablokowany. Gmina poszła do sądu",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/plan-ogolny-milowki-zablokowany-gmina-poszla-do-sadu/102706/",
+        "date": "Wed, 28 Oct 2026 07:15:42 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Powstanie nowa droga w Wodzisławiu Śląskim. Jest już wykonawca trasy w strefie ekonomicznej",
+        "url": "https://www.radio90.pl/powstanie-nowa-droga-w-wodzislawiu-slaskim-jest-juz-wykonawca-trasy-w-strefie-ekonomicznej-kto-nim-zostal.html",
+        "date": "Wed, 28 Oct 2026 06:45:55 +0000",
         "src": "Radio90"
       },
       {
         "title": "Rafał Haratyk wraca do klatki KSW! Znamy jego rywala",
         "url": "https://www.radiobielsko.pl/sport/rafal-haratyk-wraca-do-klatki-ksw-znamy-jego-rywala/102700/",
-        "date": "Tue, 27 Oct 2026 21:16:00 +0000",
+        "date": "Wed, 28 Oct 2026 06:50:00 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Dyniowa Stacja Rudy: odbędzie się tam wydarzenie z okazji Halloween. „Wydarzy się coś, o czym lepiej nie mówić głośno”",
-        "url": "https://www.radio90.pl/dyniowa-stacja-rudy-odbedzie-sie-tam-wydarzenie-z-okazji-halloween-wydarzy-sie-cos-o-czym-lepiej-nie-mowic-glosno.html",
-        "date": "Tue, 27 Oct 2026 19:50:54 +0000",
+        "title": "Utrudnienia przy cmentarzach w Jastrzębiu-Zdroju. Pierwsze zmiany od środy",
+        "url": "https://www.radio90.pl/utrudnienia-przy-cmentarzach-w-jastrzebiu-zdroju-pierwsze-zmiany-od-srody.html",
+        "date": "Wed, 28 Oct 2026 06:20:07 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "NA JEDEN KONTAKT: Mateusz Fiedor",
+        "url": "https://www.radiobielsko.pl/sport/na-jeden-kontakt-mateusz-fiedor/102696/",
+        "date": "Wed, 28 Oct 2026 06:31:07 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Zniszczył plenerowy fortepian, grozi mu więzienia. Policjanci z Gliwic zatrzymali 24-letniego wandala",
+        "url": "https://www.radio90.pl/zniszczyl-plenerowy-fortepian-grozi-mu-wiezienia-policjanci-z-gliwic-zatrzymali-24-letniego-wandala.html",
+        "date": "Wed, 28 Oct 2026 05:50:22 +0000",
         "src": "Radio90"
       },
       {
@@ -177,28 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Pijany kierowca w Jastrzębiu. Pojechał do sklepu kupić alkohol… Został zatrzymany dzięki reakcji świadka",
-        "url": "https://www.radio90.pl/pijany-kierowca-w-jastrzebiu-pojechal-do-sklepu-kupic-alkohol-zostal-zatrzymany-dzieki-reakcji-swiadka.html",
-        "date": "Tue, 27 Oct 2026 19:00:35 +0000",
+        "title": "Dyniowa Stacja Rudy: odbędzie się tam wydarzenie z okazji Halloween. „Wydarzy się coś, o czym lepiej nie mówić głośno”",
+        "url": "https://www.radio90.pl/dyniowa-stacja-rudy-odbedzie-sie-tam-wydarzenie-z-okazji-halloween-wydarzy-sie-cos-o-czym-lepiej-nie-mowic-glosno.html",
+        "date": "Tue, 27 Oct 2026 19:50:54 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Koniec z podtopieniami? Miliony złotych na ważną inwestycję",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/koniec-z-podtopieniami-miliony-zlotych-na-wazna-inwestycje/102688/",
-        "date": "Tue, 27 Oct 2026 17:22:36 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Roboty drogowe w Raciborzu. Jutro na DK45 pojawią się drogowcy, będą utrudnienia w ruchu",
-        "url": "https://www.radio90.pl/roboty-drogowe-w-raciborzu-jutro-na-dk45-pojawia-sie-drogowcy-beda-utrudnienia-w-ruchu.html",
-        "date": "Tue, 27 Oct 2026 18:15:19 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Mówiono nawet o antyterrorystach. Policja wyjaśnia zamieszanie w Żywcu",
-        "url": "https://www.radiobielsko.pl/zywiec/mowiono-nawet-o-antyterrorystach-policja-wyjasnia-zamieszanie-w-zywcu/102678/",
-        "date": "Tue, 27 Oct 2026 13:34:52 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
