@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-28T15:20:12+00:00",
+  "generated": "2026-10-28T16:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 11.4,
-    "feels": 9.1,
+    "temp": 10.1,
+    "feels": 8.1,
     "code": 0,
-    "wind": 7.2,
-    "humidity": 63,
-    "is_day": true,
+    "wind": 4.7,
+    "humidity": 69,
+    "is_day": false,
     "tmax": 13.4,
     "tmin": 5.7,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-28T16:15",
+    "observed": "2026-10-28T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80596,
-        "pln": 318742,
-        "chg24": 0.3
+        "usd": 80473,
+        "pln": 317960,
+        "chg24": -0.01
       },
       {
         "sym": "ETH",
-        "usd": 2334.19,
-        "pln": 9231.28,
-        "chg24": -0.06
+        "usd": 2331.58,
+        "pln": 9212.45,
+        "chg24": -0.57
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.65,
-        "chg": -1.18,
-        "as_of": "28.10 15:10"
+        "value": 53.635,
+        "chg": -1.21,
+        "as_of": "28.10 16:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.644,
-        "chg": 0.33,
-        "as_of": "28.10 15:10"
+        "value": 6.656,
+        "chg": 0.51,
+        "as_of": "28.10 16:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4349,
-        "chg": -3.71,
-        "as_of": "28.10 14:01"
+        "value": 1.4322,
+        "chg": -3.89,
+        "as_of": "28.10 16:06"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 15:10",
+    "updated": "28.10 16:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Nowi uczniowie rzemiosła w powiecie wodzisławskim. Przed nimi trzy lata intensywnej nauki zawodu",
-        "url": "https://www.radio90.pl/nowi-uczniowie-rzemiosla-w-powiecie-wodzislawskim-przed-nimi-trzy-lata-intensywnej-nauki-zawodu.html",
-        "date": "Wed, 28 Oct 2026 15:00:19 +0000",
+        "title": "Wraca temat zlikwidowanego przejazdu kolejowego w Pietrzykowicach",
+        "url": "https://www.radio90.pl/wraca-temat-zlikwidowanego-przejazdu-kolejowego-w-pietrzykowicach.html",
+        "date": "Wed, 28 Oct 2026 16:10:31 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Utrudnienia w Rybniku: rusza remont fragmentu ulicy Konarskiego",
-        "url": "https://www.radio90.pl/utrudnienia-w-rybniku-rusza-remont-fragmentu-ulicy-konarskiego.html",
-        "date": "Wed, 28 Oct 2026 14:15:40 +0000",
+        "title": "Remont drogi w Jastrzębiu-Zdroju. Drogowcy leją nowy asfalt na ulicy Cieszyńskiej. Obowiązuje tam „wahadło”",
+        "url": "https://www.radio90.pl/remont-drogi-w-jastrzebiu-zdroju-drogowcy-leja-nowy-asfalt-na-ulicy-cieszynskiej-obowiazuje-tam-wahadlo.html",
+        "date": "Wed, 28 Oct 2026 15:35:30 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Powiat żywiecki: dyskusja o przyszłości szkoły w Węgierskiej Górce",
-        "url": "https://www.radio90.pl/powiat-zywiecki-dyskusja-o-przyszlosci-szkoly-w-wegierskiej-gorce.html",
-        "date": "Wed, 28 Oct 2026 13:30:54 +0000",
+        "title": "Nowi uczniowie rzemiosła w powiecie wodzisławskim. Przed nimi trzy lata intensywnej nauki zawodu",
+        "url": "https://www.radio90.pl/nowi-uczniowie-rzemiosla-w-powiecie-wodzislawskim-przed-nimi-trzy-lata-intensywnej-nauki-zawodu.html",
+        "date": "Wed, 28 Oct 2026 15:00:19 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wymiana opon na zimowe. Czy to już czas na taką decyzję?",
-        "url": "https://www.radio90.pl/wymiana-opon-na-zimowe-czy-to-juz-czas-na-taka-decyzje.html",
-        "date": "Wed, 28 Oct 2026 12:40:46 +0000",
+        "title": "Utrudnienia w Rybniku: rusza remont fragmentu ulicy Konarskiego",
+        "url": "https://www.radio90.pl/utrudnienia-w-rybniku-rusza-remont-fragmentu-ulicy-konarskiego.html",
+        "date": "Wed, 28 Oct 2026 14:15:40 +0000",
         "src": "Radio90"
       },
       {
@@ -213,6 +213,11 @@
         "date": ""
       },
       {
+        "title": "Nowe nawierzchnie dróg mogą pojawić się z opóźnieniem. Powodem problemy z dostawami asfaltu",
+        "url": "/informacje/21050-nowe-nawierzchnie-drog-moga-pojawic-sie-z-opoznieniem-powodem-problemy-z-dostawami-asfaltu",
+        "date": ""
+      },
+      {
         "title": "Kolizja karetki z samochodem osobowym na al. Andersa w Bielsku-Białej",
         "url": "/informacje/21045-kolizja-karetki-z-samochodem-osobowym-na-al-andersa-w-bielsku-bialej",
         "date": ""
@@ -225,11 +230,6 @@
       {
         "title": "Ciemności egipskie na Michałowicza? Pojechaliśmy na miejsce i zastaliśmy zupełnie inny obraz",
         "url": "/informacje/21026-ciemnosci-egipskie-na-michalowicza-pojechalismy-na-miejsce-i-zastalismy-zupelnie-inny-obraz",
-        "date": ""
-      },
-      {
-        "title": "[FOTO] Trwa rozbudowa ul. Mazańcowickiej. Prace przebiegają zgodnie z harmonogramem",
-        "url": "/informacje/21046-foto-trwa-rozbudowa-ul-mazancowickiej-prace-przebiegaja-zgodnie-z-harmonogramem",
         "date": ""
       }
     ],
