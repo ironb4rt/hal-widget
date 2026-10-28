@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-28T17:20:13+00:00",
+  "generated": "2026-10-28T18:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.8,
-    "feels": 7.1,
+    "temp": 8.2,
+    "feels": 6.1,
     "code": 0,
-    "wind": 2.2,
-    "humidity": 71,
+    "wind": 1.8,
+    "humidity": 65,
     "is_day": false,
     "tmax": 13.4,
-    "tmin": 5.7,
+    "tmin": 5.6,
     "forecast": [
       {
         "date": "2026-10-28",
         "max": 13.4,
-        "min": 5.7,
-        "code": 45
+        "min": 5.6,
+        "code": 3
       },
       {
         "date": "2026-10-29",
-        "max": 8.9,
-        "min": 5.4,
+        "max": 9.3,
+        "min": 5.9,
         "code": 45
       },
       {
         "date": "2026-10-30",
-        "max": 9.1,
+        "max": 8.8,
         "min": 6.8,
-        "code": 51
+        "code": 53
       }
     ],
-    "observed": "2026-10-28T18:15",
+    "observed": "2026-10-28T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80428,
-        "pln": 317759,
-        "chg24": -0.11
+        "usd": 80691,
+        "pln": 319211,
+        "chg24": 0.2
       },
       {
         "sym": "ETH",
-        "usd": 2329.81,
-        "pln": 9204.76,
-        "chg24": -0.75
+        "usd": 2340.99,
+        "pln": 9260.84,
+        "chg24": -0.17
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.73,
-        "chg": -1.04,
-        "as_of": "28.10 17:10"
+        "value": 53.55,
+        "chg": -1.37,
+        "as_of": "28.10 18:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6725,
-        "chg": 0.76,
-        "as_of": "28.10 17:10"
+        "value": 6.657,
+        "chg": 0.53,
+        "as_of": "28.10 18:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 17:10",
+    "updated": "28.10 18:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Oil exploration opens door to Brazil offshore potash",
+        "url": "https://www.mining.com/oil-exploration-opens-door-to-brazil-offshore-potash/",
+        "date": "Wed, 28 Oct 2026 18:02:17 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "US offers Constellation up to $5B nuclear loan",
         "url": "https://www.mining.com/us-offers-constellation-up-to-5b-nuclear-loan/",
@@ -143,19 +149,25 @@
         "url": "https://www.mining.com/nova-minerals-gets-final-approvals-for-alaska-antimony-project/",
         "date": "Tue, 27 Oct 2026 23:59:18 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Anfield Energy secures draft State approvals for Utah uranium mill",
-        "url": "https://www.mining.com/anfield-energy-secures-draft-state-approvals-for-utah-uranium-mill/",
-        "date": "Tue, 27 Oct 2026 21:44:51 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Łodygowice: odwołany zastępca wójta",
-        "url": "https://www.radio90.pl/lodygowice-odwolany-zastepca-wojta.html",
-        "date": "Wed, 28 Oct 2026 16:53:01 +0000",
+        "title": "Sprawdź światła w samochodzie. Twoje Światła – Nasze Bezpieczeństwo, akcja także w Żywcu",
+        "url": "https://www.radio90.pl/sprawdz-swiatla-w-samochodzie-twoje-swiatla-nasze-bezpieczenstwo-akcja-takze-w-zywcu.html",
+        "date": "Wed, 28 Oct 2026 18:00:43 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Samochody wypożyczalni zajęły miejsca parkingowe na osiedlu. Mieszkanka zainterweniowała, firma zareagowała",
+        "url": "https://www.radiobielsko.pl/region/samochody-wypozyczalni-zajely-miejsca-parkingowe-na-osiedlu/102799/",
+        "date": "Wed, 28 Oct 2026 17:47:36 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Ostrzeżenie synoptyków: uważajcie, będzie mgliście",
+        "url": "https://www.radio90.pl/ostrzezenie-synoptykow-uwazajcie-bedzie-mgliscie.html",
+        "date": "Wed, 28 Oct 2026 17:35:40 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wraca temat zlikwidowanego przejazdu kolejowego w Pietrzykowicach",
-        "url": "https://www.radio90.pl/wraca-temat-zlikwidowanego-przejazdu-kolejowego-w-pietrzykowicach.html",
-        "date": "Wed, 28 Oct 2026 16:10:31 +0000",
+        "title": "Łodygowice: odwołany zastępca wójta",
+        "url": "https://www.radio90.pl/lodygowice-odwolany-zastepca-wojta.html",
+        "date": "Wed, 28 Oct 2026 16:53:01 +0000",
         "src": "Radio90"
       },
       {
@@ -177,27 +189,15 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Remont drogi w Jastrzębiu-Zdroju. Drogowcy leją nowy asfalt na ulicy Cieszyńskiej. Obowiązuje tam „wahadło”",
-        "url": "https://www.radio90.pl/remont-drogi-w-jastrzebiu-zdroju-drogowcy-leja-nowy-asfalt-na-ulicy-cieszynskiej-obowiazuje-tam-wahadlo.html",
-        "date": "Wed, 28 Oct 2026 15:35:30 +0000",
+        "title": "Wraca temat zlikwidowanego przejazdu kolejowego w Pietrzykowicach",
+        "url": "https://www.radio90.pl/wraca-temat-zlikwidowanego-przejazdu-kolejowego-w-pietrzykowicach.html",
+        "date": "Wed, 28 Oct 2026 16:10:31 +0000",
         "src": "Radio90"
       },
       {
         "title": "Odszedł ceniony społecznik. Miał 68 lat",
         "url": "https://www.radiobielsko.pl/bielsko-biala/odszedl-ceniony-spolecznik-jaroslaw-zablocki-mial-68-lat/102762/",
         "date": "Wed, 28 Oct 2026 12:39:12 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Nowi uczniowie rzemiosła w powiecie wodzisławskim. Przed nimi trzy lata intensywnej nauki zawodu",
-        "url": "https://www.radio90.pl/nowi-uczniowie-rzemiosla-w-powiecie-wodzislawskim-przed-nimi-trzy-lata-intensywnej-nauki-zawodu.html",
-        "date": "Wed, 28 Oct 2026 15:00:19 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Siedem nowych autobusów. Wymienili ćwierć taboru w niespełna rok",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/siedem-nowych-autobusow-wymienili-cwierc-taboru-w-niespelna-rok/102745/",
-        "date": "Wed, 28 Oct 2026 12:16:42 +0000",
         "src": "RadioBielsko"
       }
     ],
