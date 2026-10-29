@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T13:20:05+00:00",
+  "generated": "2026-10-29T14:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.5,
-    "feels": 7.5,
-    "code": 2,
-    "wind": 6.5,
-    "humidity": 77,
+    "temp": 9.4,
+    "feels": 7.1,
+    "code": 3,
+    "wind": 8.3,
+    "humidity": 76,
     "is_day": true,
     "tmax": 9.6,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-29T14:15",
+    "observed": "2026-10-29T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80146,
-        "pln": 316338,
-        "chg24": -0.59
+        "usd": 80382,
+        "pln": 317145,
+        "chg24": -0.17
       },
       {
         "sym": "ETH",
-        "usd": 2325.78,
-        "pln": 9179.93,
-        "chg24": -0.43
+        "usd": 2328.13,
+        "pln": 9185.6,
+        "chg24": 0.0
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.535,
-        "chg": -1.72,
-        "as_of": "29.10 13:10"
+        "value": 52.22,
+        "chg": -2.31,
+        "as_of": "29.10 14:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.587,
-        "chg": -0.82,
-        "as_of": "29.10 13:10"
+        "value": 6.56,
+        "chg": -1.23,
+        "as_of": "29.10 14:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4438,
-        "chg": -3.11,
-        "as_of": "29.10 01:00"
+        "value": 1.4345,
+        "chg": -3.52,
+        "as_of": "29.10 14:06"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 13:10",
+    "updated": "29.10 14:10",
     "stale": false
   },
   "fx": {
@@ -106,6 +106,12 @@
         "title": "US copper stockpiles conceal growing global supply crunch",
         "url": "https://www.mining.com/us-copper-stockpiles-conceal-growing-global-supply-crunch/",
         "date": "Thu, 29 Oct 2026 12:58:08 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Teck profit surges as copper prices hit record highs",
+        "url": "https://www.mining.com/teck-profit-surges-as-copper-prices-hit-record-highs/",
+        "date": "Thu, 29 Oct 2026 10:46:00 +0000",
         "src": "Mining.com"
       },
       {
@@ -143,15 +149,21 @@
         "url": "https://www.mining.com/oil-exploration-opens-door-to-brazil-offshore-potash/",
         "date": "Wed, 28 Oct 2026 18:02:17 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "US offers Constellation up to $5B nuclear loan",
-        "url": "https://www.mining.com/us-offers-constellation-up-to-5b-nuclear-loan/",
-        "date": "Wed, 28 Oct 2026 16:22:26 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Uwaga! Woda nadaje się tylko do spłukiwania toalet",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/uwaga-woda-nadaje-sie-tylko-do-splukiwania-toalet/102920/",
+        "date": "Thu, 29 Oct 2026 14:10:50 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Droga ekspresowa S1: powstaną nowe Miejsca Obsługi Podróżnych w powiecie żywieckim. Kiedy?",
+        "url": "https://www.radio90.pl/droga-ekspresowa-s1-powstana-nowe-miejsca-obslugi-podroznych-w-powiecie-zywieckim-kiedy.html",
+        "date": "Thu, 29 Oct 2026 14:05:19 +0000",
+        "src": "Radio90"
+      },
       {
         "title": "Kamera zamiast skalpela. Lekarze mogą zobaczyć więcej",
         "url": "https://www.radiobielsko.pl/bielsko-biala/kamera-zamiast-skalpela-lekarze-moga-zobaczyc-wiecej/102877/",
@@ -159,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Miały zostać zlicytowane, trafiły do Muzeum w Wodzisławiu Śląskim. Przekazano do niego brylanty z gruzowiska [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/mialy-zostac-zlicytowane-trafily-do-muzeum-w-wodzislawiu-slaskim-przekazano-do-niego-brylanty-z-gruzowiska-zdjecia.html",
-        "date": "Thu, 29 Oct 2026 12:34:32 +0000",
+        "title": "Galeria handlowa w Jastrzębiu nieczynna do odwołania. Wewnątrz popękały ściany i kafelki na podłodze. Co się stało? [WIDEO, ZDJĘCIA]",
+        "url": "https://www.radio90.pl/galeria-handlowa-w-jastrzebiu-nieczynna-do-odwolania-wewnatrz-popekaly-sciany-i-kafelki-na-podlodze-co-sie-stalo-wideo-zdjecia.html",
+        "date": "Thu, 29 Oct 2026 13:37:07 +0000",
         "src": "Radio90"
       },
       {
@@ -171,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Groźny wypadek w Ujsołach. Ruszył proces Sebastiana Z. Mężczyzna kierował po alkoholu, nie miał prawa jazdy…",
-        "url": "https://www.radio90.pl/grozny-wypadek-w-ujsolach-ruszyl-proces-sebastiana-z-mezczyzna-kierowal-po-alkoholu-nie-mial-prawa-jazdy.html",
-        "date": "Thu, 29 Oct 2026 11:50:11 +0000",
+        "title": "Miały zostać zlicytowane, trafiły do Muzeum w Wodzisławiu Śląskim. Przekazano do niego brylanty z gruzowiska [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/mialy-zostac-zlicytowane-trafily-do-muzeum-w-wodzislawiu-slaskim-przekazano-do-niego-brylanty-z-gruzowiska-zdjecia.html",
+        "date": "Thu, 29 Oct 2026 12:34:32 +0000",
         "src": "Radio90"
       },
       {
@@ -183,21 +195,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Łaźnia Moszczenica: dziś odbędzie się konferencja „Ze zmianami nam do twarzy”. Będzie okazja do rozmowy o transformacji",
-        "url": "https://www.radio90.pl/laznia-moszczenica-dzis-odbedzie-sie-konferencja-ze-zmianami-nam-do-twarzy-bedzie-okazja-do-rozmowy-o-transformacji.html",
-        "date": "Thu, 29 Oct 2026 11:10:23 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Koniec ruchu wahadłowego w Chybiu! Nowy wiadukt na ul. Bielskiej zostanie w pełni otwarty",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/koniec-ruchu-wahadlowego-w-chybiu-nowy-wiadukt-na-ul-bielskiej-zostanie-w-pelni-otwarty/102897/",
-        "date": "Thu, 29 Oct 2026 12:23:46 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Dworzec kolejowy w Rybniku: jest problem z toaletami. Męska jest nieczynna, w damskiej też zniszczono jedno ze stanowisk…",
-        "url": "https://www.radio90.pl/dworzec-kolejowy-w-rybniku-jest-problem-z-toaletami-meska-jest-nieczynna-w-damskiej-tez-zniszczono-jedno-ze-stanowisk.html",
-        "date": "Thu, 29 Oct 2026 10:40:48 +0000",
+        "title": "Groźny wypadek w Ujsołach. Ruszył proces Sebastiana Z. Mężczyzna kierował po alkoholu, nie miał prawa jazdy…",
+        "url": "https://www.radio90.pl/grozny-wypadek-w-ujsolach-ruszyl-proces-sebastiana-z-mezczyzna-kierowal-po-alkoholu-nie-mial-prawa-jazdy.html",
+        "date": "Thu, 29 Oct 2026 11:50:11 +0000",
         "src": "Radio90"
       }
     ],
