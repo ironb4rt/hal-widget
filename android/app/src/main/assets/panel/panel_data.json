@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T07:20:03+00:00",
+  "generated": "2026-10-29T08:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.1,
-    "feels": 5.3,
+    "temp": 7.4,
+    "feels": 5.6,
     "code": 3,
-    "wind": 6.1,
-    "humidity": 95,
+    "wind": 5.4,
+    "humidity": 91,
     "is_day": true,
     "tmax": 9.5,
     "tmin": 6.3,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-31",
-        "max": 8.2,
-        "min": 4.7,
+        "max": 8.3,
+        "min": 4.8,
         "code": 55
       }
     ],
-    "observed": "2026-10-29T08:15",
+    "observed": "2026-10-29T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79818,
-        "pln": 315428,
-        "chg24": -1.23
+        "usd": 79961,
+        "pln": 315712,
+        "chg24": -1.38
       },
       {
         "sym": "ETH",
-        "usd": 2306.8,
-        "pln": 9116.11,
-        "chg24": -1.85
+        "usd": 2315.45,
+        "pln": 9142.22,
+        "chg24": -2.0
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.02,
-        "chg": -0.82,
-        "as_of": "29.10 07:10"
+        "value": 53.005,
+        "chg": -0.85,
+        "as_of": "29.10 08:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.646,
-        "chg": 0.07,
-        "as_of": "29.10 07:10"
+        "value": 6.6305,
+        "chg": -0.17,
+        "as_of": "29.10 08:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 07:10",
+    "updated": "29.10 08:09",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,21 @@
     ],
     "local": [
       {
+        "title": "Kampus w Rybniku: kilkadziesiąt osób zdawało tam egzamin, aby zostać Certyfikowanym Inspektorem Drzew [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/kampus-w-rybniku-kilkadziesiat-osob-zdawalo-tam-egzamin-aby-zostac-certyfikowanym-inspektorem-drzew-zdjecia.html",
+        "date": "Thu, 29 Oct 2026 08:15:55 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Pociągi wrócą szybciej, niż zakładano? Nowe informacje o linii kolejowej nr 190",
         "url": "https://www.radiobielsko.pl/bielsko-biala/pociagi-wroca-szybciej-niz-zakladano-nowe-informacje-o-linii-kolejowej-nr-190/102822/",
         "date": "Thu, 29 Oct 2026 07:00:44 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Dziś zawyją syreny alarmowe w Żorach. Urzędnicy proszą o spokój. „Uruchomienie będzie miało charakter testowy”",
-        "url": "https://www.radio90.pl/dzis-zawyja-syreny-alarmowe-w-zorach-urzednicy-prosza-o-spokoj-uruchomienie-bedzie-mialo-charakter-testowy.html",
-        "date": "Thu, 29 Oct 2026 06:45:16 +0000",
+        "title": "Zapadlisko w Krzyżowicach. Powstało przy jednym z domów. W miejscu, gdzie są szkody górnicze",
+        "url": "https://www.radio90.pl/zapadlisko-w-krzyzowicach-powstalo-przy-jednym-z-domow-w-miejscu-gdzie-sa-szkody-gornicze.html",
+        "date": "Thu, 29 Oct 2026 07:30:54 +0000",
         "src": "Radio90"
       },
       {
@@ -171,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Policjanci z Raciborza zatrzymali dwóch piratów drogowych. Obaj w terenie zabudowanym jechali ponad 100 km/h",
-        "url": "https://www.radio90.pl/policjanci-z-raciborza-zatrzymali-dwoch-piratow-drogowych-obaj-w-terenie-zabudowanym-jechali-ponad-100-km-h.html",
-        "date": "Thu, 29 Oct 2026 05:50:15 +0000",
+        "title": "Dziś zawyją syreny alarmowe w Żorach. Urzędnicy proszą o spokój. „Uruchomienie będzie miało charakter testowy”",
+        "url": "https://www.radio90.pl/dzis-zawyja-syreny-alarmowe-w-zorach-urzednicy-prosza-o-spokoj-uruchomienie-bedzie-mialo-charakter-testowy.html",
+        "date": "Thu, 29 Oct 2026 06:45:16 +0000",
         "src": "Radio90"
       },
       {
@@ -183,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Oszustwo w Jastrzębiu-Zdroju. 32-latek stracił kilkaset złotych. Chciał kupić opony w internecie",
-        "url": "https://www.radio90.pl/oszustwo-w-jastrzebiu-zdroju-32-latek-stracil-kilkaset-zlotych-chcial-kupic-opony-w-internecie.html",
-        "date": "Wed, 28 Oct 2026 18:45:46 +0000",
+        "title": "Policjanci z Raciborza zatrzymali dwóch piratów drogowych. Obaj w terenie zabudowanym jechali ponad 100 km/h",
+        "url": "https://www.radio90.pl/policjanci-z-raciborza-zatrzymali-dwoch-piratow-drogowych-obaj-w-terenie-zabudowanym-jechali-ponad-100-km-h.html",
+        "date": "Thu, 29 Oct 2026 05:50:15 +0000",
         "src": "Radio90"
       },
       {
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/region/samochody-wypozyczalni-zajely-miejsca-parkingowe-na-osiedlu/102799/",
         "date": "Wed, 28 Oct 2026 17:47:36 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Sprawdź światła w samochodzie. Twoje Światła – Nasze Bezpieczeństwo, akcja także w Żywcu",
-        "url": "https://www.radio90.pl/sprawdz-swiatla-w-samochodzie-twoje-swiatla-nasze-bezpieczenstwo-akcja-takze-w-zywcu.html",
-        "date": "Wed, 28 Oct 2026 18:00:43 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
