@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T10:20:04+00:00",
+  "generated": "2026-10-29T11:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.5,
-    "feels": 5.8,
+    "temp": 8.0,
+    "feels": 6.3,
     "code": 3,
-    "wind": 5.8,
-    "humidity": 92,
+    "wind": 4.7,
+    "humidity": 87,
     "is_day": true,
     "tmax": 9.6,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-29T11:15",
+    "observed": "2026-10-29T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80040,
-        "pln": 315733,
-        "chg24": -1.67
+        "usd": 80100,
+        "pln": 315850,
+        "chg24": -1.44
       },
       {
         "sym": "ETH",
-        "usd": 2315.56,
-        "pln": 9134.2,
-        "chg24": -2.19
+        "usd": 2322.09,
+        "pln": 9156.43,
+        "chg24": -1.59
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.745,
-        "chg": -1.33,
-        "as_of": "29.10 10:10"
+        "value": 53.13,
+        "chg": -0.61,
+        "as_of": "29.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5935,
-        "chg": -0.72,
-        "as_of": "29.10 10:09"
+        "value": 6.5975,
+        "chg": -0.66,
+        "as_of": "29.10 11:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 10:10",
+    "updated": "29.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,33 @@
     ],
     "local": [
       {
-        "title": "„Ciemno wszędzie, obrzęd będzie!” -tajemniczy kondukt prowadzony przez Guślarkę po ulicach Białej!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/ciemno-wszedzie-obrzed-bedzie-tajemniczy-kondukt-prowadzony-przez-guslarke-po-ulicach-bialej/102735/",
-        "date": "Thu, 29 Oct 2026 10:08:53 +0000",
+        "title": "Szpital Wojewódzki w zawieszeniu. Radni apelują do władz województwa",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/szpital-wojewodzki-w-zawieszeniu-radni-apeluja-do-wladz-wojewodztwa/102890/",
+        "date": "Thu, 29 Oct 2026 11:17:45 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Łaźnia Moszczenica: dziś odbędzie się konferencja „Ze zmianami nam do twarzy”. Będzie okazja do rozmowy o transformacji",
+        "url": "https://www.radio90.pl/laznia-moszczenica-dzis-odbedzie-sie-konferencja-ze-zmianami-nam-do-twarzy-bedzie-okazja-do-rozmowy-o-transformacji.html",
+        "date": "Thu, 29 Oct 2026 11:10:23 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Kamera zamiast skalpela. Lekarze mogą zobaczyć więcej",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/kamera-zamiast-skalpela-lekarze-moga-zobaczyc-wiecej/102877/",
+        "date": "Thu, 29 Oct 2026 10:53:00 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Dworzec kolejowy w Rybniku: jest problem z toaletami. Męska jest nieczynna, w damskiej też zniszczono jedno ze stanowisk…",
+        "url": "https://www.radio90.pl/dworzec-kolejowy-w-rybniku-jest-problem-z-toaletami-meska-jest-nieczynna-w-damskiej-tez-zniszczono-jedno-ze-stanowisk.html",
+        "date": "Thu, 29 Oct 2026 10:40:48 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dawna szkoła zmieniła się nie do poznania. OPS w Skoczowie ma nową siedzibę",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dawna-szkola-zmienila-sie-nie-do-poznania-ops-w-skoczowie-ma-nowa-siedzibe/102836/",
+        "date": "Thu, 29 Oct 2026 10:51:20 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,39 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Deportowali cudzoziemca. Był uznany za poważne zagrożenie dla bezpieczeństwa",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/deportowali-cudzoziemca-byl-uznany-za-powazne-zagrozenie-dla-bezpieczenstwa/102862/",
-        "date": "Thu, 29 Oct 2026 09:53:12 +0000",
+        "title": "„Ciemno wszędzie, obrzęd będzie!” -tajemniczy kondukt prowadzony przez Guślarkę po ulicach Białej!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/ciemno-wszedzie-obrzed-bedzie-tajemniczy-kondukt-prowadzony-przez-guslarke-po-ulicach-bialej/102735/",
+        "date": "Thu, 29 Oct 2026 10:08:53 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Pożar w Jastrzębiu. Ogień wybuchł w mieszkaniu przy Pomorskiej. Spowodował duże straty",
         "url": "https://www.radio90.pl/pozar-w-jastrzebiu-ogien-wybuchl-w-mieszkaniu-przy-pomorskiej-spowodowal-duze-straty.html",
         "date": "Thu, 29 Oct 2026 09:00:02 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Długo na to czekali! Znów zagrają przed własną publicznością",
-        "url": "https://www.radiobielsko.pl/sport/dlugo-na-to-czekali-znow-zagraja-przed-wlasna-publicznoscia/102856/",
-        "date": "Thu, 29 Oct 2026 09:42:41 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Kampus w Rybniku: kilkadziesiąt osób zdawało tam egzamin, aby zostać Certyfikowanym Inspektorem Drzew [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/kampus-w-rybniku-kilkadziesiat-osob-zdawalo-tam-egzamin-aby-zostac-certyfikowanym-inspektorem-drzew-zdjecia.html",
-        "date": "Thu, 29 Oct 2026 08:15:55 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Miasto kupuje nowe armatki śnieżne. Mają naśnieżać stok na Dębowcu",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/miasto-kupuje-nowe-armatki-sniezne-maja-nasniezac-stok-na-debowcu/102857/",
-        "date": "Thu, 29 Oct 2026 09:39:34 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zapadlisko w Krzyżowicach. Powstało przy jednym z domów. W miejscu, gdzie są szkody górnicze [AKTUALIZACJA]",
-        "url": "https://www.radio90.pl/zapadlisko-w-krzyzowicach-powstalo-przy-jednym-z-domow-w-miejscu-gdzie-sa-szkody-gornicze.html",
-        "date": "Thu, 29 Oct 2026 07:30:54 +0000",
         "src": "Radio90"
       }
     ],
