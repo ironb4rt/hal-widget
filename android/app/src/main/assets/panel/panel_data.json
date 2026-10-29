@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T18:20:07+00:00",
+  "generated": "2026-10-29T19:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.6,
+    "temp": 7.5,
     "feels": 5.7,
     "code": 3,
-    "wind": 6.5,
-    "humidity": 91,
+    "wind": 6.8,
+    "humidity": 94,
     "is_day": false,
     "tmax": 9.6,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 63
       }
     ],
-    "observed": "2026-10-29T19:15",
+    "observed": "2026-10-29T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80754,
-        "pln": 317287,
-        "chg24": 0.03
+        "usd": 80707,
+        "pln": 317337,
+        "chg24": -0.43
       },
       {
         "sym": "ETH",
-        "usd": 2337.5,
-        "pln": 9184.15,
-        "chg24": -0.17
+        "usd": 2326.84,
+        "pln": 9149.08,
+        "chg24": -1.24
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.165,
-        "chg": -2.42,
-        "as_of": "29.10 18:10"
+        "value": 52.095,
+        "chg": -2.55,
+        "as_of": "29.10 19:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.596,
-        "chg": -0.69,
-        "as_of": "29.10 18:10"
+        "value": 6.601,
+        "chg": -0.61,
+        "as_of": "29.10 19:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 18:10",
+    "updated": "29.10 19:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Morton Salt ceases operations at Ohio mine after water breach",
+        "url": "https://www.mining.com/morton-salt-ceases-operations-at-ohio-mine-after-water-breach/",
+        "date": "Thu, 29 Oct 2026 18:55:16 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Copper, nickel at risk due to El Niño’s disruptions",
         "url": "https://www.mining.com/copper-nickel-at-risk-due-to-el-ninos-disruptions/",
@@ -142,12 +148,6 @@
         "title": "Teck profit surges as copper prices hit record highs",
         "url": "https://www.mining.com/teck-profit-surges-as-copper-prices-hit-record-highs/",
         "date": "Thu, 29 Oct 2026 10:46:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "HyProMag USA PFS outlines $2.1B upside from rare earth magnet platform expansion",
-        "url": "https://www.mining.com/hypromag-usa-pfs-outlines-2-1b-upside-from-rare-earth-magnet-platform-expansion/",
-        "date": "Wed, 28 Oct 2026 23:19:58 +0000",
         "src": "Mining.com"
       }
     ],
@@ -203,6 +203,11 @@
     ],
     "roads": [
       {
+        "title": "Uszkodził pięć samochodów na parkingu przy ul. Mickiewicza? Kierowca miał uciec pieszo",
+        "url": "/informacje/21052-uszkodzil-piec-samochodow-na-parkingu-przy-ul-mickiewicza-kierowca-mial-uciec-pieszo",
+        "date": ""
+      },
+      {
         "title": "Felieton[FELIETON] Ile warta jest skrzynka \"STOP Agresji Drogowej\"? To jeden wielki pic na wodę!",
         "url": "/informacje/21040-felieton-ile-warta-jest-skrzynka-stop-agresji-drogowej-to-jeden-wielki-pic-na-wode",
         "date": ""
@@ -215,11 +220,6 @@
       {
         "title": "Nowe nawierzchnie dróg mogą pojawić się z opóźnieniem. Powodem problemy z dostawami asfaltu",
         "url": "/informacje/21050-nowe-nawierzchnie-drog-moga-pojawic-sie-z-opoznieniem-powodem-problemy-z-dostawami-asfaltu",
-        "date": ""
-      },
-      {
-        "title": "Gorący temat[WIDEO] Niebezpieczna sytuacja na S-52 w Bielsku-Białej. To codzienny poranny problem w tym miejscu!",
-        "url": "/informacje/21047-wideo-niebezpieczna-sytuacja-na-s-52-w-bielsku-bialej-to-codzienny-poranny-problem-w-tym-miejscu",
         "date": ""
       },
       {
