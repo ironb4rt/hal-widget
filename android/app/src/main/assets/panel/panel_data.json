@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T06:20:03+00:00",
+  "generated": "2026-10-29T07:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
@@ -7,7 +7,7 @@
     "feels": 5.3,
     "code": 3,
     "wind": 6.1,
-    "humidity": 96,
+    "humidity": 95,
     "is_day": true,
     "tmax": 9.5,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 55
       }
     ],
-    "observed": "2026-10-29T07:15",
+    "observed": "2026-10-29T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80016,
-        "pln": 316335,
-        "chg24": -1.06
+        "usd": 79818,
+        "pln": 315428,
+        "chg24": -1.23
       },
       {
         "sym": "ETH",
-        "usd": 2313.97,
-        "pln": 9147.98,
-        "chg24": -1.63
+        "usd": 2306.8,
+        "pln": 9116.11,
+        "chg24": -1.85
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.825,
-        "chg": -1.18,
-        "as_of": "29.10 06:10"
+        "value": 53.02,
+        "chg": -0.82,
+        "as_of": "29.10 07:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6445,
-        "chg": 0.05,
-        "as_of": "29.10 06:09"
+        "value": 6.646,
+        "chg": 0.07,
+        "as_of": "29.10 07:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 06:10",
+    "updated": "29.10 07:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Policjanci z Raciborza zatrzymali dwóch piratów drogowych. Obaj w terenie zabudowanym jechali ponad 100 km/h",
-        "url": "https://www.radio90.pl/policjanci-z-raciborza-zatrzymali-dwoch-piratow-drogowych-obaj-w-terenie-zabudowanym-jechali-ponad-100-km-h.html",
-        "date": "Thu, 29 Oct 2026 05:50:15 +0000",
+        "title": "Pociągi wrócą szybciej, niż zakładano? Nowe informacje o linii kolejowej nr 190",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/pociagi-wroca-szybciej-niz-zakladano-nowe-informacje-o-linii-kolejowej-nr-190/102822/",
+        "date": "Thu, 29 Oct 2026 07:00:44 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Dziś zawyją syreny alarmowe w Żorach. Urzędnicy proszą o spokój. „Uruchomienie będzie miało charakter testowy”",
+        "url": "https://www.radio90.pl/dzis-zawyja-syreny-alarmowe-w-zorach-urzednicy-prosza-o-spokoj-uruchomienie-bedzie-mialo-charakter-testowy.html",
+        "date": "Thu, 29 Oct 2026 06:45:16 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Oszustwo w Jastrzębiu-Zdroju. 32-latek stracił kilkaset złotych. Chciał kupić opony w internecie",
-        "url": "https://www.radio90.pl/oszustwo-w-jastrzebiu-zdroju-32-latek-stracil-kilkaset-zlotych-chcial-kupic-opony-w-internecie.html",
-        "date": "Wed, 28 Oct 2026 18:45:46 +0000",
+        "title": "Policjanci z Raciborza zatrzymali dwóch piratów drogowych. Obaj w terenie zabudowanym jechali ponad 100 km/h",
+        "url": "https://www.radio90.pl/policjanci-z-raciborza-zatrzymali-dwoch-piratow-drogowych-obaj-w-terenie-zabudowanym-jechali-ponad-100-km-h.html",
+        "date": "Thu, 29 Oct 2026 05:50:15 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Sprawdź światła w samochodzie. Twoje Światła – Nasze Bezpieczeństwo, akcja także w Żywcu",
-        "url": "https://www.radio90.pl/sprawdz-swiatla-w-samochodzie-twoje-swiatla-nasze-bezpieczenstwo-akcja-takze-w-zywcu.html",
-        "date": "Wed, 28 Oct 2026 18:00:43 +0000",
+        "title": "Oszustwo w Jastrzębiu-Zdroju. 32-latek stracił kilkaset złotych. Chciał kupić opony w internecie",
+        "url": "https://www.radio90.pl/oszustwo-w-jastrzebiu-zdroju-32-latek-stracil-kilkaset-zlotych-chcial-kupic-opony-w-internecie.html",
+        "date": "Wed, 28 Oct 2026 18:45:46 +0000",
         "src": "Radio90"
       },
       {
@@ -189,16 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Ostrzeżenie synoptyków: uważajcie, będzie mgliście",
-        "url": "https://www.radio90.pl/ostrzezenie-synoptykow-uwazajcie-bedzie-mgliscie.html",
-        "date": "Wed, 28 Oct 2026 17:35:40 +0000",
+        "title": "Sprawdź światła w samochodzie. Twoje Światła – Nasze Bezpieczeństwo, akcja także w Żywcu",
+        "url": "https://www.radio90.pl/sprawdz-swiatla-w-samochodzie-twoje-swiatla-nasze-bezpieczenstwo-akcja-takze-w-zywcu.html",
+        "date": "Wed, 28 Oct 2026 18:00:43 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "BKS znów przed własną publicznością! Mecz w obiektywie Radia BIELSKO (Galeria)",
-        "url": "https://www.radiobielsko.pl/sport/bks-znow-przed-wlasna-publicznoscia-mecz-w-obiektywie-radia-bielsko-galeria/102773/",
-        "date": "Wed, 28 Oct 2026 14:37:55 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
