@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-29T05:20:02+00:00",
+  "generated": "2026-10-29T06:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 7.1,
-    "feels": 5.5,
+    "feels": 5.3,
     "code": 3,
-    "wind": 4.7,
+    "wind": 6.1,
     "humidity": 96,
-    "is_day": false,
-    "tmax": 9.3,
+    "is_day": true,
+    "tmax": 9.5,
     "tmin": 6.3,
     "forecast": [
       {
         "date": "2026-10-29",
-        "max": 9.3,
+        "max": 9.5,
         "min": 6.3,
-        "code": 45
+        "code": 51
       },
       {
         "date": "2026-10-30",
-        "max": 8.7,
-        "min": 6.7,
-        "code": 53
+        "max": 8.2,
+        "min": 6.5,
+        "code": 51
       },
       {
         "date": "2026-10-31",
-        "max": 7.9,
+        "max": 8.2,
         "min": 4.7,
-        "code": 61
+        "code": 55
       }
     ],
-    "observed": "2026-10-29T06:15",
+    "observed": "2026-10-29T07:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80372,
-        "pln": 317416,
-        "chg24": -0.59
+        "usd": 80016,
+        "pln": 316335,
+        "chg24": -1.06
       },
       {
         "sym": "ETH",
-        "usd": 2329.54,
-        "pln": 9200.15,
-        "chg24": -0.92
+        "usd": 2313.97,
+        "pln": 9147.98,
+        "chg24": -1.63
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.435,
-        "chg": -0.04,
-        "as_of": "29.10 05:09"
+        "value": 52.825,
+        "chg": -1.18,
+        "as_of": "29.10 06:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6605,
-        "chg": 0.29,
-        "as_of": "29.10 05:10"
+        "value": 6.6445,
+        "chg": 0.05,
+        "as_of": "29.10 06:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 05:10",
+    "updated": "29.10 06:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Policjanci z Raciborza zatrzymali dwóch piratów drogowych. Obaj w terenie zabudowanym jechali ponad 100 km/h",
+        "url": "https://www.radio90.pl/policjanci-z-raciborza-zatrzymali-dwoch-piratow-drogowych-obaj-w-terenie-zabudowanym-jechali-ponad-100-km-h.html",
+        "date": "Thu, 29 Oct 2026 05:50:15 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Niski poziom wody w Jeziorze Żywieckim. Miasto chce wykorzystać sytuację",
         "url": "https://www.radiobielsko.pl/zywiec/niski-poziom-wody-w-jeziorze-zywieckim-miasto-chce-wykorzystac-sytuacje/102812/",
         "date": "Wed, 28 Oct 2026 19:30:45 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/sport/bks-znow-przed-wlasna-publicznoscia-mecz-w-obiektywie-radia-bielsko-galeria/102773/",
         "date": "Wed, 28 Oct 2026 14:37:55 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Łodygowice: odwołany zastępca wójta",
-        "url": "https://www.radio90.pl/lodygowice-odwolany-zastepca-wojta.html",
-        "date": "Wed, 28 Oct 2026 16:53:01 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
