@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T12:20:06+00:00",
+  "generated": "2026-10-29T13:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.7,
-    "feels": 7.0,
-    "code": 3,
-    "wind": 5.0,
-    "humidity": 83,
+    "temp": 9.5,
+    "feels": 7.5,
+    "code": 2,
+    "wind": 6.5,
+    "humidity": 77,
     "is_day": true,
     "tmax": 9.6,
     "tmin": 6.3,
@@ -27,11 +27,11 @@
       {
         "date": "2026-10-31",
         "max": 8.0,
-        "min": 4.8,
+        "min": 5.2,
         "code": 61
       }
     ],
-    "observed": "2026-10-29T13:15",
+    "observed": "2026-10-29T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80070,
-        "pln": 316033,
-        "chg24": -1.04
+        "usd": 80146,
+        "pln": 316338,
+        "chg24": -0.59
       },
       {
         "sym": "ETH",
-        "usd": 2322.97,
-        "pln": 9168.72,
-        "chg24": -0.93
+        "usd": 2325.78,
+        "pln": 9179.93,
+        "chg24": -0.43
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.555,
-        "chg": -1.69,
-        "as_of": "29.10 12:10"
+        "value": 52.535,
+        "chg": -1.72,
+        "as_of": "29.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.59,
-        "chg": -0.78,
-        "as_of": "29.10 12:10"
+        "value": 6.587,
+        "chg": -0.82,
+        "as_of": "29.10 13:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 12:10",
+    "updated": "29.10 13:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "US copper stockpiles conceal growing global supply crunch",
+        "url": "https://www.mining.com/us-copper-stockpiles-conceal-growing-global-supply-crunch/",
+        "date": "Thu, 29 Oct 2026 12:58:08 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "HyProMag USA PFS outlines $2.1B upside from rare earth magnet platform expansion",
         "url": "https://www.mining.com/hypromag-usa-pfs-outlines-2-1b-upside-from-rare-earth-magnet-platform-expansion/",
@@ -143,15 +149,27 @@
         "url": "https://www.mining.com/us-offers-constellation-up-to-5b-nuclear-loan/",
         "date": "Wed, 28 Oct 2026 16:22:26 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "XXIX Metal launches largest drilling campaign in its history",
-        "url": "https://www.mining.com/xxix-metal-launches-largest-drilling-campaign-in-its-history/",
-        "date": "Wed, 28 Oct 2026 16:18:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Kamera zamiast skalpela. Lekarze mogą zobaczyć więcej",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/kamera-zamiast-skalpela-lekarze-moga-zobaczyc-wiecej/102877/",
+        "date": "Thu, 29 Oct 2026 13:10:00 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Miały zostać zlicytowane, trafiły do Muzeum w Wodzisławiu Śląskim. Przekazano do niego brylanty z gruzowiska [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/mialy-zostac-zlicytowane-trafily-do-muzeum-w-wodzislawiu-slaskim-przekazano-do-niego-brylanty-z-gruzowiska-zdjecia.html",
+        "date": "Thu, 29 Oct 2026 12:34:32 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dlaczego zamknięto przejazd? Kolej wskazuje na samorząd i brak chętnych",
+        "url": "https://www.radiobielsko.pl/region/dlaczego-zamknieto-przejazd-kolej-wskazuje-na-samorzad-i-brak-chetnych/102916/",
+        "date": "Thu, 29 Oct 2026 12:41:20 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Groźny wypadek w Ujsołach. Ruszył proces Sebastiana Z. Mężczyzna kierował po alkoholu, nie miał prawa jazdy…",
         "url": "https://www.radio90.pl/grozny-wypadek-w-ujsolach-ruszyl-proces-sebastiana-z-mezczyzna-kierowal-po-alkoholu-nie-mial-prawa-jazdy.html",
@@ -159,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Szpital Wojewódzki w zawieszeniu. Radni apelują do władz województwa",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/szpital-wojewodzki-w-zawieszeniu-radni-apeluja-do-wladz-wojewodztwa/102890/",
-        "date": "Thu, 29 Oct 2026 11:17:45 +0000",
+        "title": "Młody kierowca i cała lista przewinień",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/mlody-kierowca-i-cala-lista-przewinien/102912/",
+        "date": "Thu, 29 Oct 2026 12:40:33 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Dawna szkoła zmieniła się nie do poznania. OPS ma nową siedzibę",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dawna-szkola-zmienila-sie-nie-do-poznania-ops-w-skoczowie-ma-nowa-siedzibe/102836/",
-        "date": "Thu, 29 Oct 2026 10:51:20 +0000",
+        "title": "Koniec ruchu wahadłowego w Chybiu! Nowy wiadukt na ul. Bielskiej zostanie w pełni otwarty",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/koniec-ruchu-wahadlowego-w-chybiu-nowy-wiadukt-na-ul-bielskiej-zostanie-w-pelni-otwarty/102897/",
+        "date": "Thu, 29 Oct 2026 12:23:46 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/dworzec-kolejowy-w-rybniku-jest-problem-z-toaletami-meska-jest-nieczynna-w-damskiej-tez-zniszczono-jedno-ze-stanowisk.html",
         "date": "Thu, 29 Oct 2026 10:40:48 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "„Ciemno wszędzie, obrzęd będzie!” -tajemniczy kondukt prowadzony przez Guślarkę po ulicach Białej!",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/ciemno-wszedzie-obrzed-bedzie-tajemniczy-kondukt-prowadzony-przez-guslarke-po-ulicach-bialej/102735/",
-        "date": "Thu, 29 Oct 2026 10:08:53 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Wypadek w Rydułtowach. Kierowca dostawczego Forda zderzył się z innym autem i wypadł z drogi. Potem uciekł [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/wypadek-w-rydultowach-kierowca-dostawczego-forda-zderzyl-sie-z-innym-autem-i-wypadl-z-drogi-zdjecia.html",
-        "date": "Thu, 29 Oct 2026 09:50:13 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Deportowali cudzoziemca. Był uznany za poważne zagrożenie dla bezpieczeństwa",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/deportowali-cudzoziemca-byl-uznany-za-powazne-zagrozenie-dla-bezpieczenstwa/102862/",
-        "date": "Thu, 29 Oct 2026 09:53:12 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
