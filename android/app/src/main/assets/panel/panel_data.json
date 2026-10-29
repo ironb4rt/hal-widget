@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T00:20:16+00:00",
+  "generated": "2026-10-29T01:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.3,
-    "feels": 4.1,
-    "code": 1,
-    "wind": 4.7,
-    "humidity": 82,
+    "temp": 6.4,
+    "feels": 4.0,
+    "code": 2,
+    "wind": 6.8,
+    "humidity": 84,
     "is_day": false,
     "tmax": 9.4,
     "tmin": 6.3,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-10-31",
-        "max": 7.7,
-        "min": 5.0,
-        "code": 53
+        "max": 7.9,
+        "min": 4.7,
+        "code": 55
       }
     ],
-    "observed": "2026-10-29T01:15",
+    "observed": "2026-10-29T02:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81206,
-        "pln": 320840,
-        "chg24": 0.68
+        "usd": 80887,
+        "pln": 319551,
+        "chg24": 0.37
       },
       {
         "sym": "ETH",
-        "usd": 2355.08,
-        "pln": 9304.82,
-        "chg24": 0.52
+        "usd": 2344.69,
+        "pln": 9262.88,
+        "chg24": 0.13
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.75,
-        "chg": -1.0,
-        "as_of": "29.10 00:10"
+        "value": 53.88,
+        "chg": -0.76,
+        "as_of": "29.10 01:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6895,
-        "chg": 1.02,
-        "as_of": "29.10 00:10"
+        "value": 6.67,
+        "chg": 0.72,
+        "as_of": "29.10 01:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4456,
-        "chg": -2.99,
-        "as_of": "28.10 22:53"
+        "value": 1.4438,
+        "chg": -2.9,
+        "as_of": "29.10 01:00"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 00:10",
+    "updated": "29.10 01:10",
     "stale": false
   },
   "fx": {
