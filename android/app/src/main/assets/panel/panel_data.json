@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T17:20:06+00:00",
+  "generated": "2026-10-29T18:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.7,
-    "feels": 5.6,
+    "temp": 7.6,
+    "feels": 5.7,
     "code": 3,
-    "wind": 7.6,
-    "humidity": 89,
+    "wind": 6.5,
+    "humidity": 91,
     "is_day": false,
     "tmax": 9.6,
     "tmin": 6.3,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-30",
-        "max": 9.4,
+        "max": 9.7,
         "min": 7.0,
         "code": 51
       },
       {
         "date": "2026-10-31",
-        "max": 8.1,
-        "min": 5.6,
+        "max": 8.0,
+        "min": 5.9,
         "code": 63
       }
     ],
-    "observed": "2026-10-29T18:15",
+    "observed": "2026-10-29T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80948,
-        "pln": 318224,
-        "chg24": 0.66
+        "usd": 80754,
+        "pln": 317287,
+        "chg24": 0.03
       },
       {
         "sym": "ETH",
-        "usd": 2347.29,
-        "pln": 9227.67,
-        "chg24": 0.78
+        "usd": 2337.5,
+        "pln": 9184.15,
+        "chg24": -0.17
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.53,
-        "chg": -1.73,
-        "as_of": "29.10 17:10"
+        "value": 52.165,
+        "chg": -2.42,
+        "as_of": "29.10 18:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.605,
-        "chg": -0.55,
-        "as_of": "29.10 17:10"
+        "value": 6.596,
+        "chg": -0.69,
+        "as_of": "29.10 18:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 17:10",
+    "updated": "29.10 18:10",
     "stale": false
   },
   "fx": {
@@ -106,6 +106,24 @@
         "title": "Copper, nickel at risk due to El Niño’s disruptions",
         "url": "https://www.mining.com/copper-nickel-at-risk-due-to-el-ninos-disruptions/",
         "date": "Thu, 29 Oct 2026 17:05:28 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina",
+        "url": "https://www.mining.com/rio-tinto-pumps-1-4b-into-lithium-projects-in-argentina/",
+        "date": "Thu, 29 Oct 2026 15:10:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Eldorado drops as Skouries setbacks cut gold outlook 18%",
+        "url": "https://www.mining.com/eldorado-drops-as-skouries-setbacks-cut-gold-outlook-18/",
+        "date": "Thu, 29 Oct 2026 14:56:43 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "China border checks cut Oyu Tolgoi exports by 70%",
+        "url": "https://www.mining.com/china-border-checks-cut-oyu-tolgoi-exports-by-70/",
+        "date": "Thu, 29 Oct 2026 13:35:30 +0000",
         "src": "Mining.com"
       },
       {
@@ -131,31 +149,25 @@
         "url": "https://www.mining.com/hypromag-usa-pfs-outlines-2-1b-upside-from-rare-earth-magnet-platform-expansion/",
         "date": "Wed, 28 Oct 2026 23:19:58 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Green Manganese trials deliver high recovery rates alongside zinc extraction",
-        "url": "https://www.mining.com/green-manganese-trials-deliver-high-recovery-rates-alongside-zinc-extraction/",
-        "date": "Wed, 28 Oct 2026 22:06:46 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Veramark launches platform for responsible metals sourcing",
-        "url": "https://www.mining.com/veramark-launches-platform-for-responsible-metals-sourcing/",
-        "date": "Wed, 28 Oct 2026 21:18:10 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "World Bank lifts copper price outlook by 18%",
-        "url": "https://www.mining.com/world-bank-lifts-copper-price-outlook-by-18/",
-        "date": "Wed, 28 Oct 2026 21:00:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Bakterie w wodzie w gminie Bestwina. Samorząd ustawia mauzery",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/bakterie-w-wodzie-w-gminie-bestwina-gmina-ustawia-mauzery/102944/",
-        "date": "Thu, 29 Oct 2026 17:14:10 +0000",
+        "title": "Nie ten bilet? Nie wszystko stracone. Przewoźnik łagodzi zasady",
+        "url": "https://www.radiobielsko.pl/zywiec/nie-ten-bilet-nie-wszystko-stracone-przewoznik-lagodzi-zasady/102950/",
+        "date": "Thu, 29 Oct 2026 18:13:16 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Zakończył się remont drogi w Lubomi. Nowy asfalt na odcinku ponad 1,5 kilometra. „Ważna inwestycja dla lokalnych rolników”",
+        "url": "https://www.radio90.pl/zakonczyl-sie-remont-drogi-w-lubomi-nowy-asfalt-na-odcinku-ponad-15-kilometra-wazna-inwestycja-dla-lokalnych-rolnikow.html",
+        "date": "Thu, 29 Oct 2026 17:30:49 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dominacja trzech zespołów. Oto najstarsze drużyny bielsko-tyskiej „okręgówki”",
+        "url": "https://www.radiobielsko.pl/sport/dominacja-trzech-zespolow-oto-najstarsze-druzyny-bielsko-tyskiej-okregowki/102936/",
+        "date": "Thu, 29 Oct 2026 17:21:53 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Kontrola biletów ujawniła ważny problem",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/kontrola-biletow-ujawnila-wazny-problem/102922/",
-        "date": "Thu, 29 Oct 2026 14:57:40 +0000",
+        "title": "Bakterie w wodzie w gminie Bestwina. Samorząd ustawia mauzery",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/bakterie-w-wodzie-w-gminie-bestwina-gmina-ustawia-mauzery/102944/",
+        "date": "Thu, 29 Oct 2026 17:14:10 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,27 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Uwaga! Woda nadaje się tylko do spłukiwania toalet",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/uwaga-woda-nadaje-sie-tylko-do-splukiwania-toalet/102920/",
-        "date": "Thu, 29 Oct 2026 14:10:50 +0000",
+        "title": "Kontrola biletów ujawniła ważny problem",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/kontrola-biletow-ujawnila-wazny-problem/102922/",
+        "date": "Thu, 29 Oct 2026 14:57:40 +0000",
         "src": "RadioBielsko"
       },
       {
         "title": "Zjazd Strażaków w Raciborzu. Dziś wspomnienie wydarzenia z 1877 roku w raciborskim muzeum",
         "url": "https://www.radio90.pl/zjazd-strazakow-w-raciborzu-dzis-wspomnienie-wydarzenia-z-1877-roku-w-raciborskim-muzeum.html",
         "date": "Thu, 29 Oct 2026 14:55:10 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Kamera zamiast skalpela. Lekarze mogą zobaczyć więcej",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/kamera-zamiast-skalpela-lekarze-moga-zobaczyc-wiecej/102877/",
-        "date": "Thu, 29 Oct 2026 13:10:00 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Droga ekspresowa S1: powstaną nowe Miejsca Obsługi Podróżnych w powiecie żywieckim. Kiedy?",
-        "url": "https://www.radio90.pl/droga-ekspresowa-s1-powstana-nowe-miejsca-obslugi-podroznych-w-powiecie-zywieckim-kiedy.html",
-        "date": "Thu, 29 Oct 2026 14:05:19 +0000",
         "src": "Radio90"
       }
     ],
