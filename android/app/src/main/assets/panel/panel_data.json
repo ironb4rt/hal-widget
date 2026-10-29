@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-29T08:20:03+00:00",
+  "generated": "2026-10-29T09:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.4,
-    "feels": 5.6,
+    "temp": 7.2,
+    "feels": 5.5,
     "code": 3,
-    "wind": 5.4,
-    "humidity": 91,
+    "wind": 5.8,
+    "humidity": 95,
     "is_day": true,
-    "tmax": 9.5,
+    "tmax": 9.6,
     "tmin": 6.3,
     "forecast": [
       {
         "date": "2026-10-29",
-        "max": 9.5,
+        "max": 9.6,
         "min": 6.3,
         "code": 51
       },
       {
         "date": "2026-10-30",
-        "max": 8.2,
-        "min": 6.5,
+        "max": 8.7,
+        "min": 6.9,
         "code": 51
       },
       {
         "date": "2026-10-31",
-        "max": 8.3,
+        "max": 8.2,
         "min": 4.8,
-        "code": 55
+        "code": 61
       }
     ],
-    "observed": "2026-10-29T09:15",
+    "observed": "2026-10-29T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 79961,
-        "pln": 315712,
-        "chg24": -1.38
+        "usd": 80143,
+        "pln": 316553,
+        "chg24": -1.57
       },
       {
         "sym": "ETH",
-        "usd": 2315.45,
-        "pln": 9142.22,
-        "chg24": -2.0
+        "usd": 2319.38,
+        "pln": 9161.15,
+        "chg24": -2.1
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 53.005,
-        "chg": -0.85,
-        "as_of": "29.10 08:09"
+        "value": 52.99,
+        "chg": -0.87,
+        "as_of": "29.10 09:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6305,
-        "chg": -0.17,
-        "as_of": "29.10 08:09"
+        "value": 6.597,
+        "chg": -0.67,
+        "as_of": "29.10 09:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 08:09",
+    "updated": "29.10 09:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Zabytki na sprzedaż. Ile kosztuje kamienica w historycznym centrum?",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/zabytki-na-sprzedaz-ile-kosztuje-kamienica-w-historycznym-centrum/102838/",
+        "date": "Thu, 29 Oct 2026 09:02:30 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Pożar w Jastrzębiu. Ogień wybuchł w mieszkaniu przy Pomorskiej. Spowodował duże straty",
+        "url": "https://www.radio90.pl/pozar-w-jastrzebiu-ogien-wybuchl-w-mieszkaniu-przy-pomorskiej-spowodowal-duze-straty.html",
+        "date": "Thu, 29 Oct 2026 09:00:02 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Nowoczesny tomograf w Ustroniu. Pacjenci zyskali nowe możliwości diagnostyki",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/nowoczesny-tomograf-w-ustroniu-pacjenci-zyskali-nowe-mozliwosci-diagnostyki/102826/",
+        "date": "Thu, 29 Oct 2026 09:02:04 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Kampus w Rybniku: kilkadziesiąt osób zdawało tam egzamin, aby zostać Certyfikowanym Inspektorem Drzew [ZDJĘCIA]",
         "url": "https://www.radio90.pl/kampus-w-rybniku-kilkadziesiat-osob-zdawalo-tam-egzamin-aby-zostac-certyfikowanym-inspektorem-drzew-zdjecia.html",
         "date": "Thu, 29 Oct 2026 08:15:55 +0000",
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/dzis-zawyja-syreny-alarmowe-w-zorach-urzednicy-prosza-o-spokoj-uruchomienie-bedzie-mialo-charakter-testowy.html",
         "date": "Thu, 29 Oct 2026 06:45:16 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Mniej niż 26 lat. Oto najmłodsze drużyny bielsko-tyskiej „okręgówki”",
-        "url": "https://www.radiobielsko.pl/sport/mniej-niz-26-lat-oto-najmlodsze-druzyny-bielsko-tyskiej-okregowki/102789/",
-        "date": "Wed, 28 Oct 2026 19:09:01 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Policjanci z Raciborza zatrzymali dwóch piratów drogowych. Obaj w terenie zabudowanym jechali ponad 100 km/h",
-        "url": "https://www.radio90.pl/policjanci-z-raciborza-zatrzymali-dwoch-piratow-drogowych-obaj-w-terenie-zabudowanym-jechali-ponad-100-km-h.html",
-        "date": "Thu, 29 Oct 2026 05:50:15 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Samochody wypożyczalni zajęły miejsca parkingowe na osiedlu. Mieszkanka zainterweniowała, firma zareagowała",
-        "url": "https://www.radiobielsko.pl/region/samochody-wypozyczalni-zajely-miejsca-parkingowe-na-osiedlu/102799/",
-        "date": "Wed, 28 Oct 2026 17:47:36 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
