@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T09:20:04+00:00",
+  "generated": "2026-10-29T10:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.2,
-    "feels": 5.5,
+    "temp": 7.5,
+    "feels": 5.8,
     "code": 3,
     "wind": 5.8,
-    "humidity": 95,
+    "humidity": 92,
     "is_day": true,
     "tmax": 9.6,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 61
       }
     ],
-    "observed": "2026-10-29T10:15",
+    "observed": "2026-10-29T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80143,
-        "pln": 316553,
-        "chg24": -1.57
+        "usd": 80040,
+        "pln": 315733,
+        "chg24": -1.67
       },
       {
         "sym": "ETH",
-        "usd": 2319.38,
-        "pln": 9161.15,
-        "chg24": -2.1
+        "usd": 2315.56,
+        "pln": 9134.2,
+        "chg24": -2.19
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.99,
-        "chg": -0.87,
-        "as_of": "29.10 09:10"
+        "value": 52.745,
+        "chg": -1.33,
+        "as_of": "29.10 10:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.597,
-        "chg": -0.67,
-        "as_of": "29.10 09:10"
+        "value": 6.5935,
+        "chg": -0.72,
+        "as_of": "29.10 10:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 09:10",
+    "updated": "29.10 10:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Zabytki na sprzedaż. Ile kosztuje kamienica w historycznym centrum?",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/zabytki-na-sprzedaz-ile-kosztuje-kamienica-w-historycznym-centrum/102838/",
-        "date": "Thu, 29 Oct 2026 09:02:30 +0000",
+        "title": "„Ciemno wszędzie, obrzęd będzie!” -tajemniczy kondukt prowadzony przez Guślarkę po ulicach Białej!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/ciemno-wszedzie-obrzed-bedzie-tajemniczy-kondukt-prowadzony-przez-guslarke-po-ulicach-bialej/102735/",
+        "date": "Thu, 29 Oct 2026 10:08:53 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Wypadek w Rydułtowach. Kierowca dostawczego Forda zderzył się z innym autem i wypadł z drogi. Potem uciekł [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/wypadek-w-rydultowach-kierowca-dostawczego-forda-zderzyl-sie-z-innym-autem-i-wypadl-z-drogi-zdjecia.html",
+        "date": "Thu, 29 Oct 2026 09:50:13 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Deportowali cudzoziemca. Był uznany za poważne zagrożenie dla bezpieczeństwa",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/deportowali-cudzoziemca-byl-uznany-za-powazne-zagrozenie-dla-bezpieczenstwa/102862/",
+        "date": "Thu, 29 Oct 2026 09:53:12 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Nowoczesny tomograf w Ustroniu. Pacjenci zyskali nowe możliwości diagnostyki",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/nowoczesny-tomograf-w-ustroniu-pacjenci-zyskali-nowe-mozliwosci-diagnostyki/102826/",
-        "date": "Thu, 29 Oct 2026 09:02:04 +0000",
+        "title": "Długo na to czekali! Znów zagrają przed własną publicznością",
+        "url": "https://www.radiobielsko.pl/sport/dlugo-na-to-czekali-znow-zagraja-przed-wlasna-publicznoscia/102856/",
+        "date": "Thu, 29 Oct 2026 09:42:41 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,27 +189,15 @@
         "src": "Radio90"
       },
       {
-        "title": "Pociągi wrócą szybciej, niż zakładano? Nowe informacje o linii kolejowej nr 190",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/pociagi-wroca-szybciej-niz-zakladano-nowe-informacje-o-linii-kolejowej-nr-190/102822/",
-        "date": "Thu, 29 Oct 2026 07:00:44 +0000",
+        "title": "Miasto kupuje nowe armatki śnieżne. Mają naśnieżać stok na Dębowcu",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/miasto-kupuje-nowe-armatki-sniezne-maja-nasniezac-stok-na-debowcu/102857/",
+        "date": "Thu, 29 Oct 2026 09:39:34 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "Zapadlisko w Krzyżowicach. Powstało przy jednym z domów. W miejscu, gdzie są szkody górnicze",
+        "title": "Zapadlisko w Krzyżowicach. Powstało przy jednym z domów. W miejscu, gdzie są szkody górnicze [AKTUALIZACJA]",
         "url": "https://www.radio90.pl/zapadlisko-w-krzyzowicach-powstalo-przy-jednym-z-domow-w-miejscu-gdzie-sa-szkody-gornicze.html",
         "date": "Thu, 29 Oct 2026 07:30:54 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Niski poziom wody w Jeziorze Żywieckim. Miasto chce wykorzystać sytuację",
-        "url": "https://www.radiobielsko.pl/zywiec/niski-poziom-wody-w-jeziorze-zywieckim-miasto-chce-wykorzystac-sytuacje/102812/",
-        "date": "Wed, 28 Oct 2026 19:30:45 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Dziś zawyją syreny alarmowe w Żorach. Urzędnicy proszą o spokój. „Uruchomienie będzie miało charakter testowy”",
-        "url": "https://www.radio90.pl/dzis-zawyja-syreny-alarmowe-w-zorach-urzednicy-prosza-o-spokoj-uruchomienie-bedzie-mialo-charakter-testowy.html",
-        "date": "Thu, 29 Oct 2026 06:45:16 +0000",
         "src": "Radio90"
       }
     ],
