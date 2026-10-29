@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T16:20:06+00:00",
+  "generated": "2026-10-29T17:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.3,
-    "feels": 5.7,
+    "temp": 7.7,
+    "feels": 5.6,
     "code": 3,
-    "wind": 10.4,
-    "humidity": 83,
+    "wind": 7.6,
+    "humidity": 89,
     "is_day": false,
     "tmax": 9.6,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 63
       }
     ],
-    "observed": "2026-10-29T17:15",
+    "observed": "2026-10-29T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81467,
-        "pln": 320149,
-        "chg24": 1.24
+        "usd": 80948,
+        "pln": 318224,
+        "chg24": 0.66
       },
       {
         "sym": "ETH",
-        "usd": 2358.57,
-        "pln": 9268.77,
-        "chg24": 1.19
+        "usd": 2347.29,
+        "pln": 9227.67,
+        "chg24": 0.78
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.465,
-        "chg": -1.86,
-        "as_of": "29.10 16:10"
+        "value": 52.53,
+        "chg": -1.73,
+        "as_of": "29.10 17:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6,
-        "chg": -0.62,
-        "as_of": "29.10 16:10"
+        "value": 6.605,
+        "chg": -0.55,
+        "as_of": "29.10 17:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 16:10",
+    "updated": "29.10 17:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Copper, nickel at risk due to El Niño’s disruptions",
+        "url": "https://www.mining.com/copper-nickel-at-risk-due-to-el-ninos-disruptions/",
+        "date": "Thu, 29 Oct 2026 17:05:28 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Glencore cobalt output sinks 52% under DRC quotas",
         "url": "https://www.mining.com/glencore-cobalt-output-sinks-52-under-drc-quotas/",
@@ -143,19 +149,19 @@
         "url": "https://www.mining.com/world-bank-lifts-copper-price-outlook-by-18/",
         "date": "Wed, 28 Oct 2026 21:00:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Mule Canyon gold resource advances restart plans",
-        "url": "https://www.mining.com/mule-canyon-gold-resource-advances-restart-plans/",
-        "date": "Wed, 28 Oct 2026 19:41:09 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Nie będzie ośrodka dla uchodźców na terenie dawnej KWK Krupiński. Mimo to radni z Suszca wyrażą sprzeciw wobec planów takiej inwestycji",
-        "url": "https://www.radio90.pl/nie-bedzie-osrodka-dla-uchodzcow-na-terenie-dawnej-kwk-krupinski-mimo-to-radni-z-suszca-wyraza-sprzeciw-wobec-planow-takiej-inwestycji.html",
-        "date": "Thu, 29 Oct 2026 15:40:55 +0000",
+        "title": "Bakterie w wodzie w gminie Bestwina. Samorząd ustawia mauzery",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/bakterie-w-wodzie-w-gminie-bestwina-gmina-ustawia-mauzery/102944/",
+        "date": "Thu, 29 Oct 2026 17:14:10 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Tragedia w Milówce. Na jednej z ulic zasłabł 68-latek. Mężczyzna był reanimowany, ale niestety bezskutecznie",
+        "url": "https://www.radio90.pl/tragedia-w-milowce-na-jednej-z-ulic-zaslabl-68-latek-mezczyzna-byl-reanimowany-ale-niestety-bezskutecznie.html",
+        "date": "Thu, 29 Oct 2026 16:35:30 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Zjazd Strażaków w Raciborzu. Dziś wspomnienie wydarzenia z 1877 roku w raciborskim muzeum",
-        "url": "https://www.radio90.pl/zjazd-strazakow-w-raciborzu-dzis-wspomnienie-wydarzenia-z-1877-roku-w-raciborskim-muzeum.html",
-        "date": "Thu, 29 Oct 2026 14:55:10 +0000",
+        "title": "Nie będzie ośrodka dla uchodźców na terenie dawnej KWK Krupiński. Mimo to radni z Suszca wyrażą sprzeciw wobec planów takiej inwestycji",
+        "url": "https://www.radio90.pl/nie-bedzie-osrodka-dla-uchodzcow-na-terenie-dawnej-kwk-krupinski-mimo-to-radni-z-suszca-wyraza-sprzeciw-wobec-planow-takiej-inwestycji.html",
+        "date": "Thu, 29 Oct 2026 15:40:55 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Droga ekspresowa S1: powstaną nowe Miejsca Obsługi Podróżnych w powiecie żywieckim. Kiedy?",
-        "url": "https://www.radio90.pl/droga-ekspresowa-s1-powstana-nowe-miejsca-obslugi-podroznych-w-powiecie-zywieckim-kiedy.html",
-        "date": "Thu, 29 Oct 2026 14:05:19 +0000",
+        "title": "Zjazd Strażaków w Raciborzu. Dziś wspomnienie wydarzenia z 1877 roku w raciborskim muzeum",
+        "url": "https://www.radio90.pl/zjazd-strazakow-w-raciborzu-dzis-wspomnienie-wydarzenia-z-1877-roku-w-raciborskim-muzeum.html",
+        "date": "Thu, 29 Oct 2026 14:55:10 +0000",
         "src": "Radio90"
       },
       {
@@ -189,16 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Galeria handlowa w Jastrzębiu nieczynna do odwołania. Wewnątrz popękały ściany i kafelki na podłodze. Co się stało? [WIDEO, ZDJĘCIA]",
-        "url": "https://www.radio90.pl/galeria-handlowa-w-jastrzebiu-nieczynna-do-odwolania-wewnatrz-popekaly-sciany-i-kafelki-na-podlodze-co-sie-stalo-wideo-zdjecia.html",
-        "date": "Thu, 29 Oct 2026 13:37:07 +0000",
+        "title": "Droga ekspresowa S1: powstaną nowe Miejsca Obsługi Podróżnych w powiecie żywieckim. Kiedy?",
+        "url": "https://www.radio90.pl/droga-ekspresowa-s1-powstana-nowe-miejsca-obslugi-podroznych-w-powiecie-zywieckim-kiedy.html",
+        "date": "Thu, 29 Oct 2026 14:05:19 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Dlaczego zamknięto przejazd? Kolej wskazuje na samorząd i brak chętnych",
-        "url": "https://www.radiobielsko.pl/region/dlaczego-zamknieto-przejazd-kolej-wskazuje-na-samorzad-i-brak-chetnych/102916/",
-        "date": "Thu, 29 Oct 2026 12:41:20 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
@@ -218,6 +218,11 @@
         "date": ""
       },
       {
+        "title": "Gorący temat[WIDEO] Niebezpieczna sytuacja na S-52 w Bielsku-Białej. To codzienny poranny problem w tym miejscu!",
+        "url": "/informacje/21047-wideo-niebezpieczna-sytuacja-na-s-52-w-bielsku-bialej-to-codzienny-poranny-problem-w-tym-miejscu",
+        "date": ""
+      },
+      {
         "title": "Kolizja karetki z samochodem osobowym na al. Andersa w Bielsku-Białej",
         "url": "/informacje/21045-kolizja-karetki-z-samochodem-osobowym-na-al-andersa-w-bielsku-bialej",
         "date": ""
@@ -225,11 +230,6 @@
       {
         "title": "Wszystkich Świętych w Bielsku-Białej. Zmiany ruchu przy cmentarzach i dodatkowe autobusy",
         "url": "/informacje/21043-wszystkich-swietych-w-bielsku-bialej-zmiany-ruchu-przy-cmentarzach-i-dodatkowe-autobusy",
-        "date": ""
-      },
-      {
-        "title": "Ciemności egipskie na Michałowicza? Pojechaliśmy na miejsce i zastaliśmy zupełnie inny obraz",
-        "url": "/informacje/21026-ciemnosci-egipskie-na-michalowicza-pojechalismy-na-miejsce-i-zastalismy-zupelnie-inny-obraz",
         "date": ""
       }
     ],
