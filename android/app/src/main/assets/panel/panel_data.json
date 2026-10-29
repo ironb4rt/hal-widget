@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-28T23:20:16+00:00",
+  "generated": "2026-10-29T00:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.2,
-    "feels": 4.3,
-    "code": 2,
-    "wind": 2.5,
-    "humidity": 83,
+    "temp": 6.3,
+    "feels": 4.1,
+    "code": 1,
+    "wind": 4.7,
+    "humidity": 82,
     "is_day": false,
-    "tmax": 9.2,
-    "tmin": 6.1,
+    "tmax": 9.4,
+    "tmin": 6.3,
     "forecast": [
       {
         "date": "2026-10-29",
-        "max": 9.2,
-        "min": 6.1,
+        "max": 9.4,
+        "min": 6.3,
         "code": 45
       },
       {
         "date": "2026-10-30",
-        "max": 9.0,
-        "min": 7.0,
-        "code": 53
+        "max": 8.2,
+        "min": 6.8,
+        "code": 51
       },
       {
         "date": "2026-10-31",
         "max": 7.7,
         "min": 5.0,
-        "code": 55
+        "code": 53
       }
     ],
-    "observed": "2026-10-29T00:15",
+    "observed": "2026-10-29T01:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 81239,
-        "pln": 320726,
-        "chg24": 0.56
+        "usd": 81206,
+        "pln": 320840,
+        "chg24": 0.68
       },
       {
         "sym": "ETH",
-        "usd": 2357.83,
-        "pln": 9308.58,
-        "chg24": 0.5
+        "usd": 2355.08,
+        "pln": 9304.82,
+        "chg24": 0.52
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 54.005,
-        "chg": -0.53,
-        "as_of": "28.10 23:09"
+        "value": 53.75,
+        "chg": -1.0,
+        "as_of": "29.10 00:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.6815,
-        "chg": 0.9,
-        "as_of": "28.10 23:07"
+        "value": 6.6895,
+        "chg": 1.02,
+        "as_of": "29.10 00:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "28.10 23:09",
+    "updated": "29.10 00:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "HyProMag USA PFS outlines $2.1B upside from rare earth magnet platform expansion",
+        "url": "https://www.mining.com/hypromag-usa-pfs-outlines-2-1b-upside-from-rare-earth-magnet-platform-expansion/",
+        "date": "Wed, 28 Oct 2026 23:19:58 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Green Manganese trials deliver high recovery rates alongside zinc extraction",
         "url": "https://www.mining.com/green-manganese-trials-deliver-high-recovery-rates-alongside-zinc-extraction/",
@@ -142,12 +148,6 @@
         "title": "XXIX Metal launches largest drilling campaign in its history",
         "url": "https://www.mining.com/xxix-metal-launches-largest-drilling-campaign-in-its-history/",
         "date": "Wed, 28 Oct 2026 16:18:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Glencore, CNGR back $380M Brazil nickel mine with $40M",
-        "url": "https://www.mining.com/glencore-cngr-back-380m-brazil-nickel-mine-with-40m/",
-        "date": "Wed, 28 Oct 2026 16:08:00 +0000",
         "src": "Mining.com"
       }
     ],
