@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-29T19:20:07+00:00",
+  "generated": "2026-10-29T20:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.5,
-    "feels": 5.7,
-    "code": 3,
-    "wind": 6.8,
-    "humidity": 94,
+    "temp": 7.2,
+    "feels": 5.5,
+    "code": 51,
+    "wind": 6.5,
+    "humidity": 97,
     "is_day": false,
     "tmax": 9.6,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 63
       }
     ],
-    "observed": "2026-10-29T20:15",
+    "observed": "2026-10-29T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 80707,
-        "pln": 317337,
-        "chg24": -0.43
+        "usd": 80288,
+        "pln": 315331,
+        "chg24": -1.09
       },
       {
         "sym": "ETH",
-        "usd": 2326.84,
-        "pln": 9149.08,
-        "chg24": -1.24
+        "usd": 2314.47,
+        "pln": 9090.07,
+        "chg24": -1.96
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 52.095,
-        "chg": -2.55,
-        "as_of": "29.10 19:10"
+        "value": 52.34,
+        "chg": -2.09,
+        "as_of": "29.10 20:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.601,
-        "chg": -0.61,
-        "as_of": "29.10 19:10"
+        "value": 6.5905,
+        "chg": -0.77,
+        "as_of": "29.10 20:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 19:10",
+    "updated": "29.10 20:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Nie ten bilet? Nie wszystko stracone. Przewoźnik łagodzi zasady",
-        "url": "https://www.radiobielsko.pl/zywiec/nie-ten-bilet-nie-wszystko-stracone-przewoznik-lagodzi-zasady/102950/",
-        "date": "Thu, 29 Oct 2026 18:13:16 +0000",
+        "title": "Rozbił auta i zniknął?",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/rozbil-auta-i-zniknal/102955/",
+        "date": "Thu, 29 Oct 2026 19:26:53 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Dominacja trzech zespołów. Oto najstarsze drużyny bielsko-tyskiej „okręgówki”",
-        "url": "https://www.radiobielsko.pl/sport/dominacja-trzech-zespolow-oto-najstarsze-druzyny-bielsko-tyskiej-okregowki/102936/",
-        "date": "Thu, 29 Oct 2026 17:21:53 +0000",
+        "title": "Nie ten bilet? Nie wszystko stracone. Przewoźnik łagodzi zasady",
+        "url": "https://www.radiobielsko.pl/zywiec/nie-ten-bilet-nie-wszystko-stracone-przewoznik-lagodzi-zasady/102950/",
+        "date": "Thu, 29 Oct 2026 18:13:16 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Bakterie w wodzie w gminie Bestwina. Samorząd ustawia mauzery",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/bakterie-w-wodzie-w-gminie-bestwina-gmina-ustawia-mauzery/102944/",
-        "date": "Thu, 29 Oct 2026 17:14:10 +0000",
+        "title": "Dominacja trzech zespołów. Oto najstarsze drużyny bielsko-tyskiej „okręgówki”",
+        "url": "https://www.radiobielsko.pl/sport/dominacja-trzech-zespolow-oto-najstarsze-druzyny-bielsko-tyskiej-okregowki/102936/",
+        "date": "Thu, 29 Oct 2026 17:21:53 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Kontrola biletów ujawniła ważny problem",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/kontrola-biletow-ujawnila-wazny-problem/102922/",
-        "date": "Thu, 29 Oct 2026 14:57:40 +0000",
+        "title": "Bakterie w wodzie w gminie Bestwina. Samorząd ustawia mauzery",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/bakterie-w-wodzie-w-gminie-bestwina-gmina-ustawia-mauzery/102944/",
+        "date": "Thu, 29 Oct 2026 17:14:10 +0000",
         "src": "RadioBielsko"
       },
       {
