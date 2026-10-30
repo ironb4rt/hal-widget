@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T16:20:14+00:00",
+  "generated": "2026-10-30T17:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.1,
-    "feels": 5.9,
+    "temp": 7.6,
+    "feels": 5.1,
     "code": 51,
-    "wind": 8.3,
-    "humidity": 85,
+    "wind": 11.2,
+    "humidity": 95,
     "is_day": false,
     "tmax": 9.5,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-30T17:15",
+    "observed": "2026-10-30T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77540,
-        "pln": 305600,
-        "chg24": -4.77
+        "usd": 77148,
+        "pln": 304432,
+        "chg24": -4.73
       },
       {
         "sym": "ETH",
-        "usd": 2234.07,
-        "pln": 8804.95,
-        "chg24": -5.19
+        "usd": 2243.16,
+        "pln": 8851.64,
+        "chg24": -4.47
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 49.305,
-        "chg": -5.53,
-        "as_of": "30.10 16:10"
+        "value": 49.235,
+        "chg": -5.66,
+        "as_of": "30.10 16:43"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4845,
-        "chg": -1.47,
-        "as_of": "30.10 16:10"
+        "value": 6.4715,
+        "chg": -1.66,
+        "as_of": "30.10 17:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4413,
-        "chg": -4.64,
-        "as_of": "30.10 16:09"
+        "value": 1.4366,
+        "chg": -4.95,
+        "as_of": "30.10 16:30"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 16:10",
+    "updated": "30.10 17:09",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
+        "url": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
+        "date": "Fri, 30 Oct 2026 16:31:19 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Perseus Mining secures backup power for Nyanzaga gold project",
+        "url": "https://www.mining.com/perseus-mining-secures-backup-power-for-nyanzaga-gold-project/",
+        "date": "Fri, 30 Oct 2026 16:22:09 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Codelco accounting scandal claims eight more employees",
         "url": "https://www.mining.com/codelco-accounting-scandal-claims-eight-more-employees/",
@@ -137,25 +149,13 @@
         "url": "https://www.mining.com/morton-salt-ceases-operations-at-ohio-mine-after-water-breach/",
         "date": "Thu, 29 Oct 2026 18:55:16 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Copper, nickel at risk due to El Niño’s disruptions",
-        "url": "https://www.mining.com/copper-nickel-at-risk-due-to-el-ninos-disruptions/",
-        "date": "Thu, 29 Oct 2026 17:05:28 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina",
-        "url": "https://www.mining.com/rio-tinto-pumps-1-4b-into-lithium-projects-in-argentina/",
-        "date": "Thu, 29 Oct 2026 15:10:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Pikieta pod starostwem w Wodzisławiu Śląskim. O co chodziło? [WIDEO]",
-        "url": "https://www.radio90.pl/pikieta-pod-starostwem-w-wodzislawiu-slaskim-o-co-chodzilo-wideo.html",
-        "date": "Fri, 30 Oct 2026 16:10:09 +0000",
+        "title": "Rozbój w Cieszynie. Trzech mężczyzn napadło na parę, żeby zabrać im pieniądze. Ukradli… 27 złotych",
+        "url": "https://www.radio90.pl/rozboj-w-cieszynie-trzech-mezczyzn-napadlo-na-pare-zeby-zabrac-im-pieniadze-ukradli-27-zlotych.html",
+        "date": "Fri, 30 Oct 2026 17:15:20 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dzieje się w Rybniku: Muzyczne Zaduszki, zaduma i przygotowania do świąt",
-        "url": "https://www.radio90.pl/dzieje-sie-w-rybniku-muzyczne-zaduszki-zaduma-i-przygotowania-do-swiat.html",
-        "date": "Fri, 30 Oct 2026 15:40:08 +0000",
+        "title": "Zmiany w organizacji ruchu w Radlinie 1 listopada",
+        "url": "https://www.radio90.pl/zmiany-w-organizacji-ruchu-w-radlinie-1-listopada.html",
+        "date": "Fri, 30 Oct 2026 16:40:40 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Prezes JSW złożył rezygnację. Bogusław Oleksy postanowił odejść z zarządu górniczego giganta. Dlaczego?",
-        "url": "https://www.radio90.pl/prezes-jsw-zlozyl-rezygnacje-boguslaw-oleksy-postanowil-odejsc-z-zarzadu-gorniczego-giganta-dlaczego.html",
-        "date": "Fri, 30 Oct 2026 15:36:42 +0000",
+        "title": "Pikieta pod starostwem w Wodzisławiu Śląskim. O co chodziło? [WIDEO]",
+        "url": "https://www.radio90.pl/pikieta-pod-starostwem-w-wodzislawiu-slaskim-o-co-chodzilo-wideo.html",
+        "date": "Fri, 30 Oct 2026 16:10:09 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Zmiany w organizacji ruchu przy cmentarzach także w powiecie cieszyńskim",
-        "url": "https://www.radio90.pl/zmiany-w-organizacji-ruchu-przy-cmentarzach-takze-w-powiecie-cieszynskim.html",
-        "date": "Fri, 30 Oct 2026 15:10:25 +0000",
+        "title": "Dzieje się w Rybniku: Muzyczne Zaduszki, zaduma i przygotowania do świąt",
+        "url": "https://www.radio90.pl/dzieje-sie-w-rybniku-muzyczne-zaduszki-zaduma-i-przygotowania-do-swiat.html",
+        "date": "Fri, 30 Oct 2026 15:40:08 +0000",
         "src": "Radio90"
       },
       {
