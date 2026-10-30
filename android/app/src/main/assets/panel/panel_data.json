@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T12:20:13+00:00",
+  "generated": "2026-10-30T13:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 9.6,
-    "feels": 7.3,
+    "feels": 7.1,
     "code": 3,
-    "wind": 7.6,
-    "humidity": 74,
+    "wind": 9.0,
+    "humidity": 75,
     "is_day": true,
     "tmax": 9.6,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-30T13:15",
+    "observed": "2026-10-30T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77456,
-        "pln": 304514,
-        "chg24": -3.22
+        "usd": 77242,
+        "pln": 304676,
+        "chg24": -3.57
       },
       {
         "sym": "ETH",
-        "usd": 2234.91,
-        "pln": 8786.45,
-        "chg24": -3.75
+        "usd": 2227.64,
+        "pln": 8786.8,
+        "chg24": -4.14
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.14,
-        "chg": -3.93,
-        "as_of": "30.10 12:10"
+        "value": 49.775,
+        "chg": -4.63,
+        "as_of": "30.10 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.509,
-        "chg": -1.09,
-        "as_of": "30.10 12:10"
+        "value": 6.502,
+        "chg": -1.2,
+        "as_of": "30.10 13:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4373,
-        "chg": -3.33,
-        "as_of": "30.10 00:44"
+        "value": 1.4445,
+        "chg": -4.43,
+        "as_of": "30.10 12:21"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 12:10",
+    "updated": "30.10 13:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Abenójar Tungsten’s London IPO breaks eight-year drought",
+        "url": "https://www.mining.com/abenojar-tungstens-london-ipo-breaks-eight-year-drought/",
+        "date": "Fri, 30 Oct 2026 11:36:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Critical minerals getting harder to mine as deposits age: EY",
         "url": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/",
@@ -143,15 +149,33 @@
         "url": "https://www.mining.com/eldorado-drops-as-skouries-setbacks-cut-gold-outlook-18/",
         "date": "Thu, 29 Oct 2026 14:56:43 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Alamos delays Island Gold shaft as costs rise",
-        "url": "https://www.mining.com/alamos-delays-island-gold-shaft-as-costs-rise/",
-        "date": "Thu, 29 Oct 2026 13:40:45 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Nie będzie referendum w Suszcu. Rada gminy: ale jesteśmy przeciwni tego typu inwestycjom",
+        "url": "https://www.radio90.pl/nie-bedzie-referendum-w-suszcu-rada-gminy-ale-jestesmy-przeciwni-tego-typu-inwestycjom.html",
+        "date": "Fri, 30 Oct 2026 13:10:30 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Kibice dopisali, siatkarki wygrały. Udany powrót ligowych emocji do Rybarzowic",
+        "url": "https://www.radiobielsko.pl/sport/kibice-dopisali-siatkarki-wygraly-udany-powrot-ligowych-emocji-do-rybarzowic/103056/",
+        "date": "Fri, 30 Oct 2026 13:07:21 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Groźny pożar w tartaku. Straty sięgają kilkudziesięciu tysięcy złotych",
+        "url": "https://www.radio90.pl/grozny-pozar-w-tartaku-straty-siegaja-kilkudziesieciu-tysiecy-zlotych.html",
+        "date": "Fri, 30 Oct 2026 12:40:39 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "RADIOWE TYPY: Kto sięgnie po zwycięstwo w 13. kolejce bielsko-tyskiej „okręgówki”?",
+        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-kto-siegnie-po-zwyciestwo-w-13-kolejce-bielsko-tyskiej-okregowki/103042/",
+        "date": "Fri, 30 Oct 2026 12:43:19 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Ciężarówka z nielegalnymi papierosami wartymi 10 milionów złotych zatrzymana na A1",
         "url": "https://www.radio90.pl/ciezarowka-z-nielegalnymi-papierosami-wartymi-10-milionow-zlotych-zatrzymana-na-a1.html",
@@ -159,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Nieproszeni goście w piwnicach, a na koniec pożar. Strach mieszkać w takim bloku",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/nieproszeni-goscie-w-piwnicach-a-na-koniec-pozar-boi-sie-mieszkac-w-swoim-bloku/103005/",
-        "date": "Fri, 30 Oct 2026 12:00:20 +0000",
+        "title": "Zderzenie rowerzysty z samochodem osobowym.",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/zderzenie-rowerzysty-z-samochodem-osobowym/103049/",
+        "date": "Fri, 30 Oct 2026 12:35:52 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,37 +195,18 @@
         "src": "Radio90"
       },
       {
-        "title": "Sztuczna inteligencja w bielskim Ratuszu. Będzie pomagać mieszkańcom przez całą dobę",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/sztuczna-inteligencja-w-bielskim-ratuszu-bedzie-pomagac-mieszkancom-przez-cala-dobe/103011/",
-        "date": "Fri, 30 Oct 2026 11:16:32 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Nowe kolumbarium w Jastrzębiu-Zdroju. „To przede wszystkim oszczędność miejsca”",
-        "url": "https://www.radio90.pl/nowe-kolumbarium-w-jastrzebiu-zdroju-to-przede-wszystkim-oszczednosc-miejsca.html",
-        "date": "Fri, 30 Oct 2026 11:00:26 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Po 11 latach muszą opuścić bacówkę. „To nie była nasza decyzja”",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/po-11-latach-musza-opuscic-bacowke-to-nie-byla-nasza-decyzja/103039/",
-        "date": "Fri, 30 Oct 2026 11:02:58 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "JKH GKS Jastrzębie przegrywa wyjazdowy mecz w Katowicach. Jastrzębianie nie obronią Pucharu Polski",
-        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-przegrywa-wyjazdowy-mecz-w-katowicach-jastrzebianie-nie-obronia-pucharu-polski.html",
-        "date": "Fri, 30 Oct 2026 10:35:36 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "RADIOWE TYPY: Ostatnia kolejka rundy jesiennej w żywiecko-skoczowskiej „okręgówce”",
-        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-ostatnia-kolejka-rundy-jesiennej-w-zywiecko-skoczowskiej-okregowce/103022/",
-        "date": "Fri, 30 Oct 2026 10:57:46 +0000",
+        "title": "Co dalej ze Szkołą Podstawową nr 9? Ratusz mówi, że sprawa jest zamknięta",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/co-dalej-ze-szkola-podstawowa-nr-9-ratusz-mowi-ze-sprawa-jest-zamknieta/103023/",
+        "date": "Fri, 30 Oct 2026 12:30:14 +0000",
         "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "Tragiczny poranek w Wilkowicach. Nie udało się uratować 11-miesięcznego dziecka",
+        "url": "/informacje/21057-tragiczny-poranek-w-wilkowicach-nie-udalo-sie-uratowac-11-miesiecznego-dziecka",
+        "date": ""
+      },
       {
         "title": "Felieton[FELIETON] Elektryczne crossy i hulajnogi sieją postrach wśród spacerowiczów. Policja bezradna",
         "url": "/informacje/21056-felieton-elektryczne-crossy-i-hulajnogi-sieja-postrach-wsrod-spacerowiczow-policja-bezradna",
@@ -210,11 +215,6 @@
       {
         "title": "Poważnie wyglądająca kraksa na S-52. Utrudnienia w kierunku Cieszyna",
         "url": "/informacje/21055-powaznie-wygladajaca-kraksa-na-s-52-utrudnienia-w-kierunku-cieszyna",
-        "date": ""
-      },
-      {
-        "title": "Gorący tematCztery uszkodzone samochody i ponad 4 promile alkoholu. 41-latek zatrzymany po ucieczce",
-        "url": "/informacje/21052-cztery-uszkodzone-samochody-i-ponad-4-promile-alkoholu-41-latek-zatrzymany-po-ucieczce",
         "date": ""
       },
       {
