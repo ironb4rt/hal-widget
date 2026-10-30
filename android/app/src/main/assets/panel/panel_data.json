@@ -1,23 +1,17 @@
 {
-  "generated": "2026-10-30T22:20:16+00:00",
+  "generated": "2026-10-30T23:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.5,
-    "feels": 6.1,
+    "temp": 7.4,
+    "feels": 5.7,
     "code": 3,
-    "wind": 3.2,
-    "humidity": 90,
+    "wind": 5.0,
+    "humidity": 92,
     "is_day": false,
-    "tmax": 9.5,
-    "tmin": 7.0,
+    "tmax": 8.7,
+    "tmin": 5.9,
     "forecast": [
-      {
-        "date": "2026-10-30",
-        "max": 9.5,
-        "min": 7.0,
-        "code": 51
-      },
       {
         "date": "2026-10-31",
         "max": 8.7,
@@ -29,9 +23,15 @@
         "max": 7.4,
         "min": 4.3,
         "code": 53
+      },
+      {
+        "date": "2026-11-02",
+        "max": 5.9,
+        "min": 4.1,
+        "code": 51
       }
     ],
-    "observed": "2026-10-30T23:15",
+    "observed": "2026-10-31T00:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 76792,
-        "pln": 303122,
-        "chg24": -2.52
+        "usd": 76987,
+        "pln": 303889,
+        "chg24": -2.21
       },
       {
         "sym": "ETH",
-        "usd": 2234.53,
-        "pln": 8820.33,
-        "chg24": -1.34
+        "usd": 2237.23,
+        "pln": 8830.99,
+        "chg24": -1.24
       }
     ],
     "stale": false
@@ -189,7 +189,7 @@
         "src": "Radio90"
       },
       {
-        "title": "Lekarz dostępny nocą i w weekendy. Nowa usługa w Wilkowicach",
+        "title": "Lekarz dostępny nocą i w weekendy. Nowy punkt",
         "url": "https://www.radiobielsko.pl/powiat-bielski/lekarz-dostepny-noca-i-w-weekendy-nowa-usluga-w-wilkowicach/103063/",
         "date": "Fri, 30 Oct 2026 15:22:37 +0000",
         "src": "RadioBielsko"
