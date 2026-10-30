@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T13:20:13+00:00",
+  "generated": "2026-10-30T14:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.6,
+    "temp": 9.5,
     "feels": 7.1,
     "code": 3,
-    "wind": 9.0,
-    "humidity": 75,
+    "wind": 8.3,
+    "humidity": 74,
     "is_day": true,
     "tmax": 9.6,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-30T14:15",
+    "observed": "2026-10-30T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77242,
-        "pln": 304676,
-        "chg24": -3.57
+        "usd": 76674,
+        "pln": 302674,
+        "chg24": -4.56
       },
       {
         "sym": "ETH",
-        "usd": 2227.64,
-        "pln": 8786.8,
-        "chg24": -4.14
+        "usd": 2213.76,
+        "pln": 8738.87,
+        "chg24": -4.87
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 49.775,
-        "chg": -4.63,
-        "as_of": "30.10 13:10"
+        "value": 49.365,
+        "chg": -5.41,
+        "as_of": "30.10 14:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.502,
-        "chg": -1.2,
-        "as_of": "30.10 13:10"
+        "value": 6.51,
+        "chg": -1.08,
+        "as_of": "30.10 14:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4445,
-        "chg": -4.43,
-        "as_of": "30.10 12:21"
+        "value": 1.4444,
+        "chg": -4.44,
+        "as_of": "30.10 14:07"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 13:10",
+    "updated": "30.10 14:09",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,27 @@
     ],
     "local": [
       {
+        "title": "Paweł Głuszek, kierowca autobusu z Rybnika uratował życie mężczyźnie! Wysiadł z autobusu i ruszył z pomocą [WIDEO, ZDJĘCIA]",
+        "url": "https://www.radio90.pl/pawel-gluszek-kierowca-autobusu-z-rybnika-uratowal-zycie-mezczyznie-wysiadl-z-autobusu-i-ruszyl-z-pomoca-wideo-zdjecia.html",
+        "date": "Fri, 30 Oct 2026 13:50:14 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "W Bronowie powstanie nowe boisko? Zapadły pierwsze decyzje",
+        "url": "https://www.radiobielsko.pl/sport/w-bronowie-powstanie-nowe-boisko-zapadly-pierwsze-decyzje/103059/",
+        "date": "Fri, 30 Oct 2026 13:50:04 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Nie będzie referendum w Suszcu. Rada gminy: ale jesteśmy przeciwni tego typu inwestycjom",
         "url": "https://www.radio90.pl/nie-bedzie-referendum-w-suszcu-rada-gminy-ale-jestesmy-przeciwni-tego-typu-inwestycjom.html",
         "date": "Fri, 30 Oct 2026 13:10:30 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Kibice dopisali, siatkarki wygrały. Udany powrót ligowych emocji do Rybarzowic",
-        "url": "https://www.radiobielsko.pl/sport/kibice-dopisali-siatkarki-wygraly-udany-powrot-ligowych-emocji-do-rybarzowic/103056/",
-        "date": "Fri, 30 Oct 2026 13:07:21 +0000",
+        "title": "22 górników zginęło w kopalni „Silesia”. Mija 47 lat od tragicznego pożaru",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/22-gornikow-zginelo-w-kopalni-silesia-mija-47-lat-od-tragicznego-pozaru/103046/",
+        "date": "Fri, 30 Oct 2026 13:27:10 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "RADIOWE TYPY: Kto sięgnie po zwycięstwo w 13. kolejce bielsko-tyskiej „okręgówki”?",
-        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-kto-siegnie-po-zwyciestwo-w-13-kolejce-bielsko-tyskiej-okregowki/103042/",
-        "date": "Fri, 30 Oct 2026 12:43:19 +0000",
+        "title": "Kibice dopisali, siatkarki wygrały. Udany powrót ligowych emocji do Rybarzowic",
+        "url": "https://www.radiobielsko.pl/sport/kibice-dopisali-siatkarki-wygraly-udany-powrot-ligowych-emocji-do-rybarzowic/103056/",
+        "date": "Fri, 30 Oct 2026 13:07:21 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,21 +195,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Zderzenie rowerzysty z samochodem osobowym.",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/zderzenie-rowerzysty-z-samochodem-osobowym/103049/",
-        "date": "Fri, 30 Oct 2026 12:35:52 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Szpital w Rybniku ogranicza odwiedziny pacjentów",
-        "url": "https://www.radio90.pl/szpital-w-rybniku-ogranicza-odwiedziny-pacjentow.html",
-        "date": "Fri, 30 Oct 2026 11:35:55 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Co dalej ze Szkołą Podstawową nr 9? Ratusz mówi, że sprawa jest zamknięta",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/co-dalej-ze-szkola-podstawowa-nr-9-ratusz-mowi-ze-sprawa-jest-zamknieta/103023/",
-        "date": "Fri, 30 Oct 2026 12:30:14 +0000",
+        "title": "RADIOWE TYPY: Kto sięgnie po zwycięstwo w 13. kolejce bielsko-tyskiej „okręgówki”?",
+        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-kto-siegnie-po-zwyciestwo-w-13-kolejce-bielsko-tyskiej-okregowki/103042/",
+        "date": "Fri, 30 Oct 2026 12:43:19 +0000",
         "src": "RadioBielsko"
       }
     ],
