@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T21:20:16+00:00",
+  "generated": "2026-10-30T22:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.7,
-    "feels": 5.8,
+    "temp": 7.5,
+    "feels": 6.1,
     "code": 3,
-    "wind": 6.5,
-    "humidity": 91,
+    "wind": 3.2,
+    "humidity": 90,
     "is_day": false,
     "tmax": 9.5,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-30T22:15",
+    "observed": "2026-10-30T23:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 76645,
-        "pln": 302535,
-        "chg24": -3.55
+        "usd": 76792,
+        "pln": 303122,
+        "chg24": -2.52
       },
       {
         "sym": "ETH",
-        "usd": 2240.97,
-        "pln": 8845.63,
-        "chg24": -1.88
+        "usd": 2234.53,
+        "pln": 8820.33,
+        "chg24": -1.34
       }
     ],
     "stale": false
@@ -103,6 +103,12 @@
     "ok": true,
     "market": [
       {
+        "title": "Uranium shares slide even as analysts see tighter supply",
+        "url": "https://www.mining.com/uranium-shares-slide-even-as-analysts-see-tighter-supply/",
+        "date": "Fri, 30 Oct 2026 21:11:00 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Radical AI uses autonomous labs to accelerate alloy discovery",
         "url": "https://www.mining.com/radical-ai-uses-autonomous-labs-to-accelerate-alloy-discovery/",
         "date": "Fri, 30 Oct 2026 20:44:27 +0000",
@@ -142,12 +148,6 @@
         "title": "Critical minerals getting harder to mine as deposits age: EY",
         "url": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/",
         "date": "Fri, 30 Oct 2026 08:01:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "One World Lithium deploys DLCE equipment to UCI, UBC labs",
-        "url": "https://www.mining.com/one-world-lithium-deploys-dlce-equipment-to-uci-ubc-labs-for-rd/",
-        "date": "Fri, 30 Oct 2026 00:05:40 +0000",
         "src": "Mining.com"
       }
     ],
