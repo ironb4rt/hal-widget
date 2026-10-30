@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T17:20:15+00:00",
+  "generated": "2026-10-30T18:20:17+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 7.6,
-    "feels": 5.1,
-    "code": 51,
-    "wind": 11.2,
-    "humidity": 95,
+    "feels": 5.3,
+    "code": 3,
+    "wind": 9.4,
+    "humidity": 90,
     "is_day": false,
     "tmax": 9.5,
     "tmin": 7.0,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-31",
-        "max": 8.8,
-        "min": 5.9,
-        "code": 53
+        "max": 8.6,
+        "min": 6.3,
+        "code": 61
       },
       {
         "date": "2026-11-01",
-        "max": 7.1,
-        "min": 4.9,
-        "code": 51
+        "max": 7.5,
+        "min": 5.6,
+        "code": 53
       }
     ],
-    "observed": "2026-10-30T18:15",
+    "observed": "2026-10-30T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77148,
-        "pln": 304432,
-        "chg24": -4.73
+        "usd": 76958,
+        "pln": 303775,
+        "chg24": -4.74
       },
       {
         "sym": "ETH",
-        "usd": 2243.16,
-        "pln": 8851.64,
-        "chg24": -4.47
+        "usd": 2234.97,
+        "pln": 8822.05,
+        "chg24": -4.43
       }
     ],
     "stale": false
@@ -61,23 +61,23 @@
         "unit": "USD/oz",
         "value": 49.235,
         "chg": -5.66,
-        "as_of": "30.10 16:43"
+        "as_of": "30.10 17:29"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4715,
-        "chg": -1.66,
-        "as_of": "30.10 17:09"
+        "value": 6.4595,
+        "chg": -1.85,
+        "as_of": "30.10 18:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4366,
-        "chg": -4.95,
-        "as_of": "30.10 16:30"
+        "value": 1.4334,
+        "chg": -5.17,
+        "as_of": "30.10 17:53"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 17:09",
+    "updated": "30.10 18:09",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Rozbój w Cieszynie. Trzech mężczyzn napadło na parę, żeby zabrać im pieniądze. Ukradli… 27 złotych",
-        "url": "https://www.radio90.pl/rozboj-w-cieszynie-trzech-mezczyzn-napadlo-na-pare-zeby-zabrac-im-pieniadze-ukradli-27-zlotych.html",
-        "date": "Fri, 30 Oct 2026 17:15:20 +0000",
+        "title": "Żory: Ukradł rower dziecku sprzed szkoły",
+        "url": "https://www.radio90.pl/zory-ukradl-rower-dziecku-sprzed-szkoly.html",
+        "date": "Fri, 30 Oct 2026 18:00:29 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Zmiany w organizacji ruchu w Radlinie 1 listopada",
-        "url": "https://www.radio90.pl/zmiany-w-organizacji-ruchu-w-radlinie-1-listopada.html",
-        "date": "Fri, 30 Oct 2026 16:40:40 +0000",
+        "title": "Rozbój w Cieszynie. Trzech mężczyzn napadło na parę, żeby zabrać im pieniądze. Ukradli… 27 złotych",
+        "url": "https://www.radio90.pl/rozboj-w-cieszynie-trzech-mezczyzn-napadlo-na-pare-zeby-zabrac-im-pieniadze-ukradli-27-zlotych.html",
+        "date": "Fri, 30 Oct 2026 17:15:20 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Pikieta pod starostwem w Wodzisławiu Śląskim. O co chodziło? [WIDEO]",
-        "url": "https://www.radio90.pl/pikieta-pod-starostwem-w-wodzislawiu-slaskim-o-co-chodzilo-wideo.html",
-        "date": "Fri, 30 Oct 2026 16:10:09 +0000",
+        "title": "Zmiany w organizacji ruchu w Radlinie 1 listopada",
+        "url": "https://www.radio90.pl/zmiany-w-organizacji-ruchu-w-radlinie-1-listopada.html",
+        "date": "Fri, 30 Oct 2026 16:40:40 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dzieje się w Rybniku: Muzyczne Zaduszki, zaduma i przygotowania do świąt",
-        "url": "https://www.radio90.pl/dzieje-sie-w-rybniku-muzyczne-zaduszki-zaduma-i-przygotowania-do-swiat.html",
-        "date": "Fri, 30 Oct 2026 15:40:08 +0000",
+        "title": "Pikieta pod starostwem w Wodzisławiu Śląskim. O co chodziło? [WIDEO]",
+        "url": "https://www.radio90.pl/pikieta-pod-starostwem-w-wodzislawiu-slaskim-o-co-chodzilo-wideo.html",
+        "date": "Fri, 30 Oct 2026 16:10:09 +0000",
         "src": "Radio90"
       },
       {
