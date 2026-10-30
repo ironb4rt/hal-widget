@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-30T15:20:14+00:00",
+  "generated": "2026-10-30T16:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.8,
-    "feels": 6.3,
-    "code": 3,
-    "wind": 8.6,
-    "humidity": 77,
-    "is_day": true,
+    "temp": 8.1,
+    "feels": 5.9,
+    "code": 51,
+    "wind": 8.3,
+    "humidity": 85,
+    "is_day": false,
     "tmax": 9.5,
     "tmin": 7.0,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-30T16:15",
+    "observed": "2026-10-30T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77733,
-        "pln": 306957,
-        "chg24": -4.51
+        "usd": 77540,
+        "pln": 305600,
+        "chg24": -4.77
       },
       {
         "sym": "ETH",
-        "usd": 2257.45,
-        "pln": 8914.34,
-        "chg24": -4.17
+        "usd": 2234.07,
+        "pln": 8804.95,
+        "chg24": -5.19
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 49.57,
-        "chg": -5.02,
-        "as_of": "30.10 15:10"
+        "value": 49.305,
+        "chg": -5.53,
+        "as_of": "30.10 16:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5055,
-        "chg": -1.15,
-        "as_of": "30.10 15:10"
+        "value": 6.4845,
+        "chg": -1.47,
+        "as_of": "30.10 16:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4455,
-        "chg": -4.37,
-        "as_of": "30.10 14:53"
+        "value": 1.4413,
+        "chg": -4.64,
+        "as_of": "30.10 16:09"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 15:10",
+    "updated": "30.10 16:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Zmiany w organizacji ruchu przy cmentarzach także w powiecie cieszyńskim",
-        "url": "https://www.radio90.pl/zmiany-w-organizacji-ruchu-przy-cmentarzach-takze-w-powiecie-cieszynskim.html",
-        "date": "Fri, 30 Oct 2026 15:10:25 +0000",
+        "title": "Pikieta pod starostwem w Wodzisławiu Śląskim. O co chodziło? [WIDEO]",
+        "url": "https://www.radio90.pl/pikieta-pod-starostwem-w-wodzislawiu-slaskim-o-co-chodzilo-wideo.html",
+        "date": "Fri, 30 Oct 2026 16:10:09 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Lekarz dostępny nocą i w weekendy. Nowa usługa w Wilkowicach",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/lekarz-dostepny-noca-i-w-weekendy-nowa-usluga-w-wilkowicach/103063/",
+        "date": "Fri, 30 Oct 2026 15:22:37 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Dzieje się w Rybniku: Muzyczne Zaduszki, zaduma i przygotowania do świąt",
+        "url": "https://www.radio90.pl/dzieje-sie-w-rybniku-muzyczne-zaduszki-zaduma-i-przygotowania-do-swiat.html",
+        "date": "Fri, 30 Oct 2026 15:40:08 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Akcja śląskiej policji. Zatrzymano 11 osób, którym zarzuca się urządzanie nielegalnego hazardu [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/akcja-slaskiej-policji-zatrzymano-11-osob-ktorym-zarzuca-sie-urzadzanie-nielegalnego-hazardu-zdjecia.html",
-        "date": "Fri, 30 Oct 2026 14:30:12 +0000",
+        "title": "Prezes JSW złożył rezygnację. Bogusław Oleksy postanowił odejść z zarządu górniczego giganta. Dlaczego?",
+        "url": "https://www.radio90.pl/prezes-jsw-zlozyl-rezygnacje-boguslaw-oleksy-postanowil-odejsc-z-zarzadu-gorniczego-giganta-dlaczego.html",
+        "date": "Fri, 30 Oct 2026 15:36:42 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Paweł Głuszek, kierowca autobusu z Rybnika uratował życie mężczyźnie! Wysiadł z autobusu i ruszył z pomocą [WIDEO, ZDJĘCIA]",
-        "url": "https://www.radio90.pl/pawel-gluszek-kierowca-autobusu-z-rybnika-uratowal-zycie-mezczyznie-wysiadl-z-autobusu-i-ruszyl-z-pomoca-wideo-zdjecia.html",
-        "date": "Fri, 30 Oct 2026 13:50:14 +0000",
+        "title": "Zmiany w organizacji ruchu przy cmentarzach także w powiecie cieszyńskim",
+        "url": "https://www.radio90.pl/zmiany-w-organizacji-ruchu-przy-cmentarzach-takze-w-powiecie-cieszynskim.html",
+        "date": "Fri, 30 Oct 2026 15:10:25 +0000",
         "src": "Radio90"
       },
       {
@@ -187,29 +199,17 @@
         "url": "https://www.radiobielsko.pl/sport/kibice-dopisali-siatkarki-wygraly-udany-powrot-ligowych-emocji-do-rybarzowic/103056/",
         "date": "Fri, 30 Oct 2026 13:07:21 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Nie będzie referendum w Suszcu. Rada gminy: ale jesteśmy przeciwni tego typu inwestycjom",
-        "url": "https://www.radio90.pl/nie-bedzie-referendum-w-suszcu-rada-gminy-ale-jestesmy-przeciwni-tego-typu-inwestycjom.html",
-        "date": "Fri, 30 Oct 2026 13:10:30 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "RADIOWE TYPY: Kto sięgnie po zwycięstwo w 13. kolejce bielsko-tyskiej „okręgówki”?",
-        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-kto-siegnie-po-zwyciestwo-w-13-kolejce-bielsko-tyskiej-okregowki/103042/",
-        "date": "Fri, 30 Oct 2026 12:43:19 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
       {
-        "title": "Tragiczny poranek w Wilkowicach. Nie udało się uratować 11-miesięcznego dziecka",
-        "url": "/informacje/21057-tragiczny-poranek-w-wilkowicach-nie-udalo-sie-uratowac-11-miesiecznego-dziecka",
+        "title": "Felieton[FELIETON] Elektryczne crossy i hulajnogi sieją postrach wśród spacerowiczów. Policja bezradna",
+        "url": "/informacje/21056-felieton-elektryczne-crossy-i-hulajnogi-sieja-postrach-wsrod-spacerowiczow-policja-bezradna",
         "date": ""
       },
       {
-        "title": "Felieton[FELIETON] Elektryczne crossy i hulajnogi sieją postrach wśród spacerowiczów. Policja bezradna",
-        "url": "/informacje/21056-felieton-elektryczne-crossy-i-hulajnogi-sieja-postrach-wsrod-spacerowiczow-policja-bezradna",
+        "title": "Tragiczny poranek w Wilkowicach. Nie udało się uratować 11-miesięcznego dziecka",
+        "url": "/informacje/21057-tragiczny-poranek-w-wilkowicach-nie-udalo-sie-uratowac-11-miesiecznego-dziecka",
         "date": ""
       },
       {
