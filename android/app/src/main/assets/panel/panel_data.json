@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T18:20:17+00:00",
+  "generated": "2026-10-30T19:20:15+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.6,
-    "feels": 5.3,
+    "temp": 7.5,
+    "feels": 5.7,
     "code": 3,
-    "wind": 9.4,
-    "humidity": 90,
+    "wind": 5.8,
+    "humidity": 89,
     "is_day": false,
     "tmax": 9.5,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-30T19:15",
+    "observed": "2026-10-30T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 76958,
-        "pln": 303775,
-        "chg24": -4.74
+        "usd": 76496,
+        "pln": 301780,
+        "chg24": -5.26
       },
       {
         "sym": "ETH",
-        "usd": 2234.97,
-        "pln": 8822.05,
-        "chg24": -4.43
+        "usd": 2225.38,
+        "pln": 8779.17,
+        "chg24": -4.33
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 49.235,
-        "chg": -5.66,
-        "as_of": "30.10 17:29"
+        "value": 49.14,
+        "chg": -5.85,
+        "as_of": "30.10 17:57"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.4595,
-        "chg": -1.85,
-        "as_of": "30.10 18:09"
+        "value": 6.4585,
+        "chg": -1.86,
+        "as_of": "30.10 19:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 18:09",
+    "updated": "30.10 19:09",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "Zostaw auto w domu, jest dodatkowa linia w Raciborzu",
+        "url": "https://www.radio90.pl/zostaw-auto-w-domu-jest-dodatkowa-linia-w-raciborzu.html",
+        "date": "Fri, 30 Oct 2026 18:45:04 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Potrącenie dziecka na hulajnodze. Na miejscu służby ratunkowe",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/potracenie-dziecka-na-hulajnodze-na-miejscu-sluzby-ratunkowe/103067/",
+        "date": "Fri, 30 Oct 2026 18:28:03 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Żory: Ukradł rower dziecku sprzed szkoły",
         "url": "https://www.radio90.pl/zory-ukradl-rower-dziecku-sprzed-szkoly.html",
         "date": "Fri, 30 Oct 2026 18:00:29 +0000",
@@ -186,18 +198,6 @@
         "title": "22 górników zginęło w kopalni „Silesia”. Mija 47 lat od tragicznego pożaru",
         "url": "https://www.radiobielsko.pl/powiat-bielski/22-gornikow-zginelo-w-kopalni-silesia-mija-47-lat-od-tragicznego-pozaru/103046/",
         "date": "Fri, 30 Oct 2026 13:27:10 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Pikieta pod starostwem w Wodzisławiu Śląskim. O co chodziło? [WIDEO]",
-        "url": "https://www.radio90.pl/pikieta-pod-starostwem-w-wodzislawiu-slaskim-o-co-chodzilo-wideo.html",
-        "date": "Fri, 30 Oct 2026 16:10:09 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Kibice dopisali, siatkarki wygrały. Udany powrót ligowych emocji do Rybarzowic",
-        "url": "https://www.radiobielsko.pl/sport/kibice-dopisali-siatkarki-wygraly-udany-powrot-ligowych-emocji-do-rybarzowic/103056/",
-        "date": "Fri, 30 Oct 2026 13:07:21 +0000",
         "src": "RadioBielsko"
       }
     ],
