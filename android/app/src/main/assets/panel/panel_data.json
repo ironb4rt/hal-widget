@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T10:20:13+00:00",
+  "generated": "2026-10-30T11:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 9.3,
-    "feels": 7.1,
-    "code": 2,
+    "temp": 9.6,
+    "feels": 7.4,
+    "code": 3,
     "wind": 7.2,
-    "humidity": 76,
+    "humidity": 75,
     "is_day": true,
     "tmax": 9.6,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 53
       }
     ],
-    "observed": "2026-10-30T11:15",
+    "observed": "2026-10-30T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77336,
-        "pln": 303527,
-        "chg24": -3.38
+        "usd": 77590,
+        "pln": 304606,
+        "chg24": -3.15
       },
       {
         "sym": "ETH",
-        "usd": 2220.59,
-        "pln": 8715.28,
-        "chg24": -4.09
+        "usd": 2242.03,
+        "pln": 8801.9,
+        "chg24": -3.45
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.74,
-        "chg": -2.78,
-        "as_of": "30.10 10:10"
+        "value": 50.515,
+        "chg": -3.21,
+        "as_of": "30.10 11:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.52,
-        "chg": -0.93,
-        "as_of": "30.10 10:10"
+        "value": 6.529,
+        "chg": -0.79,
+        "as_of": "30.10 11:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 10:10",
+    "updated": "30.10 11:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,45 @@
     ],
     "local": [
       {
+        "title": "Sztuczna inteligencja w bielskim Ratuszu. Będzie pomagać mieszkańcom przez całą dobę",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/sztuczna-inteligencja-w-bielskim-ratuszu-bedzie-pomagac-mieszkancom-przez-cala-dobe/103011/",
+        "date": "Fri, 30 Oct 2026 11:16:32 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Nowe kolumbarium w Jastrzębiu-Zdroju. „To przede wszystkim oszczędność miejsca”",
+        "url": "https://www.radio90.pl/nowe-kolumbarium-w-jastrzebiu-zdroju-to-przede-wszystkim-oszczednosc-miejsca.html",
+        "date": "Fri, 30 Oct 2026 11:00:26 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Po 11 latach muszą opuścić bacówkę. „To nie była nasza decyzja”",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/po-11-latach-musza-opuscic-bacowke-to-nie-byla-nasza-decyzja/103039/",
+        "date": "Fri, 30 Oct 2026 11:02:58 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "JKH GKS Jastrzębie przegrywa wyjazdowy mecz w Katowicach. Jastrzębianie nie obronią Pucharu Polski",
+        "url": "https://www.radio90.pl/jkh-gks-jastrzebie-przegrywa-wyjazdowy-mecz-w-katowicach-jastrzebianie-nie-obronia-pucharu-polski.html",
+        "date": "Fri, 30 Oct 2026 10:35:36 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "RADIOWE TYPY: Ostatnia kolejka rundy jesiennej w żywiecko-skoczowskiej „okręgówce”",
+        "url": "https://www.radiobielsko.pl/sport/radiowe-typy-ostatnia-kolejka-rundy-jesiennej-w-zywiecko-skoczowskiej-okregowce/103022/",
+        "date": "Fri, 30 Oct 2026 10:57:46 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Zmiany przy cmentarzach w Rybniku. Będzie też darmowa linia autobusowa",
         "url": "https://www.radio90.pl/zmiany-przy-cmentarzach-w-rybniku-bedzie-tez-darmowa-linia-autobusowa.html",
         "date": "Fri, 30 Oct 2026 10:00:32 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Pięć sezonów… i koniec! Trener żegna się z klubem",
-        "url": "https://www.radiobielsko.pl/sport/piec-sezonow-i-koniec-trener-zegna-sie-z-klubem/102969/",
-        "date": "Fri, 30 Oct 2026 09:50:52 +0000",
+        "title": "Przez lata miał znęcać się nad rodzicami. 29-latek musiał opuścić dom",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/przez-lata-mial-znecac-sie-nad-rodzicami-29-latek-musial-opuscic-dom/103006/",
+        "date": "Fri, 30 Oct 2026 10:39:06 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -169,47 +199,17 @@
         "url": "https://www.radio90.pl/volley-rybnik-nareszcie-zwycieski-trzy-punkty-siatkarze-przywoza-z-andrychowa.html",
         "date": "Fri, 30 Oct 2026 09:30:00 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Rozbój dla 27 złotych… Dwóch podejrzanych trafiło do aresztu",
-        "url": "https://www.radiobielsko.pl/cieszyn/rozboj-dla-27-zlotych-dwoch-podejrzanych-trafilo-do-aresztu/103009/",
-        "date": "Fri, 30 Oct 2026 09:48:38 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Wojskowe inwestycje w Raciborzu z wsparciem finansowym państwa [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/wojskowe-inwestycje-w-raciborzu-z-wsparciem-finansowym-panstwa-zdjecia.html",
-        "date": "Fri, 30 Oct 2026 08:50:11 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Święty Hubert opuszcza Promnice",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/swiety-hubert-opuszcza-promnice/102998/",
-        "date": "Fri, 30 Oct 2026 09:26:05 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Uwaga kierowcy, zmiany przy cmentarzach w Żorach",
-        "url": "https://www.radio90.pl/uwaga-kierowcy-zmiany-przy-cmentarzach-w-zorach.html",
-        "date": "Fri, 30 Oct 2026 08:10:39 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Kontrole w szkołach zostają na stałe",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/kontrole-w-szkolach-zostaja-na-stale/102993/",
-        "date": "Fri, 30 Oct 2026 09:16:41 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
       {
-        "title": "Tragiczny poranek w Wilkowicach. Nie udało się uratować 11-miesięcznego dziecka",
-        "url": "/informacje/21057-tragiczny-poranek-w-wilkowicach-nie-udalo-sie-uratowac-11-miesiecznego-dziecka",
+        "title": "Felieton[FELIETON] Elektryczne crossy i hulajnogi sieją postrach wśród spacerowiczów. Policja bezradna",
+        "url": "/informacje/21056-felieton-elektryczne-crossy-i-hulajnogi-sieja-postrach-wsrod-spacerowiczow-policja-bezradna",
         "date": ""
       },
       {
-        "title": "Felieton[FELIETON] Elektryczne crossy i hulajnogi sieją postrach wśród spacerowiczów. Policja bezradna",
-        "url": "/informacje/21056-felieton-elektryczne-crossy-i-hulajnogi-sieja-postrach-wsrod-spacerowiczow-policja-bezradna",
+        "title": "Poważnie wyglądająca kraksa na S-52. Utrudnienia w kierunku Cieszyna",
+        "url": "/informacje/21055-powaznie-wygladajaca-kraksa-na-s-52-utrudnienia-w-kierunku-cieszyna",
         "date": ""
       },
       {
