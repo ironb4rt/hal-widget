@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T00:20:09+00:00",
+  "generated": "2026-10-30T01:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.2,
-    "feels": 5.0,
+    "temp": 7.3,
+    "feels": 4.8,
     "code": 3,
-    "wind": 9.4,
-    "humidity": 97,
+    "wind": 10.4,
+    "humidity": 91,
     "is_day": false,
     "tmax": 9.5,
     "tmin": 6.8,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-11-01",
-        "max": 7.3,
-        "min": 5.1,
+        "max": 6.8,
+        "min": 5.0,
         "code": 51
       }
     ],
-    "observed": "2026-10-30T01:15",
+    "observed": "2026-10-30T02:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77411,
-        "pln": 303795,
-        "chg24": -4.66
+        "usd": 77037,
+        "pln": 301601,
+        "chg24": -4.72
       },
       {
         "sym": "ETH",
-        "usd": 2225.61,
-        "pln": 8734.29,
-        "chg24": -5.49
+        "usd": 2211.77,
+        "pln": 8659.04,
+        "chg24": -5.61
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 51.925,
-        "chg": -2.87,
-        "as_of": "30.10 00:10"
+        "value": 51.305,
+        "chg": -4.03,
+        "as_of": "30.10 01:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.5585,
-        "chg": -1.25,
-        "as_of": "30.10 00:10"
+        "value": 6.5485,
+        "chg": -1.4,
+        "as_of": "30.10 01:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4402,
-        "chg": -3.14,
-        "as_of": "29.10 23:47"
+        "value": 1.4373,
+        "chg": -3.33,
+        "as_of": "30.10 00:44"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 00:10",
+    "updated": "30.10 01:10",
     "stale": false
   },
   "fx": {
