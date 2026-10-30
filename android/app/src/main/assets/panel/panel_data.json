@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T11:20:13+00:00",
+  "generated": "2026-10-30T12:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 9.6,
-    "feels": 7.4,
+    "feels": 7.3,
     "code": 3,
-    "wind": 7.2,
-    "humidity": 75,
+    "wind": 7.6,
+    "humidity": 74,
     "is_day": true,
     "tmax": 9.6,
     "tmin": 7.0,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-31",
-        "max": 8.6,
-        "min": 6.1,
-        "code": 55
+        "max": 9.0,
+        "min": 6.3,
+        "code": 61
       },
       {
         "date": "2026-11-01",
-        "max": 7.2,
-        "min": 4.2,
+        "max": 7.6,
+        "min": 3.8,
         "code": 53
       }
     ],
-    "observed": "2026-10-30T12:15",
+    "observed": "2026-10-30T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77590,
-        "pln": 304606,
-        "chg24": -3.15
+        "usd": 77456,
+        "pln": 304514,
+        "chg24": -3.22
       },
       {
         "sym": "ETH",
-        "usd": 2242.03,
-        "pln": 8801.9,
-        "chg24": -3.45
+        "usd": 2234.91,
+        "pln": 8786.45,
+        "chg24": -3.75
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.515,
-        "chg": -3.21,
-        "as_of": "30.10 11:10"
+        "value": 50.14,
+        "chg": -3.93,
+        "as_of": "30.10 12:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.529,
-        "chg": -0.79,
-        "as_of": "30.10 11:10"
+        "value": 6.509,
+        "chg": -1.09,
+        "as_of": "30.10 12:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 11:10",
+    "updated": "30.10 12:10",
     "stale": false
   },
   "fx": {
@@ -103,15 +103,15 @@
     "ok": true,
     "market": [
       {
-        "title": "One World Lithium deploys DLCE equipment to UCI, UBC labs",
-        "url": "https://www.mining.com/one-world-lithium-deploys-dlce-equipment-to-uci-ubc-labs-for-rd/",
-        "date": "Fri, 30 Oct 2026 00:05:40 +0000",
+        "title": "Critical minerals getting harder to mine as deposits age: EY",
+        "url": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/",
+        "date": "Fri, 30 Oct 2026 08:01:00 +0000",
         "src": "Mining.com"
       },
       {
-        "title": "Critical minerals getting harder to mine as deposits age: EY",
-        "url": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/",
-        "date": "Fri, 30 Oct 2026 00:01:00 +0000",
+        "title": "One World Lithium deploys DLCE equipment to UCI, UBC labs",
+        "url": "https://www.mining.com/one-world-lithium-deploys-dlce-equipment-to-uci-ubc-labs-for-rd/",
+        "date": "Fri, 30 Oct 2026 00:05:40 +0000",
         "src": "Mining.com"
       },
       {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Ciężarówka z nielegalnymi papierosami wartymi 10 milionów złotych zatrzymana na A1",
+        "url": "https://www.radio90.pl/ciezarowka-z-nielegalnymi-papierosami-wartymi-10-milionow-zlotych-zatrzymana-na-a1.html",
+        "date": "Fri, 30 Oct 2026 12:10:19 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Nieproszeni goście w piwnicach, a na koniec pożar. Strach mieszkać w takim bloku",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/nieproszeni-goscie-w-piwnicach-a-na-koniec-pozar-boi-sie-mieszkac-w-swoim-bloku/103005/",
+        "date": "Fri, 30 Oct 2026 12:00:20 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Szpital w Rybniku ogranicza odwiedziny pacjentów",
+        "url": "https://www.radio90.pl/szpital-w-rybniku-ogranicza-odwiedziny-pacjentow.html",
+        "date": "Fri, 30 Oct 2026 11:35:55 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Sztuczna inteligencja w bielskim Ratuszu. Będzie pomagać mieszkańcom przez całą dobę",
         "url": "https://www.radiobielsko.pl/bielsko-biala/sztuczna-inteligencja-w-bielskim-ratuszu-bedzie-pomagac-mieszkancom-przez-cala-dobe/103011/",
         "date": "Fri, 30 Oct 2026 11:16:32 +0000",
@@ -181,24 +199,6 @@
         "url": "https://www.radiobielsko.pl/sport/radiowe-typy-ostatnia-kolejka-rundy-jesiennej-w-zywiecko-skoczowskiej-okregowce/103022/",
         "date": "Fri, 30 Oct 2026 10:57:46 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Zmiany przy cmentarzach w Rybniku. Będzie też darmowa linia autobusowa",
-        "url": "https://www.radio90.pl/zmiany-przy-cmentarzach-w-rybniku-bedzie-tez-darmowa-linia-autobusowa.html",
-        "date": "Fri, 30 Oct 2026 10:00:32 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Przez lata miał znęcać się nad rodzicami. 29-latek musiał opuścić dom",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/przez-lata-mial-znecac-sie-nad-rodzicami-29-latek-musial-opuscic-dom/103006/",
-        "date": "Fri, 30 Oct 2026 10:39:06 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Volley Rybnik nareszcie zwycięski. Trzy punkty siatkarze przywożą z Andrychowa",
-        "url": "https://www.radio90.pl/volley-rybnik-nareszcie-zwycieski-trzy-punkty-siatkarze-przywoza-z-andrychowa.html",
-        "date": "Fri, 30 Oct 2026 09:30:00 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
