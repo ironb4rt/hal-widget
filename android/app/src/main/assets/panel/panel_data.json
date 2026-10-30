@@ -1,37 +1,37 @@
 {
-  "generated": "2026-10-29T23:20:08+00:00",
+  "generated": "2026-10-30T00:20:09+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.3,
-    "feels": 5.7,
-    "code": 51,
-    "wind": 5.8,
-    "humidity": 98,
+    "temp": 7.2,
+    "feels": 5.0,
+    "code": 3,
+    "wind": 9.4,
+    "humidity": 97,
     "is_day": false,
-    "tmax": 9.9,
-    "tmin": 7.0,
+    "tmax": 9.5,
+    "tmin": 6.8,
     "forecast": [
       {
         "date": "2026-10-30",
-        "max": 9.9,
-        "min": 7.0,
-        "code": 61
+        "max": 9.5,
+        "min": 6.8,
+        "code": 51
       },
       {
         "date": "2026-10-31",
-        "max": 8.6,
-        "min": 5.7,
-        "code": 61
+        "max": 8.8,
+        "min": 5.9,
+        "code": 63
       },
       {
         "date": "2026-11-01",
         "max": 7.3,
-        "min": 4.8,
+        "min": 5.1,
         "code": 51
       }
     ],
-    "observed": "2026-10-30T00:15",
+    "observed": "2026-10-30T01:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78742,
-        "pln": 308853,
-        "chg24": -3.06
+        "usd": 77411,
+        "pln": 303795,
+        "chg24": -4.66
       },
       {
         "sym": "ETH",
-        "usd": 2266.18,
-        "pln": 8888.71,
-        "chg24": -3.86
+        "usd": 2225.61,
+        "pln": 8734.29,
+        "chg24": -5.49
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 51.895,
-        "chg": -2.92,
-        "as_of": "29.10 23:10"
+        "value": 51.925,
+        "chg": -2.87,
+        "as_of": "30.10 00:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.576,
-        "chg": -0.99,
-        "as_of": "29.10 23:09"
+        "value": 6.5585,
+        "chg": -1.25,
+        "as_of": "30.10 00:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4433,
-        "chg": -2.93,
-        "as_of": "29.10 16:07"
+        "value": 1.4402,
+        "chg": -3.14,
+        "as_of": "29.10 23:47"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "29.10 23:10",
+    "updated": "30.10 00:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "One World Lithium deploys DLCE equipment to UCI, UBC labs",
+        "url": "https://www.mining.com/one-world-lithium-deploys-dlce-equipment-to-uci-ubc-labs-for-rd/",
+        "date": "Fri, 30 Oct 2026 00:05:40 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Critical minerals getting harder to mine as deposits age: EY",
+        "url": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/",
+        "date": "Fri, 30 Oct 2026 00:01:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Critical One Energy, SICC ink $303 million antimony offtake deal for Howells Lake project in Ontario",
         "url": "https://www.mining.com/critical-one-energy-sicc-ink-303-million-antimony-offtake-deal-for-howells-lake-project-in-ontario/",
@@ -136,18 +148,6 @@
         "title": "Alamos delays Island Gold shaft as costs rise",
         "url": "https://www.mining.com/alamos-delays-island-gold-shaft-as-costs-rise/",
         "date": "Thu, 29 Oct 2026 13:40:45 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "China border checks cut Oyu Tolgoi exports by 70%",
-        "url": "https://www.mining.com/china-border-checks-cut-oyu-tolgoi-exports-by-70/",
-        "date": "Thu, 29 Oct 2026 13:35:30 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Two workers die after Kinross Gold accidents",
-        "url": "https://www.mining.com/two-workers-die-after-kinross-gold-accidents/",
-        "date": "Thu, 29 Oct 2026 13:26:12 +0000",
         "src": "Mining.com"
       }
     ],
