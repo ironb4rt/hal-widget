@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T07:20:12+00:00",
+  "generated": "2026-10-30T08:20:12+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.0,
-    "feels": 4.6,
+    "temp": 7.3,
+    "feels": 5.3,
     "code": 3,
-    "wind": 7.6,
-    "humidity": 84,
+    "wind": 4.3,
+    "humidity": 82,
     "is_day": true,
     "tmax": 9.7,
     "tmin": 7.0,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-30T08:15",
+    "observed": "2026-10-30T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78363,
-        "pln": 307489,
-        "chg24": -1.87
+        "usd": 78011,
+        "pln": 305771,
+        "chg24": -2.49
       },
       {
         "sym": "ETH",
-        "usd": 2247.43,
-        "pln": 8818.74,
-        "chg24": -2.64
+        "usd": 2229.55,
+        "pln": 8738.96,
+        "chg24": -3.75
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.87,
-        "chg": -2.53,
-        "as_of": "30.10 07:10"
+        "value": 50.665,
+        "chg": -2.92,
+        "as_of": "30.10 08:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.536,
-        "chg": -0.68,
-        "as_of": "30.10 07:09"
+        "value": 6.516,
+        "chg": -0.99,
+        "as_of": "30.10 08:10"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 07:10",
+    "updated": "30.10 08:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,30 @@
     ],
     "local": [
       {
+        "title": "Uwaga kierowcy, zmiany przy cmentarzach w Żorach",
+        "url": "https://www.radio90.pl/uwaga-kierowcy-zmiany-przy-cmentarzach-w-zorach.html",
+        "date": "Fri, 30 Oct 2026 08:10:39 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Od nowego roku zapłacą więcej. Podatki i śmieci w górę",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/od-nowego-roku-zaplaca-wiecej-podatki-i-smieci-w-gore/102974/",
+        "date": "Fri, 30 Oct 2026 07:43:27 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Wysoka wygrana koszykarek RMKS Xbest Rybnik w Krakowie",
+        "url": "https://www.radio90.pl/wysoka-wygrana-koszykarek-rmks-xbest-rybnik-w-krakowie.html",
+        "date": "Fri, 30 Oct 2026 07:30:54 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dojazd do posesji może być niemożliwy przez kilka godzin",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/dojazd-do-posesji-moze-byc-niemozliwy-przez-kilka-godzin/102975/",
+        "date": "Fri, 30 Oct 2026 07:40:12 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Nowe boisko w Rybniku. Powstało przy ZSP nr 2 w Niewiadomiu. Jakie sporty można tam uprawiać? [ZDJĘCIA]",
         "url": "https://www.radio90.pl/nowe-boisko-w-rybniku-powstalo-przy-zsp-nr-2-w-niewiadomiu-jakie-sporty-mozna-tam-uprawiac-zdjecia.html",
         "date": "Fri, 30 Oct 2026 06:45:48 +0000",
@@ -171,42 +195,13 @@
         "src": "Radio90"
       },
       {
-        "title": "Rozbił auta i zniknął?",
+        "title": "4 rozbite auta i 4 promile. Pijanego kierowcy szukały psy tropiące [AKTUALIZACJA]",
         "url": "https://www.radiobielsko.pl/bielsko-biala/rozbil-auta-i-zniknal/102955/",
         "date": "Thu, 29 Oct 2026 19:26:53 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zakończył się remont drogi w Lubomi. Nowy asfalt na odcinku ponad 1,5 kilometra. „Ważna inwestycja dla lokalnych rolników”",
-        "url": "https://www.radio90.pl/zakonczyl-sie-remont-drogi-w-lubomi-nowy-asfalt-na-odcinku-ponad-15-kilometra-wazna-inwestycja-dla-lokalnych-rolnikow.html",
-        "date": "Thu, 29 Oct 2026 17:30:49 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Nie ten bilet? Nie wszystko stracone. Przewoźnik łagodzi zasady",
-        "url": "https://www.radiobielsko.pl/zywiec/nie-ten-bilet-nie-wszystko-stracone-przewoznik-lagodzi-zasady/102950/",
-        "date": "Thu, 29 Oct 2026 18:13:16 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Tragedia w Milówce. Na jednej z ulic zasłabł 68-latek. Mężczyzna był reanimowany, ale niestety bezskutecznie",
-        "url": "https://www.radio90.pl/tragedia-w-milowce-na-jednej-z-ulic-zaslabl-68-latek-mezczyzna-byl-reanimowany-ale-niestety-bezskutecznie.html",
-        "date": "Thu, 29 Oct 2026 16:35:30 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dominacja trzech zespołów. Oto najstarsze drużyny bielsko-tyskiej „okręgówki”",
-        "url": "https://www.radiobielsko.pl/sport/dominacja-trzech-zespolow-oto-najstarsze-druzyny-bielsko-tyskiej-okregowki/102936/",
-        "date": "Thu, 29 Oct 2026 17:21:53 +0000",
         "src": "RadioBielsko"
       }
     ],
     "roads": [
-      {
-        "title": "Cztery uszkodzone samochody i ponad 4 promile alkoholu. 41-latek zatrzymany po ucieczce",
-        "url": "/informacje/21052-cztery-uszkodzone-samochody-i-ponad-4-promile-alkoholu-41-latek-zatrzymany-po-ucieczce",
-        "date": ""
-      },
       {
         "title": "Felieton[FELIETON] Ile warta jest skrzynka \"STOP Agresji Drogowej\"? To jeden wielki pic na wodę!",
         "url": "/informacje/21040-felieton-ile-warta-jest-skrzynka-stop-agresji-drogowej-to-jeden-wielki-pic-na-wode",
@@ -220,6 +215,11 @@
       {
         "title": "Nowe nawierzchnie dróg mogą pojawić się z opóźnieniem. Powodem problemy z dostawami asfaltu",
         "url": "/informacje/21050-nowe-nawierzchnie-drog-moga-pojawic-sie-z-opoznieniem-powodem-problemy-z-dostawami-asfaltu",
+        "date": ""
+      },
+      {
+        "title": "Gorący temat[WIDEO] Niebezpieczna sytuacja na S-52 w Bielsku-Białej. To codzienny poranny problem w tym miejscu!",
+        "url": "/informacje/21047-wideo-niebezpieczna-sytuacja-na-s-52-w-bielsku-bialej-to-codzienny-poranny-problem-w-tym-miejscu",
         "date": ""
       },
       {
