@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-30T20:20:15+00:00",
+  "generated": "2026-10-30T21:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.5,
-    "feels": 5.6,
+    "temp": 7.7,
+    "feels": 5.8,
     "code": 3,
-    "wind": 5.0,
-    "humidity": 87,
+    "wind": 6.5,
+    "humidity": 91,
     "is_day": false,
     "tmax": 9.5,
     "tmin": 7.0,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-10-31",
-        "max": 8.6,
-        "min": 6.3,
+        "max": 8.7,
+        "min": 5.9,
         "code": 61
       },
       {
         "date": "2026-11-01",
-        "max": 7.5,
-        "min": 5.6,
+        "max": 7.4,
+        "min": 4.3,
         "code": 53
       }
     ],
-    "observed": "2026-10-30T21:15",
+    "observed": "2026-10-30T22:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 76842,
-        "pln": 303096,
-        "chg24": -4.31
+        "usd": 76645,
+        "pln": 302535,
+        "chg24": -3.55
       },
       {
         "sym": "ETH",
-        "usd": 2239.47,
-        "pln": 8833.41,
-        "chg24": -3.27
+        "usd": 2240.97,
+        "pln": 8845.63,
+        "chg24": -1.88
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 48.975,
-        "chg": -6.16,
-        "as_of": "30.10 18:23"
+        "value": 49.135,
+        "chg": -5.86,
+        "as_of": "30.10 20:59"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.487,
-        "chg": -1.43,
-        "as_of": "30.10 20:09"
+        "value": 6.5095,
+        "chg": -1.09,
+        "as_of": "30.10 20:59"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4334,
-        "chg": -5.17,
-        "as_of": "30.10 17:53"
+        "value": 1.4361,
+        "chg": -4.99,
+        "as_of": "30.10 20:11"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 20:09",
+    "updated": "30.10 20:59",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,18 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Radical AI uses autonomous labs to accelerate alloy discovery",
+        "url": "https://www.mining.com/radical-ai-uses-autonomous-labs-to-accelerate-alloy-discovery/",
+        "date": "Fri, 30 Oct 2026 20:44:27 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Lynas locks in price floors as revenue jumps 55%",
+        "url": "https://www.mining.com/lynas-locks-in-price-floors-as-revenue-jumps-55/",
+        "date": "Fri, 30 Oct 2026 19:10:47 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
         "url": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
@@ -137,25 +149,13 @@
         "url": "https://www.mining.com/one-world-lithium-deploys-dlce-equipment-to-uci-ubc-labs-for-rd/",
         "date": "Fri, 30 Oct 2026 00:05:40 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Critical One Energy, SICC ink $303 million antimony offtake deal for Howells Lake project in Ontario",
-        "url": "https://www.mining.com/critical-one-energy-sicc-ink-303-million-antimony-offtake-deal-for-howells-lake-project-in-ontario/",
-        "date": "Thu, 29 Oct 2026 21:59:40 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Morton Salt ceases operations at Ohio mine after water breach",
-        "url": "https://www.mining.com/morton-salt-ceases-operations-at-ohio-mine-after-water-breach/",
-        "date": "Thu, 29 Oct 2026 18:55:16 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Cztery grosze od metra, a dla budżetu miliony. Podatki pójdą w górę",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-grosze-od-metra-miliony-do-budzetu-podatki-pojda-w-gore/103070/",
-        "date": "Fri, 30 Oct 2026 19:41:16 +0000",
+        "title": "Siatkarska dominacja BBTS-u! Czarni Radom bez szans w Bielsku-Białej",
+        "url": "https://www.radiobielsko.pl/sport/siatkarska-dominacja-bbts-u-czarni-radom-bez-szans-w-bielsku-bialej/103078/",
+        "date": "Fri, 30 Oct 2026 21:03:50 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Potrącenie dziecka na hulajnodze. Na miejscu służby ratunkowe",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/potracenie-dziecka-na-hulajnodze-na-miejscu-sluzby-ratunkowe/103067/",
-        "date": "Fri, 30 Oct 2026 18:28:03 +0000",
+        "title": "Cztery grosze od metra, a dla budżetu miliony. Podatki pójdą w górę",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-grosze-od-metra-miliony-do-budzetu-podatki-pojda-w-gore/103070/",
+        "date": "Fri, 30 Oct 2026 19:41:16 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Lekarz dostępny nocą i w weekendy. Nowa usługa w Wilkowicach",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/lekarz-dostepny-noca-i-w-weekendy-nowa-usluga-w-wilkowicach/103063/",
-        "date": "Fri, 30 Oct 2026 15:22:37 +0000",
+        "title": "Potrącenie dziecka na hulajnodze. Na miejscu służby ratunkowe",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/potracenie-dziecka-na-hulajnodze-na-miejscu-sluzby-ratunkowe/103067/",
+        "date": "Fri, 30 Oct 2026 18:28:03 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "W Bronowie powstanie nowe boisko? Zapadły pierwsze decyzje",
-        "url": "https://www.radiobielsko.pl/sport/w-bronowie-powstanie-nowe-boisko-zapadly-pierwsze-decyzje/103059/",
-        "date": "Fri, 30 Oct 2026 13:50:04 +0000",
+        "title": "Lekarz dostępny nocą i w weekendy. Nowa usługa w Wilkowicach",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/lekarz-dostepny-noca-i-w-weekendy-nowa-usluga-w-wilkowicach/103063/",
+        "date": "Fri, 30 Oct 2026 15:22:37 +0000",
         "src": "RadioBielsko"
       },
       {
