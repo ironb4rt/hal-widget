@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-31T09:20:04+00:00",
+  "generated": "2026-10-31T10:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.9,
-    "feels": 5.4,
-    "code": 53,
-    "wind": 11.2,
-    "humidity": 93,
+    "temp": 8.1,
+    "feels": 5.5,
+    "code": 51,
+    "wind": 11.5,
+    "humidity": 89,
     "is_day": true,
     "tmax": 8.9,
     "tmin": 6.0,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-31T10:15",
+    "observed": "2026-10-31T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77328,
-        "pln": 305236,
-        "chg24": -0.48
+        "usd": 77378,
+        "pln": 305434,
+        "chg24": 0.1
       },
       {
         "sym": "ETH",
-        "usd": 2242.23,
-        "pln": 8850.72,
-        "chg24": 0.89
+        "usd": 2244.57,
+        "pln": 8859.94,
+        "chg24": 1.09
       }
     ],
     "stale": false
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "„Koleje Śląskie na torach historii” – wyjątkowa monografia na 15-lecie regionalnego przewoźnika już w sprzedaży",
+        "url": "https://www.radio90.pl/koleje-slaskie-na-torach-historii-wyjatkowa-monografia-na-15-lecie-regionalnego-przewoznika-juz-w-sprzedazy.html",
+        "date": "Sat, 31 Oct 2026 10:16:49 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Pożar na czwartym piętrze bloku. Jedna osoba trafiła do szpitala",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/pozar-na-czwartym-pietrze-bloku-jedna-osoba-trafila-do-szpitala/103111/",
+        "date": "Sat, 31 Oct 2026 09:31:05 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Szkoły podstawowe w Rybniku: do kilkunastu placówek trafi nowe wyposażenie. Do nauki przyrody i ZPT",
         "url": "https://www.radio90.pl/szkoly-podstawowe-w-rybniku-do-kilkunastu-placowek-trafi-nowe-wyposazenie-do-nauki-przyrody-i-zpt.html",
         "date": "Sat, 31 Oct 2026 09:15:31 +0000",
@@ -186,18 +198,6 @@
         "title": "Czy zadziała efekt nowej miotły? Szkoleniowiec ma plan. „Nie chcę zdradzać zbyt wiele, ale…”",
         "url": "https://www.radiobielsko.pl/sport/czy-zadziala-efekt-nowej-miotly-szkoleniowiec-ma-plan-nie-chce-zdradzac-zbyt-wiele-ale/103080/",
         "date": "Sat, 31 Oct 2026 00:28:46 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zostaw auto w domu, jest dodatkowa linia w Raciborzu",
-        "url": "https://www.radio90.pl/zostaw-auto-w-domu-jest-dodatkowa-linia-w-raciborzu.html",
-        "date": "Fri, 30 Oct 2026 18:45:04 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Siatkarska dominacja BBTS-u! Czarni Radom bez szans w Bielsku-Białej",
-        "url": "https://www.radiobielsko.pl/sport/siatkarska-dominacja-bbts-u-czarni-radom-bez-szans-w-bielsku-bialej/103078/",
-        "date": "Fri, 30 Oct 2026 21:03:50 +0000",
         "src": "RadioBielsko"
       }
     ],
