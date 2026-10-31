@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-31T10:20:04+00:00",
+  "generated": "2026-10-31T11:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 8.1,
-    "feels": 5.5,
-    "code": 51,
-    "wind": 11.5,
-    "humidity": 89,
+    "temp": 8.5,
+    "feels": 5.7,
+    "code": 3,
+    "wind": 11.9,
+    "humidity": 83,
     "is_day": true,
     "tmax": 8.9,
     "tmin": 6.0,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-31T11:15",
+    "observed": "2026-10-31T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77378,
-        "pln": 305434,
-        "chg24": 0.1
+        "usd": 77350,
+        "pln": 305321,
+        "chg24": -0.31
       },
       {
         "sym": "ETH",
-        "usd": 2244.57,
-        "pln": 8859.94,
-        "chg24": 1.09
+        "usd": 2244.21,
+        "pln": 8858.52,
+        "chg24": 0.11
       }
     ],
     "stale": false
