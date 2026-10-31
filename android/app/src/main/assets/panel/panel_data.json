@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-31T07:20:03+00:00",
+  "generated": "2026-10-31T08:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.7,
-    "feels": 5.5,
+    "temp": 7.6,
+    "feels": 4.9,
     "code": 51,
-    "wind": 9.0,
-    "humidity": 91,
+    "wind": 12.2,
+    "humidity": 93,
     "is_day": true,
     "tmax": 8.8,
     "tmin": 6.1,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-11-02",
-        "max": 5.9,
-        "min": 4.1,
+        "max": 6.7,
+        "min": 4.5,
         "code": 51
       }
     ],
-    "observed": "2026-10-31T08:15",
+    "observed": "2026-10-31T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77346,
-        "pln": 305307,
-        "chg24": -1.32
+        "usd": 77327,
+        "pln": 305230,
+        "chg24": -0.91
       },
       {
         "sym": "ETH",
-        "usd": 2243.82,
-        "pln": 8856.99,
-        "chg24": -0.17
+        "usd": 2243.13,
+        "pln": 8854.27,
+        "chg24": 0.57
       }
     ],
     "stale": false
@@ -153,6 +153,18 @@
     ],
     "local": [
       {
+        "title": "Eko-strefa w Zebrzydowicach niedługo zostanie oficjalnie otwarta. To miejsce, które powstało na terenie dawnej żwirowni [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/eko-strefa-w-zebrzydowicach-niedlugo-zostanie-oficjalnie-otwarta-to-miejsce-ktore-powstalo-na-terenie-dawnej-zwirowni-zdjecia.html",
+        "date": "Sat, 31 Oct 2026 08:10:00 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Znów kwestują na zabytki. Tym razem chodzi o wyjątkowy ołtarz",
+        "url": "https://www.radiobielsko.pl/zywiec/znow-kwestuja-na-zabytki-tym-razem-chodzi-o-wyjatkowy-oltarz/103089/",
+        "date": "Sat, 31 Oct 2026 07:38:40 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Kuchnia Radia 90: Ciasto marchewkowe z cynamonem i cukrem pudrem",
         "url": "https://www.radio90.pl/kuchnia-radia-90-ciasto-marchewkowe-z-cynamonem-i-cukrem-pudrem.html",
         "date": "Sat, 31 Oct 2026 07:00:50 +0000",
@@ -187,21 +199,14 @@
         "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-grosze-od-metra-miliony-do-budzetu-podatki-pojda-w-gore/103070/",
         "date": "Fri, 30 Oct 2026 19:41:16 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Rozbój w Cieszynie. Trzech mężczyzn napadło na parę, żeby zabrać im pieniądze. Ukradli… 27 złotych",
-        "url": "https://www.radio90.pl/rozboj-w-cieszynie-trzech-mezczyzn-napadlo-na-pare-zeby-zabrac-im-pieniadze-ukradli-27-zlotych.html",
-        "date": "Fri, 30 Oct 2026 17:15:20 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Potrącenie dziecka na hulajnodze. Na miejscu służby ratunkowe",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/potracenie-dziecka-na-hulajnodze-na-miejscu-sluzby-ratunkowe/103067/",
-        "date": "Fri, 30 Oct 2026 18:28:03 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "Pożar mieszkania przy Spółdzielców. Strażacy wynieśli nieprzytomnego mężczyznę",
+        "url": "/informacje/21059-pozar-mieszkania-przy-spoldzielcow-strazacy-wyniesli-nieprzytomnego-mezczyzne",
+        "date": ""
+      },
       {
         "title": "Felieton[FELIETON] Elektryczne crossy i hulajnogi sieją postrach wśród spacerowiczów. Policja bezradna",
         "url": "/informacje/21056-felieton-elektryczne-crossy-i-hulajnogi-sieja-postrach-wsrod-spacerowiczow-policja-bezradna",
@@ -225,11 +230,6 @@
       {
         "title": "Ciemności przy ul. Dawnej w Białej. Czy tak będzie wyglądało na Wszystkich Świętych?",
         "url": "/informacje/21049-ciemnosci-przy-ul-dawnej-w-bialej-czy-tak-bedzie-wygladalo-na-wszystkich-swietych",
-        "date": ""
-      },
-      {
-        "title": "Nowe nawierzchnie dróg mogą pojawić się z opóźnieniem. Powodem problemy z dostawami asfaltu",
-        "url": "/informacje/21050-nowe-nawierzchnie-drog-moga-pojawic-sie-z-opoznieniem-powodem-problemy-z-dostawami-asfaltu",
         "date": ""
       }
     ],
