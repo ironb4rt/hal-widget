@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-31T19:20:07+00:00",
+  "generated": "2026-10-31T20:20:07+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.0,
-    "feels": 4.7,
-    "code": 63,
-    "wind": 7.6,
-    "humidity": 88,
+    "temp": 6.5,
+    "feels": 4.3,
+    "code": 55,
+    "wind": 6.1,
+    "humidity": 86,
     "is_day": false,
     "tmax": 8.8,
     "tmin": 6.3,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-31T20:15",
+    "observed": "2026-10-31T21:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77564,
-        "pln": 306167,
-        "chg24": 1.4
+        "usd": 77528,
+        "pln": 306024,
+        "chg24": 0.9
       },
       {
         "sym": "ETH",
-        "usd": 2254.28,
-        "pln": 8898.26,
-        "chg24": 1.36
+        "usd": 2253.46,
+        "pln": 8895.05,
+        "chg24": 0.64
       }
     ],
     "stale": false
@@ -203,6 +203,11 @@
     ],
     "roads": [
       {
+        "title": "Hulajnogi na chodnikach w Bielsku-Białej. Radny zwraca uwagę na bezpieczeństwo pieszych",
+        "url": "/informacje/21060-hulajnogi-na-chodnikach-w-bielsku-bialej-radny-zwraca-uwage-na-bezpieczenstwo-pieszych",
+        "date": ""
+      },
+      {
         "title": "Pożar mieszkania przy Spółdzielców. Strażacy wynieśli nieprzytomnego mężczyznę",
         "url": "/informacje/21059-pozar-mieszkania-przy-spoldzielcow-strazacy-wyniesli-nieprzytomnego-mezczyzne",
         "date": ""
@@ -225,11 +230,6 @@
       {
         "title": "Felieton[FELIETON] Ile warta jest skrzynka \"STOP Agresji Drogowej\"? To jeden wielki pic na wodę!",
         "url": "/informacje/21040-felieton-ile-warta-jest-skrzynka-stop-agresji-drogowej-to-jeden-wielki-pic-na-wode",
-        "date": ""
-      },
-      {
-        "title": "Ciemności przy ul. Dawnej w Białej. Czy tak będzie wyglądało na Wszystkich Świętych?",
-        "url": "/informacje/21049-ciemnosci-przy-ul-dawnej-w-bialej-czy-tak-bedzie-wygladalo-na-wszystkich-swietych",
         "date": ""
       }
     ],
