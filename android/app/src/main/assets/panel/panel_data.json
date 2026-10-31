@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-31T13:20:05+00:00",
+  "generated": "2026-10-31T14:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 8.7,
-    "feels": 6.0,
-    "code": 3,
-    "wind": 10.4,
-    "humidity": 79,
+    "feels": 6.2,
+    "code": 51,
+    "wind": 9.0,
+    "humidity": 78,
     "is_day": true,
     "tmax": 8.8,
     "tmin": 6.0,
@@ -27,11 +27,11 @@
       {
         "date": "2026-11-02",
         "max": 6.4,
-        "min": 4.5,
+        "min": 4.7,
         "code": 51
       }
     ],
-    "observed": "2026-10-31T14:15",
+    "observed": "2026-10-31T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77409,
-        "pln": 305556,
-        "chg24": 0.22
+        "usd": 77410,
+        "pln": 305558,
+        "chg24": 0.94
       },
       {
         "sym": "ETH",
-        "usd": 2246.28,
-        "pln": 8866.7,
-        "chg24": 0.84
+        "usd": 2247.53,
+        "pln": 8871.65,
+        "chg24": 1.32
       }
     ],
     "stale": false
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Centrum przesiadkowe w Leszczynach już w budowie [WIDEO]",
-        "url": "https://www.radio90.pl/centrum-przesiadkowe-w-leszczynach-juz-w-budowie-wideo.html",
-        "date": "Sat, 31 Oct 2026 13:05:30 +0000",
+        "title": "Koszmar Rekordu! Punkty odebrali im piłkarze związani z Podbeskidziem",
+        "url": "https://www.radiobielsko.pl/sport/koszmar-rekordu-punkty-odebrali-im-pilkarze-zwiazani-z-podbeskidziem/103131/",
+        "date": "Sat, 31 Oct 2026 14:09:44 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Wygodniej dla pacjentów. Ośrodek zdrowia w Kornowacu otwiera się na nowo",
+        "url": "https://www.radio90.pl/wygodniej-dla-pacjentow-osrodek-zdrowia-w-kornowacu-otwiera-sie-na-nowo.html",
+        "date": "Sat, 31 Oct 2026 14:00:46 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +171,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Szkoła Podstawowa nr 4 w Czerwionce-Leszczynach: pracownia językowa przeszła remont i została doposażona [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/szkola-podstawowa-nr-4-w-czerwionce-leszczynach-pracownia-jezykowa-przeszla-remont-i-zostala-doposazona-zdjecia.html",
-        "date": "Sat, 31 Oct 2026 12:30:43 +0000",
+        "title": "Centrum przesiadkowe w Leszczynach już w budowie [WIDEO]",
+        "url": "https://www.radio90.pl/centrum-przesiadkowe-w-leszczynach-juz-w-budowie-wideo.html",
+        "date": "Sat, 31 Oct 2026 13:05:30 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +183,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Kierowca autobusu i mieszkańcy Rybnika uratowali życie mężczyźnie. Poznajcie Asię, jedną z bohaterek tej akcji [WIDEO]",
-        "url": "https://www.radio90.pl/kierowca-autobusu-i-mieszkancy-rybnika-uratowali-zycie-mezczyznie-poznajcie-asie-jedna-z-bohaterek-tej-akcji-wideo.html",
-        "date": "Sat, 31 Oct 2026 11:21:28 +0000",
+        "title": "Szkoła Podstawowa nr 4 w Czerwionce-Leszczynach: pracownia językowa przeszła remont i została doposażona [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/szkola-podstawowa-nr-4-w-czerwionce-leszczynach-pracownia-jezykowa-przeszla-remont-i-zostala-doposazona-zdjecia.html",
+        "date": "Sat, 31 Oct 2026 12:30:43 +0000",
         "src": "Radio90"
       },
       {
@@ -189,16 +195,10 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Zmiany w Jarze Południowym w Jastrzębiu. Miasto pyta mieszkańców o opinię. Do jutra mogą wypełniać ankietę",
-        "url": "https://www.radio90.pl/zmiany-w-jarze-poludniowym-w-jastrzebiu-miasto-pyta-mieszkancow-o-opinie-do-jutra-moga-wypelniac-ankiete.html",
-        "date": "Sat, 31 Oct 2026 11:20:25 +0000",
+        "title": "Kierowca autobusu i mieszkańcy Rybnika uratowali życie mężczyźnie. Poznajcie Asię, jedną z bohaterek tej akcji [WIDEO]",
+        "url": "https://www.radio90.pl/kierowca-autobusu-i-mieszkancy-rybnika-uratowali-zycie-mezczyznie-poznajcie-asie-jedna-z-bohaterek-tej-akcji-wideo.html",
+        "date": "Sat, 31 Oct 2026 11:21:28 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Zabytki wołają SOS. Tym razem chodzi o wyjątkowy ołtarz",
-        "url": "https://www.radiobielsko.pl/zywiec/znow-kwestuja-na-zabytki-tym-razem-chodzi-o-wyjatkowy-oltarz/103089/",
-        "date": "Sat, 31 Oct 2026 07:38:40 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
