@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-31T00:20:16+00:00",
+  "generated": "2026-10-31T01:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.1,
-    "feels": 5.3,
-    "code": 51,
-    "wind": 6.5,
-    "humidity": 95,
+    "temp": 7.0,
+    "feels": 5.1,
+    "code": 3,
+    "wind": 6.8,
+    "humidity": 97,
     "is_day": false,
     "tmax": 9.0,
     "tmin": 5.7,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-31T01:15",
+    "observed": "2026-10-31T02:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77276,
-        "pln": 305031,
-        "chg24": -0.09
+        "usd": 77450,
+        "pln": 305718,
+        "chg24": 0.71
       },
       {
         "sym": "ETH",
-        "usd": 2246.34,
-        "pln": 8866.95,
-        "chg24": 0.99
+        "usd": 2246.32,
+        "pln": 8866.86,
+        "chg24": 1.58
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Siatkarska dominacja BBTS-u! Czarni Radom bez szans w Bielsku-Białej",
-        "url": "https://www.radiobielsko.pl/sport/siatkarska-dominacja-bbts-u-czarni-radom-bez-szans-w-bielsku-bialej/103078/",
-        "date": "Fri, 30 Oct 2026 21:03:50 +0000",
+        "title": "Czy zadziała efekt nowej miotły? Szkoleniowiec ma plan. „Nie chcę zdradzać zbyt wiele, ale…”",
+        "url": "https://www.radiobielsko.pl/sport/czy-zadziala-efekt-nowej-miotly-szkoleniowiec-ma-plan-nie-chce-zdradzac-zbyt-wiele-ale/103080/",
+        "date": "Sat, 31 Oct 2026 00:28:46 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Cztery grosze od metra, a dla budżetu miliony. Podatki pójdą w górę",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-grosze-od-metra-miliony-do-budzetu-podatki-pojda-w-gore/103070/",
-        "date": "Fri, 30 Oct 2026 19:41:16 +0000",
+        "title": "Siatkarska dominacja BBTS-u! Czarni Radom bez szans w Bielsku-Białej",
+        "url": "https://www.radiobielsko.pl/sport/siatkarska-dominacja-bbts-u-czarni-radom-bez-szans-w-bielsku-bialej/103078/",
+        "date": "Fri, 30 Oct 2026 21:03:50 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Potrącenie dziecka na hulajnodze. Na miejscu służby ratunkowe",
-        "url": "https://www.radiobielsko.pl/powiat-zywiecki/potracenie-dziecka-na-hulajnodze-na-miejscu-sluzby-ratunkowe/103067/",
-        "date": "Fri, 30 Oct 2026 18:28:03 +0000",
+        "title": "Cztery grosze od metra, a dla budżetu miliony. Podatki pójdą w górę",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-grosze-od-metra-miliony-do-budzetu-podatki-pojda-w-gore/103070/",
+        "date": "Fri, 30 Oct 2026 19:41:16 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Lekarz dostępny nocą i w weekendy. Nowy punkt",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/lekarz-dostepny-noca-i-w-weekendy-nowa-usluga-w-wilkowicach/103063/",
-        "date": "Fri, 30 Oct 2026 15:22:37 +0000",
+        "title": "Potrącenie dziecka na hulajnodze. Na miejscu służby ratunkowe",
+        "url": "https://www.radiobielsko.pl/powiat-zywiecki/potracenie-dziecka-na-hulajnodze-na-miejscu-sluzby-ratunkowe/103067/",
+        "date": "Fri, 30 Oct 2026 18:28:03 +0000",
         "src": "RadioBielsko"
       },
       {
