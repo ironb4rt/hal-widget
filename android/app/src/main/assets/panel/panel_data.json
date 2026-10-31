@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-31T06:20:02+00:00",
+  "generated": "2026-10-31T07:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 7.7,
-    "feels": 5.3,
-    "code": 3,
-    "wind": 11.2,
-    "humidity": 93,
+    "feels": 5.5,
+    "code": 51,
+    "wind": 9.0,
+    "humidity": 91,
     "is_day": true,
     "tmax": 8.8,
     "tmin": 6.1,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-10-31T07:15",
+    "observed": "2026-10-31T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77191,
-        "pln": 304693,
-        "chg24": -1.72
+        "usd": 77346,
+        "pln": 305307,
+        "chg24": -1.32
       },
       {
         "sym": "ETH",
-        "usd": 2241.4,
-        "pln": 8847.44,
-        "chg24": -0.2
+        "usd": 2243.82,
+        "pln": 8856.99,
+        "chg24": -0.17
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Kuchnia Radia 90: Ciasto marchewkowe z cynamonem i cukrem pudrem",
+        "url": "https://www.radio90.pl/kuchnia-radia-90-ciasto-marchewkowe-z-cynamonem-i-cukrem-pudrem.html",
+        "date": "Sat, 31 Oct 2026 07:00:50 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Czy zadziała efekt nowej miotły? Szkoleniowiec ma plan. „Nie chcę zdradzać zbyt wiele, ale…”",
         "url": "https://www.radiobielsko.pl/sport/czy-zadziala-efekt-nowej-miotly-szkoleniowiec-ma-plan-nie-chce-zdradzac-zbyt-wiele-ale/103080/",
         "date": "Sat, 31 Oct 2026 00:28:46 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radiobielsko.pl/powiat-zywiecki/potracenie-dziecka-na-hulajnodze-na-miejscu-sluzby-ratunkowe/103067/",
         "date": "Fri, 30 Oct 2026 18:28:03 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Zmiany w organizacji ruchu w Radlinie 1 listopada",
-        "url": "https://www.radio90.pl/zmiany-w-organizacji-ruchu-w-radlinie-1-listopada.html",
-        "date": "Fri, 30 Oct 2026 16:40:40 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
