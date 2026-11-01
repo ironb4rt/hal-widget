@@ -1,37 +1,37 @@
 {
-  "generated": "2026-11-01T14:20:13+00:00",
+  "generated": "2026-11-01T15:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.8,
-    "feels": 3.5,
+    "temp": 7.1,
+    "feels": 4.2,
     "code": 3,
-    "wind": 13.7,
-    "humidity": 86,
+    "wind": 12.2,
+    "humidity": 88,
     "is_day": true,
     "tmax": 7.7,
-    "tmin": 5.2,
+    "tmin": 5.3,
     "forecast": [
       {
         "date": "2026-11-01",
         "max": 7.7,
-        "min": 5.2,
+        "min": 5.3,
         "code": 51
       },
       {
         "date": "2026-11-02",
-        "max": 6.6,
-        "min": 3.9,
+        "max": 7.0,
+        "min": 4.5,
         "code": 51
       },
       {
         "date": "2026-11-03",
-        "max": 6.2,
-        "min": 3.2,
+        "max": 6.4,
+        "min": 3.8,
         "code": 51
       }
     ],
-    "observed": "2026-11-01T15:15",
+    "observed": "2026-11-01T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77955,
-        "pln": 305992,
-        "chg24": 0.72
+        "usd": 78008,
+        "pln": 306200,
+        "chg24": 0.81
       },
       {
         "sym": "ETH",
-        "usd": 2269.4,
-        "pln": 8907.94,
-        "chg24": 0.94
+        "usd": 2269.24,
+        "pln": 8907.31,
+        "chg24": 1.0
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Powstaje nowe boisko w Gotartowicach. To inwestycja z budżetu obywatelskiego. Ma być gotowe jeszcze w tym roku [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/powstaje-nowe-boisko-w-gotartowicach-to-inwestycja-z-budzetu-obywatelskiego-ma-byc-gotowe-jeszcze-w-tym-roku.html",
-        "date": "Sun, 01 Nov 2026 13:15:24 +0000",
+        "title": "Rynek w Czerwionce-Leszczynach: trwają przygotowywanie projektu tego miejsca. Pracują nad tym również mieszkańcy",
+        "url": "https://www.radio90.pl/rynek-w-czerwionce-leszczynach-trwaja-przygotowywanie-projektu-tego-miejsca-pracuja-nad-tym-rowniez-mieszkancy.html",
+        "date": "Sun, 01 Nov 2026 14:25:31 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Teatr Ziemi Rybnickiej prezentuje repertuar na listopad",
-        "url": "https://www.radio90.pl/teatr-ziemi-rybnickiej-prezentuje-repertuar-na-listopad.html",
-        "date": "Sun, 01 Nov 2026 12:30:38 +0000",
+        "title": "Powstaje nowe boisko w Gotartowicach. To inwestycja z budżetu obywatelskiego. Ma być gotowe jeszcze w tym roku [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/powstaje-nowe-boisko-w-gotartowicach-to-inwestycja-z-budzetu-obywatelskiego-ma-byc-gotowe-jeszcze-w-tym-roku.html",
+        "date": "Sun, 01 Nov 2026 13:15:24 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Będzie miejscem spotkań i imprez. W Siedliskach postawiono wiatę. W ramach konkursu „Inicjatywa Sołecka”",
-        "url": "https://www.radio90.pl/bedzie-miejscem-spotkan-i-imprez-w-siedliskach-postawiono-wiate-w-ramach-konkursu-inicjatywa-solecka.html",
-        "date": "Sun, 01 Nov 2026 11:45:57 +0000",
+        "title": "Teatr Ziemi Rybnickiej prezentuje repertuar na listopad",
+        "url": "https://www.radio90.pl/teatr-ziemi-rybnickiej-prezentuje-repertuar-na-listopad.html",
+        "date": "Sun, 01 Nov 2026 12:30:38 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Wóz strażacki OSP Owsiszcze przekazany Ukrainie. Kilka miesięcy temu Krzyżanowice zobligowały się do pomocy [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/woz-strazacki-osp-owsiszcze-przekazany-ukrainie-kilka-miesiecy-temu-krzyzanowice-zobligowaly-sie-do-pomocy-zdjecia.html",
-        "date": "Sun, 01 Nov 2026 10:40:10 +0000",
+        "title": "Będzie miejscem spotkań i imprez. W Siedliskach postawiono wiatę. W ramach konkursu „Inicjatywa Sołecka”",
+        "url": "https://www.radio90.pl/bedzie-miejscem-spotkan-i-imprez-w-siedliskach-postawiono-wiate-w-ramach-konkursu-inicjatywa-solecka.html",
+        "date": "Sun, 01 Nov 2026 11:45:57 +0000",
         "src": "Radio90"
       },
       {
