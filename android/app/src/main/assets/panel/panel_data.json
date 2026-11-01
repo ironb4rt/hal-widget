@@ -1,37 +1,37 @@
 {
-  "generated": "2026-11-01T11:20:11+00:00",
+  "generated": "2026-11-01T12:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.4,
-    "feels": 4.4,
+    "temp": 6.9,
+    "feels": 3.8,
     "code": 3,
-    "wind": 11.9,
-    "humidity": 83,
+    "wind": 12.6,
+    "humidity": 88,
     "is_day": true,
-    "tmax": 7.5,
-    "tmin": 5.3,
+    "tmax": 7.7,
+    "tmin": 5.2,
     "forecast": [
       {
         "date": "2026-11-01",
-        "max": 7.5,
-        "min": 5.3,
+        "max": 7.7,
+        "min": 5.2,
         "code": 51
       },
       {
         "date": "2026-11-02",
-        "max": 6.5,
-        "min": 4.1,
+        "max": 6.6,
+        "min": 3.9,
         "code": 51
       },
       {
         "date": "2026-11-03",
-        "max": 6.1,
+        "max": 6.2,
         "min": 2.5,
         "code": 51
       }
     ],
-    "observed": "2026-11-01T12:15",
+    "observed": "2026-11-01T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77915,
-        "pln": 305837,
-        "chg24": 0.7
+        "usd": 77824,
+        "pln": 305478,
+        "chg24": 0.43
       },
       {
         "sym": "ETH",
-        "usd": 2269.11,
-        "pln": 8906.8,
-        "chg24": 1.14
+        "usd": 2259.6,
+        "pln": 8869.48,
+        "chg24": 0.62
       }
     ],
     "stale": false
@@ -103,6 +103,12 @@
     "ok": true,
     "market": [
       {
+        "title": "Cutifani warns mining sector’s failure to innovate opens door to takeovers",
+        "url": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/",
+        "date": "Sun, 01 Nov 2026 12:00:00 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Uranium shares slide even as analysts see tighter supply",
         "url": "https://www.mining.com/uranium-shares-slide-even-as-analysts-see-tighter-supply/",
         "date": "Fri, 30 Oct 2026 21:11:00 +0000",
@@ -143,15 +149,21 @@
         "url": "https://www.mining.com/abenojar-tungstens-london-ipo-breaks-eight-year-drought/",
         "date": "Fri, 30 Oct 2026 11:36:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Critical minerals getting harder to mine as deposits age: EY",
-        "url": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/",
-        "date": "Fri, 30 Oct 2026 08:01:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
+      {
+        "title": "Będzie miejscem spotkań i imprez. W Siedliskach postawiono wiatę. W ramach konkursu „Inicjatywa Sołecka”",
+        "url": "https://www.radio90.pl/bedzie-miejscem-spotkan-i-imprez-w-siedliskach-postawiono-wiate-w-ramach-konkursu-inicjatywa-solecka.html",
+        "date": "Sun, 01 Nov 2026 11:45:57 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Adriana Piekarska pokieruje Galerią Bielską BWA",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/ada-piekarska-pokieruje-galeria-bielska-bwa/103232/",
+        "date": "Sun, 01 Nov 2026 11:31:08 +0000",
+        "src": "RadioBielsko"
+      },
       {
         "title": "Wóz strażacki OSP Owsiszcze przekazany Ukrainie. Kilka miesięcy temu Krzyżanowice zobligowały się do pomocy [ZDJĘCIA]",
         "url": "https://www.radio90.pl/woz-strazacki-osp-owsiszcze-przekazany-ukrainie-kilka-miesiecy-temu-krzyzanowice-zobligowaly-sie-do-pomocy-zdjecia.html",
@@ -186,18 +198,6 @@
         "title": "Natalia Kukulska wystąpiła w Bielsku-Białej. Niemal trzy godziny muzycznych emocji FOTO",
         "url": "https://www.radiobielsko.pl/bielsko-biala/natalia-kukulska-wystapila-w-bielsku-bialej-niemal-trzy-godziny-muzycznych-emocji-foto/103158/",
         "date": "Sat, 31 Oct 2026 22:59:58 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zmiany przy cmentarzach w powiecie wodzisławskim. Pamiętajcie o tym!",
-        "url": "https://www.radio90.pl/zmiany-przy-cmentarzach-w-powiecie-wodzislawskim-pamietajcie-o-tym.html",
-        "date": "Sun, 01 Nov 2026 07:57:38 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Jeszcze niedawno śmieci i szczury. Teraz bielskie slumsy czeka wielka przemiana",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/jeszcze-niedawno-smieci-i-szczury-teraz-bielskie-slumsy-czeka-wielka-przemiana/103153/",
-        "date": "Sat, 31 Oct 2026 19:10:36 +0000",
         "src": "RadioBielsko"
       }
     ],
