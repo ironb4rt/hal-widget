@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-01T00:20:08+00:00",
+  "generated": "2026-11-01T01:20:08+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.1,
+    "temp": 5.8,
     "feels": 3.4,
-    "code": 3,
-    "wind": 9.4,
-    "humidity": 91,
+    "code": 1,
+    "wind": 7.6,
+    "humidity": 90,
     "is_day": false,
     "tmax": 7.8,
     "tmin": 5.3,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-11-03",
-        "max": 5.8,
-        "min": 3.4,
+        "max": 6.4,
+        "min": 3.2,
         "code": 51
       }
     ],
-    "observed": "2026-11-01T01:15",
+    "observed": "2026-11-01T02:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77444,
-        "pln": 305693,
+        "usd": 77620,
+        "pln": 306389,
         "chg24": 0.17
       },
       {
         "sym": "ETH",
-        "usd": 2254.89,
-        "pln": 8900.68,
-        "chg24": 0.39
+        "usd": 2263.99,
+        "pln": 8936.63,
+        "chg24": 0.87
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Jeszcze niedawno śmieci i szczury. Teraz bielskie slumsy czeka wielka przemiana",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/jeszcze-niedawno-smieci-i-szczury-teraz-bielskie-slumsy-czeka-wielka-przemiana/103153/",
-        "date": "Sat, 31 Oct 2026 19:10:36 +0000",
+        "title": "Natalia Kukulska wystąpiła w Bielsku-Białej. Niemal trzy godziny muzycznych emocji FOTO",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/natalia-kukulska-wystapila-w-bielsku-bialej-niemal-trzy-godziny-muzycznych-emocji-foto/103158/",
+        "date": "Sat, 31 Oct 2026 22:59:58 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +165,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Czerwona kartka odwróciła losy meczu. Seria Podbeskidzia trwa nadal",
-        "url": "https://www.radiobielsko.pl/sport/czerwona-kartka-odwrocila-losy-meczu-seria-podbeskidzia-trwa-nadal/103137/",
-        "date": "Sat, 31 Oct 2026 16:28:53 +0000",
+        "title": "Jeszcze niedawno śmieci i szczury. Teraz bielskie slumsy czeka wielka przemiana",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/jeszcze-niedawno-smieci-i-szczury-teraz-bielskie-slumsy-czeka-wielka-przemiana/103153/",
+        "date": "Sat, 31 Oct 2026 19:10:36 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +177,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Pięć osób, pięć spojrzeń na świat. Wyjątkowa wystawa fotografii w Pszczynie",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/piec-osob-piec-spojrzen-na-swiat-wyjatkowa-wystawa-fotografii-w-pszczynie/103147/",
-        "date": "Sat, 31 Oct 2026 14:53:26 +0000",
+        "title": "Czerwona kartka odwróciła losy meczu. Seria Podbeskidzia trwa nadal",
+        "url": "https://www.radiobielsko.pl/sport/czerwona-kartka-odwrocila-losy-meczu-seria-podbeskidzia-trwa-nadal/103137/",
+        "date": "Sat, 31 Oct 2026 16:28:53 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Woda warunkowo zdatna do spożycia",
-        "url": "https://www.radiobielsko.pl/powiat-bielski/woda-warunkowo-zdatna-do-spozycia/103138/",
-        "date": "Sat, 31 Oct 2026 14:42:14 +0000",
+        "title": "Pięć osób, pięć spojrzeń na świat. Wyjątkowa wystawa fotografii w Pszczynie",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/piec-osob-piec-spojrzen-na-swiat-wyjatkowa-wystawa-fotografii-w-pszczynie/103147/",
+        "date": "Sat, 31 Oct 2026 14:53:26 +0000",
         "src": "RadioBielsko"
       },
       {
