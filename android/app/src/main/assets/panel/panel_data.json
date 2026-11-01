@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-01T18:20:14+00:00",
+  "generated": "2026-11-01T19:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.8,
-    "feels": 3.6,
+    "temp": 6.6,
+    "feels": 3.5,
     "code": 3,
-    "wind": 13.7,
+    "wind": 12.6,
     "humidity": 90,
     "is_day": false,
     "tmax": 7.7,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-01T19:15",
+    "observed": "2026-11-01T20:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77914,
-        "pln": 305831,
-        "chg24": 0.36
+        "usd": 77706,
+        "pln": 306798,
+        "chg24": 0.21
       },
       {
         "sym": "ETH",
-        "usd": 2261.42,
-        "pln": 8876.63,
-        "chg24": 0.26
+        "usd": 2255.96,
+        "pln": 8906.92,
+        "chg24": 0.07
       }
     ],
     "stale": false
@@ -103,6 +103,12 @@
     "ok": true,
     "market": [
       {
+        "title": "Global resource squeeze signals market shift: report",
+        "url": "https://www.mining.com/global-resource-squeeze-signals-market-shift-report/",
+        "date": "Sun, 01 Nov 2026 17:27:06 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Cutifani warns mining sector’s failure to innovate opens door to takeovers",
         "url": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/",
         "date": "Sun, 01 Nov 2026 12:00:00 +0000",
@@ -142,12 +148,6 @@
         "title": "Codelco accounting scandal claims eight more employees",
         "url": "https://www.mining.com/codelco-accounting-scandal-claims-eight-more-employees/",
         "date": "Fri, 30 Oct 2026 12:50:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Abenójar Tungsten’s London IPO breaks eight-year drought",
-        "url": "https://www.mining.com/abenojar-tungstens-london-ipo-breaks-eight-year-drought/",
-        "date": "Fri, 30 Oct 2026 11:36:00 +0000",
         "src": "Mining.com"
       }
     ],
