@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-01T10:20:11+00:00",
+  "generated": "2026-11-01T11:20:11+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.3,
-    "feels": 4.3,
+    "temp": 7.4,
+    "feels": 4.4,
     "code": 3,
-    "wind": 11.5,
+    "wind": 11.9,
     "humidity": 83,
     "is_day": true,
     "tmax": 7.5,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-01T11:15",
+    "observed": "2026-11-01T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78061,
-        "pln": 306409,
-        "chg24": 0.84
+        "usd": 77915,
+        "pln": 305837,
+        "chg24": 0.7
       },
       {
         "sym": "ETH",
-        "usd": 2270.57,
-        "pln": 8912.52,
-        "chg24": 1.12
+        "usd": 2269.11,
+        "pln": 8906.8,
+        "chg24": 1.14
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Strażacy OSP Gołkowice mają nowy wóz strażacki. To lekki samochód pożarniczy [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/strazacy-osp-golkowice-maja-nowy-woz-strazacki-to-9-osobowy-bus-marki-volkswagen-zdjecia.html",
-        "date": "Sun, 01 Nov 2026 09:40:50 +0000",
+        "title": "Wóz strażacki OSP Owsiszcze przekazany Ukrainie. Kilka miesięcy temu Krzyżanowice zobligowały się do pomocy [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/woz-strazacki-osp-owsiszcze-przekazany-ukrainie-kilka-miesiecy-temu-krzyzanowice-zobligowaly-sie-do-pomocy-zdjecia.html",
+        "date": "Sun, 01 Nov 2026 10:40:10 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Pomoc prawna dla mieszkańców powiatu wodzisławskiego",
-        "url": "https://www.radio90.pl/pomoc-prawna-dla-mieszkancow-powiatu-wodzislawskiego.html",
-        "date": "Sun, 01 Nov 2026 08:35:20 +0000",
+        "title": "Strażacy OSP Gołkowice mają nowy wóz strażacki. To lekki samochód pożarniczy [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/strazacy-osp-golkowice-maja-nowy-woz-strazacki-to-9-osobowy-bus-marki-volkswagen-zdjecia.html",
+        "date": "Sun, 01 Nov 2026 09:40:50 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Zmiany przy cmentarzach w powiecie wodzisławskim. Pamiętajcie o tym!",
-        "url": "https://www.radio90.pl/zmiany-przy-cmentarzach-w-powiecie-wodzislawskim-pamietajcie-o-tym.html",
-        "date": "Sun, 01 Nov 2026 07:57:38 +0000",
+        "title": "Pomoc prawna dla mieszkańców powiatu wodzisławskiego",
+        "url": "https://www.radio90.pl/pomoc-prawna-dla-mieszkancow-powiatu-wodzislawskiego.html",
+        "date": "Sun, 01 Nov 2026 08:35:20 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Eko Patrol Radia 90 – odcinek 43/2026. Zielona Pracownia powstała w szkole w Rydułtowach",
-        "url": "https://www.radio90.pl/eko-patrol-radia-90-odcinek-43-2026.html",
-        "date": "Sun, 01 Nov 2026 07:40:54 +0000",
+        "title": "Zmiany przy cmentarzach w powiecie wodzisławskim. Pamiętajcie o tym!",
+        "url": "https://www.radio90.pl/zmiany-przy-cmentarzach-w-powiecie-wodzislawskim-pamietajcie-o-tym.html",
+        "date": "Sun, 01 Nov 2026 07:57:38 +0000",
         "src": "Radio90"
       },
       {
