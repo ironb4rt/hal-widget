@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-01T16:20:13+00:00",
+  "generated": "2026-11-01T17:20:13+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.1,
-    "feels": 4.1,
-    "code": 3,
-    "wind": 12.6,
-    "humidity": 88,
+    "temp": 6.9,
+    "feels": 3.7,
+    "code": 51,
+    "wind": 14.0,
+    "humidity": 90,
     "is_day": false,
     "tmax": 7.7,
     "tmin": 5.3,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-01T17:15",
+    "observed": "2026-11-01T18:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77947,
-        "pln": 305962,
-        "chg24": 0.55
+        "usd": 78071,
+        "pln": 306449,
+        "chg24": 0.61
       },
       {
         "sym": "ETH",
-        "usd": 2267.48,
-        "pln": 8900.4,
-        "chg24": 0.78
+        "usd": 2266.13,
+        "pln": 8895.12,
+        "chg24": 0.65
       }
     ],
     "stale": false
@@ -153,9 +153,9 @@
     ],
     "local": [
       {
-        "title": "Park Miniatur w Żywcu: jaka przyszłość czeka to miejsce?",
-        "url": "https://www.radio90.pl/park-miniatur-w-zywcu-jaka-przyszlosc-czeka-to-miejsce.html",
-        "date": "Sun, 01 Nov 2026 15:30:09 +0000",
+        "title": "Opłata za psa w Żywcu zostaje bez zmian",
+        "url": "https://www.radio90.pl/oplata-za-psa-w-zywcu-zostaje-bez-zmian.html",
+        "date": "Sun, 01 Nov 2026 17:02:57 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Rynek w Czerwionce-Leszczynach: trwają przygotowywanie projektu tego miejsca. Pracują nad tym również mieszkańcy",
-        "url": "https://www.radio90.pl/rynek-w-czerwionce-leszczynach-trwaja-przygotowywanie-projektu-tego-miejsca-pracuja-nad-tym-rowniez-mieszkancy.html",
-        "date": "Sun, 01 Nov 2026 14:25:31 +0000",
+        "title": "Park Miniatur w Żywcu: jaka przyszłość czeka to miejsce?",
+        "url": "https://www.radio90.pl/park-miniatur-w-zywcu-jaka-przyszlosc-czeka-to-miejsce.html",
+        "date": "Sun, 01 Nov 2026 15:30:09 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Powstaje nowe boisko w Gotartowicach. To inwestycja z budżetu obywatelskiego. Ma być gotowe jeszcze w tym roku [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/powstaje-nowe-boisko-w-gotartowicach-to-inwestycja-z-budzetu-obywatelskiego-ma-byc-gotowe-jeszcze-w-tym-roku.html",
-        "date": "Sun, 01 Nov 2026 13:15:24 +0000",
+        "title": "Rynek w Czerwionce-Leszczynach: trwają przygotowywanie projektu tego miejsca. Pracują nad tym również mieszkańcy",
+        "url": "https://www.radio90.pl/rynek-w-czerwionce-leszczynach-trwaja-przygotowywanie-projektu-tego-miejsca-pracuja-nad-tym-rowniez-mieszkancy.html",
+        "date": "Sun, 01 Nov 2026 14:25:31 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Teatr Ziemi Rybnickiej prezentuje repertuar na listopad",
-        "url": "https://www.radio90.pl/teatr-ziemi-rybnickiej-prezentuje-repertuar-na-listopad.html",
-        "date": "Sun, 01 Nov 2026 12:30:38 +0000",
+        "title": "Powstaje nowe boisko w Gotartowicach. To inwestycja z budżetu obywatelskiego. Ma być gotowe jeszcze w tym roku [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/powstaje-nowe-boisko-w-gotartowicach-to-inwestycja-z-budzetu-obywatelskiego-ma-byc-gotowe-jeszcze-w-tym-roku.html",
+        "date": "Sun, 01 Nov 2026 13:15:24 +0000",
         "src": "Radio90"
       },
       {
