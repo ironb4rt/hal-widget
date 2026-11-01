@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-01T17:20:13+00:00",
+  "generated": "2026-11-01T18:20:14+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.9,
-    "feels": 3.7,
-    "code": 51,
-    "wind": 14.0,
+    "temp": 6.8,
+    "feels": 3.6,
+    "code": 3,
+    "wind": 13.7,
     "humidity": 90,
     "is_day": false,
     "tmax": 7.7,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-11-02",
-        "max": 7.0,
-        "min": 4.5,
+        "max": 7.1,
+        "min": 4.3,
         "code": 51
       },
       {
         "date": "2026-11-03",
-        "max": 6.4,
-        "min": 3.8,
+        "max": 6.5,
+        "min": 4.1,
         "code": 51
       }
     ],
-    "observed": "2026-11-01T18:15",
+    "observed": "2026-11-01T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78071,
-        "pln": 306449,
-        "chg24": 0.61
+        "usd": 77914,
+        "pln": 305831,
+        "chg24": 0.36
       },
       {
         "sym": "ETH",
-        "usd": 2266.13,
-        "pln": 8895.12,
-        "chg24": 0.65
+        "usd": 2261.42,
+        "pln": 8876.63,
+        "chg24": 0.26
       }
     ],
     "stale": false
@@ -153,6 +153,12 @@
     ],
     "local": [
       {
+        "title": "Pilne: służby szukają mieszkanki Kóz!",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/pilne-sluzby-szukaja-mieszkanki-koz/103289/",
+        "date": "Sun, 01 Nov 2026 18:00:21 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Opłata za psa w Żywcu zostaje bez zmian",
         "url": "https://www.radio90.pl/oplata-za-psa-w-zywcu-zostaje-bez-zmian.html",
         "date": "Sun, 01 Nov 2026 17:02:57 +0000",
@@ -193,12 +199,6 @@
         "url": "https://www.radio90.pl/powstaje-nowe-boisko-w-gotartowicach-to-inwestycja-z-budzetu-obywatelskiego-ma-byc-gotowe-jeszcze-w-tym-roku.html",
         "date": "Sun, 01 Nov 2026 13:15:24 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Natalia Kukulska wystąpiła w Bielsku-Białej. Niemal trzy godziny muzycznych emocji FOTO",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/natalia-kukulska-wystapila-w-bielsku-bialej-niemal-trzy-godziny-muzycznych-emocji-foto/103158/",
-        "date": "Sat, 31 Oct 2026 22:59:58 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
