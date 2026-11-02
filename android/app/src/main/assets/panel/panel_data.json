@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-02T10:20:03+00:00",
+  "generated": "2026-11-02T11:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.8,
-    "feels": 3.7,
+    "temp": 6.7,
+    "feels": 3.4,
     "code": 3,
-    "wind": 11.5,
-    "humidity": 80,
+    "wind": 12.2,
+    "humidity": 82,
     "is_day": true,
     "tmax": 7.0,
     "tmin": 4.9,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T11:15",
+    "observed": "2026-11-02T12:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77905,
-        "pln": 306980,
-        "chg24": -0.2
+        "usd": 77803,
+        "pln": 306661,
+        "chg24": -0.14
       },
       {
         "sym": "ETH",
-        "usd": 2284.58,
-        "pln": 9002.26,
-        "chg24": 0.57
+        "usd": 2283.71,
+        "pln": 9001.22,
+        "chg24": 0.67
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.305,
-        "chg": 2.46,
-        "as_of": "02.11 10:09"
+        "value": 50.28,
+        "chg": 2.41,
+        "as_of": "02.11 11:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.518,
-        "chg": 0.92,
-        "as_of": "02.11 10:09"
+        "value": 6.528,
+        "chg": 1.08,
+        "as_of": "02.11 11:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 10:09",
+    "updated": "02.11 11:09",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,27 @@
     ],
     "local": [
       {
-        "title": "Kradzież torebki w Bielsku-Białej. Policja poszukuje mężczyzny ze zdjęcia",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/kradziez-torebki-w-bielsku-bialej-policja-poszukuje-mezczyzny-w-czerwonej-bluzie/103384/",
-        "date": "Mon, 02 Nov 2026 10:09:56 +0000",
+        "title": "Zaginął Dawid Sosna. Rybniczanin pod koniec października miał wrócić do Polski. Od ponad tygodnia nie ma z nim kontaktu",
+        "url": "https://www.radio90.pl/zaginal-dawid-sosna-rybniczanin-pod-koniec-pazdziernika-mial-wrocic-do-polski-od-ponad-tygodnia-nie-ma-z-nim-kontaktu.html",
+        "date": "Mon, 02 Nov 2026 11:02:58 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dodatkowe miliony dla klubów? Podbeskidzie i Rekord wysoko w rankingach",
+        "url": "https://www.radiobielsko.pl/sport/dodatkowe-miliony-dla-klubow-podbeskidzie-i-rekord-wysoko-w-rankingach/103351/",
+        "date": "Mon, 02 Nov 2026 10:54:08 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Koniec utrudnień na Sumińskiej i Dworcowej. Droga znów przejezdna",
+        "url": "https://www.radio90.pl/koniec-utrudnien-na-suminskiej-i-dworcowej-droga-znow-przejezdna.html",
+        "date": "Mon, 02 Nov 2026 10:22:40 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Wyziębioną 50-latkę odnaleziono dzięki dronowi. Policja pokazuje obraz z kamery",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/wyziebiona-50-latke-odnaleziono-dzieki-dronowi-policja-pokazuje-obraz-z-kamery/103389/",
+        "date": "Mon, 02 Nov 2026 10:34:56 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Cztery tony ryb trafiły do wody",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-tony-ryb-trafily-do-wody/103381/",
-        "date": "Mon, 02 Nov 2026 10:06:13 +0000",
+        "title": "Kradzież torebki w Bielsku-Białej. Policja poszukuje mężczyzny ze zdjęcia",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/kradziez-torebki-w-bielsku-bialej-policja-poszukuje-mezczyzny-w-czerwonej-bluzie/103384/",
+        "date": "Mon, 02 Nov 2026 10:09:56 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,31 +195,18 @@
         "src": "Radio90"
       },
       {
-        "title": "Volkswagen uderzył w słup, kobieta trafiła do szpitala",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/volkswagen-uderzyl-w-slup-kobieta-trafila-do-szpitala/103376/",
-        "date": "Mon, 02 Nov 2026 09:58:18 +0000",
+        "title": "Cztery tony ryb trafiły do wody",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-tony-ryb-trafily-do-wody/103381/",
+        "date": "Mon, 02 Nov 2026 10:06:13 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Infolinia dla osób bezdomnych już działa",
-        "url": "https://www.radio90.pl/infolinia-dla-osob-bezdomnych-juz-dziala.html",
-        "date": "Mon, 02 Nov 2026 08:39:45 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Samochód wpadł do rowu przy przejeździe kolejowym w Kętach. Pociągi musiały się zatrzymać",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/samochod-wpadl-do-rowu-przy-przejezdzie-kolejowym-w-ketach-pociagi-musialy-sie-zatrzymac/103366/",
-        "date": "Mon, 02 Nov 2026 09:41:45 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Zalew Rybnicki: koniec spacerów po zaporze",
-        "url": "https://www.radio90.pl/zalew-rybnicki-koniec-spacerow-po-zaporze.html",
-        "date": "Mon, 02 Nov 2026 08:10:05 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
+      {
+        "title": "[FOTO] Kęty: wypadł z drogi przy przejeździe kolejowym i wstrzymał ruch pociągów",
+        "url": "/informacje/21066-foto-kety-wypadl-z-drogi-przy-przejezdzie-kolejowym-i-wstrzymal-ruch-pociagow",
+        "date": ""
+      },
       {
         "title": "[FOTO] Trwa budowa drogi S-1 z Bierunia do Mysłowic. Postęp prac przekroczył 70%",
         "url": "/informacje/21064-foto-trwa-budowa-drogi-s-1-z-bierunia-do-myslowic-postep-prac-przekroczyl-70",
@@ -225,11 +230,6 @@
       {
         "title": "Hulajnogi na chodnikach w Bielsku-Białej. Radny zwraca uwagę na bezpieczeństwo pieszych",
         "url": "/informacje/21060-hulajnogi-na-chodnikach-w-bielsku-bialej-radny-zwraca-uwage-na-bezpieczenstwo-pieszych",
-        "date": ""
-      },
-      {
-        "title": "Pożar mieszkania przy Spółdzielców. Strażacy wynieśli nieprzytomnego mężczyznę",
-        "url": "/informacje/21059-pozar-mieszkania-przy-spoldzielcow-strazacy-wyniesli-nieprzytomnego-mezczyzne",
         "date": ""
       }
     ],
