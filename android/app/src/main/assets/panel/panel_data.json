@@ -1,37 +1,37 @@
 {
-  "generated": "2026-11-02T11:20:04+00:00",
+  "generated": "2026-11-02T12:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.7,
-    "feels": 3.4,
+    "temp": 7.3,
+    "feels": 3.9,
     "code": 3,
-    "wind": 12.2,
-    "humidity": 82,
+    "wind": 12.6,
+    "humidity": 76,
     "is_day": true,
-    "tmax": 7.0,
+    "tmax": 7.5,
     "tmin": 4.9,
     "forecast": [
       {
         "date": "2026-11-02",
-        "max": 7.0,
+        "max": 7.5,
         "min": 4.9,
         "code": 51
       },
       {
         "date": "2026-11-03",
-        "max": 5.8,
-        "min": 4.4,
+        "max": 6.1,
+        "min": 4.3,
         "code": 51
       },
       {
         "date": "2026-11-04",
-        "max": 7.0,
-        "min": 3.3,
+        "max": 6.8,
+        "min": 4.0,
         "code": 51
       }
     ],
-    "observed": "2026-11-02T12:15",
+    "observed": "2026-11-02T13:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77803,
-        "pln": 306661,
-        "chg24": -0.14
+        "usd": 77963,
+        "pln": 307454,
+        "chg24": 0.18
       },
       {
         "sym": "ETH",
-        "usd": 2283.71,
-        "pln": 9001.22,
-        "chg24": 0.67
+        "usd": 2291.28,
+        "pln": 9035.92,
+        "chg24": 1.46
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.28,
-        "chg": 2.41,
-        "as_of": "02.11 11:09"
+        "value": 50.245,
+        "chg": 2.34,
+        "as_of": "02.11 12:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.528,
-        "chg": 1.08,
-        "as_of": "02.11 11:09"
+        "value": 6.524,
+        "chg": 1.01,
+        "as_of": "02.11 12:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 11:09",
+    "updated": "02.11 12:10",
     "stale": false
   },
   "fx": {
@@ -153,6 +153,24 @@
     ],
     "local": [
       {
+        "title": "Nie mieli sobie równych! Oto najlepsi strzelcy rundy jesiennej w A-Klasie",
+        "url": "https://www.radiobielsko.pl/sport/nie-mieli-sobie-rownych-oto-najlepsi-strzelcy-rundy-jesiennej-w-a-klasie/103394/",
+        "date": "Mon, 02 Nov 2026 11:51:47 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Dziś otwiera się lodowisko w Rybniku. MOSiR zaprasza łyżwiarzy w każdym wieku oraz tych, którzy chcą się nauczyć jeździć",
+        "url": "https://www.radio90.pl/dzis-otwiera-sie-lodowisko-w-rybniku-mosir-zaprasza-lyzwiarzy-w-kazdym-wieku-oraz-tych-ktorzy-chca-sie-nauczyc-jezdzic.html",
+        "date": "Mon, 02 Nov 2026 11:42:37 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Górale z Istebnej zatańczyli przed Habsburgiem. Niezwykła historia sprzed 125 lat ożyła na scenie",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/gorale-z-istebnej-zatanczyli-przed-habsburgiem-niezwykla-historia-sprzed-125-lat-ozyla-na-scenie/103395/",
+        "date": "Mon, 02 Nov 2026 11:39:59 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Zaginął Dawid Sosna. Rybniczanin pod koniec października miał wrócić do Polski. Od ponad tygodnia nie ma z nim kontaktu",
         "url": "https://www.radio90.pl/zaginal-dawid-sosna-rybniczanin-pod-koniec-pazdziernika-mial-wrocic-do-polski-od-ponad-tygodnia-nie-ma-z-nim-kontaktu.html",
         "date": "Mon, 02 Nov 2026 11:02:58 +0000",
@@ -181,35 +199,12 @@
         "url": "https://www.radio90.pl/akcja-trzezwosc-w-regionie-o-poranku-zatrzymano-dwoch-pijanych-kierowcow-wpadli-w-powiecie-gliwickim.html",
         "date": "Mon, 02 Nov 2026 09:48:39 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Kradzież torebki w Bielsku-Białej. Policja poszukuje mężczyzny ze zdjęcia",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/kradziez-torebki-w-bielsku-bialej-policja-poszukuje-mezczyzny-w-czerwonej-bluzie/103384/",
-        "date": "Mon, 02 Nov 2026 10:09:56 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Nieczynne toalety na dworcu kolejowym w Rybniku. PKP: „Przepraszamy podróżnych za niedogodności”",
-        "url": "https://www.radio90.pl/nieczynne-toalety-na-dworcu-kolejowym-w-rybniku-pkp-przepraszamy-podroznych-za-niedogodnosci.html",
-        "date": "Mon, 02 Nov 2026 09:15:07 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Cztery tony ryb trafiły do wody",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-tony-ryb-trafily-do-wody/103381/",
-        "date": "Mon, 02 Nov 2026 10:06:13 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
       {
         "title": "[FOTO] Kęty: wypadł z drogi przy przejeździe kolejowym i wstrzymał ruch pociągów",
         "url": "/informacje/21066-foto-kety-wypadl-z-drogi-przy-przejezdzie-kolejowym-i-wstrzymal-ruch-pociagow",
-        "date": ""
-      },
-      {
-        "title": "[FOTO] Trwa budowa drogi S-1 z Bierunia do Mysłowic. Postęp prac przekroczył 70%",
-        "url": "/informacje/21064-foto-trwa-budowa-drogi-s-1-z-bierunia-do-myslowic-postep-prac-przekroczyl-70",
         "date": ""
       },
       {
@@ -230,6 +225,11 @@
       {
         "title": "Hulajnogi na chodnikach w Bielsku-Białej. Radny zwraca uwagę na bezpieczeństwo pieszych",
         "url": "/informacje/21060-hulajnogi-na-chodnikach-w-bielsku-bialej-radny-zwraca-uwage-na-bezpieczenstwo-pieszych",
+        "date": ""
+      },
+      {
+        "title": "Pożar mieszkania przy Spółdzielców. Strażacy wynieśli nieprzytomnego mężczyznę",
+        "url": "/informacje/21059-pozar-mieszkania-przy-spoldzielcow-strazacy-wyniesli-nieprzytomnego-mezczyzne",
         "date": ""
       }
     ],
