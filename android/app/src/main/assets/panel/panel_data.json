@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-02T06:20:02+00:00",
+  "generated": "2026-11-02T07:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 5.8,
-    "feels": 2.6,
+    "temp": 6.0,
+    "feels": 2.9,
     "code": 3,
-    "wind": 13.0,
-    "humidity": 92,
+    "wind": 12.2,
+    "humidity": 89,
     "is_day": true,
     "tmax": 7.1,
     "tmin": 4.8,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T07:15",
+    "observed": "2026-11-02T08:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78199,
-        "pln": 308649,
-        "chg24": 0.45
+        "usd": 78046,
+        "pln": 307834,
+        "chg24": 0.27
       },
       {
         "sym": "ETH",
-        "usd": 2284.61,
-        "pln": 9017.3,
-        "chg24": 0.67
+        "usd": 2281.21,
+        "pln": 8997.64,
+        "chg24": 0.74
       }
     ],
     "stale": false
@@ -59,17 +59,17 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.36,
-        "chg": 2.57,
-        "as_of": "02.11 06:10"
+        "value": 50.4,
+        "chg": 2.65,
+        "as_of": "02.11 07:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.526,
-        "chg": 1.05,
-        "as_of": "02.11 06:09"
+        "value": 6.522,
+        "chg": 0.98,
+        "as_of": "02.11 07:09"
       },
       {
         "sym": "ALI=F",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 06:10",
+    "updated": "02.11 07:09",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Most w Bojanowie zostanie odbudowany. Powiat raciborski otrzymał kilkaset tysięcy złotych na rzecz tej inwestycji",
-        "url": "https://www.radio90.pl/most-w-bojanowie-zostanie-odbudowany-powiat-raciborski-otrzymal-kilkaset-tysiecy-zlotych-na-rzecz-tej-inwestycji.html",
-        "date": "Mon, 02 Nov 2026 05:50:54 +0000",
+        "title": "Śląska policja podsumowuje weekend. 12 wypadków i 364 kolizje",
+        "url": "https://www.radio90.pl/slaska-policja-podsumowuje-weekend-12-wypadkow-i-364-kolizje.html",
+        "date": "Mon, 02 Nov 2026 06:57:29 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Rowerem wzdłuż Olzy? Planują nową trasę",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/z-pogwizdowa-do-cieszyna-rowerem-wzdluz-olzy-gmina-hazlach-planuje-nowa-trase/103327/",
+        "date": "Mon, 02 Nov 2026 06:42:14 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Przystanek zieleń w Jastrzębiu-Zdroju. Zerknij co to za miejsce",
+        "url": "https://www.radio90.pl/przystanku-zielen-w-jastrzebiu-zdroju-zerknij-co-to-za-miejsce.html",
+        "date": "Mon, 02 Nov 2026 06:32:52 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Jastrzębie Barkom przegrywa pierwszy mecz w sezonie",
-        "url": "https://www.radio90.pl/jastrzebie-barkom-przegrywa-pierwszy-mecz-w-sezonie.html",
-        "date": "Sun, 01 Nov 2026 19:38:23 +0000",
+        "title": "Most w Bojanowie zostanie odbudowany. Powiat raciborski otrzymał kilkaset tysięcy złotych na rzecz tej inwestycji",
+        "url": "https://www.radio90.pl/most-w-bojanowie-zostanie-odbudowany-powiat-raciborski-otrzymal-kilkaset-tysiecy-zlotych-na-rzecz-tej-inwestycji.html",
+        "date": "Mon, 02 Nov 2026 05:50:54 +0000",
         "src": "Radio90"
       },
       {
@@ -177,27 +189,15 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Opłata za psa w Żywcu zostaje bez zmian",
-        "url": "https://www.radio90.pl/oplata-za-psa-w-zywcu-zostaje-bez-zmian.html",
-        "date": "Sun, 01 Nov 2026 17:02:57 +0000",
+        "title": "Jastrzębie Barkom przegrywa pierwszy mecz w sezonie",
+        "url": "https://www.radio90.pl/jastrzebie-barkom-przegrywa-pierwszy-mecz-w-sezonie.html",
+        "date": "Sun, 01 Nov 2026 19:38:23 +0000",
         "src": "Radio90"
       },
       {
         "title": "„Dziady” wróciły na bielski kirkut. Razem z nimi przyszły tłumy",
         "url": "https://www.radiobielsko.pl/bielsko-biala/dziady-wrocily-na-bielski-kirkut/103296/",
         "date": "Sun, 01 Nov 2026 20:17:58 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Park Miniatur w Żywcu: jaka przyszłość czeka to miejsce?",
-        "url": "https://www.radio90.pl/park-miniatur-w-zywcu-jaka-przyszlosc-czeka-to-miejsce.html",
-        "date": "Sun, 01 Nov 2026 15:30:09 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Pilne: służby szukają mieszkanki Kóz! [AKTUALIZACJA]",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/pilne-sluzby-szukaja-mieszkanki-koz/103289/",
-        "date": "Sun, 01 Nov 2026 18:00:21 +0000",
         "src": "RadioBielsko"
       }
     ],
