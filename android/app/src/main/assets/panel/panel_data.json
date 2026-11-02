@@ -1,37 +1,37 @@
 {
-  "generated": "2026-11-02T02:20:16+00:00",
+  "generated": "2026-11-02T03:20:16+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 5.8,
-    "feels": 3.1,
+    "feels": 3.0,
     "code": 3,
-    "wind": 9.7,
+    "wind": 10.4,
     "humidity": 93,
     "is_day": false,
-    "tmax": 7.3,
-    "tmin": 4.8,
+    "tmax": 7.0,
+    "tmin": 4.6,
     "forecast": [
       {
         "date": "2026-11-02",
-        "max": 7.3,
-        "min": 4.8,
+        "max": 7.0,
+        "min": 4.6,
         "code": 51
       },
       {
         "date": "2026-11-03",
-        "max": 6.1,
-        "min": 4.2,
-        "code": 53
+        "max": 5.7,
+        "min": 4.1,
+        "code": 51
       },
       {
         "date": "2026-11-04",
         "max": 6.7,
         "min": 2.0,
-        "code": 45
+        "code": 51
       }
     ],
-    "observed": "2026-11-02T03:15",
+    "observed": "2026-11-02T04:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78375,
-        "pln": 309828,
-        "chg24": 0.88
+        "usd": 78506,
+        "pln": 310320,
+        "chg24": 1.07
       },
       {
         "sym": "ETH",
-        "usd": 2292.77,
-        "pln": 9063.65,
-        "chg24": 1.07
+        "usd": 2293.28,
+        "pln": 9064.87,
+        "chg24": 1.17
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.03,
-        "chg": 1.9,
-        "as_of": "02.11 02:10"
+        "value": 50.115,
+        "chg": 2.07,
+        "as_of": "02.11 03:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.502,
-        "chg": 0.67,
-        "as_of": "02.11 02:10"
+        "value": 6.498,
+        "chg": 0.61,
+        "as_of": "02.11 03:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4368,
-        "chg": -4.94,
-        "as_of": "30.10 20:11"
+        "value": 1.4248,
+        "chg": -5.11,
+        "as_of": "02.11 03:06"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "30.10 20:11",
+    "updated": "02.11 03:10",
     "stale": false
   },
   "fx": {
