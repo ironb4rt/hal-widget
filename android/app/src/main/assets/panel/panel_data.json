@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-02T07:20:02+00:00",
+  "generated": "2026-11-02T08:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.0,
-    "feels": 2.9,
+    "temp": 6.4,
+    "feels": 3.3,
     "code": 3,
-    "wind": 12.2,
-    "humidity": 89,
+    "wind": 11.9,
+    "humidity": 84,
     "is_day": true,
     "tmax": 7.1,
     "tmin": 4.8,
@@ -26,12 +26,12 @@
       },
       {
         "date": "2026-11-04",
-        "max": 6.7,
-        "min": 2.0,
+        "max": 6.8,
+        "min": 3.3,
         "code": 51
       }
     ],
-    "observed": "2026-11-02T08:15",
+    "observed": "2026-11-02T09:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78046,
-        "pln": 307834,
-        "chg24": 0.27
+        "usd": 78069,
+        "pln": 307366,
+        "chg24": 0.31
       },
       {
         "sym": "ETH",
-        "usd": 2281.21,
-        "pln": 8997.64,
-        "chg24": 0.74
+        "usd": 2286.94,
+        "pln": 9003.94,
+        "chg24": 0.89
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.4,
-        "chg": 2.65,
-        "as_of": "02.11 07:09"
+        "value": 50.325,
+        "chg": 2.5,
+        "as_of": "02.11 08:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.522,
-        "chg": 0.98,
-        "as_of": "02.11 07:09"
+        "value": 6.512,
+        "chg": 0.83,
+        "as_of": "02.11 08:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4354,
-        "chg": -4.41,
-        "as_of": "02.11 06:03"
+        "value": 1.4381,
+        "chg": -4.23,
+        "as_of": "02.11 08:01"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 07:09",
+    "updated": "02.11 08:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,39 @@
     ],
     "local": [
       {
+        "title": "Zalew Rybnicki: koniec spacerów po zaporze",
+        "url": "https://www.radio90.pl/zalew-rybnicki-koniec-spacerow-po-zaporze.html",
+        "date": "Mon, 02 Nov 2026 08:10:05 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Dla nich runda jesienna dobiegła końca. Sprawdź wyniki ostatniej kolejki",
+        "url": "https://www.radiobielsko.pl/sport/dla-nich-runda-jesienna-dobiegla-konca-sprawdz-wyniki-ostatniej-kolejki/103341/",
+        "date": "Mon, 02 Nov 2026 07:51:46 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "MTS Trendy Top Żory na fali! Kolejna wygrana szczypiornistek",
+        "url": "https://www.radio90.pl/mts-trendy-top-zory-na-fali-kolejna-wygrana-szczypiornistek.html",
+        "date": "Mon, 02 Nov 2026 07:40:23 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Przykra wiadomość dla środowiska piłkarskiego. Nie żyje Hubert Marek",
+        "url": "https://www.radiobielsko.pl/sport/przykra-wiadomosc-dla-srodowiska-pilkarskiego-nie-zyje-hubert-marek/103333/",
+        "date": "Mon, 02 Nov 2026 07:23:52 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Śląska policja podsumowuje weekend. 12 wypadków i 364 kolizje",
         "url": "https://www.radio90.pl/slaska-policja-podsumowuje-weekend-12-wypadkow-i-364-kolizje.html",
         "date": "Mon, 02 Nov 2026 06:57:29 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Rowerem wzdłuż Olzy? Planują nową trasę",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/z-pogwizdowa-do-cieszyna-rowerem-wzdluz-olzy-gmina-hazlach-planuje-nowa-trase/103327/",
-        "date": "Mon, 02 Nov 2026 06:42:14 +0000",
+        "title": "Pociągi do Bielska-Białej biją rekordy popularności! Od grudnia jeszcze więcej połączeń",
+        "url": "https://www.radiobielsko.pl/region/pociagi-do-bielska-bialej-bija-rekordy-popularnosci-od-grudnia-jeszcze-wiecej-polaczen/103335/",
+        "date": "Mon, 02 Nov 2026 07:20:26 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,37 +195,18 @@
         "src": "Radio90"
       },
       {
-        "title": "Wahadło na moście na DK52. Krakowska stanie w korkach",
-        "url": "https://www.radiobielsko.pl/powiat-wadowicki/wahadlo-na-moscie-na-dk52-krakowska-stanie-w-korkach/103324/",
-        "date": "Mon, 02 Nov 2026 05:35:47 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Most w Bojanowie zostanie odbudowany. Powiat raciborski otrzymał kilkaset tysięcy złotych na rzecz tej inwestycji",
-        "url": "https://www.radio90.pl/most-w-bojanowie-zostanie-odbudowany-powiat-raciborski-otrzymal-kilkaset-tysiecy-zlotych-na-rzecz-tej-inwestycji.html",
-        "date": "Mon, 02 Nov 2026 05:50:54 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Walczyły o powrót do meczu, ale…",
-        "url": "https://www.radiobielsko.pl/sport/walczyly-o-powrot-do-meczu-ale/103321/",
-        "date": "Sun, 01 Nov 2026 21:55:17 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Jastrzębie Barkom przegrywa pierwszy mecz w sezonie",
-        "url": "https://www.radio90.pl/jastrzebie-barkom-przegrywa-pierwszy-mecz-w-sezonie.html",
-        "date": "Sun, 01 Nov 2026 19:38:23 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "„Dziady” wróciły na bielski kirkut. Razem z nimi przyszły tłumy",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dziady-wrocily-na-bielski-kirkut/103296/",
-        "date": "Sun, 01 Nov 2026 20:17:58 +0000",
+        "title": "Rowerem wzdłuż Olzy? Planują nową trasę",
+        "url": "https://www.radiobielsko.pl/powiat-cieszynski/z-pogwizdowa-do-cieszyna-rowerem-wzdluz-olzy-gmina-hazlach-planuje-nowa-trase/103327/",
+        "date": "Mon, 02 Nov 2026 06:42:14 +0000",
         "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "[WIDEO] Niebezpieczna kraksa pod osłoną nocy",
+        "url": "/informacje/21061-wideo-niebezpieczna-kraksa-pod-oslona-nocy",
+        "date": ""
+      },
       {
         "title": "Hulajnogi na chodnikach w Bielsku-Białej. Radny zwraca uwagę na bezpieczeństwo pieszych",
         "url": "/informacje/21060-hulajnogi-na-chodnikach-w-bielsku-bialej-radny-zwraca-uwage-na-bezpieczenstwo-pieszych",
@@ -225,11 +230,6 @@
       {
         "title": "Poważnie wyglądająca kraksa na S-52. Utrudnienia w kierunku Cieszyna",
         "url": "/informacje/21055-powaznie-wygladajaca-kraksa-na-s-52-utrudnienia-w-kierunku-cieszyna",
-        "date": ""
-      },
-      {
-        "title": "Felieton[FELIETON] Ile warta jest skrzynka \"STOP Agresji Drogowej\"? To jeden wielki pic na wodę!",
-        "url": "/informacje/21040-felieton-ile-warta-jest-skrzynka-stop-agresji-drogowej-to-jeden-wielki-pic-na-wode",
         "date": ""
       }
     ],
