@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-02T04:20:02+00:00",
+  "generated": "2026-11-02T05:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 5.8,
-    "feels": 2.9,
+    "feels": 2.8,
     "code": 3,
-    "wind": 10.8,
-    "humidity": 92,
+    "wind": 11.5,
+    "humidity": 91,
     "is_day": false,
     "tmax": 7.0,
     "tmin": 4.6,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T05:15",
+    "observed": "2026-11-02T06:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78606,
-        "pln": 310600,
-        "chg24": 1.19
+        "usd": 78288,
+        "pln": 309069,
+        "chg24": 0.7
       },
       {
         "sym": "ETH",
-        "usd": 2307.62,
-        "pln": 9118.23,
-        "chg24": 1.86
+        "usd": 2287.92,
+        "pln": 9032.31,
+        "chg24": 0.98
       }
     ],
     "stale": false
@@ -59,9 +59,9 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.16,
-        "chg": 2.17,
-        "as_of": "02.11 04:09"
+        "value": 50.205,
+        "chg": 2.26,
+        "as_of": "02.11 05:10"
       },
       {
         "sym": "HG=F",
@@ -69,14 +69,14 @@
         "unit": "USD/lb",
         "value": 6.51,
         "chg": 0.8,
-        "as_of": "02.11 04:09"
+        "as_of": "02.11 05:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
         "value": 1.4279,
-        "chg": -4.91,
+        "chg": -5.53,
         "as_of": "02.11 03:54"
       },
       {
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 04:09",
+    "updated": "02.11 05:10",
     "stale": false
   },
   "fx": {
