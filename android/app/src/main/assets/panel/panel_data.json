@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-02T13:20:05+00:00",
+  "generated": "2026-11-02T14:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 7.1,
     "feels": 3.9,
     "code": 3,
-    "wind": 11.5,
+    "wind": 11.9,
     "humidity": 78,
     "is_day": true,
     "tmax": 7.5,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T14:15",
+    "observed": "2026-11-02T15:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77586,
-        "pln": 305562,
-        "chg24": -0.43
+        "usd": 77855,
+        "pln": 306925,
+        "chg24": -0.13
       },
       {
         "sym": "ETH",
-        "usd": 2278.84,
-        "pln": 8974.9,
-        "chg24": 0.64
+        "usd": 2288.35,
+        "pln": 9021.3,
+        "chg24": 0.84
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.09,
-        "chg": 2.02,
-        "as_of": "02.11 13:10"
+        "value": 50.95,
+        "chg": 3.77,
+        "as_of": "02.11 14:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.509,
-        "chg": 0.78,
-        "as_of": "02.11 13:10"
+        "value": 6.544,
+        "chg": 1.32,
+        "as_of": "02.11 14:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4352,
-        "chg": -4.43,
-        "as_of": "02.11 13:05"
+        "value": 1.4362,
+        "chg": -4.36,
+        "as_of": "02.11 13:56"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 13:10",
+    "updated": "02.11 14:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,12 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Gold Fields clears major hurdle for Quebec’s Windfall gold mine",
+        "url": "https://www.mining.com/gold-fields-clears-major-hurdle-for-quebecs-windfall-gold-mine/",
+        "date": "Mon, 02 Nov 2026 10:44:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Global resource squeeze signals market shift: report",
         "url": "https://www.mining.com/global-resource-squeeze-signals-market-shift-report/",
@@ -143,31 +149,31 @@
         "url": "https://www.mining.com/perseus-mining-secures-backup-power-for-nyanzaga-gold-project/",
         "date": "Fri, 30 Oct 2026 16:22:09 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Codelco accounting scandal claims eight more employees",
-        "url": "https://www.mining.com/codelco-accounting-scandal-claims-eight-more-employees/",
-        "date": "Fri, 30 Oct 2026 12:50:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "8 goli i zmiana lidera. „Cały czas robimy postępy”",
-        "url": "https://www.radiobielsko.pl/sport/8-goli-i-zmiana-lidera-caly-czas-robimy-postepy/103432/",
-        "date": "Mon, 02 Nov 2026 13:18:38 +0000",
+        "title": "Usłyszała 182 zarzuty! Policjanci z Żor zatrzymali 32-latkę. Kobieta okradała sklep, w którym pracowała",
+        "url": "https://www.radio90.pl/uslyszala-182-zarzuty-policjanci-z-zor-zatrzymali-32-latke-kobieta-okradala-sklep-w-ktorym-pracowala.html",
+        "date": "Mon, 02 Nov 2026 13:55:45 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Miała 2,3 promila i troje małych dzieci pod opieką w sklepie",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/miala-23-promila-i-troje-malych-dzieci-pod-opieka-w-sklepie/103425/",
+        "date": "Mon, 02 Nov 2026 13:47:24 +0000",
         "src": "RadioBielsko"
       },
       {
-        "title": "MKKS Rybnik lepszy od UKS-u Regis Wieliczka. Ekipę spod Krakowa pokonali jednak dopiero po dogrywce",
+        "title": "MKKS Rybnik lepszy od UKS-u Regis Wieliczka. Ekipę spod Krakowa pokonali jednak dopiero po dogrywce [ZDJĘCIA]",
         "url": "https://www.radio90.pl/mkks-rybnik-lepszy-od-uks-u-regis-wieliczka-ekipe-spod-krakowa-pokonali-jednak-dopiero-po-dogrywce.html",
         "date": "Mon, 02 Nov 2026 13:10:24 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Na pętlach autobusowych praca wre",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/na-petlach-autobusowych-praca-wre/103420/",
-        "date": "Mon, 02 Nov 2026 12:43:00 +0000",
+        "title": "8 goli i zmiana lidera. „Cały czas robimy postępy”",
+        "url": "https://www.radiobielsko.pl/sport/8-goli-i-zmiana-lidera-caly-czas-robimy-postepy/103432/",
+        "date": "Mon, 02 Nov 2026 13:18:38 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Nie mieli sobie równych! Oto najlepsi strzelcy rundy jesiennej w A-Klasie",
-        "url": "https://www.radiobielsko.pl/sport/nie-mieli-sobie-rownych-oto-najlepsi-strzelcy-rundy-jesiennej-w-a-klasie/103394/",
-        "date": "Mon, 02 Nov 2026 12:33:47 +0000",
+        "title": "Na pętlach autobusowych praca wre",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/na-petlach-autobusowych-praca-wre/103420/",
+        "date": "Mon, 02 Nov 2026 12:43:00 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,16 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Górale z Istebnej zatańczyli przed Habsburgiem. Niezwykła historia sprzed 125 lat ożyła na scenie",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/gorale-z-istebnej-zatanczyli-przed-habsburgiem-niezwykla-historia-sprzed-125-lat-ozyla-na-scenie/103395/",
-        "date": "Mon, 02 Nov 2026 11:39:59 +0000",
+        "title": "Nie mieli sobie równych! Oto najlepsi strzelcy rundy jesiennej w A-Klasie",
+        "url": "https://www.radiobielsko.pl/sport/nie-mieli-sobie-rownych-oto-najlepsi-strzelcy-rundy-jesiennej-w-a-klasie/103394/",
+        "date": "Mon, 02 Nov 2026 12:33:47 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Zaginął Dawid Sosna. Rybniczanin pod koniec października miał wrócić do Polski. Od ponad tygodnia nie ma z nim kontaktu",
-        "url": "https://www.radio90.pl/zaginal-dawid-sosna-rybniczanin-pod-koniec-pazdziernika-mial-wrocic-do-polski-od-ponad-tygodnia-nie-ma-z-nim-kontaktu.html",
-        "date": "Mon, 02 Nov 2026 11:02:58 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
