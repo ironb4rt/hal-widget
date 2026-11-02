@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-02T09:20:04+00:00",
+  "generated": "2026-11-02T10:20:03+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.6,
-    "feels": 3.5,
+    "temp": 6.8,
+    "feels": 3.7,
     "code": 3,
-    "wind": 11.9,
-    "humidity": 85,
+    "wind": 11.5,
+    "humidity": 80,
     "is_day": true,
     "tmax": 7.0,
     "tmin": 4.9,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T10:15",
+    "observed": "2026-11-02T11:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78174,
-        "pln": 307218,
-        "chg24": 0.03
+        "usd": 77905,
+        "pln": 306980,
+        "chg24": -0.2
       },
       {
         "sym": "ETH",
-        "usd": 2296.14,
-        "pln": 9023.63,
-        "chg24": 1.08
+        "usd": 2284.58,
+        "pln": 9002.26,
+        "chg24": 0.57
       }
     ],
     "stale": false
@@ -59,9 +59,9 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.425,
-        "chg": 2.7,
-        "as_of": "02.11 09:09"
+        "value": 50.305,
+        "chg": 2.46,
+        "as_of": "02.11 10:09"
       },
       {
         "sym": "HG=F",
@@ -69,15 +69,15 @@
         "unit": "USD/lb",
         "value": 6.518,
         "chg": 0.92,
-        "as_of": "02.11 09:09"
+        "as_of": "02.11 10:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4438,
-        "chg": -3.85,
-        "as_of": "02.11 09:03"
+        "value": 1.4399,
+        "chg": -4.11,
+        "as_of": "02.11 09:43"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 09:09",
+    "updated": "02.11 10:09",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,33 @@
     ],
     "local": [
       {
+        "title": "Kradzież torebki w Bielsku-Białej. Policja poszukuje mężczyzny ze zdjęcia",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/kradziez-torebki-w-bielsku-bialej-policja-poszukuje-mezczyzny-w-czerwonej-bluzie/103384/",
+        "date": "Mon, 02 Nov 2026 10:09:56 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Akcja Trzeźwość w regionie. O poranku zatrzymano dwóch pijanych kierowców. Wpadli w powiecie gliwickim",
+        "url": "https://www.radio90.pl/akcja-trzezwosc-w-regionie-o-poranku-zatrzymano-dwoch-pijanych-kierowcow-wpadli-w-powiecie-gliwickim.html",
+        "date": "Mon, 02 Nov 2026 09:48:39 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Cztery tony ryb trafiły do wody",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/cztery-tony-ryb-trafily-do-wody/103381/",
+        "date": "Mon, 02 Nov 2026 10:06:13 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Nieczynne toalety na dworcu kolejowym w Rybniku. PKP: „Przepraszamy podróżnych za niedogodności”",
         "url": "https://www.radio90.pl/nieczynne-toalety-na-dworcu-kolejowym-w-rybniku-pkp-przepraszamy-podroznych-za-niedogodnosci.html",
         "date": "Mon, 02 Nov 2026 09:15:07 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Nowy magazyn przeciwpowodziowy rośnie w oczach",
-        "url": "https://www.radiobielsko.pl/powiat-pszczynski/nowy-magazyn-przeciwpowodziowy-rosnie-w-oczach/103352/",
-        "date": "Mon, 02 Nov 2026 08:51:42 +0000",
+        "title": "Volkswagen uderzył w słup, kobieta trafiła do szpitala",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/volkswagen-uderzyl-w-slup-kobieta-trafila-do-szpitala/103376/",
+        "date": "Mon, 02 Nov 2026 09:58:18 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +189,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Dla nich runda jesienna dobiegła końca. Sprawdź wyniki ostatniej kolejki",
-        "url": "https://www.radiobielsko.pl/sport/dla-nich-runda-jesienna-dobiegla-konca-sprawdz-wyniki-ostatniej-kolejki/103341/",
-        "date": "Mon, 02 Nov 2026 07:51:46 +0000",
+        "title": "Samochód wpadł do rowu przy przejeździe kolejowym w Kętach. Pociągi musiały się zatrzymać",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/samochod-wpadl-do-rowu-przy-przejezdzie-kolejowym-w-ketach-pociagi-musialy-sie-zatrzymac/103366/",
+        "date": "Mon, 02 Nov 2026 09:41:45 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -181,24 +199,6 @@
         "url": "https://www.radio90.pl/zalew-rybnicki-koniec-spacerow-po-zaporze.html",
         "date": "Mon, 02 Nov 2026 08:10:05 +0000",
         "src": "Radio90"
-      },
-      {
-        "title": "Przykra wiadomość dla środowiska piłkarskiego. Nie żyje Hubert Marek",
-        "url": "https://www.radiobielsko.pl/sport/przykra-wiadomosc-dla-srodowiska-pilkarskiego-nie-zyje-hubert-marek/103333/",
-        "date": "Mon, 02 Nov 2026 07:23:52 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "MTS Trendy Top Żory na fali! Kolejna wygrana szczypiornistek",
-        "url": "https://www.radio90.pl/mts-trendy-top-zory-na-fali-kolejna-wygrana-szczypiornistek.html",
-        "date": "Mon, 02 Nov 2026 07:40:23 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Pociągi do Bielska-Białej biją rekordy popularności! Od grudnia jeszcze więcej połączeń",
-        "url": "https://www.radiobielsko.pl/region/pociagi-do-bielska-bialej-bija-rekordy-popularnosci-od-grudnia-jeszcze-wiecej-polaczen/103335/",
-        "date": "Mon, 02 Nov 2026 07:20:26 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
