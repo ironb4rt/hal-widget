@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-02T14:20:05+00:00",
+  "generated": "2026-11-02T15:20:31+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.1,
-    "feels": 3.9,
+    "temp": 6.7,
+    "feels": 3.5,
     "code": 3,
     "wind": 11.9,
-    "humidity": 78,
+    "humidity": 80,
     "is_day": true,
     "tmax": 7.5,
     "tmin": 4.9,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T15:15",
+    "observed": "2026-11-02T16:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77855,
-        "pln": 306925,
-        "chg24": -0.13
+        "usd": 77880,
+        "pln": 307243,
+        "chg24": -0.16
       },
       {
         "sym": "ETH",
-        "usd": 2288.35,
-        "pln": 9021.3,
-        "chg24": 0.84
+        "usd": 2289.49,
+        "pln": 9032.19,
+        "chg24": 0.89
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.95,
-        "chg": 3.77,
-        "as_of": "02.11 14:10"
+        "value": 51.065,
+        "chg": 4.01,
+        "as_of": "02.11 14:55"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.544,
-        "chg": 1.32,
-        "as_of": "02.11 14:10"
+        "value": 6.55,
+        "chg": 1.42,
+        "as_of": "02.11 14:55"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4362,
-        "chg": -4.36,
-        "as_of": "02.11 13:56"
+        "value": 1.4403,
+        "chg": -4.09,
+        "as_of": "02.11 14:34"
       },
       {
         "sym": "HRC",
@@ -89,19 +89,31 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 14:10",
+    "updated": "02.11 14:55",
     "stale": false
   },
   "fx": {
     "ok": true,
-    "date": "2026-10-30",
-    "usdpln": 3.9418,
-    "usdeur": 0.89509,
+    "date": "2026-11-02",
+    "usdpln": 3.9395,
+    "usdeur": 0.89158,
     "stale": false
   },
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Glencore CEO pay shakeup stirs fresh takeover speculation",
+        "url": "https://www.mining.com/glencore-ceo-pay-shakeup-stirs-fresh-takeover-speculation/",
+        "date": "Mon, 02 Nov 2026 12:57:00 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Friedland takes aim at China’s scandium grip with US-backed mine",
+        "url": "https://www.mining.com/friedland-takes-aim-at-chinas-scandium-grip-with-us-backed-mine/",
+        "date": "Mon, 02 Nov 2026 12:01:00 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Gold Fields clears major hurdle for Quebec’s Windfall gold mine",
         "url": "https://www.mining.com/gold-fields-clears-major-hurdle-for-quebecs-windfall-gold-mine/",
@@ -137,25 +149,13 @@
         "url": "https://www.mining.com/lynas-locks-in-price-floors-as-revenue-jumps-55/",
         "date": "Fri, 30 Oct 2026 19:10:47 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
-        "url": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
-        "date": "Fri, 30 Oct 2026 16:31:19 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Perseus Mining secures backup power for Nyanzaga gold project",
-        "url": "https://www.mining.com/perseus-mining-secures-backup-power-for-nyanzaga-gold-project/",
-        "date": "Fri, 30 Oct 2026 16:22:09 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Usłyszała 182 zarzuty! Policjanci z Żor zatrzymali 32-latkę. Kobieta okradała sklep, w którym pracowała",
-        "url": "https://www.radio90.pl/uslyszala-182-zarzuty-policjanci-z-zor-zatrzymali-32-latke-kobieta-okradala-sklep-w-ktorym-pracowala.html",
-        "date": "Mon, 02 Nov 2026 13:55:45 +0000",
+        "title": "Jak pomagać starszym, niepełnosprawnym i zależnym? Debatowano nad tym podczas konferencji PCPR w Rybniku",
+        "url": "https://www.radio90.pl/jak-pomagac-starszym-niepelnosprawnym-i-zaleznym-debatowano-nad-tym-podczas-konferencji-pcpr-w-rybniku.html",
+        "date": "Mon, 02 Nov 2026 15:10:27 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "MKKS Rybnik lepszy od UKS-u Regis Wieliczka. Ekipę spod Krakowa pokonali jednak dopiero po dogrywce [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/mkks-rybnik-lepszy-od-uks-u-regis-wieliczka-ekipe-spod-krakowa-pokonali-jednak-dopiero-po-dogrywce.html",
-        "date": "Mon, 02 Nov 2026 13:10:24 +0000",
+        "title": "Rośnie bezrobocie w powiecie żywieckim. A jeden z zakładów planuje zwolnienia grupowe… Ile osób teraz nie ma pracy?",
+        "url": "https://www.radio90.pl/rosnie-bezrobocie-w-powiecie-zywieckim-a-jeden-z-zakladow-planuje-zwolnienia-grupowe-ile-osob-teraz-nie-ma-pracy.html",
+        "date": "Mon, 02 Nov 2026 14:30:37 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Galeria handlowa w Jastrzębiu: co spowodowało uszkodzenia w budynku? Kilka dni temu „podniosły się” kafelki na podłodze",
-        "url": "https://www.radio90.pl/galeria-handlowa-w-jastrzebiu-co-spowodowalo-uszkodzenia-w-budynku-kilka-dni-temu-podniosly-sie-kafelki-na-podlodze.html",
-        "date": "Mon, 02 Nov 2026 12:31:52 +0000",
+        "title": "Usłyszała 182 zarzuty! Policjanci z Żor zatrzymali 32-latkę. Kobieta okradała sklep, w którym pracowała",
+        "url": "https://www.radio90.pl/uslyszala-182-zarzuty-policjanci-z-zor-zatrzymali-32-latke-kobieta-okradala-sklep-w-ktorym-pracowala.html",
+        "date": "Mon, 02 Nov 2026 13:55:45 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dziś otwiera się lodowisko w Rybniku. MOSiR zaprasza łyżwiarzy w każdym wieku oraz tych, którzy chcą się nauczyć jeździć",
-        "url": "https://www.radio90.pl/dzis-otwiera-sie-lodowisko-w-rybniku-mosir-zaprasza-lyzwiarzy-w-kazdym-wieku-oraz-tych-ktorzy-chca-sie-nauczyc-jezdzic.html",
-        "date": "Mon, 02 Nov 2026 11:42:37 +0000",
+        "title": "MKKS Rybnik lepszy od UKS-u Regis Wieliczka. Ekipę spod Krakowa pokonali jednak dopiero po dogrywce [ZDJĘCIA]",
+        "url": "https://www.radio90.pl/mkks-rybnik-lepszy-od-uks-u-regis-wieliczka-ekipe-spod-krakowa-pokonali-jednak-dopiero-po-dogrywce.html",
+        "date": "Mon, 02 Nov 2026 13:10:24 +0000",
         "src": "Radio90"
       },
       {
