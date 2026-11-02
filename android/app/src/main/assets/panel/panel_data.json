@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-02T15:20:31+00:00",
+  "generated": "2026-11-02T16:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.7,
-    "feels": 3.5,
-    "code": 3,
-    "wind": 11.9,
-    "humidity": 80,
-    "is_day": true,
+    "temp": 6.3,
+    "feels": 3.4,
+    "code": 1,
+    "wind": 9.7,
+    "humidity": 83,
+    "is_day": false,
     "tmax": 7.5,
     "tmin": 4.9,
     "forecast": [
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T16:15",
+    "observed": "2026-11-02T17:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77880,
-        "pln": 307243,
-        "chg24": -0.16
+        "usd": 77344,
+        "pln": 305287,
+        "chg24": -0.81
       },
       {
         "sym": "ETH",
-        "usd": 2289.49,
-        "pln": 9032.19,
-        "chg24": 0.89
+        "usd": 2267.19,
+        "pln": 8948.89,
+        "chg24": 0.03
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 51.065,
-        "chg": 4.01,
-        "as_of": "02.11 14:55"
+        "value": 51.01,
+        "chg": 3.9,
+        "as_of": "02.11 16:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.55,
-        "chg": 1.42,
-        "as_of": "02.11 14:55"
+        "value": 6.571,
+        "chg": 1.74,
+        "as_of": "02.11 16:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4403,
-        "chg": -4.09,
-        "as_of": "02.11 14:34"
+        "value": 1.4513,
+        "chg": -3.35,
+        "as_of": "02.11 15:52"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 14:55",
+    "updated": "02.11 16:10",
     "stale": false
   },
   "fx": {
@@ -153,15 +153,27 @@
     ],
     "local": [
       {
+        "title": "Dramatyczna interwencja żywieckiego inspektoratu OTOZ Animals",
+        "url": "https://www.radio90.pl/dramatyczna-interwencja-zywieckiego-inspektoratu-otoz-animals.html",
+        "date": "Mon, 02 Nov 2026 15:55:29 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Zwłoki znalezione podczas rozbiórki budynku w Czechowicach-Dziedzicach. Czy to zaginiona Karolina Wróbel?",
+        "url": "https://www.radiobielsko.pl/powiat-bielski/zwloki-znalezione-podczas-rozbiorki-budynku-w-czechowicach-dziedzicach-czy-to-zaginiona-karolina-wrobel/103441/",
+        "date": "Mon, 02 Nov 2026 15:34:08 +0000",
+        "src": "RadioBielsko"
+      },
+      {
         "title": "Jak pomagać starszym, niepełnosprawnym i zależnym? Debatowano nad tym podczas konferencji PCPR w Rybniku",
         "url": "https://www.radio90.pl/jak-pomagac-starszym-niepelnosprawnym-i-zaleznym-debatowano-nad-tym-podczas-konferencji-pcpr-w-rybniku.html",
         "date": "Mon, 02 Nov 2026 15:10:27 +0000",
         "src": "Radio90"
       },
       {
-        "title": "Miała 2,3 promila i troje małych dzieci pod opieką w sklepie",
-        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/miala-23-promila-i-troje-malych-dzieci-pod-opieka-w-sklepie/103425/",
-        "date": "Mon, 02 Nov 2026 13:47:24 +0000",
+        "title": "Od wtorku utrudnienia. Remont ulicy i wycinka nad jeziorem",
+        "url": "https://www.radiobielsko.pl/zywiec/od-wtorku-utrudnienia-remont-ulicy-i-wycinka-nad-jeziorem/103439/",
+        "date": "Mon, 02 Nov 2026 15:21:03 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -171,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "8 goli i zmiana lidera. „Cały czas robimy postępy”",
-        "url": "https://www.radiobielsko.pl/sport/8-goli-i-zmiana-lidera-caly-czas-robimy-postepy/103432/",
-        "date": "Mon, 02 Nov 2026 13:18:38 +0000",
+        "title": "Miała 2,3 promila i troje małych dzieci pod opieką w sklepie",
+        "url": "https://www.radiobielsko.pl/powiat-oswiecimski/miala-23-promila-i-troje-malych-dzieci-pod-opieka-w-sklepie/103425/",
+        "date": "Mon, 02 Nov 2026 13:47:24 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -183,25 +195,18 @@
         "src": "Radio90"
       },
       {
-        "title": "Na pętlach autobusowych praca wre",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/na-petlach-autobusowych-praca-wre/103420/",
-        "date": "Mon, 02 Nov 2026 12:43:00 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "MKKS Rybnik lepszy od UKS-u Regis Wieliczka. Ekipę spod Krakowa pokonali jednak dopiero po dogrywce [ZDJĘCIA]",
-        "url": "https://www.radio90.pl/mkks-rybnik-lepszy-od-uks-u-regis-wieliczka-ekipe-spod-krakowa-pokonali-jednak-dopiero-po-dogrywce.html",
-        "date": "Mon, 02 Nov 2026 13:10:24 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Nie mieli sobie równych! Oto najlepsi strzelcy rundy jesiennej w A-Klasie",
-        "url": "https://www.radiobielsko.pl/sport/nie-mieli-sobie-rownych-oto-najlepsi-strzelcy-rundy-jesiennej-w-a-klasie/103394/",
-        "date": "Mon, 02 Nov 2026 12:33:47 +0000",
+        "title": "8 goli i zmiana lidera. „Cały czas robimy postępy”",
+        "url": "https://www.radiobielsko.pl/sport/8-goli-i-zmiana-lidera-caly-czas-robimy-postepy/103432/",
+        "date": "Mon, 02 Nov 2026 13:18:38 +0000",
         "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "Akcja ratunkowa na Lipnickiej. Na miejscu strażacy, policja i pogotowie",
+        "url": "/informacje/21067-akcja-ratunkowa-na-lipnickiej-na-miejscu-strazacy-policja-i-pogotowie",
+        "date": ""
+      },
       {
         "title": "[FOTO] Kęty: wypadł z drogi przy przejeździe kolejowym i wstrzymał ruch pociągów",
         "url": "/informacje/21066-foto-kety-wypadl-z-drogi-przy-przejezdzie-kolejowym-i-wstrzymal-ruch-pociagow",
@@ -225,11 +230,6 @@
       {
         "title": "Hulajnogi na chodnikach w Bielsku-Białej. Radny zwraca uwagę na bezpieczeństwo pieszych",
         "url": "/informacje/21060-hulajnogi-na-chodnikach-w-bielsku-bialej-radny-zwraca-uwage-na-bezpieczenstwo-pieszych",
-        "date": ""
-      },
-      {
-        "title": "Pożar mieszkania przy Spółdzielców. Strażacy wynieśli nieprzytomnego mężczyznę",
-        "url": "/informacje/21059-pozar-mieszkania-przy-spoldzielcow-strazacy-wyniesli-nieprzytomnego-mezczyzne",
         "date": ""
       }
     ],
