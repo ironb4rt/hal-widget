@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-02T16:20:05+00:00",
+  "generated": "2026-11-02T17:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.3,
-    "feels": 3.4,
-    "code": 1,
-    "wind": 9.7,
-    "humidity": 83,
+    "temp": 5.8,
+    "feels": 2.7,
+    "code": 3,
+    "wind": 10.4,
+    "humidity": 85,
     "is_day": false,
     "tmax": 7.5,
     "tmin": 4.9,
@@ -20,18 +20,18 @@
       },
       {
         "date": "2026-11-03",
-        "max": 6.1,
+        "max": 5.6,
         "min": 4.3,
         "code": 51
       },
       {
         "date": "2026-11-04",
-        "max": 6.8,
-        "min": 4.0,
+        "max": 7.0,
+        "min": 4.2,
         "code": 51
       }
     ],
-    "observed": "2026-11-02T17:15",
+    "observed": "2026-11-02T18:15",
     "stale": false
   },
   "crypto": {
@@ -40,14 +40,14 @@
       {
         "sym": "BTC",
         "usd": 77344,
-        "pln": 305287,
-        "chg24": -0.81
+        "pln": 304958,
+        "chg24": -0.89
       },
       {
         "sym": "ETH",
-        "usd": 2267.19,
-        "pln": 8948.89,
-        "chg24": 0.03
+        "usd": 2266.03,
+        "pln": 8934.65,
+        "chg24": -0.01
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 51.01,
-        "chg": 3.9,
-        "as_of": "02.11 16:10"
+        "value": 51.06,
+        "chg": 4.0,
+        "as_of": "02.11 17:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.571,
-        "chg": 1.74,
-        "as_of": "02.11 16:10"
+        "value": 6.58,
+        "chg": 1.88,
+        "as_of": "02.11 17:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4513,
-        "chg": -3.35,
-        "as_of": "02.11 15:52"
+        "value": 1.4533,
+        "chg": -3.22,
+        "as_of": "02.11 16:51"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 16:10",
+    "updated": "02.11 17:10",
     "stale": false
   },
   "fx": {
@@ -102,6 +102,24 @@
   "news": {
     "ok": true,
     "market": [
+      {
+        "title": "Citi slashes lithium price forecast by 40% on lower demand",
+        "url": "https://www.mining.com/citi-slashes-lithium-price-forecast-by-40-on-lower-demand/",
+        "date": "Mon, 02 Nov 2026 16:03:32 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Endeavour halts Burkina gold underground as ramp sinks",
+        "url": "https://www.mining.com/endeavour-halts-burkina-gold-underground-as-ramp-sinks/",
+        "date": "Mon, 02 Nov 2026 14:22:18 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Ontario fast-tracks Mayfair’s Fenn-Gib gold project",
+        "url": "https://www.mining.com/ontario-fast-tracks-mayfairs-fenn-gib-gold-project/",
+        "date": "Mon, 02 Nov 2026 13:06:35 +0000",
+        "src": "Mining.com"
+      },
       {
         "title": "Glencore CEO pay shakeup stirs fresh takeover speculation",
         "url": "https://www.mining.com/glencore-ceo-pay-shakeup-stirs-fresh-takeover-speculation/",
@@ -131,31 +149,13 @@
         "url": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/",
         "date": "Sun, 01 Nov 2026 12:00:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Uranium shares slide even as analysts see tighter supply",
-        "url": "https://www.mining.com/uranium-shares-slide-even-as-analysts-see-tighter-supply/",
-        "date": "Fri, 30 Oct 2026 21:11:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Radical AI uses autonomous labs to accelerate alloy discovery",
-        "url": "https://www.mining.com/radical-ai-uses-autonomous-labs-to-accelerate-alloy-discovery/",
-        "date": "Fri, 30 Oct 2026 20:44:27 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Lynas locks in price floors as revenue jumps 55%",
-        "url": "https://www.mining.com/lynas-locks-in-price-floors-as-revenue-jumps-55/",
-        "date": "Fri, 30 Oct 2026 19:10:47 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Dramatyczna interwencja żywieckiego inspektoratu OTOZ Animals",
-        "url": "https://www.radio90.pl/dramatyczna-interwencja-zywieckiego-inspektoratu-otoz-animals.html",
-        "date": "Mon, 02 Nov 2026 15:55:29 +0000",
+        "title": "Pościg w Raciborzu. Mundurowi gonili 30-latka w BMW. Nie zatrzymał się do kontroli. Powód?",
+        "url": "https://www.radio90.pl/poscig-w-raciborzu-mundurowi-gonili-30-latka-w-bmw-nie-zatrzymal-sie-do-kontroli-powod.html",
+        "date": "Mon, 02 Nov 2026 16:47:43 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Jak pomagać starszym, niepełnosprawnym i zależnym? Debatowano nad tym podczas konferencji PCPR w Rybniku",
-        "url": "https://www.radio90.pl/jak-pomagac-starszym-niepelnosprawnym-i-zaleznym-debatowano-nad-tym-podczas-konferencji-pcpr-w-rybniku.html",
-        "date": "Mon, 02 Nov 2026 15:10:27 +0000",
+        "title": "Dramatyczna interwencja żywieckiego inspektoratu OTOZ Animals",
+        "url": "https://www.radio90.pl/dramatyczna-interwencja-zywieckiego-inspektoratu-otoz-animals.html",
+        "date": "Mon, 02 Nov 2026 15:55:29 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Rośnie bezrobocie w powiecie żywieckim. A jeden z zakładów planuje zwolnienia grupowe… Ile osób teraz nie ma pracy?",
-        "url": "https://www.radio90.pl/rosnie-bezrobocie-w-powiecie-zywieckim-a-jeden-z-zakladow-planuje-zwolnienia-grupowe-ile-osob-teraz-nie-ma-pracy.html",
-        "date": "Mon, 02 Nov 2026 14:30:37 +0000",
+        "title": "Jak pomagać starszym, niepełnosprawnym i zależnym? Debatowano nad tym podczas konferencji PCPR w Rybniku",
+        "url": "https://www.radio90.pl/jak-pomagac-starszym-niepelnosprawnym-i-zaleznym-debatowano-nad-tym-podczas-konferencji-pcpr-w-rybniku.html",
+        "date": "Mon, 02 Nov 2026 15:10:27 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Usłyszała 182 zarzuty! Policjanci z Żor zatrzymali 32-latkę. Kobieta okradała sklep, w którym pracowała",
-        "url": "https://www.radio90.pl/uslyszala-182-zarzuty-policjanci-z-zor-zatrzymali-32-latke-kobieta-okradala-sklep-w-ktorym-pracowala.html",
-        "date": "Mon, 02 Nov 2026 13:55:45 +0000",
+        "title": "Rośnie bezrobocie w powiecie żywieckim. A jeden z zakładów planuje zwolnienia grupowe… Ile osób teraz nie ma pracy?",
+        "url": "https://www.radio90.pl/rosnie-bezrobocie-w-powiecie-zywieckim-a-jeden-z-zakladow-planuje-zwolnienia-grupowe-ile-osob-teraz-nie-ma-pracy.html",
+        "date": "Mon, 02 Nov 2026 14:30:37 +0000",
         "src": "Radio90"
       },
       {
