@@ -1,27 +1,27 @@
 {
-  "generated": "2026-11-02T05:20:02+00:00",
+  "generated": "2026-11-02T06:20:02+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 5.8,
-    "feels": 2.8,
+    "feels": 2.6,
     "code": 3,
-    "wind": 11.5,
-    "humidity": 91,
-    "is_day": false,
-    "tmax": 7.0,
-    "tmin": 4.6,
+    "wind": 13.0,
+    "humidity": 92,
+    "is_day": true,
+    "tmax": 7.1,
+    "tmin": 4.8,
     "forecast": [
       {
         "date": "2026-11-02",
-        "max": 7.0,
-        "min": 4.6,
+        "max": 7.1,
+        "min": 4.8,
         "code": 51
       },
       {
         "date": "2026-11-03",
-        "max": 5.7,
-        "min": 4.1,
+        "max": 5.9,
+        "min": 4.2,
         "code": 51
       },
       {
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T06:15",
+    "observed": "2026-11-02T07:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78288,
-        "pln": 309069,
-        "chg24": 0.7
+        "usd": 78199,
+        "pln": 308649,
+        "chg24": 0.45
       },
       {
         "sym": "ETH",
-        "usd": 2287.92,
-        "pln": 9032.31,
-        "chg24": 0.98
+        "usd": 2284.61,
+        "pln": 9017.3,
+        "chg24": 0.67
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.205,
-        "chg": 2.26,
-        "as_of": "02.11 05:10"
+        "value": 50.36,
+        "chg": 2.57,
+        "as_of": "02.11 06:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.51,
-        "chg": 0.8,
-        "as_of": "02.11 05:09"
+        "value": 6.526,
+        "chg": 1.05,
+        "as_of": "02.11 06:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4279,
-        "chg": -5.53,
-        "as_of": "02.11 03:54"
+        "value": 1.4354,
+        "chg": -4.41,
+        "as_of": "02.11 06:03"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 05:10",
+    "updated": "02.11 06:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,15 @@
     ],
     "local": [
       {
-        "title": "Walczyły o powrót do meczu, ale…",
-        "url": "https://www.radiobielsko.pl/sport/walczyly-o-powrot-do-meczu-ale/103321/",
-        "date": "Sun, 01 Nov 2026 21:55:17 +0000",
+        "title": "Most w Bojanowie zostanie odbudowany. Powiat raciborski otrzymał kilkaset tysięcy złotych na rzecz tej inwestycji",
+        "url": "https://www.radio90.pl/most-w-bojanowie-zostanie-odbudowany-powiat-raciborski-otrzymal-kilkaset-tysiecy-zlotych-na-rzecz-tej-inwestycji.html",
+        "date": "Mon, 02 Nov 2026 05:50:54 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Wahadło na moście na DK52. Krakowska stanie w korkach",
+        "url": "https://www.radiobielsko.pl/powiat-wadowicki/wahadlo-na-moscie-na-dk52-krakowska-stanie-w-korkach/103324/",
+        "date": "Mon, 02 Nov 2026 05:35:47 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -165,9 +171,9 @@
         "src": "Radio90"
       },
       {
-        "title": "„Dziady” wróciły na bielski kirkut. Razem z nimi przyszły tłumy",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/dziady-wrocily-na-bielski-kirkut/103296/",
-        "date": "Sun, 01 Nov 2026 20:17:58 +0000",
+        "title": "Walczyły o powrót do meczu, ale…",
+        "url": "https://www.radiobielsko.pl/sport/walczyly-o-powrot-do-meczu-ale/103321/",
+        "date": "Sun, 01 Nov 2026 21:55:17 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -177,9 +183,9 @@
         "src": "Radio90"
       },
       {
-        "title": "Pilne: służby szukają mieszkanki Kóz! [AKTUALIZACJA]",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/pilne-sluzby-szukaja-mieszkanki-koz/103289/",
-        "date": "Sun, 01 Nov 2026 18:00:21 +0000",
+        "title": "„Dziady” wróciły na bielski kirkut. Razem z nimi przyszły tłumy",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/dziady-wrocily-na-bielski-kirkut/103296/",
+        "date": "Sun, 01 Nov 2026 20:17:58 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -189,16 +195,10 @@
         "src": "Radio90"
       },
       {
-        "title": "Adriana Piekarska pokieruje Galerią Bielską BWA",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/ada-piekarska-pokieruje-galeria-bielska-bwa/103232/",
-        "date": "Sun, 01 Nov 2026 11:31:08 +0000",
+        "title": "Pilne: służby szukają mieszkanki Kóz! [AKTUALIZACJA]",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/pilne-sluzby-szukaja-mieszkanki-koz/103289/",
+        "date": "Sun, 01 Nov 2026 18:00:21 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Rynek w Czerwionce-Leszczynach: trwają przygotowywanie projektu tego miejsca. Pracują nad tym również mieszkańcy",
-        "url": "https://www.radio90.pl/rynek-w-czerwionce-leszczynach-trwaja-przygotowywanie-projektu-tego-miejsca-pracuja-nad-tym-rowniez-mieszkancy.html",
-        "date": "Sun, 01 Nov 2026 14:25:31 +0000",
-        "src": "Radio90"
       }
     ],
     "roads": [
