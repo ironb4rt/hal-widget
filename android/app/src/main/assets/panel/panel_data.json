@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-02T12:20:04+00:00",
+  "generated": "2026-11-02T13:20:05+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 7.3,
+    "temp": 7.1,
     "feels": 3.9,
     "code": 3,
-    "wind": 12.6,
-    "humidity": 76,
+    "wind": 11.5,
+    "humidity": 78,
     "is_day": true,
     "tmax": 7.5,
     "tmin": 4.9,
@@ -31,7 +31,7 @@
         "code": 51
       }
     ],
-    "observed": "2026-11-02T13:15",
+    "observed": "2026-11-02T14:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77963,
-        "pln": 307454,
-        "chg24": 0.18
+        "usd": 77586,
+        "pln": 305562,
+        "chg24": -0.43
       },
       {
         "sym": "ETH",
-        "usd": 2291.28,
-        "pln": 9035.92,
-        "chg24": 1.46
+        "usd": 2278.84,
+        "pln": 8974.9,
+        "chg24": 0.64
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.245,
-        "chg": 2.34,
-        "as_of": "02.11 12:10"
+        "value": 50.09,
+        "chg": 2.02,
+        "as_of": "02.11 13:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.524,
-        "chg": 1.01,
-        "as_of": "02.11 12:09"
+        "value": 6.509,
+        "chg": 0.78,
+        "as_of": "02.11 13:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4399,
-        "chg": -4.11,
-        "as_of": "02.11 09:43"
+        "value": 1.4352,
+        "chg": -4.43,
+        "as_of": "02.11 13:05"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 12:10",
+    "updated": "02.11 13:10",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,33 @@
     ],
     "local": [
       {
+        "title": "8 goli i zmiana lidera. „Cały czas robimy postępy”",
+        "url": "https://www.radiobielsko.pl/sport/8-goli-i-zmiana-lidera-caly-czas-robimy-postepy/103432/",
+        "date": "Mon, 02 Nov 2026 13:18:38 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "MKKS Rybnik lepszy od UKS-u Regis Wieliczka. Ekipę spod Krakowa pokonali jednak dopiero po dogrywce",
+        "url": "https://www.radio90.pl/mkks-rybnik-lepszy-od-uks-u-regis-wieliczka-ekipe-spod-krakowa-pokonali-jednak-dopiero-po-dogrywce.html",
+        "date": "Mon, 02 Nov 2026 13:10:24 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Na pętlach autobusowych praca wre",
+        "url": "https://www.radiobielsko.pl/bielsko-biala/na-petlach-autobusowych-praca-wre/103420/",
+        "date": "Mon, 02 Nov 2026 12:43:00 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Galeria handlowa w Jastrzębiu: co spowodowało uszkodzenia w budynku? Kilka dni temu „podniosły się” kafelki na podłodze",
+        "url": "https://www.radio90.pl/galeria-handlowa-w-jastrzebiu-co-spowodowalo-uszkodzenia-w-budynku-kilka-dni-temu-podniosly-sie-kafelki-na-podlodze.html",
+        "date": "Mon, 02 Nov 2026 12:31:52 +0000",
+        "src": "Radio90"
+      },
+      {
         "title": "Nie mieli sobie równych! Oto najlepsi strzelcy rundy jesiennej w A-Klasie",
         "url": "https://www.radiobielsko.pl/sport/nie-mieli-sobie-rownych-oto-najlepsi-strzelcy-rundy-jesiennej-w-a-klasie/103394/",
-        "date": "Mon, 02 Nov 2026 11:51:47 +0000",
+        "date": "Mon, 02 Nov 2026 12:33:47 +0000",
         "src": "RadioBielsko"
       },
       {
@@ -174,30 +198,6 @@
         "title": "Zaginął Dawid Sosna. Rybniczanin pod koniec października miał wrócić do Polski. Od ponad tygodnia nie ma z nim kontaktu",
         "url": "https://www.radio90.pl/zaginal-dawid-sosna-rybniczanin-pod-koniec-pazdziernika-mial-wrocic-do-polski-od-ponad-tygodnia-nie-ma-z-nim-kontaktu.html",
         "date": "Mon, 02 Nov 2026 11:02:58 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Dodatkowe miliony dla klubów? Podbeskidzie i Rekord wysoko w rankingach",
-        "url": "https://www.radiobielsko.pl/sport/dodatkowe-miliony-dla-klubow-podbeskidzie-i-rekord-wysoko-w-rankingach/103351/",
-        "date": "Mon, 02 Nov 2026 10:54:08 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Koniec utrudnień na Sumińskiej i Dworcowej. Droga znów przejezdna",
-        "url": "https://www.radio90.pl/koniec-utrudnien-na-suminskiej-i-dworcowej-droga-znow-przejezdna.html",
-        "date": "Mon, 02 Nov 2026 10:22:40 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Wyziębioną 50-latkę odnaleziono dzięki dronowi. Policja pokazuje obraz z kamery",
-        "url": "https://www.radiobielsko.pl/bielsko-biala/wyziebiona-50-latke-odnaleziono-dzieki-dronowi-policja-pokazuje-obraz-z-kamery/103389/",
-        "date": "Mon, 02 Nov 2026 10:34:56 +0000",
-        "src": "RadioBielsko"
-      },
-      {
-        "title": "Akcja Trzeźwość w regionie. O poranku zatrzymano dwóch pijanych kierowców. Wpadli w powiecie gliwickim",
-        "url": "https://www.radio90.pl/akcja-trzezwosc-w-regionie-o-poranku-zatrzymano-dwoch-pijanych-kierowcow-wpadli-w-powiecie-gliwickim.html",
-        "date": "Mon, 02 Nov 2026 09:48:39 +0000",
         "src": "Radio90"
       }
     ],
