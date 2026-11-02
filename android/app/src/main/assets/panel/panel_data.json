@@ -1,37 +1,37 @@
 {
-  "generated": "2026-11-02T08:20:03+00:00",
+  "generated": "2026-11-02T09:20:04+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
-    "temp": 6.4,
-    "feels": 3.3,
+    "temp": 6.6,
+    "feels": 3.5,
     "code": 3,
     "wind": 11.9,
-    "humidity": 84,
+    "humidity": 85,
     "is_day": true,
-    "tmax": 7.1,
-    "tmin": 4.8,
+    "tmax": 7.0,
+    "tmin": 4.9,
     "forecast": [
       {
         "date": "2026-11-02",
-        "max": 7.1,
-        "min": 4.8,
+        "max": 7.0,
+        "min": 4.9,
         "code": 51
       },
       {
         "date": "2026-11-03",
-        "max": 5.9,
-        "min": 4.2,
+        "max": 5.8,
+        "min": 4.4,
         "code": 51
       },
       {
         "date": "2026-11-04",
-        "max": 6.8,
+        "max": 7.0,
         "min": 3.3,
         "code": 51
       }
     ],
-    "observed": "2026-11-02T09:15",
+    "observed": "2026-11-02T10:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 78069,
-        "pln": 307366,
-        "chg24": 0.31
+        "usd": 78174,
+        "pln": 307218,
+        "chg24": 0.03
       },
       {
         "sym": "ETH",
-        "usd": 2286.94,
-        "pln": 9003.94,
-        "chg24": 0.89
+        "usd": 2296.14,
+        "pln": 9023.63,
+        "chg24": 1.08
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 50.325,
-        "chg": 2.5,
-        "as_of": "02.11 08:10"
+        "value": 50.425,
+        "chg": 2.7,
+        "as_of": "02.11 09:09"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.512,
-        "chg": 0.83,
-        "as_of": "02.11 08:10"
+        "value": 6.518,
+        "chg": 0.92,
+        "as_of": "02.11 09:09"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4381,
-        "chg": -4.23,
-        "as_of": "02.11 08:01"
+        "value": 1.4438,
+        "chg": -3.85,
+        "as_of": "02.11 09:03"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 08:10",
+    "updated": "02.11 09:09",
     "stale": false
   },
   "fx": {
@@ -153,9 +153,21 @@
     ],
     "local": [
       {
-        "title": "Zalew Rybnicki: koniec spacerów po zaporze",
-        "url": "https://www.radio90.pl/zalew-rybnicki-koniec-spacerow-po-zaporze.html",
-        "date": "Mon, 02 Nov 2026 08:10:05 +0000",
+        "title": "Nieczynne toalety na dworcu kolejowym w Rybniku. PKP: „Przepraszamy podróżnych za niedogodności”",
+        "url": "https://www.radio90.pl/nieczynne-toalety-na-dworcu-kolejowym-w-rybniku-pkp-przepraszamy-podroznych-za-niedogodnosci.html",
+        "date": "Mon, 02 Nov 2026 09:15:07 +0000",
+        "src": "Radio90"
+      },
+      {
+        "title": "Nowy magazyn przeciwpowodziowy rośnie w oczach",
+        "url": "https://www.radiobielsko.pl/powiat-pszczynski/nowy-magazyn-przeciwpowodziowy-rosnie-w-oczach/103352/",
+        "date": "Mon, 02 Nov 2026 08:51:42 +0000",
+        "src": "RadioBielsko"
+      },
+      {
+        "title": "Infolinia dla osób bezdomnych już działa",
+        "url": "https://www.radio90.pl/infolinia-dla-osob-bezdomnych-juz-dziala.html",
+        "date": "Mon, 02 Nov 2026 08:39:45 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "MTS Trendy Top Żory na fali! Kolejna wygrana szczypiornistek",
-        "url": "https://www.radio90.pl/mts-trendy-top-zory-na-fali-kolejna-wygrana-szczypiornistek.html",
-        "date": "Mon, 02 Nov 2026 07:40:23 +0000",
+        "title": "Zalew Rybnicki: koniec spacerów po zaporze",
+        "url": "https://www.radio90.pl/zalew-rybnicki-koniec-spacerow-po-zaporze.html",
+        "date": "Mon, 02 Nov 2026 08:10:05 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Śląska policja podsumowuje weekend. 12 wypadków i 364 kolizje",
-        "url": "https://www.radio90.pl/slaska-policja-podsumowuje-weekend-12-wypadkow-i-364-kolizje.html",
-        "date": "Mon, 02 Nov 2026 06:57:29 +0000",
+        "title": "MTS Trendy Top Żory na fali! Kolejna wygrana szczypiornistek",
+        "url": "https://www.radio90.pl/mts-trendy-top-zory-na-fali-kolejna-wygrana-szczypiornistek.html",
+        "date": "Mon, 02 Nov 2026 07:40:23 +0000",
         "src": "Radio90"
       },
       {
@@ -187,21 +199,24 @@
         "url": "https://www.radiobielsko.pl/region/pociagi-do-bielska-bialej-bija-rekordy-popularnosci-od-grudnia-jeszcze-wiecej-polaczen/103335/",
         "date": "Mon, 02 Nov 2026 07:20:26 +0000",
         "src": "RadioBielsko"
-      },
-      {
-        "title": "Przystanek zieleń w Jastrzębiu-Zdroju. Zerknij co to za miejsce",
-        "url": "https://www.radio90.pl/przystanku-zielen-w-jastrzebiu-zdroju-zerknij-co-to-za-miejsce.html",
-        "date": "Mon, 02 Nov 2026 06:32:52 +0000",
-        "src": "Radio90"
-      },
-      {
-        "title": "Rowerem wzdłuż Olzy? Planują nową trasę",
-        "url": "https://www.radiobielsko.pl/powiat-cieszynski/z-pogwizdowa-do-cieszyna-rowerem-wzdluz-olzy-gmina-hazlach-planuje-nowa-trase/103327/",
-        "date": "Mon, 02 Nov 2026 06:42:14 +0000",
-        "src": "RadioBielsko"
       }
     ],
     "roads": [
+      {
+        "title": "[FOTO] Trwa budowa drogi S-1 z Bierunia do Mysłowic. Postęp prac przekroczył 70%",
+        "url": "/informacje/21064-foto-trwa-budowa-drogi-s-1-z-bierunia-do-myslowic-postep-prac-przekroczyl-70",
+        "date": ""
+      },
+      {
+        "title": "Posiadał prawo jazdy zaledwie pół roku. 18-latek stracił je za rażące przekroczenie prędkości",
+        "url": "/informacje/21065-posiadal-prawo-jazdy-zaledwie-pol-roku-18-latek-stracil-je-za-razace-przekroczenie-predkosci",
+        "date": ""
+      },
+      {
+        "title": "Pijany obywatel Korei Południowej. Został aresztowany i czeka go deportacja",
+        "url": "/informacje/21062-pijany-obywatel-korei-poludniowej-zostal-aresztowany-i-czeka-go-deportacja",
+        "date": ""
+      },
       {
         "title": "[WIDEO] Niebezpieczna kraksa pod osłoną nocy",
         "url": "/informacje/21061-wideo-niebezpieczna-kraksa-pod-oslona-nocy",
@@ -215,21 +230,6 @@
       {
         "title": "Pożar mieszkania przy Spółdzielców. Strażacy wynieśli nieprzytomnego mężczyznę",
         "url": "/informacje/21059-pozar-mieszkania-przy-spoldzielcow-strazacy-wyniesli-nieprzytomnego-mezczyzne",
-        "date": ""
-      },
-      {
-        "title": "Felieton[FELIETON] Elektryczne crossy i hulajnogi sieją postrach wśród spacerowiczów. Policja bezradna",
-        "url": "/informacje/21056-felieton-elektryczne-crossy-i-hulajnogi-sieja-postrach-wsrod-spacerowiczow-policja-bezradna",
-        "date": ""
-      },
-      {
-        "title": "Tragiczny poranek w Wilkowicach. Nie udało się uratować 11-miesięcznego dziecka",
-        "url": "/informacje/21057-tragiczny-poranek-w-wilkowicach-nie-udalo-sie-uratowac-11-miesiecznego-dziecka",
-        "date": ""
-      },
-      {
-        "title": "Poważnie wyglądająca kraksa na S-52. Utrudnienia w kierunku Cieszyna",
-        "url": "/informacje/21055-powaznie-wygladajaca-kraksa-na-s-52-utrudnienia-w-kierunku-cieszyna",
         "date": ""
       }
     ],
