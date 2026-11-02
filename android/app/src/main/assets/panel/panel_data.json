@@ -1,37 +1,37 @@
 {
-  "generated": "2026-11-02T17:20:06+00:00",
+  "generated": "2026-11-02T18:20:06+00:00",
   "weather": {
     "ok": true,
     "city": "Bielsko-Biała",
     "temp": 5.8,
-    "feels": 2.7,
+    "feels": 2.2,
     "code": 3,
-    "wind": 10.4,
-    "humidity": 85,
+    "wind": 15.1,
+    "humidity": 90,
     "is_day": false,
     "tmax": 7.5,
-    "tmin": 4.9,
+    "tmin": 5.0,
     "forecast": [
       {
         "date": "2026-11-02",
         "max": 7.5,
-        "min": 4.9,
+        "min": 5.0,
         "code": 51
       },
       {
         "date": "2026-11-03",
         "max": 5.6,
-        "min": 4.3,
+        "min": 4.5,
         "code": 51
       },
       {
         "date": "2026-11-04",
-        "max": 7.0,
-        "min": 4.2,
+        "max": 7.1,
+        "min": 4.8,
         "code": 51
       }
     ],
-    "observed": "2026-11-02T18:15",
+    "observed": "2026-11-02T19:15",
     "stale": false
   },
   "crypto": {
@@ -39,15 +39,15 @@
     "coins": [
       {
         "sym": "BTC",
-        "usd": 77344,
-        "pln": 304958,
-        "chg24": -0.89
+        "usd": 77132,
+        "pln": 304105,
+        "chg24": -0.99
       },
       {
         "sym": "ETH",
-        "usd": 2266.03,
-        "pln": 8934.65,
-        "chg24": -0.01
+        "usd": 2256.01,
+        "pln": 8894.7,
+        "chg24": -0.22
       }
     ],
     "stale": false
@@ -59,25 +59,25 @@
         "sym": "SI=F",
         "name": "Srebro",
         "unit": "USD/oz",
-        "value": 51.06,
-        "chg": 4.0,
-        "as_of": "02.11 17:09"
+        "value": 51.025,
+        "chg": 3.93,
+        "as_of": "02.11 18:10"
       },
       {
         "sym": "HG=F",
         "name": "Miedź",
         "unit": "USD/lb",
-        "value": 6.58,
-        "chg": 1.88,
-        "as_of": "02.11 17:10"
+        "value": 6.577,
+        "chg": 1.83,
+        "as_of": "02.11 18:10"
       },
       {
         "sym": "ALI=F",
         "name": "Aluminium",
         "unit": "USD/lb",
-        "value": 1.4533,
-        "chg": -3.22,
-        "as_of": "02.11 16:51"
+        "value": 1.4522,
+        "chg": -3.29,
+        "as_of": "02.11 17:50"
       },
       {
         "sym": "HRC",
@@ -89,7 +89,7 @@
         "note": "pomiar dzienny 08:00"
       }
     ],
-    "updated": "02.11 17:10",
+    "updated": "02.11 18:10",
     "stale": false
   },
   "fx": {
@@ -103,9 +103,27 @@
     "ok": true,
     "market": [
       {
+        "title": "Nouveau Monde Graphite marks key regulatory milestone in Quebec",
+        "url": "https://www.mining.com/nouveau-monde-graphite-marks-key-regulatory-milestone-in-quebec/",
+        "date": "Mon, 02 Nov 2026 16:30:13 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "St Barbara to restart Touquoy amid federal review hurdle",
+        "url": "https://www.mining.com/st-barbara-to-restart-touquoy-amid-federal-review-hurdle/",
+        "date": "Mon, 02 Nov 2026 16:09:00 +0000",
+        "src": "Mining.com"
+      },
+      {
         "title": "Citi slashes lithium price forecast by 40% on lower demand",
         "url": "https://www.mining.com/citi-slashes-lithium-price-forecast-by-40-on-lower-demand/",
         "date": "Mon, 02 Nov 2026 16:03:32 +0000",
+        "src": "Mining.com"
+      },
+      {
+        "title": "Hudbay leads $49.8M investment in Pecoy Copper",
+        "url": "https://www.mining.com/hudbay-leads-49-8m-investment-in-pecoy-copper/",
+        "date": "Mon, 02 Nov 2026 15:39:07 +0000",
         "src": "Mining.com"
       },
       {
@@ -131,31 +149,13 @@
         "url": "https://www.mining.com/friedland-takes-aim-at-chinas-scandium-grip-with-us-backed-mine/",
         "date": "Mon, 02 Nov 2026 12:01:00 +0000",
         "src": "Mining.com"
-      },
-      {
-        "title": "Gold Fields clears major hurdle for Quebec’s Windfall gold mine",
-        "url": "https://www.mining.com/gold-fields-clears-major-hurdle-for-quebecs-windfall-gold-mine/",
-        "date": "Mon, 02 Nov 2026 10:44:00 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Global resource squeeze signals market shift: report",
-        "url": "https://www.mining.com/global-resource-squeeze-signals-market-shift-report/",
-        "date": "Sun, 01 Nov 2026 17:27:06 +0000",
-        "src": "Mining.com"
-      },
-      {
-        "title": "Cutifani warns mining sector’s failure to innovate opens door to takeovers",
-        "url": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/",
-        "date": "Sun, 01 Nov 2026 12:00:00 +0000",
-        "src": "Mining.com"
       }
     ],
     "local": [
       {
-        "title": "Pościg w Raciborzu. Mundurowi gonili 30-latka w BMW. Nie zatrzymał się do kontroli. Powód?",
-        "url": "https://www.radio90.pl/poscig-w-raciborzu-mundurowi-gonili-30-latka-w-bmw-nie-zatrzymal-sie-do-kontroli-powod.html",
-        "date": "Mon, 02 Nov 2026 16:47:43 +0000",
+        "title": "Chciał kupić koparkę, został z niczym. Oszustwo w Jastrzębiu-Zdroju",
+        "url": "https://www.radio90.pl/chcial-kupic-koparke-zostal-z-niczym-oszustwo-w-jastrzebiu-zdroju.html",
+        "date": "Mon, 02 Nov 2026 17:35:25 +0000",
         "src": "Radio90"
       },
       {
@@ -165,9 +165,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Dramatyczna interwencja żywieckiego inspektoratu OTOZ Animals",
-        "url": "https://www.radio90.pl/dramatyczna-interwencja-zywieckiego-inspektoratu-otoz-animals.html",
-        "date": "Mon, 02 Nov 2026 15:55:29 +0000",
+        "title": "Pościg w Raciborzu. Mundurowi gonili 30-latka w BMW. Nie zatrzymał się do kontroli. Powód?",
+        "url": "https://www.radio90.pl/poscig-w-raciborzu-mundurowi-gonili-30-latka-w-bmw-nie-zatrzymal-sie-do-kontroli-powod.html",
+        "date": "Mon, 02 Nov 2026 16:47:43 +0000",
         "src": "Radio90"
       },
       {
@@ -177,9 +177,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Jak pomagać starszym, niepełnosprawnym i zależnym? Debatowano nad tym podczas konferencji PCPR w Rybniku",
-        "url": "https://www.radio90.pl/jak-pomagac-starszym-niepelnosprawnym-i-zaleznym-debatowano-nad-tym-podczas-konferencji-pcpr-w-rybniku.html",
-        "date": "Mon, 02 Nov 2026 15:10:27 +0000",
+        "title": "Dramatyczna interwencja żywieckiego inspektoratu OTOZ Animals",
+        "url": "https://www.radio90.pl/dramatyczna-interwencja-zywieckiego-inspektoratu-otoz-animals.html",
+        "date": "Mon, 02 Nov 2026 15:55:29 +0000",
         "src": "Radio90"
       },
       {
@@ -189,9 +189,9 @@
         "src": "RadioBielsko"
       },
       {
-        "title": "Rośnie bezrobocie w powiecie żywieckim. A jeden z zakładów planuje zwolnienia grupowe… Ile osób teraz nie ma pracy?",
-        "url": "https://www.radio90.pl/rosnie-bezrobocie-w-powiecie-zywieckim-a-jeden-z-zakladow-planuje-zwolnienia-grupowe-ile-osob-teraz-nie-ma-pracy.html",
-        "date": "Mon, 02 Nov 2026 14:30:37 +0000",
+        "title": "Jak pomagać starszym, niepełnosprawnym i zależnym? Debatowano nad tym podczas konferencji PCPR w Rybniku",
+        "url": "https://www.radio90.pl/jak-pomagac-starszym-niepelnosprawnym-i-zaleznym-debatowano-nad-tym-podczas-konferencji-pcpr-w-rybniku.html",
+        "date": "Mon, 02 Nov 2026 15:10:27 +0000",
         "src": "Radio90"
       },
       {
@@ -213,6 +213,11 @@
         "date": ""
       },
       {
+        "title": "Gorący temat[FOTO] Trwa budowa drogi S-1 z Bierunia do Mysłowic. Postęp prac przekroczył 70%",
+        "url": "/informacje/21064-foto-trwa-budowa-drogi-s-1-z-bierunia-do-myslowic-postep-prac-przekroczyl-70",
+        "date": ""
+      },
+      {
         "title": "Posiadał prawo jazdy zaledwie pół roku. 18-latek stracił je za rażące przekroczenie prędkości",
         "url": "/informacje/21065-posiadal-prawo-jazdy-zaledwie-pol-roku-18-latek-stracil-je-za-razace-przekroczenie-predkosci",
         "date": ""
@@ -225,11 +230,6 @@
       {
         "title": "[WIDEO] Niebezpieczna kraksa pod osłoną nocy",
         "url": "/informacje/21061-wideo-niebezpieczna-kraksa-pod-oslona-nocy",
-        "date": ""
-      },
-      {
-        "title": "Hulajnogi na chodnikach w Bielsku-Białej. Radny zwraca uwagę na bezpieczeństwo pieszych",
-        "url": "/informacje/21060-hulajnogi-na-chodnikach-w-bielsku-bialej-radny-zwraca-uwage-na-bezpieczenstwo-pieszych",
         "date": ""
       }
     ],
